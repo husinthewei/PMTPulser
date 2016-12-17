@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TantD.dra                                     )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Wed Nov 07 16:07:15 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = tantd.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

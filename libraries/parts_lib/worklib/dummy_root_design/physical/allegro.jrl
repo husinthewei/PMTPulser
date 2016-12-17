@@ -1,0 +1,38 @@
+\t (00:00:01) allegro 15.5 p008 (v15-5-81J) i86
+\t (00:00:01) 
+
+\t (00:00:02) Opening existing drawing...
+\d (00:00:02) Database opened: E:/Cadence/Mayers_lib/worklib/dummy_root_design/physical/HDR6.dra
+\i (00:00:02) trapsize 5
+\i (00:00:03) trapsize 5
+\i (00:00:08) open 
+\i (00:00:41) fillin "E:\Cadence\mayerspcb\symbols\TantB.dra"
+\i (00:00:41) cd "E:\Cadence\mayerspcb\symbols"
+\t (00:00:41) Opening existing drawing...
+\i (00:00:41) trapsize 6
+\d (00:00:41) Database opened: E:/Cadence/mayerspcb/symbols/TantB.dra
+\i (00:00:43) save_as 
+\f (00:00:50) E:/Cadence/mayerspcb/symbols/tant_b.dra: File Exists. Overwrite? 
+\i (00:00:51) fillin "tant_b.dra"
+\t (00:00:52) Symbol 'tant_b.psm' created.
+\i (00:01:03) open 
+\i (00:01:16) fillin "TantC.dra"
+\t (00:01:16) Opening existing drawing...
+\i (00:01:16) trapsize 11
+\d (00:01:16) Database opened: E:/Cadence/mayerspcb/symbols/TantC.dra
+\i (00:01:19) save_as 
+\f (00:01:26) E:/Cadence/mayerspcb/symbols/tant_c.dra: File Exists. Overwrite? 
+\i (00:01:27) fillin "tant_c.dra"
+\t (00:01:27) Symbol 'tant_c.psm' created.
+\i (00:01:31) open 
+\i (00:01:43) fillin "TantD.dra"
+\t (00:01:43) Opening existing drawing...
+\i (00:01:43) trapsize 13
+\d (00:01:43) Database opened: E:/Cadence/mayerspcb/symbols/TantD.dra
+\i (00:01:49) save_as 
+\f (00:02:27) E:/Cadence/mayerspcb/symbols/tant_d.dra: File Exists. Overwrite? 
+\i (00:02:29) fillin "tant_d.dra"
+\t (00:02:29) Symbol 'tant_d.psm' created.
+\i (00:02:43) open 
+\i (00:02:51) fillin "menu_cancel"
+\i (00:03:01) exit 

@@ -1,0 +1,124 @@
+(Cell	vee
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/22/06,10:39:53)
+
+			(User	cadown)
+
+			(Path	parts.vee)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	0000000078255c5e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/22/06,10:39:53)
+
+							(User	cadown)
+
+							(Path	parts.vee)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d5095da1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/22/06,10:39:53)
+
+							(User	cadown)
+
+							(Path	parts.vee)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dbf0418)
+
+		)
+
+		(Checksum	000000001d5403ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd303a5)
+
+)
+

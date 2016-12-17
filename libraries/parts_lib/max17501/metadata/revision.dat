@@ -1,0 +1,180 @@
+(Cell	max17501
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/14,12:08:22)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max17501)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/13/14,12:19:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max17501)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001e8b0619)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/14,12:17:24)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max17501)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c520381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000eef6384a)
+
+			(Primitives	1
+
+				(Primitive	MAX17501
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/14,12:08:31)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max17501)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX17501
+
+							(PackType	MAX17501)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	TDFN11_2x3mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7103da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bce03a5)
+
+)
+

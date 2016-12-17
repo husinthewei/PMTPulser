@@ -1,0 +1,26 @@
+
+	(Comment
+		(Time 04/13/07,17:00:24)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package RSMD0402_1 added to cell")
+		(Param1 RSMD0402_1)
+	)
+
+	(Comment
+		(Time 04/13/07,17:02:21)
+		(User Godwin)
+		(MsgId ECO_022)
+		(Text "Package RSMD0402_1 deleted from cell")
+		(Param1 RSMD0402_1)
+	)
+
+
+	(Comment
+		(Time 04/13/07,17:05:54)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+

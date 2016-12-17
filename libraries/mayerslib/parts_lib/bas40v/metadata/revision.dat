@@ -1,0 +1,180 @@
+(Cell	bas40v
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/08/12,13:06:11)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bas40v)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/08/12,13:11:07)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bas40v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f8ab65bd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/12,13:09:08)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bas40v)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e570413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000704ec3db)
+
+			(Primitives	1
+
+				(Primitive	BAS40V
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/12,13:06:14)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bas40v)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BAS40V
+
+							(PackType	BAS40V)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e020418)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b2b0346)
+
+)
+

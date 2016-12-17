@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WQFN-10.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Thu Jun 07 18:54:30 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = wqfn-10.psm
+    User      = HEP
+    Machine   = MBREILLY-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

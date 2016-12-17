@@ -1,0 +1,180 @@
+(Cell	ths4524
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/25/12,16:40:51)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ths4524)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/25/12,16:46:53)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ths4524)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bc1df136)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/25/12,16:46:49)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ths4524)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e7603db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000032b494e3)
+
+			(Primitives	1
+
+				(Primitive	THS4524
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/25/12,16:41:01)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ths4524)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THS4524
+
+							(PackType	THS4524)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tssop38)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b9503b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb40379)
+
+)
+

@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'COILTRONICS_DRQ127'
+CLASS=discrete
+JEDEC_TYPE=drq127
+
+{========================================================================================}
+:VALUE  = PART_NUMBER     | VENDOR_PN       | COST   | VENDOR    ;
+{========================================================================================}
+ '10uH' = 'DRQ127-100-R'  | '513-1143-1-ND' | '1.84' | 'digikey'
+
+END_PART
+
+END.
+

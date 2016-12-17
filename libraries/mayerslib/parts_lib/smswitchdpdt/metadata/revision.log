@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 12/08/05,12:27:20)
+		(User mattl)
+		(MsgId ECO_021)
+		(Text "Package SMSWITCHDPDT added to cell")
+		(Param1 SMSWITCHDPDT)
+	)
+	(Comment
+		(Time 12/08/05,12:29:02)
+		(User mattl)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

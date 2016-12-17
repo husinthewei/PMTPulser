@@ -1,0 +1,180 @@
+(Cell	fuse_axial_473
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/24/2010,01:55:33 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.fuse_axial_473)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/24/2010,02:00:08 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.fuse_axial_473)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f7ca4f3c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/24/2010,01:58:15 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.fuse_axial_473)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e830412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006f429d9b)
+
+			(Primitives	1
+
+				(Primitive	FUSE_AXIAL_473
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/24/2010,01:55:53 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.fuse_axial_473)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FUSE_AXIAL_473
+
+							(PackType	FUSE_AXIAL_473)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fuse473)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de4040c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9503a6)
+
+)
+

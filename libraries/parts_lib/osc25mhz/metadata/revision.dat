@@ -1,0 +1,180 @@
+(Cell	osc25mhz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,12:37:15 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.osc25mhz)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,12:42:59 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.osc25mhz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d9577c1a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:40:04 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.osc25mhz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9803b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f732d367)
+
+			(Primitives	1
+
+				(Primitive	OSC25MHZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:37:21 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.osc25mhz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OSC25MHZ
+
+							(PackType	OSC25MHZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fox924)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf803da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d0b03db)
+
+)
+

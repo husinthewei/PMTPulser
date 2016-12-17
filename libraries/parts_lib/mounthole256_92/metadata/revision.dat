@@ -1,0 +1,170 @@
+(Cell	mounthole256_92
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/13/09,13:51:28)
+
+			(User	nandor)
+
+			(Path	parts.mounthole256_92)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009a1281fd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/13/09,13:51:28)
+
+							(User	nandor)
+
+							(Path	parts.mounthole256_92)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c0203b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a5b365f0)
+
+			(Primitives	1
+
+				(Primitive	MOUNTHOLE256_92
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/13/09,13:51:28)
+
+							(User	nandor)
+
+							(Path	parts.mounthole256_92)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MOUNTHOLE256_92
+
+							(PackType	MOUNTHOLE256_92)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mounthole256_92)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0a03ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.70-p003)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c9803cf)
+
+)
+

@@ -1,0 +1,228 @@
+(Cell	ad9628_sp
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/16/13,21:28:08)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad9628_sp)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/16/13,21:48:06)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad9628_sp)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cf7cfb87)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/13,21:44:35)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad9628_sp)
+
+						)
+
+					)
+
+				)
+
+				(View	Chips
+
+					(Checksum	0000000096f9c061)
+
+					(Primitives	1
+
+						(Primitive	AD9628_SP
+
+							(RevisionInfoBlock	
+
+								(Baselined	0)
+
+								(Revision	0.0.1)
+
+								(ModificationStatus	NULL)
+
+								(Status	Created)
+
+								(ErrorStatus	0)
+
+								(CreateInfo	
+
+									(Time	11/16/13,21:28:27)
+
+									(User	Godwin)
+
+									(Path	mayers_lib.ad9628_sp)
+
+								)
+
+							)
+
+							(LogicalPhysicalPartRelation	
+
+								(LogicalPart	AD9628_SP
+
+									(PackType	AD9628_SP)
+
+								)
+
+							)
+
+							(Packages	1
+
+								(FunctionGroups	2
+
+									(FunctionGroup	1[1]
+
+										(Linkages	
+
+											(Linkage	Symbol
+
+												(Name	sym_1)
+
+											)
+
+										)
+
+									)
+
+									(FunctionGroup	2[1]
+
+										(Linkages	
+
+											(Linkage	Symbol
+
+												(Name	sym_2)
+
+											)
+
+										)
+
+									)
+
+								)
+
+								(Linkages	
+
+									(DefaultFootPrint	
+
+										(Name	LFCSP_64)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000badaf770)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/13,21:44:45)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad9628_sp)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001abf034e)
+
+		)
+
+		(Checksum	000000001d6f03d7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cae03b0)
+
+)
+

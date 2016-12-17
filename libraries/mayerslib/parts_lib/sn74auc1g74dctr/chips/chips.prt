@@ -1,0 +1,14 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'SN74AUC1G74DCTR';
+  pin
+  end_pin;
+  body
+    PART_NAME='SN74AUC1G74DCTR';
+    BODY_NAME='SN74AUC1G74DCTR';
+    JEDEC_TYPE='so8';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/08/2010,02:03:27 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package SCS20D-25MHZ added to cell")
+		(Param1 SCS20D-25MHZ)
+	)
+	(Comment
+		(Time 01/08/2010,02:06:41 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

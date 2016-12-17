@@ -1,0 +1,28 @@
+	(Comment
+		(Time 09/21/09,12:04:37)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package TESTCRAP added to cell")
+		(Param1 TESTCRAP)
+	)
+	(Comment
+		(Time 09/21/09,12:07:43)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 09/21/09,12:27:11)
+		(User nandor)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 09/21/09,12:27:49)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

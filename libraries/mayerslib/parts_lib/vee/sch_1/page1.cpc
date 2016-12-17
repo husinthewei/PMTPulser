@@ -1,0 +1,12 @@
+#ISCELL
+  standard define *
+  *
+#ISCELL
+  standard drawing *
+  *
+#ISCELL
+  standard pin#20names *
+  *
+#ISCELL
+  standard replicate *
+  page1_2p

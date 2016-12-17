@@ -1,0 +1,90 @@
+(Cell	gnd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/22/06,10:36:43)
+
+			(User	cadown)
+
+			(Path	parts.gnd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	000000006ba556a8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/22/06,10:36:43)
+
+							(User	cadown)
+
+							(Path	parts.gnd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ced03b3)
+
+		)
+
+		(Checksum	000000001daf03d6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001daf03da)
+
+)
+

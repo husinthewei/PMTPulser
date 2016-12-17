@@ -1,0 +1,230 @@
+(Cell	ddr_sodim
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	10/03/12,11:21:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ddr_sodim)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/03/12,17:29:28)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ddr_sodim)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fd3ae7e1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,17:27:33)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr_sodim)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b67ee7be)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,11:51:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr_sodim)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e4d041a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a07abd29)
+
+			(Primitives	1
+
+				(Primitive	DDR_SODIM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	10/03/12,11:21:07)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr_sodim)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DDR_SODIM
+
+							(PackType	DDR_SODIM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(SWAP_INFO	'(S1)')
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ddr_sodimm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Schematic
+
+			(Pages	0)
+
+			(Checksum	000000001ec203dd)
+
+		)
+
+		(Checksum	000000001cec03d7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001db203db)
+
+)
+

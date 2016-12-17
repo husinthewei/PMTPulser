@@ -1,0 +1,210 @@
+(Cell	ths4521_new
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/07/14,13:34:59)
+
+			(User	mbreilly)
+
+			(Path	mayers_lib.ths4521_new)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/10/12,13:13:33)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ths4521)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	07/07/14,13:34:59)
+
+					(User	mbreilly)
+
+					(Path	mayers_lib.ths4521_new)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000caa8b75f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/14,13:34:59)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.ths4521_new)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001eea0412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000010bee43)
+
+			(Primitives	1
+
+				(Primitive	THS4521_NEW
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/14,13:34:59)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.ths4521_new)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THS4521
+
+							(PackType	THS4521_NEW)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	soic_d8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5c03b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9303a8)
+
+)
+

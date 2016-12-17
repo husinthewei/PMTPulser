@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : qth60.dra                                     )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Oct 22 18:23:42 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Lar/worklib/lar_80_board/physical
+    Name      = qth60.psm
+    User      = HEP
+    Machine   = HEP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

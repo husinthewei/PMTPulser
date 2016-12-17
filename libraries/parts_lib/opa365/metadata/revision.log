@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/20/16,19:34:56)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package OPA365 added to cell")
+		(Param1 "OPA365")
+	)
+	(Comment
+		(Time 01/20/16,19:38:11)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

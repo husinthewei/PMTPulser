@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LFCSP_64.dra                                  )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Thu Oct 31 15:42:10 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/lsst_2013/psmfiles
+    Name      = lfcsp_64.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

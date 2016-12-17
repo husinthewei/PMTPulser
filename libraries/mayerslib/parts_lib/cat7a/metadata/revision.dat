@@ -1,0 +1,180 @@
+(Cell	cat7a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,12:49:27 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cat7a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,12:53:07 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cat7a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000008aadbd70)
+
+			(Primitives	1
+
+				(Primitive	CAT7A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:49:31 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cat7a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAT7A
+
+							(PackType	CAT7A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cat7a_stewart_ss_77100_004)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000009b9bae2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:52:33 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cat7a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a7b0331)
+
+		)
+
+		(Checksum	000000001c230373)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b320347)
+
+)
+

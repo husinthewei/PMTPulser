@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sot23_6pin.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jan 20 21:01:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/HEP/AppData/Roaming/SPB_Data/TestProj/symbols
+    Name      = sot23_6pin.psm
+    User      = HEP
+    Machine   = HEP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

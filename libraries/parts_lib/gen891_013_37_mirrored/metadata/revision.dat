@@ -1,0 +1,180 @@
+(Cell	gen891_013_37_mirrored
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/14/12,17:49:46)
+
+			(User	nandor)
+
+			(Path	parts.gen891_013_37_mirrored)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/11/09,19:30:13)
+
+			(User	nandor)
+
+			(Path	parts.gen891009_37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005bccf2ff)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/12,17:49:46)
+
+							(User	nandor)
+
+							(Path	parts.gen891_013_37_mirrored)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ec70442)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000001a8c128)
+
+			(Primitives	1
+
+				(Primitive	GEN891_013_37_MIRRORED
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/12,17:49:46)
+
+							(User	nandor)
+
+							(Path	parts.gen891_013_37_mirrored)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GEN891_013_37_MIRRORED
+
+							(PackType	GEN891_013_37_MIRRORED)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	glenair891_013_37s_mirrored)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bea03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001dc90403)
+
+)
+

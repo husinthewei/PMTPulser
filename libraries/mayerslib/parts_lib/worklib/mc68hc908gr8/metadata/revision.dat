@@ -1,0 +1,226 @@
+(Cell	mc68hc908gr8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.20)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/17/06,13:33:50)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.mc68hc908gr8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/24/06,00:33:49)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.mc68hc908gr8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c573067e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,17:06:09)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.mc68hc908gr8)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c573067e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/06,16:42:40)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.mc68hc908gr8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc40412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002e927d05)
+
+			(Primitives	1
+
+				(Primitive	MC68HC908GR8CFA_PQFP32
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.14)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/06,13:53:07)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.mc68hc908gr8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC68HC908GR8CFA
+
+							(PackType	MC68HC908GR8CFA_PQFP32)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pqfp32)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	VhdlMaps
+
+			(VhdlMap	vhdl_map)
+
+		)
+
+		(Checksum	000000001b7d0354)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c3b037b)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	airmax150
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/13/12,20:06:40)
+
+			(User	nandor)
+
+			(Path	parts.airmax150)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/13/12,20:11:36)
+
+			(User	nandor)
+
+			(Path	parts.airmax150)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d3738f1c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/12,20:10:06)
+
+							(User	nandor)
+
+							(Path	parts.airmax150)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7503b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000634bc09c)
+
+			(Primitives	1
+
+				(Primitive	AIRMAX150
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/12,20:06:47)
+
+							(User	nandor)
+
+							(Path	parts.airmax150)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AIRMAX150
+
+							(PackType	AIRMAX150)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	airmax150)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5603ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bdf03a9)
+
+)
+

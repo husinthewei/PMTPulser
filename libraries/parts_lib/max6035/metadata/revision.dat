@@ -1,0 +1,180 @@
+(Cell	max6035
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/17/2010,05:27:16 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.max6035)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/17/2010,05:30:09 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.max6035)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa6e646a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/17/2010,05:29:29 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.max6035)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e2503e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d371c88c)
+
+			(Primitives	1
+
+				(Primitive	MAX6035
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/17/2010,05:27:21 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.max6035)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX6035
+
+							(PackType	MAX6035)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	max6035_sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0e03b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7e03a4)
+
+)
+

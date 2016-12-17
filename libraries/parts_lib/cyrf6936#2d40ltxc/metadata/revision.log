@@ -1,0 +1,28 @@
+	(Comment
+		(Time 05/09/12,17:05:30)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package CYRF6936-40LTXC added to cell")
+		(Param1 CYRF6936-40LTXC)
+	)
+	(Comment
+		(Time 05/09/12,17:29:04)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 05/11/12,12:56:00)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package CYRF6936-40LTXC_1 added to cell")
+		(Param1 CYRF6936-40LTXC_1)
+	)
+	(Comment
+		(Time 05/11/12,12:57:46)
+		(User Godwin)
+		(MsgId ECO_022)
+		(Text "Package CYRF6936-40LTXC_1 deleted from cell")
+		(Param1 CYRF6936-40LTXC_1)
+	)

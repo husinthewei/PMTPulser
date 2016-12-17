@@ -1,0 +1,204 @@
+(Cell	tps73x01
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/24/14,14:19:15)
+
+			(User	Godwin)
+
+			(Path	parts_lib.tps73x01)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/24/14,13:23:27)
+
+			(User	Godwin)
+
+			(Path	modules_lib.tps73x01)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	10/24/14,14:19:15)
+
+					(User	Godwin)
+
+					(Path	parts_lib.tps73x01)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002ea89d6d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/14,14:19:15)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps73x01)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6103e8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ac49508e)
+
+			(Primitives	1
+
+				(Primitive	TPS73X01
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/14,14:19:15)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps73x01)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS73X01
+
+							(PackType	TPS73X01)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot223_6)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db603b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc003a8)
+
+)
+

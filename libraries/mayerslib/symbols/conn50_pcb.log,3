@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Conn50_pcb.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Aug 18 17:51:23 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PennTriggerBoard/symbols
+    Name      = conn50_pcb.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

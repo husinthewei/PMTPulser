@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMA_132372.dra                                )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Nov 17 01:54:50 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/lsst_2013/psmfiles
+    Name      = sma_132372.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

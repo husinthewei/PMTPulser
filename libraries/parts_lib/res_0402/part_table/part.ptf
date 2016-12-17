@@ -1,0 +1,45 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RES_0402'
+CLASS=discrete
+JEDEC_TYPE=RES0402
+
+{========================================================================================}
+:VALUE  | TOLERANCE(OPT)   = PART_NUMBER | VENDOR_PN | COST | VENDOR ;
+{========================================================================================}
+ '200K'   |'1%,0.1W'                = 'ERJ-3EKF2003V'     |'P200KHCT-ND'    |'0.02'  |'digikey'  
+ '100K'   |'1%,0.1W'                = 'ERJ-3EKF1003V'     |'P100KHTCT-ND'    |'0.02'  |'digikey'  
+ '82.5K'  |'1%,0.1W'                = 'ERJ-3EKF8252V'     |'P82.5KHCT-ND'   |'0.02'  |'digikey'  
+ '49.9K'  |'1%,0.1W'                = 'ERJ-3EKF4992V'     |'P49.9KHCT-ND'   |'0.02'  |'digikey'  
+ '41.2K'  |'1%,0.1W'                = 'ERJ-3EKF4122V'     |'P41.2KHCT-ND'   |'0.02'  |'digikey' 
+ '32.4K'  |'1%,0.1W'                = 'ERJ-3EKF3242V'     |'P32.4KHCT-ND'   |'0.02'  |'digikey' 
+ '36.0K'  |'1%,0.1W'                = 'ERJ-3EKF3602V'     |'P36.0KHCT-ND'   |'0.02'  |'digikey' 
+ '26.1K'  |'1%,0.1W'                = 'ERJ-3EKF2612V'     |'P26.1KHCT-ND'   |'0.02'  |'digikey'  
+ '16.9K'  |'1%,0.1W'                = 'ERJ-3EKF1692V'     |'P16.9KHCT-ND'   |'0.02'  |'digikey'  
+ '15.8K'  |'1%,0.1W'                = 'ERJ-3EKF1582V'     |'P15.8KHCT-ND'   |'0.02'  |'digikey'  
+ '7.68K'  |'1%,0.1W'                = 'ERJ-3EKF7681V'     |'P7.68KHCT-ND'   |'0.02'  |'digikey'  
+ '6.04K'  |'1%,0.1W'                = 'ERJ-3EKF6041V'     |'P6.04KHCT-ND'   |'0.02'  |'digikey'  
+ '4.99K'  |'1%,0.1W'                = 'ERJ-3EKF4991V'     |'P4.99KHCT-ND'   |'0.02'  |'digikey'  
+ '4.32K'  |'1%,0.1W'                = 'ERJ-3EKF4321V'     |'P4.32KHCT-ND'   |'0.02'  |'digikey'  
+ '2.67K'  |'1%,0.1W'                = 'ERJ-3EKF2671V'     |'P2.67KHCT-ND'   |'0.02'  |'digikey'  
+ '2.37K'  |'1%,0.1W'                = 'ERJ-3EKF2371V'     |'P2.37KHCT-ND'   |'0.02'  |'digikey'  
+ '1.37K'  |'1%,0.1W'                = 'ERJ-3EKF1371V'     |'P1.37KHCT-ND'   |'0.02'  |'digikey'  
+  '1.0K'  |'1%,0.1W'                = 'ERJ-3EKF1001V'     |'P1.00KHCT-ND'   |'0.02'  |'digikey'  
+ '953ohm' |'1%,0.1W'                = 'ERJ-3EKF9530V'     |'P953HCT-ND'     |'0.02'  |'digikey'  
+ '536ohm' |'1%,0.1W'                = 'ERJ-3EKF5360V'     |'P536HCT-ND'     |'0.02'  |'digikey'  
+ '301ohm' |'1%,0.1W'                = 'ERJ-3EKF3010V'     |'P301HCT-ND'     |'0.02'  |'digikey'  
+ '215ohm' |'1%,0.1W'                = 'ERJ-3EKF2150V'     |'P215HCT-ND'     |'0.02'  |'digikey'  
+ '200ohm' |'1%,0.1W'                = 'ERJ-3EKF2000V'     |'P200HTR-ND'     |'0.02'  |'digikey'  
+ '130ohm' |'1%,0.1W'                = 'ERJ-3EKF1300V'     |'P130HCT-ND'     |'0.02'  |'digikey'  
+ '102ohm' |'1%,0.1W'                = 'ERJ-3EKF1020V'     |'P102HCT-ND'     |'0.02'  |'digikey'  
+ '51.1ohm'|'1%,0.1W'                = 'ERJ-3EKF51R1V'     |'P51.1HCT-ND'    |'0.02'  |'digikey'  
+ '25.5ohm'|'1%,0.1W'                = 'ERJ-3EKF25R5V'     |'P25.5HCT-ND'    |'0.02'  |'digikey'  
+  '1.00ohm'|'1%,0.1W'                = 'ERJ-3RQF1R0V'     |'P1.0AJCT-ND'    |'0.02'  |'digikey'  
+  '0.00ohm'|'1%,0.1W'                = 'ERJ-3RQF1R0V'     |'P1.0AJCT-ND'    |'0.02'  |'digikey'  
+
+
+END_PART
+
+END.
+
+

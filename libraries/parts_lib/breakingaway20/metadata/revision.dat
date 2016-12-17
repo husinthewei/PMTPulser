@@ -1,0 +1,220 @@
+(Cell	breakingaway20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/14/08,10:30:52)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.breakingaway20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/14/08,10:34:10)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.breakingaway20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001320be53)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/08,10:31:00)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.breakingaway20)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c522be80)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/08,10:33:58)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.breakingaway20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001caf03b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f949c279)
+
+			(Primitives	1
+
+				(Primitive	BREAKINGAWAY20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/08,10:31:01)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.breakingaway20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BREAKINGAWAY20
+
+							(PackType	BREAKINGAWAY20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Breakaway)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c4703b6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001bab037b)
+
+)
+

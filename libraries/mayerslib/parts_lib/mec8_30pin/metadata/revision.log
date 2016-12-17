@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 02/13/07,18:43:09)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package MEC8_30PIN added to cell")
+		(Param1 MEC8_30PIN)
+	)
+	(Comment
+		(Time 02/13/07,18:44:43)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

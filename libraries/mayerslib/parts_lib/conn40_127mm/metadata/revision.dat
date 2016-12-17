@@ -1,0 +1,180 @@
+(Cell	conn40_127mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/21/11,12:05:01)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40_127mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/21/11,12:08:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40_127mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000004bae432)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/11,12:06:31)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40_127mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb503a6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009cd3bed1)
+
+			(Primitives	1
+
+				(Primitive	CONN40_127MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/11,12:05:05)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40_127mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN40_127MM
+
+							(PackType	CONN40_127MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CONN40_127mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9e038f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8b03b4)
+
+)
+

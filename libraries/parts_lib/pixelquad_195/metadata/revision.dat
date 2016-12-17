@@ -1,0 +1,180 @@
+(Cell	pixelquad_195
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/15/11,17:58:43)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pixelquad_195)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/15/11,18:01:45)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pixelquad_195)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008eade9d4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/11,18:00:04)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pixelquad_195)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ec80419)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004e13bfd1)
+
+			(Primitives	1
+
+				(Primitive	PIXELQUAD_195
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/11,17:58:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pixelquad_195)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PIXELQUAD_195
+
+							(PackType	PIXELQUAD_195)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pixel_quad_array)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ec7043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca503ab)
+
+)
+

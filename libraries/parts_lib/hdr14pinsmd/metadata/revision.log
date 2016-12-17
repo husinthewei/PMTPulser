@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/14/2010,10:43:15 AM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package HDR14PINSMD added to cell")
+		(Param1 HDR14PINSMD)
+	)
+	(Comment
+		(Time 05/14/2010,11:01:10 AM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

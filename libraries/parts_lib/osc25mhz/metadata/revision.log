@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/14/2010,12:37:21 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package OSC25MHZ added to cell")
+		(Param1 OSC25MHZ)
+	)
+	(Comment
+		(Time 05/14/2010,12:40:04 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

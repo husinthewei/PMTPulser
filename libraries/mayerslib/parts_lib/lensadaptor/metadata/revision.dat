@@ -1,0 +1,220 @@
+(Cell	lensadaptor
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/30/08,20:14:11)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lensadaptor)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/30/08,20:22:22)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lensadaptor)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007b0475c9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/30/08,20:15:03)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lensadaptor)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007b0475c9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/30/08,20:22:11)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lensadaptor)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1003b7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b514f9c7)
+
+			(Primitives	1
+
+				(Primitive	LENSADAPTOR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/30/08,20:14:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lensadaptor)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LENSADAPTOR
+
+							(PackType	LENSADAPTOR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lens_adaptor2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1503e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001b990377)
+
+)
+

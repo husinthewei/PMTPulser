@@ -1,0 +1,220 @@
+(Cell	a3967slb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/06,15:38:31)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.a3967slb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/23/06,16:28:58)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.a3967slb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f16831e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,16:28:13)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.a3967slb)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000865a31ad)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,15:39:11)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.a3967slb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba5038c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bafd832b)
+
+			(Primitives	1
+
+				(Primitive	A3967SLB_SOIC24
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,15:39:15)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.a3967slb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	A3967SLB
+
+							(PackType	A3967SLB_SOIC24)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic24)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2703b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba50379)
+
+)
+

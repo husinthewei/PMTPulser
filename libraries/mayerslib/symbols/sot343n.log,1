@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sot343N.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Mar 01 23:56:08 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/TestProj/symbols
+    Name      = sot343n.psm
+    User      = HEP
+    Machine   = HEP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

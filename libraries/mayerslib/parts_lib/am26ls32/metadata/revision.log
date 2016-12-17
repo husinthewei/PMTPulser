@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 03/22/06,17:43:53)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package AM26LS32 added to cell")
+		(Param1 AM26LS32)
+	)
+	(Comment
+		(Time 03/22/06,18:13:54)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

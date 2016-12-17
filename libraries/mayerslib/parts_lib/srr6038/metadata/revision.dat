@@ -1,0 +1,180 @@
+(Cell	srr6038
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/14,11:56:40)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.srr6038)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/13/14,12:05:06)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.srr6038)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d1d95832)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/14,11:57:45)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.srr6038)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd00385)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000e4b9677)
+
+			(Primitives	1
+
+				(Primitive	SRR6038
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/14,11:56:50)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.srr6038)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SRR6038
+
+							(PackType	SRR6038)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SSR6038)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cdc03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001daa03d7)
+
+)
+

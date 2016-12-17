@@ -1,0 +1,180 @@
+(Cell	bte-040
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.0.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/25/09,18:06:15)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bte-040)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/25/09,18:06:15)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bte-040)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000080f6e027)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/25/09,18:06:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bte-040)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c110383)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ede1bd48)
+
+			(Primitives	1
+
+				(Primitive	BTE-040
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/25/09,18:06:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bte-040)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BTE-040
+
+							(PackType	BTE-040)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BTE-040)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c8a03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc503d7)
+
+)
+

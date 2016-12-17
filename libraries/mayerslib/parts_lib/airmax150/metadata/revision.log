@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/13/12,20:06:47)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package AIRMAX150 added to cell")
+		(Param1 AIRMAX150)
+	)
+	(Comment
+		(Time 08/13/12,20:10:06)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

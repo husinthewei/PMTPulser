@@ -1,0 +1,45 @@
+
+	(Comment
+		(Time 02/13/07,17:48:16)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package MCE8_30 added to cell")
+		(Param1 MCE8_30)
+	)
+	(Comment
+		(Time 02/13/07,17:50:50)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 02/13/07,17:51:43)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package MCE8_30_1 added to cell")
+		(Param1 MCE8_30_1)
+	)
+	(Comment
+		(Time 02/13/07,17:51:56)
+		(User Administrator)
+		(MsgId ECO_022)
+		(Text "Package MCE8_30_1 deleted from cell")
+		(Param1 MCE8_30_1)
+	)
+	(Comment
+		(Time 02/13/07,18:08:39)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package MCE8_30_1 added to cell")
+		(Param1 MCE8_30_1)
+	)
+	(Comment
+		(Time 02/13/07,18:08:52)
+		(User Administrator)
+		(MsgId ECO_022)
+		(Text "Package MCE8_30_1 deleted from cell")
+		(Param1 MCE8_30_1)
+	)
+

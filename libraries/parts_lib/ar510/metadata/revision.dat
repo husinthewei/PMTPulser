@@ -1,0 +1,180 @@
+(Cell	ar510
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/02/11,15:22:09)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ar510)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/02/11,15:25:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ar510)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b1aa5e62)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/11,15:25:33)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ar510)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e0303d8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000088dfc2a6)
+
+			(Primitives	1
+
+				(Primitive	AR510
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/02/11,15:22:18)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ar510)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AR510
+
+							(PackType	AR510)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dab03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9b03d5)
+
+)
+

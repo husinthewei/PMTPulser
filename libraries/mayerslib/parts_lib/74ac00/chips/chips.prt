@@ -1,0 +1,24 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='COMPILATION ON 3/11/2000 10:13:22 FROM OrCAD PART USING TransOLB.exe';
+primitive '74AC00';
+  pin
+    'A':
+      INPUT_LOAD='(-0.010000,0.010000)';
+      PIN_NUMBER='(1,4,9,12)';
+    'B':
+      INPUT_LOAD='(-0.010000,0.010000)';
+      PIN_NUMBER='(2,5,10,13)';
+    '-Y':
+      OUTPUT_LOAD='(-1.000000,1.000000)';
+      PIN_NUMBER='(3,6,8,11)';
+  end_pin;
+  body
+    POWER_PINS='(VCC:14;GND:7)';
+    PART_NAME='74AC00';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='DIP.100/14/W.300/L.800';
+    BODY_NAME='74AC00';
+    CLASS='IC';
+  end_body;
+end_primitive;
+END.

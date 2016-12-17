@@ -1,0 +1,396 @@
+(Cell	10h125
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	10/06/10,10:19:40 AM)
+
+			(User	mastbaum)
+
+			(Path	ecl.10h125)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/27/14,15:08:00)
+
+			(User	Godwin)
+
+			(Path	parts_lib.10h125)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dc255bbb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/06/10,10:19:40 AM)
+
+							(User	mastbaum)
+
+							(Path	ecl.10h125)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfa040a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ced42f4c)
+
+			(Primitives	2
+
+				(Primitive	10H125
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/06/10,10:19:40 AM)
+
+							(User	mastbaum)
+
+							(Path	ecl.10h125)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	10H125
+
+							(PackType	10H125)
+
+							(PackType	10H125_DIP)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[4]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	plcc20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(View	VerilogWrappers
+
+					(VerilogWrapper	vlog_model
+
+						(ModelName	MC10H125P
+
+							(RevisionInfoBlock	
+
+								(Baselined	0)
+
+								(Revision	0.0.1)
+
+								(ModificationStatus	NULL)
+
+								(Status	)
+
+								(ErrorStatus	0)
+
+								(CreateInfo	
+
+									(Time	)
+
+									(User	)
+
+									(Path	)
+
+								)
+
+							)
+
+						)
+
+					)
+
+					(View	VerilogMaps
+
+						(VerilogMap	vlog_map
+
+							(ReferencePackage	10H125
+
+								(ModelName	MC10H125
+
+									(RevisionInfoBlock	
+
+										(Baselined	0)
+
+										(Revision	0.0.1)
+
+										(ModificationStatus	NULL)
+
+										(Status	)
+
+										(ErrorStatus	0)
+
+										(CreateInfo	
+
+											(Time	)
+
+											(User	)
+
+											(Path	)
+
+										)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(VerilogWrapper	swift_model
+
+							(ModelName	ecl25
+
+								(RevisionInfoBlock	
+
+									(Baselined	0)
+
+									(Revision	0.0.1)
+
+									(ModificationStatus	NULL)
+
+									(Status	)
+
+									(ErrorStatus	0)
+
+									(CreateInfo	
+
+										(Time	)
+
+										(User	)
+
+										(Path	)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+					(VerilogMap	swift_map
+
+						(ReferencePackage	10H125
+
+							(ModelName	ECL25
+
+								(RevisionInfoBlock	
+
+									(Baselined	0)
+
+									(Revision	0.0.1)
+
+									(ModificationStatus	NULL)
+
+									(Status	)
+
+									(ErrorStatus	1)
+
+									(CreateInfo	
+
+										(Time	)
+
+										(User	)
+
+										(Path	)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	10H125_PLCC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/06/10,10:19:40 AM)
+
+							(User	mastbaum)
+
+							(Path	ecl.10h125)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	10H125
+
+							(PackType	10H125_PLCC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[4]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	PLCC20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001efd03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dc803db)
+
+)
+

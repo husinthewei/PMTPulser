@@ -1,0 +1,10 @@
+\t (00:00:00) enved 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Sat Dec 17 12:46:21 2016
+\t (00:00:00)         Host=PHYSGRAD-G510-0 User=labadmin Pid=13292 CPUs=4
+\t (00:00:00) 
+\i (00:00:04) setwindow form.prfedit
+\i (00:00:04) FORM prfedit treelist  Paths 
+\i (00:00:05) FORM prfedit treelist  Library Paths 
+\i (00:00:43) FORM prfedit devpath  
+\i (00:28:10) FORM prfedit cancel  
+\t (00:28:10)     Journal end - Sat Dec 17 13:14:31 2016

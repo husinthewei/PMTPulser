@@ -1,0 +1,14 @@
+	(Comment
+		(Time 07/13/09,16:06:39)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package LVDSRCVR_4X added to cell")
+		(Param1 LVDSRCVR_4X)
+	)
+	(Comment
+		(Time 07/13/09,16:15:36)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 06/01/05,10:33:49)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/01/05,10:35:56)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package COAX_MINI added to cell")
+		(Param1 COAX_MINI)
+	)

@@ -1,0 +1,180 @@
+(Cell	ad8351
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/23/09,19:45:54)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad8351)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/23/09,20:06:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad8351)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000d4dd2aa4)
+
+			(Primitives	1
+
+				(Primitive	AD8351
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/23/09,19:45:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad8351)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8351
+
+							(PackType	AD8351)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	rm-10)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000482fd36)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/23/09,19:51:10)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad8351)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4903b2)
+
+		)
+
+		(Checksum	000000001bb10379)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c47037a)
+
+)
+

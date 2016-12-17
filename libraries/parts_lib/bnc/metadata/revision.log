@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/06/2011,12:40:15 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package BNC added to cell")
+		(Param1 BNC)
+	)
+	(Comment
+		(Time 01/06/2011,12:41:16 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

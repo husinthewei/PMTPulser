@@ -1,0 +1,218 @@
+(Cell	rsmd0402
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.19)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/07,13:30:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.rsmd0402)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/16/07,17:09:46)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.rsmd0402)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000986eba26)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/07,13:32:52)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.rsmd0402)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ca203b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000dfa3daf9)
+
+			(Primitives	1
+
+				(Primitive	RSMD0402
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/07,13:30:27)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.rsmd0402)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RSMD0402
+
+							(PackType	RSMD0402)
+
+							(PackType	RSMD0402_R0402)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	r0402)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	VerilogWrappers
+
+			(VerilogWrapper	vlog_model
+
+				(ModelName	RES
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001eaa040f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d6803d3)
+
+)
+

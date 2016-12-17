@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/14/13,15:22:54)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package R_AXIAL added to cell")
+		(Param1 R_AXIAL)
+	)
+	(Comment
+		(Time 06/14/13,15:23:48)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

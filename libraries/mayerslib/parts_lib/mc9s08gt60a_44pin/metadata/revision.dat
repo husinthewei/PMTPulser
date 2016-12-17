@@ -1,0 +1,260 @@
+(Cell	mc9s08gt60a_44pin
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/02/07,23:17:08)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mc9s08gt60a_44pin)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/03/07,00:17:37)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mc9s08gt60a_44pin)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	3
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c9bbec14)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/02/07,23:17:21)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mc9s08gt60a_44pin)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ddefec24)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/03/07,00:13:43)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mc9s08gt60a_44pin)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002574e7d5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/03/07,00:16:44)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mc9s08gt60a_44pin)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001da903d2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000dbc0beb1)
+
+			(Primitives	1
+
+				(Primitive	MC9S08GT60A_44PIN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/02/07,23:33:01)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mc9s08gt60a_44pin)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC9S08GT60A_44PIN
+
+							(PackType	MC9S08GT60A_44PIN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pqfp44)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cb5038f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c9103ad)
+
+)
+

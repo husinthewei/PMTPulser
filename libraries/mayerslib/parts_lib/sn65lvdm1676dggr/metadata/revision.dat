@@ -1,0 +1,180 @@
+(Cell	sn65lvdm1676dggr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/11/14,12:46:04)
+
+			(User	Godwin)
+
+			(Path	parts_lib.sn65lvdm1676dggr)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/11/14,13:20:27)
+
+			(User	Godwin)
+
+			(Path	parts_lib.sn65lvdm1676dggr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f88bf029)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/11/14,12:59:30)
+
+							(User	Godwin)
+
+							(Path	parts_lib.sn65lvdm1676dggr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d8703ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c84bbeb5)
+
+			(Primitives	1
+
+				(Primitive	SN65LVDM1676DGGR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/11/14,12:57:38)
+
+							(User	Godwin)
+
+							(Path	parts_lib.sn65lvdm1676dggr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN65LVDM1676DGGR
+
+							(PackType	SN65LVDM1676DGGR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tssop64)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db103e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001caa03a3)
+
+)
+

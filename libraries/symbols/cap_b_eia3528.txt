@@ -1,0 +1,13 @@
+(DEVICE FILE: cap_b_eia3528)
+
+PACKAGE cap_b_eia3528
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER cap_b_eia3528  1 2
+
+PINSWAP cap_b_eia3528  1 2
+
+FUNCTION cap_b_eia3528 cap_b_eia3528  1 2
+
+END

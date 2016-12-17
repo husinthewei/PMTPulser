@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WLP_16.dra                                    )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Wed Feb 12 12:17:29 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = wlp_16.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

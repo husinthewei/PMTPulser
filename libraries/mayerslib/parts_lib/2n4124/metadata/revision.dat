@@ -1,0 +1,180 @@
+(Cell	2n4124
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/18/06,14:23:21)
+
+			(User	cadown)
+
+			(Path	parts.2n4124)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/18/06,14:33:54)
+
+			(User	cadown)
+
+			(Path	parts.2n4124)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000923b90e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/18/06,14:23:21)
+
+							(User	cadown)
+
+							(Path	parts.2n4124)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b860385)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a101c178)
+
+			(Primitives	1
+
+				(Primitive	2N4124
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/18/06,14:23:42)
+
+							(User	cadown)
+
+							(Path	parts.2n4124)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	2N4124
+
+							(PackType	2N4124)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e500416)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b3d0347)
+
+)
+

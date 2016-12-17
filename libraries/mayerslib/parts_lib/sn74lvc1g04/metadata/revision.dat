@@ -1,0 +1,180 @@
+(Cell	sn74lvc1g04
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/18/13,15:38:21)
+
+			(User	Godwin)
+
+			(Path	parts.sn74lvc1g04)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/18/13,15:56:44)
+
+			(User	Godwin)
+
+			(Path	parts.sn74lvc1g04)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d67f94f9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/13,15:44:56)
+
+							(User	Godwin)
+
+							(Path	parts.sn74lvc1g04)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3703c4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000db412530)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC1G04
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/13,15:38:28)
+
+							(User	Godwin)
+
+							(Path	parts.sn74lvc1g04)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC1G04
+
+							(PackType	SN74LVC1G04)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so23_5pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5a0392)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c2d0379)
+
+)
+

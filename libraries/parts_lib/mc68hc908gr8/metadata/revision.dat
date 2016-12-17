@@ -1,0 +1,182 @@
+(Cell	mc68hc908gr8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.25)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/17/06,13:33:50)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.mc68hc908gr8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/25/06,17:58:09)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.mc68hc908gr8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a7a507da)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/06,16:42:40)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.mc68hc908gr8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3603db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000048577cfd)
+
+			(Primitives	1
+
+				(Primitive	MC68HC908GR8CFA_PQFP32
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.16)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/06,13:53:07)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.mc68hc908gr8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC68HC908GR8CFA
+
+							(PackType	MC68HC908GR8CFA_PQFP32)
+
+							(PackType	MC68HC908GR8CFA)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pqfp32)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ba7038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c8b03aa)
+
+)
+

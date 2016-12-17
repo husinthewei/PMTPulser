@@ -1,0 +1,45 @@
+
+	(Comment
+		(Time 06/14/06,08:53:32)
+		(User cadown)
+		(MsgId ECO_021)
+		(Text "Package QUSB2 added to cell")
+		(Param1 QUSB2)
+	)
+	(Comment
+		(Time 06/14/06,08:56:05)
+		(User cadown)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/14/06,08:56:31)
+		(User cadown)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/14/06,09:17:04)
+		(User cadown)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 06/14/06,10:03:56)
+		(User cadown)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 06/14/06,10:04:03)
+		(User cadown)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

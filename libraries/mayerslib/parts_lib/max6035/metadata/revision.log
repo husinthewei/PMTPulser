@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/17/2010,05:27:21 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package MAX6035 added to cell")
+		(Param1 MAX6035)
+	)
+	(Comment
+		(Time 06/17/2010,05:29:29 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,180 @@
+(Cell	mitch_fanout_5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/02/2009,10:37:53 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.mitch_fanout_5)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/02/2009,10:37:33 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.mitch_fanout_6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000075c3a5d1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/2009,10:37:53 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.mitch_fanout_5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6803ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000800c6adf)
+
+			(Primitives	1
+
+				(Primitive	MITCH_FANOUT_5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/2009,10:37:53 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.mitch_fanout_5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MITCH_FANOUT_5
+
+							(PackType	MITCH_FANOUT_5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic14)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7603bf)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001be803ad)
+
+)
+

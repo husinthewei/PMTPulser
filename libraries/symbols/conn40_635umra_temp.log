@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : conn40_635umRA_temp.dra                       )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sat Oct 20 16:35:48 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = conn40_635umra_temp.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

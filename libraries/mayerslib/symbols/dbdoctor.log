@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : qfn50p500x500x80-33n.dra                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 10 13:18:06 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+0 warnings, 0 errors detected, 0 errors  fixed.

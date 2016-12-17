@@ -1,0 +1,180 @@
+(Cell	opa350
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/28/12,14:43:13)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa350)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/28/12,16:09:15)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa350)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008f85b947)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/28/12,14:43:13)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa350)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c850392)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004c7f6750)
+
+			(Primitives	1
+
+				(Primitive	OPA350_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/28/12,16:06:58)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa350)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA350_1
+
+							(PackType	OPA350_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2a0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c120374)
+
+)
+

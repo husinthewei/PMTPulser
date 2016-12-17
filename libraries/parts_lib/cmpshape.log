@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : SOT353.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Nov 30 20:32:46 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:159351208 dbid:159351228 dbid:159351248 dbid:159351268)
+Info: Can not start path from (dbid:159351208 dbid:159351228 dbid:159351248 dbid:159351268)
+A total of 1 shapes were created.
+WARNING(SPMHIS-473): 1 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(ETCH)
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:159351648 dbid:159351668 dbid:159351688 dbid:159351708)
+Info: Can not start path from (dbid:159351648 dbid:159351668 dbid:159351688 dbid:159351708)
+A total of 1 shapes were created.
+WARNING(SPMHIS-473): 1 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(ETCH)
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:159351088 dbid:159351128 dbid:159351148 dbid:159351168)
+Info: Can not start path from (dbid:159351088 dbid:159351128 dbid:159351148 dbid:159351168)
+A total of 1 shapes were created.
+current class name(ETCH)
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:159351428 dbid:159351448 dbid:159351468 dbid:159351488)
+Info: Can not start path from (dbid:159351428 dbid:159351448 dbid:159351468 dbid:159351488)
+A total of 1 shapes were created.

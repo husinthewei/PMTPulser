@@ -1,0 +1,38 @@
+
+	(Comment
+		(Time 03/12/06,23:21:33)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package CONN10 added to cell")
+		(Param1 CONN10)
+	)
+
+
+	(Comment
+		(Time 03/12/06,23:47:10)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 03/29/06,13:01:03)
+		(User Godwin M. Mayers)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)
+
+
+
+
+
+	(Comment
+		(Time 03/29/06,18:00:06)
+		(User Godwin Mayers)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)

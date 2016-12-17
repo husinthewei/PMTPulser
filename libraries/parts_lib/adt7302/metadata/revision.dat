@@ -1,0 +1,180 @@
+(Cell	adt7302
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/22/12,11:56:25)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.adt7302)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/22/12,11:59:24)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.adt7302)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000086499934)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,11:58:05)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.adt7302)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a880335)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ca564fd0)
+
+			(Primitives	1
+
+				(Primitive	ADT7302
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,11:56:28)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.adt7302)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADT7302
+
+							(PackType	ADT7302)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so23_6pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db703b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc003a4)
+
+)
+

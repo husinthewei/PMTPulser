@@ -1,0 +1,1 @@
+SPLBPD-126,Package 'DDR_SODIM':No unique non-common pin found across sections 1 and 2 for the split part. Make sure that at least one unique pin is mapped to each section.,Error

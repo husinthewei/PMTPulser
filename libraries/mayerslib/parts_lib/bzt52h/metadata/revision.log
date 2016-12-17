@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/20/12,18:20:52)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package BZT52H added to cell")
+		(Param1 BZT52H)
+	)
+	(Comment
+		(Time 12/20/12,18:21:59)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ddr_sodimm.dra                                )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Jan 29 17:17:02 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = ddr_sodimm.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,180 @@
+(Cell	hdr4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/24/12,13:23:59)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr4)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/24/12,13:19:16)
+
+			(User	Godwin)
+
+			(Path	ihp_psd_lib.hdr4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003a087190)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/12,13:23:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b58034e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006962f020)
+
+			(Primitives	1
+
+				(Primitive	HDR4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/12,13:23:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HDR4
+
+							(PackType	HDR4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2f03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9503aa)
+
+)
+

@@ -1,0 +1,24 @@
+.HEADER
+BOARD_FILE         3.0  "allegro 16.1"  2010/01/07.18:02:07  1
+rj45_b.dra  THOU
+.END_HEADER
+.DRILLED_HOLES
+        35           0         225  PTH  NOREFDES  THRU035  UNOWNED
+        35           0        -225  PTH  NOREFDES  THRU035  UNOWNED
+        35        -120         310  PTH  NOREFDES  THRU035  UNOWNED
+        35        -120        -310  PTH  NOREFDES  THRU035  UNOWNED
+        35         140         248  PTH  NOREFDES  THRU035  UNOWNED
+        35         200         148  PTH  NOREFDES  THRU035  UNOWNED
+        35         133        -149  PTH  NOREFDES  THRU035  UNOWNED
+        35         193        -249  PTH  NOREFDES  THRU035  UNOWNED
+        35        -350         175  PTH  NOREFDES  THRU035  UNOWNED
+        35        -250         125  PTH  NOREFDES  THRU035  UNOWNED
+        35        -350          75  PTH  NOREFDES  THRU035  UNOWNED
+        35        -250          25  PTH  NOREFDES  THRU035  UNOWNED
+        35        -350         -25  PTH  NOREFDES  THRU035  UNOWNED
+        35        -250         -75  PTH  NOREFDES  THRU035  UNOWNED
+        35        -350        -125  PTH  NOREFDES  THRU035  UNOWNED
+        35        -250        -175  PTH  NOREFDES  THRU035  UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+.END_PLACEMENT

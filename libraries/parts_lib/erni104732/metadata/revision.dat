@@ -1,0 +1,170 @@
+(Cell	erni104732
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	01/13/14,07:48:53)
+
+			(User	mbreilly)
+
+			(Path	jumper_board_lib.erni104732)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/17/14,15:44:30)
+
+			(User	HEP)
+
+			(Path	jumper_board_lib.erni104732)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cde8f019)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	01/14/14,07:33:09)
+
+							(User	mbreilly)
+
+							(Path	jumper_board_lib.erni104732)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001edd03e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000043e4bf2e)
+
+			(Primitives	1
+
+				(Primitive	ERNI104732
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/13/14,07:48:56)
+
+							(User	mbreilly)
+
+							(Path	jumper_board_lib.erni104732)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ERNI104732
+
+							(PackType	ERNI104732)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bdf0377)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d5a03af)
+
+)
+

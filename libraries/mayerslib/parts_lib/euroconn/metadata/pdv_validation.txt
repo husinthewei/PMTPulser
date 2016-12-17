@@ -1,0 +1,1 @@
+SPLBPD-295,Verilog Wrapper:Pin(s) M1,M2 are not mapped in wrapper vlog_model for model EUROCONN but are present on the symbol(s).,Warning

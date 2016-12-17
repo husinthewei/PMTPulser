@@ -1,0 +1,180 @@
+(Cell	ad5684_5_6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/13/12,14:44:54)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad5684_5_6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/13/12,15:00:15)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad5684_5_6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000092c86d1c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/13/12,14:50:33)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad5684_5_6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c2903b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005f982181)
+
+			(Primitives	1
+
+				(Primitive	AD5684_5_6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/13/12,14:45:03)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad5684_5_6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD5684_5_6
+
+							(PackType	AD5684_5_6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tssop16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c80037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b79037c)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	5pinx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/24/12,12:09:51)
+
+			(User	HEP)
+
+			(Path	mayers_lib.5pinx)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/24/12,12:12:06)
+
+			(User	HEP)
+
+			(Path	mayers_lib.5pinx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d2b0871f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/12,12:11:37)
+
+							(User	HEP)
+
+							(Path	mayers_lib.5pinx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd703af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006be2fe2f)
+
+			(Primitives	1
+
+				(Primitive	5PINX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/12,12:09:54)
+
+							(User	HEP)
+
+							(Path	mayers_lib.5pinx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	5PINX
+
+							(PackType	5PINX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	5pin_X)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc903de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d0203dd)
+
+)
+

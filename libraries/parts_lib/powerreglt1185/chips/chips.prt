@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Wed Nov 17 16:47:38 2004' ;
+primitive 'POWERREGLT1185_VREG';
+  pin
+    'REF':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VOUT':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VIN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'FB':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'MOUNT':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='POWERREGLT1185';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='powerreglt1185_v2';
+  end_body;
+end_primitive;
+END.

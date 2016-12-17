@@ -1,0 +1,128 @@
+(Cell	mc68hc908gr8cfa
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/18/06,01:43:36)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.mc68hc908gr8cfa)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/18/06,16:41:01)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.mc68hc908gr8cfa)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000c3984f45)
+
+			(Primitives	1
+
+				(Primitive	MC68HC908GR8CFA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/18/06,01:44:29)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.mc68hc908gr8cfa)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC68HC908GR8CFA
+
+							(PackType	MC68HC908GR8CFA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pqfp32)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5a038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5b03a8)
+
+)
+

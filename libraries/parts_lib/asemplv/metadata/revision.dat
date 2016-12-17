@@ -1,0 +1,182 @@
+(Cell	asemplv
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/12/2014,05:05:22 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.asemplv)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/12/2014,05:19:24 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.asemplv)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d472b8cd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/12/2014,05:18:25 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.asemplv)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cfa03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000678f1ae5)
+
+			(Primitives	1
+
+				(Primitive	ASEMPLV
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/12/2014,05:06:15 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.asemplv)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ASEMPLV
+
+							(PackType	ASEMPLV)
+
+							(PackType	ASEMPLV_ASEMPLV)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	asemp_lvds)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b5a038f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-P2 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5803ab)
+
+)
+

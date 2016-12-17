@@ -1,0 +1,4 @@
+Version 15.0
+START_MODULEORDER
+@mayers_lib.adapter_40pin(sch_1)	0	1	1	1	0	
+END_MODULEORDER

@@ -1,0 +1,71 @@
+\t (00:00:01) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:01) 
+
+\t (00:00:03) Opening existing drawing...
+\d (00:00:03) Database opened: C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd
+\i (00:00:03) trapsize 1412
+\i (00:00:03) trapsize 1351
+\i (00:00:03) trapsize 1325
+\i (00:00:03) trapsize 1086
+\i (00:00:04) trapsize 1086
+\i (00:00:04) generaledit 
+\i (00:00:07) open 
+\i (00:00:32) fillin "C:\SPB_Data\Symbols\conn40_new.dra"
+\i (00:00:32) cd "C:\SPB_Data\Symbols"
+\t (00:00:32) Opening existing drawing...
+\i (00:00:32) trapsize 11
+\i (00:00:32) trapsize 10
+\i (00:00:32) trapsize 10
+\d (00:00:32) Database opened: C:/SPB_Data/Symbols/conn40_new.dra
+\i (00:00:32) generaledit 
+\i (00:00:37) pick grid -168 535
+\t (00:00:37) last pick:  -211  425
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in -44 463
+\i (00:01:26) trapsize 5
+\i (00:01:27) pick grid -39 466
+\t (00:01:27) last pick:  0  425
+\i (00:01:30) replace padstack 
+\i (00:01:32) pick grid -31 471
+\t (00:01:32) last pick:  0  425
+\i (00:01:45) setwindow form.mini
+\i (00:01:45) FORM mini newname_browse  
+\f (00:01:45) Select a padstack:
+\i (00:02:24) fillin "Pad35cir25d"
+\i (00:02:29) FORM mini replace  
+\i (00:02:33) setwindow pcb
+\i (00:02:33) prepopup 356 424
+\i (00:02:33) done 
+\t (00:02:33) Performing DRC...
+\t (00:02:33) No DRC errors detected.
+\i (00:02:33) generaledit 
+\i (00:02:36) replace padstack 
+\i (00:02:37) pick grid 239 431
+\t (00:02:37) last pick:  211  425
+\i (00:02:40) setwindow form.mini
+\i (00:02:40) FORM mini newname_browse  
+\f (00:02:40) Select a padstack:
+\i (00:02:53) fillin "Pad60cir38d"
+\w (00:02:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:57) FORM mini replace  
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out 351 348
+\i (00:02:58) trapsize 10
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 318 5
+\i (00:02:59) trapsize 21
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 235 178
+\i (00:03:00) trapsize 10
+\i (00:03:02) save_as 
+\t (00:03:02) Performing DRC...
+\t (00:03:02) No DRC errors detected.
+\i (00:04:09) fillin "conn40_635um.dra"
+\t (00:04:10) Symbol 'conn40_635um.psm' created.
+\i (00:04:10) generaledit 
+\i (00:04:14) exit 

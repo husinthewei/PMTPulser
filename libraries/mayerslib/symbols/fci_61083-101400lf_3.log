@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FCI_61083-101400LF_3.dra                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Aug 22 17:00:46 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PennTriggerBoard/symbols
+    Name      = fci_61083-101400lf_3.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

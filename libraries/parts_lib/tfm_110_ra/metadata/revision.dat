@@ -1,0 +1,180 @@
+(Cell	tfm_110_ra
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/17/12,17:04:12)
+
+			(User	nandor)
+
+			(Path	parts.tfm_110_ra)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/17/12,17:22:29)
+
+			(User	nandor)
+
+			(Path	parts.tfm_110_ra)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002407cd84)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,17:05:01)
+
+							(User	nandor)
+
+							(Path	parts.tfm_110_ra)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b5b0381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000039afc372)
+
+			(Primitives	1
+
+				(Primitive	TFM_110_RA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,17:04:16)
+
+							(User	nandor)
+
+							(Path	parts.tfm_110_ra)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TFM_110_RA
+
+							(PackType	TFM_110_RA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tfm_110_thru_ra)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c1d03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca703d3)
+
+)
+

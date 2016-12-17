@@ -1,0 +1,58 @@
+
+	(Comment
+		(Time 03/05/06,18:28:56)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TANT_CAP added to cell")
+		(Param1 TANT_CAP)
+	)
+	(Comment
+		(Time 03/05/06,18:37:20)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 03/05/06,18:41:19)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TANT_CAP_1 added to cell")
+		(Param1 TANT_CAP_1)
+	)
+	(Comment
+		(Time 03/05/06,18:42:12)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TANT_CAP_2 added to cell")
+		(Param1 TANT_CAP_2)
+	)
+	(Comment
+		(Time 03/05/06,18:42:20)
+		(User Godwin Mayers)
+		(MsgId ECO_022)
+		(Text "Package TANT_CAP_1 deleted from cell")
+		(Param1 TANT_CAP_1)
+	)
+	(Comment
+		(Time 03/05/06,18:42:26)
+		(User Godwin Mayers)
+		(MsgId ECO_022)
+		(Text "Package TANT_CAP_2 deleted from cell")
+		(Param1 TANT_CAP_2)
+	)
+	(Comment
+		(Time 03/05/06,18:42:35)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TANT_CAP_1 added to cell")
+		(Param1 TANT_CAP_1)
+	)
+	(Comment
+		(Time 03/05/06,18:42:38)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TANT_CAP_2 added to cell")
+		(Param1 TANT_CAP_2)
+	)

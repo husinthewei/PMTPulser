@@ -1,0 +1,180 @@
+(Cell	socket8_dip
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/11/13,16:35:52)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.socket8_dip)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/11/13,16:40:05)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.socket8_dip)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007801bf6e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/13,16:37:44)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.socket8_dip)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bb003b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008b08afb0)
+
+			(Primitives	1
+
+				(Primitive	SOCKET8_DIP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/13,16:35:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.socket8_dip)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SOCKET8_DIP
+
+							(PackType	SOCKET8_DIP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dip8_3)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7703b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbf037a)
+
+)
+

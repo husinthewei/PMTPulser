@@ -1,0 +1,262 @@
+(Cell	74hc32
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/06/14,16:57:39)
+
+			(User	Godwin)
+
+			(Path	parts_lib.74hc32)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/06/14,17:01:02)
+
+			(User	Godwin)
+
+			(Path	parts_lib.74hc32)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	05/06/14,16:57:39)
+
+					(User	Godwin)
+
+					(Path	parts_lib.74hc32)
+
+				)
+
+			)
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000858c4f13)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/06/14,17:00:38)
+
+							(User	Godwin)
+
+							(Path	parts_lib.74hc32)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	05/06/14,17:01:02)
+
+							(User	Godwin)
+
+							(Path	parts_lib.74hc32)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008f522db6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/06/14,16:57:39)
+
+							(User	Godwin)
+
+							(Path	parts_lib.74hc32)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2203e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006e21ca24)
+
+			(Primitives	1
+
+				(Primitive	74HC32
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/06/14,16:57:39)
+
+							(User	Godwin)
+
+							(Path	parts_lib.74hc32)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	74HC32
+
+							(PackType	74HC32)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	2
+
+							(FunctionGroup	1[4]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic14)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf103db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce903d5)
+
+)
+

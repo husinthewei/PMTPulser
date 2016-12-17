@@ -1,0 +1,116 @@
+\t (00:00:03) allegro_free_viewer 16.3 002 (v16-3-85Q) i86
+\t (00:00:03) 
+
+\t (00:00:03) Opening existing drawing...
+\d (00:00:04) Database opened: Z:/proj/spews/cadlib/footprints/samtec_qsh-020-01-x-d-dp-a.dra
+\i (00:00:04) trapsize 1877
+\i (00:00:04) trapsize 1816
+\i (00:00:04) trapsize 1489
+\i (00:00:04) trapsize 1489
+\i (00:00:12) open 
+\i (00:00:22) fillin "c0402.dra"
+\t (00:00:22) Opening existing drawing...
+\i (00:00:22) trapsize 44
+\d (00:00:22) Database opened: Z:/proj/spews/cadlib/footprints/c0402.dra
+\i (00:00:27) open 
+\i (00:00:30) fillin "c0603.dra"
+\t (00:00:30) Opening existing drawing...
+\i (00:00:30) trapsize 50
+\d (00:00:30) Database opened: Z:/proj/spews/cadlib/footprints/c0603.dra
+\i (00:00:32) open 
+\i (00:00:37) fillin "db9f.dra"
+\t (00:00:37) Opening existing drawing...
+\i (00:00:37) trapsize 2637
+\d (00:00:37) Database opened: Z:/proj/spews/cadlib/footprints/db9f.dra
+\i (00:01:11) open 
+\i (00:01:15) fillin "samtec_qsh-020-01-x-d-dp-a.dra"
+\t (00:01:15) Opening existing drawing...
+\i (00:01:15) trapsize 1489
+\d (00:01:15) Database opened: Z:/proj/spews/cadlib/footprints/samtec_qsh-020-01-x-d-dp-a.dra
+\i (00:01:17) open 
+\i (00:01:21) fillin "dip16pinsmd.dra"
+\t (00:01:21) Opening existing drawing...
+\i (00:01:21) trapsize 2641
+\d (00:01:21) Database opened: Z:/proj/spews/cadlib/footprints/dip16pinsmd.dra
+\i (00:01:39) open 
+\i (00:01:45) fillin "ths4520_qfn16.dra"
+\t (00:01:45) Opening existing drawing...
+\i (00:01:45) trapsize 4286
+\d (00:01:45) Database opened: Z:/proj/spews/cadlib/footprints/ths4520_qfn16.dra
+\i (00:01:47) zoom fit 
+\i (00:01:47) trapsize 2003
+\i (00:02:03) open 
+\i (00:02:37) fillin "st2378e_tssop20.dra"
+\t (00:02:37) Opening existing drawing...
+\i (00:02:37) trapsize 4286
+\d (00:02:37) Database opened: Z:/proj/spews/cadlib/footprints/st2378e_tssop20.dra
+\i (00:02:50) open 
+\i (00:03:02) fillin "led_apt1608.dra"
+\t (00:03:02) Opening existing drawing...
+\i (00:03:02) trapsize 4286
+\d (00:03:02) Database opened: Z:/proj/spews/cadlib/footprints/led_apt1608.dra
+\i (00:03:04) zoom fit 
+\i (00:03:04) trapsize 2028
+\i (00:03:07) open 
+\i (00:03:10) fillin "menu_cancel"
+\i (29:24:00) open 
+\i (29:24:20) fillin "Z:\proj\footprints\ferrite_1806.dra"
+\i (29:24:20) cd "Z:\proj\footprints"
+\t (29:24:20) Opening existing drawing...
+\i (29:24:20) trapsize 4286
+\d (29:24:20) Database opened: Z:/proj/footprints/ferrite_1806.dra
+\i (29:24:22) zoom fit 
+\i (29:24:22) trapsize 2028
+\i (29:35:06) open 
+\i (29:35:08) fillin "ferrite_1806.dra"
+\t (29:35:08) Opening existing drawing...
+\i (29:35:08) trapsize 4286
+\d (29:35:08) Database opened: Z:/proj/footprints/ferrite_1806.dra
+\i (29:35:10) zoom fit 
+\i (29:35:10) trapsize 2028
+\i (29:37:39) opencd Z:/proj/footprints/ferrite_1806.dra 
+\t (29:37:39) Opening existing drawing...
+\i (29:37:39) trapsize 4286
+\d (29:37:39) Database opened: Z:/proj/footprints/ferrite_1806.dra
+\i (29:37:41) zoom fit 
+\i (29:37:41) trapsize 2028
+\i (29:37:52) zoom out 
+\i (29:37:52) setwindow pcb
+\i (29:37:52) zoom out 0.0319 -0.0611
+\i (29:37:52) trapsize 4286
+\i (29:37:53) zoom in 
+\i (29:37:53) setwindow pcb
+\i (29:37:53) zoom in 13.2286 -19.2000
+\i (29:37:53) trapsize 2143
+\i (29:37:53) zoom in 
+\i (29:37:53) setwindow pcb
+\i (29:37:53) zoom in 13.2286 -19.2000
+\i (29:37:53) trapsize 1071
+\i (29:37:54) zoom in 1 
+\i (29:37:54) setwindow pcb
+\i (29:37:54) zoom in 11.2144 -17.1643
+\i (29:37:54) trapsize 536
+\i (29:37:54) zoom in 1 
+\i (29:37:54) setwindow pcb
+\i (29:37:54) zoom in 11.2144 -17.1642
+\i (29:37:54) trapsize 268
+\i (29:37:54) zoom in 1 
+\i (29:37:54) setwindow pcb
+\i (29:37:54) zoom in 11.2144 -17.1642
+\i (29:37:54) trapsize 134
+\i (29:37:56) zoom fit 
+\i (29:37:56) trapsize 2028
+\i (29:38:01) zoom in 
+\i (29:38:01) setwindow pcb
+\i (29:38:01) zoom in -0.0086 0.0201
+\i (29:38:01) trapsize 1014
+\i (29:38:02) zoom out 1 
+\i (29:38:02) setwindow pcb
+\i (29:38:02) zoom out -0.9011 0.5069
+\i (29:38:02) trapsize 2028
+\i (29:38:02) zoom in 1 
+\i (29:38:02) setwindow pcb
+\i (29:38:02) zoom in -0.9010 0.5069
+\i (29:38:02) trapsize 1014
+\i (29:38:02) zoom in 1 
+\i (29

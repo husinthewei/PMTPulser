@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Database Objects Preventing Layer From Being Deleted             )
+(                                                                     )
+(    Drawing          : ihp_psdchip_v3.dra                            )
+(    Software Version : 16.3p006                                      )
+(    Date/Time        : Wed Mar 14 17:22:56 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Layer being deleted: PACKAGE GEOMETRY/BONDPADS
+
+    (46.50 -18.00) LINE: Package Geometry/Bondpads 
+    (47.00 -14.00) LINE: Package Geometry/Bondpads 
+    (46.50 -34.00) LINE: Package Geometry/Bondpads 
+    (48.00 -22.00) LINE: Package Geometry/Bondpads 
+    (47.00 -30.00) LINE: Package Geometry/Bondpads 
+    (47.50 -26.50) LINE: Package Geometry/Bondpads 
+    (47.50 -10.50) LINE: Package Geometry/Bondpads 
+    (47.00 -7.00) LINE: Package Geometry/Bondpads 
+    (47.50 -3.00) LINE: Package Geometry/Bondpads 
+    (46.50 1.00) LINE: Package Geometry/Bondpads 
+    (47.00 5.00) LINE: Package Geometry/Bondpads 
+    (47.00 9.50) LINE: Package Geometry/Bondpads 
+    (46.50 17.00) LINE: Package Geometry/Bondpads 
+    (46.50 29.00) LINE: Package Geometry/Bondpads 
+    (47.00 33.00) LINE: Package Geometry/Bondpads 
+    (47.00 37.50) LINE: Package Geometry/Bondpads 
+    (47.00 40.50) LINE: Package Geometry/Bondpads 
+    (46.50 44.00) LINE: Package Geometry/Bondpads 
+    (46.00 25.50) LINE: Package Geometry/Bondpads 
+    (47.50 21.00) LINE: Package Geometry/Bondpads 
+
+... 20 total objects preventing delete layer

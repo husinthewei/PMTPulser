@@ -1,0 +1,180 @@
+(Cell	jumper
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/16/09,14:35:42)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.jumper)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/16/09,14:37:54)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.jumper)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000051e45cd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/09,14:36:49)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.jumper)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b7b03ac)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000769695e9)
+
+			(Primitives	1
+
+				(Primitive	JUMPER
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/09,14:35:48)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.jumper)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	JUMPER
+
+							(PackType	JUMPER)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a47032e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b6c0378)
+
+)
+

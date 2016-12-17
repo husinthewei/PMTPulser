@@ -1,0 +1,180 @@
+(Cell	ics85411i
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/21/12,20:28:36)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ics85411i)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/21/12,20:33:57)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ics85411i)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000088fbbf18)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/12,20:30:51)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ics85411i)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dba03ea)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000033c8ac59)
+
+			(Primitives	1
+
+				(Primitive	ICS85411I
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/12,20:28:49)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ics85411i)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS85411I
+
+							(PackType	ICS85411I)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acc034a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d6203d1)
+
+)
+

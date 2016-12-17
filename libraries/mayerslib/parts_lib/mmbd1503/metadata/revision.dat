@@ -1,0 +1,158 @@
+(Cell	mmbd1503
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/21/05,15:01:29)
+
+			(User	mattl)
+
+			(Path	transistors.mmbd1503)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	00000000)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/05,15:08:00)
+
+							(User	mattl)
+
+							(Path	transistors.mmbd1503)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000)
+
+			(Primitives	1
+
+				(Primitive	MMBD1503
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/05,15:02:03)
+
+							(User	mattl)
+
+							(Path	transistors.mmbd1503)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MMBD1503
+
+							(PackType	MMBD1503)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	00000000)
+
+)
+

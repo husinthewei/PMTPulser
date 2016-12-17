@@ -1,0 +1,330 @@
+(marker_file
+  (version 1.0)
+  (markers
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 1)
+   (short_msg "No REFDES Text in Symbol.")
+   (long_msg "No REFDES Text in Symbol
+ REFDES Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=REF DES/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 2)
+   (short_msg "No REFDES Text in Symbol.")
+   (long_msg "No REFDES Text in Symbol
+ REFDES Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=REF DES/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 3)
+   (short_msg "No REFDES Text in Symbol.")
+   (long_msg "No REFDES Text in Symbol
+ REFDES Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=REF DES/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 4)
+   (short_msg "No COMPONENT VALUE Text in Symbol.")
+   (long_msg "No COMPONENT VALUE Text in Symbol
+ COMPONENT VALUE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=COMPONENT VALUE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 5)
+   (short_msg "No COMPONENT VALUE Text in Symbol.")
+   (long_msg "No COMPONENT VALUE Text in Symbol
+ COMPONENT VALUE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=COMPONENT VALUE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 6)
+   (short_msg "No COMPONENT VALUE Text in Symbol.")
+   (long_msg "No COMPONENT VALUE Text in Symbol
+ COMPONENT VALUE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=COMPONENT VALUE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 7)
+   (short_msg "No DEVICE Text in Symbol.")
+   (long_msg "No DEVICE Text in Symbol
+ DEVICE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=DEVICE TYPE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 8)
+   (short_msg "No DEVICE Text in Symbol.")
+   (long_msg "No DEVICE Text in Symbol
+ DEVICE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=DEVICE TYPE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 9)
+   (short_msg "No DEVICE Text in Symbol.")
+   (long_msg "No DEVICE Text in Symbol
+ DEVICE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=DEVICE TYPE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 10)
+   (short_msg "No TOLERANCE Text in Symbol.")
+   (long_msg "No TOLERANCE Text in Symbol
+ TOLERANCE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=TOLERANCE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 11)
+   (short_msg "No TOLERANCE Text in Symbol.")
+   (long_msg "No TOLERANCE Text in Symbol
+ TOLERANCE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=TOLERANCE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 12)
+   (short_msg "No TOLERANCE Text in Symbol.")
+   (long_msg "No TOLERANCE Text in Symbol
+ TOLERANCE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=TOLERANCE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 13)
+   (short_msg "No USER PART NUMBER Text in Symbol.")
+   (long_msg "No USER PART NUMBER Text in Symbol
+ USER PART NUMBER Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 14)
+   (short_msg "No USER PART NUMBER Text in Symbol.")
+   (long_msg "No USER PART NUMBER Text in Symbol
+ USER PART NUMBER Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 15)
+   (short_msg "No USER PART NUMBER Text in Symbol.")
+   (long_msg "No USER PART NUMBER Text in Symbol
+ USER PART NUMBER Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 16)
+   (short_msg "No Silk Screen Geometry in Symbol.")
+   (long_msg "No Silk Screen Geometry in Symbol
+ Silk Screen Graphical Data Will Not Exist")
+   (location
+    (
+     (object_kind "GEOMETRY")
+     (canonical_name "0.0000:0.0000=PACKAGE GEOMETRY/SILSCREEN_TOP")
+     (parent_canonical_name "LINES@(0.0 0.0)")
+     (drawing_name "LINES@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 17)
+   (short_msg "No Assembly Geometry in Symbol.")
+   (long_msg "No Assembly Geometry in Symbol
+ Assembly Graphical Data Will Not Exist")
+   (location
+    (
+     (object_kind "GEOMETRY")
+     (canonical_name "0.0000:0.0000=PACKAGE GEOMETRY/ASSEMBLY_TOP")
+     (parent_canonical_name "LINES@(0.0 0.0)")
+     (drawing_name "LINES@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 18)
+   (short_msg "Pin Location Report")
+   (long_msg "Pin Location Report: 
+ No Pins Found")
+   (location
+    (
+     (object_kind "PIN")
+     (canonical_name "0.0000:0.0000=PIN")
+     (parent_canonical_name "PIN@(0.0 0.0)")
+     (drawing_name "PIN@(0.0 0.0)")
+    )
+
+   )
+  )
+
+  )
+)

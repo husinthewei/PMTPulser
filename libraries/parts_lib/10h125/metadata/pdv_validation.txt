@@ -1,0 +1,2 @@
+SPLBPD-295,Verilog Wrapper:Pin(s) V are not mapped in wrapper swift_model for model ecl25 but are present on the symbol(s).,Warning
+SPLBPD-163,Verilog Mapview:Incomplete mapping done for pin(s) 'V' in mapfile.package.model 'swift_map.10H125.ECL25'. Map the unmapped pins and then save the file.,Error

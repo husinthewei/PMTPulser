@@ -1,0 +1,212 @@
+(Cell	ddr2_sodimm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/03/12,17:20:46)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ddr2_sodimm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/03/12,17:39:33)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ddr2_sodimm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000067a93158)
+
+			(Primitives	1
+
+				(Primitive	DDR2_SODIMM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,17:20:50)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr2_sodimm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DDR2_SODIMM
+
+							(PackType	DDR2_SODIMM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008c5b2a54)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,17:21:04)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr2_sodimm)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008c5b2a54)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,17:21:13)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ddr2_sodimm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b370353)
+
+		)
+
+		(Checksum	000000001b410349)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b2d0349)
+
+)
+

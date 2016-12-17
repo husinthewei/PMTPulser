@@ -1,0 +1,186 @@
+(Cell	pot_sm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/15/05,12:57:58)
+
+			(User	ematsumo)
+
+			(Path	cnpassive.pot_sm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/17/06,15:01:32)
+
+			(User	cadown)
+
+			(Path	parts.pot_sm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bd11b0f9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/05,12:59:13)
+
+							(User	ematsumo)
+
+							(Path	cnpassive.pot_sm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd403da)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ca0caace)
+
+			(Primitives	1
+
+				(Primitive	R_VAR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Modified)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	)
+
+							(User	)
+
+							(Path	)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	R_VAR
+
+							(PackType	R_VAR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pot_sm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	VerilogWrappers
+
+			(VerilogWrapper	vlog_model)
+
+		)
+
+		(Checksum	000000001e740411)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b580348)
+
+)
+

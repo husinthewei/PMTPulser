@@ -1,0 +1,180 @@
+(Cell	bnc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/06/2011,12:40:08 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.bnc)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/06/2011,12:41:41 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.bnc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006cd44d6c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/2011,12:41:16 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.bnc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d5c03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ba8c9274)
+
+			(Primitives	1
+
+				(Primitive	BNC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/2011,12:40:15 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.bnc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BNC
+
+							(PackType	BNC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	bnc)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0e0394)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c2c037b)
+
+)
+

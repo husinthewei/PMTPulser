@@ -1,0 +1,23 @@
+03/31/06  11:09:48		Opening project E:/Cadence/Mayers_lib/mayerslib.cpm
+03/31/06  11:09:48		Cdslib E:/Cadence/Mayers_lib/cds.lib opened
+03/31/06  11:09:48		Project E:/Cadence/Mayers_lib/mayerslib.cpm opened
+03/31/06  11:09:58		Loading Cell ds26ls32 from Library mayerslib_lib
+03/31/06  11:09:58		Loading view sym_1 of Cell ds26ls32
+03/31/06  11:09:58		Loading view chips of Cell ds26ls32
+03/31/06  11:09:58		Loading view entity of Cell ds26ls32
+03/31/06  11:09:58		Analyzing view relationships of Cell ds26ls32 in Library mayerslib_lib
+03/31/06  11:09:58		Completed Loading Cell ds26ls32 from Library mayerslib_lib
+03/31/06  11:09:58		Starting validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:09:58		Completed validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:10:34		Starting validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:10:34		Completed validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:10:34		Completed Saving Cell ds26ls32 in Library mayerslib_lib 
+03/31/06  11:17:29		Loading Cell ds26ls32 from Library mayerslib_lib
+03/31/06  11:17:29		Loading view sym_1 of Cell ds26ls32
+03/31/06  11:17:29		Loading view chips of Cell ds26ls32
+03/31/06  11:17:29		Loading view entity of Cell ds26ls32
+03/31/06  11:17:29		Analyzing view relationships of Cell ds26ls32 in Library mayerslib_lib
+03/31/06  11:17:29		Completed Loading Cell ds26ls32 from Library mayerslib_lib
+03/31/06  11:17:29		Starting validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:17:29		Completed validations on cell ds26ls32 of library mayerslib_lib
+03/31/06  11:17:39		Project E:/Cadence/Mayers_lib/mayerslib.cpm is closed

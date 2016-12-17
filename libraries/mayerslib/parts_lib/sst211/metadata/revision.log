@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 06/27/05,08:21:51)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package SST211 added to cell")
+		(Param1 SST211)
+	)
+	(Comment
+		(Time 06/27/05,08:24:07)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

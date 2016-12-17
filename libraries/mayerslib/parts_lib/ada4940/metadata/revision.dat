@@ -1,0 +1,180 @@
+(Cell	ada4940
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.21)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/12,18:12:25)
+
+			(User	nandor)
+
+			(Path	parts.ada4940)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/12/12,12:28:50)
+
+			(User	nandor)
+
+			(Path	parts.ada4940)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000238ab4fd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.13)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/12/12,12:02:18)
+
+							(User	nandor)
+
+							(Path	parts.ada4940)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4e03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bf125340)
+
+			(Primitives	1
+
+				(Primitive	ADA4940
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/12,18:12:28)
+
+							(User	nandor)
+
+							(Path	parts.ada4940)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADA4940
+
+							(PackType	ADA4940)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lfcsp_vq)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1303b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b86036f)
+
+)
+

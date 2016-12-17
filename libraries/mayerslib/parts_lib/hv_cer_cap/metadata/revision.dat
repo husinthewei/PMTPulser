@@ -1,0 +1,186 @@
+(Cell	hv_cer_cap
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/21/10,12:44:11)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hv_cer_cap)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/18/10,15:42:17)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hv_cer_cap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005955463d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,12:45:47)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hv_cer_cap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a8a035a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002d3da459)
+
+			(Primitives	1
+
+				(Primitive	HV_CER_CAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,12:44:24)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hv_cer_cap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HV_CER_CAP
+
+							(PackType	HV_CER_CAP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HV_CAP)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	hvcercap)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7603b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb5037a)
+
+)
+

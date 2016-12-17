@@ -1,0 +1,13 @@
+(DEVICE FILE: molex4p2MiniFit)
+
+PACKAGE molex4p2MiniFit
+CLASS IO
+PINCOUNT 8
+
+PINORDER molex4p2MiniFit  1 3 5 7 2 4 6 8
+
+PINSWAP molex4p2MiniFit  1 3 5 7 2 4 6 8
+
+FUNCTION molex4p2MiniFit molex4p2MiniFit  1 3 5 7 2 4 6 8
+
+END

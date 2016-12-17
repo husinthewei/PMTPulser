@@ -1,0 +1,164 @@
+(Cell	hfa3128
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/18/05,14:29:46)
+
+			(User	quark)
+
+			(Path	parts.hfa3128)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	a55abae2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/05,14:29:46)
+
+							(User	quark)
+
+							(Path	parts.hfa3128)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	bf0a029c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	b2df902a)
+
+			(Primitives	1
+
+				(Primitive	HFA3127
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/18/05,14:29:46)
+
+							(User	quark)
+
+							(Path	parts.hfa3128)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HFA3127
+
+							(PackType	HFA3127)
+
+							(PackType	HFA3127_SOIC)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[5]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	3eca02b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	ef4501bf)
+
+)
+

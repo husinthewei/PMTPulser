@@ -1,0 +1,28 @@
+	(Comment
+		(Time 04/12/2010,02:08:55 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package XC5VLX50FF1153 added to cell")
+		(Param1 XC5VLX50FF1153)
+	)
+	(Comment
+		(Time 04/12/2010,03:47:54 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/12/2010,03:58:31 PM)
+		(User ashmansk)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/12/2010,04:07:50 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

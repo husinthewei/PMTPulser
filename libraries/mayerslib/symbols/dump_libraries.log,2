@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Dump Library Log                                    )
+(                                                            )
+(        Software Version : 16.01S5                          )
+(        Date/Time        : Thu Jan  7 18:11:05 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+*** file: /home/ashmansk/proj/spews/cadlib/footprints/rj45_b.dra ***
+
+
+
+  *** Creating flash symbols (.dra only) ***
+
+  ab00 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

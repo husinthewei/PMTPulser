@@ -1,0 +1,220 @@
+(Cell	conn100_127mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/19/11,11:07:58)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn100_127mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/19/11,17:38:50)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn100_127mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cff6e8b9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/19/11,17:35:18)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn100_127mm)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d514e281)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/19/11,11:10:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn100_127mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd70403)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b88cbef2)
+
+			(Primitives	1
+
+				(Primitive	CONN100_127MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/19/11,11:08:18)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn100_127mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN100_127MM
+
+							(PackType	CONN100_127MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Conn100_127mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cd003b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca603a2)
+
+)
+

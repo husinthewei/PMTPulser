@@ -1,0 +1,180 @@
+(Cell	cap_v
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/19/2010,03:12:02 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_v)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/19/2010,03:14:59 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f6b05065)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/2010,03:14:25 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_v)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cbb037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bb269a05)
+
+			(Primitives	1
+
+				(Primitive	CAP_V
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/2010,03:12:34 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_v)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_V
+
+							(PackType	CAP_V)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cap_d_eia7343)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7803bb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bf503ac)
+
+)
+

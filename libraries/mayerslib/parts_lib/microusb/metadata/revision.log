@@ -1,0 +1,61 @@
+
+	(Comment
+		(Time 03/29/06,14:28:53)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MICROUSB added to cell")
+		(Param1 MICROUSB)
+	)
+	(Comment
+		(Time 03/29/06,14:34:56)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 03/29/06,14:37:33)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 03/29/06,14:37:44)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 03/29/06,14:38:11)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 03/29/06,14:38:28)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 03/29/06,14:38:58)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 03/29/06,14:39:10)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+

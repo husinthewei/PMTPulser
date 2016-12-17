@@ -1,0 +1,30 @@
+
+	(Comment
+		(Time 01/15/09,09:48:09)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package AIRBORN69PLUG added to cell")
+		(Param1 AIRBORN69PLUG)
+	)
+	(Comment
+		(Time 01/15/09,09:50:22)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 01/15/09,09:52:30)
+		(User nandor)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 01/15/09,09:54:17)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

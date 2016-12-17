@@ -1,0 +1,180 @@
+(Cell	ad5308
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,12:30:26 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ad5308)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,12:36:00 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ad5308)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000314e84f8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:35:27 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ad5308)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b700388)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000cfbaecd)
+
+			(Primitives	1
+
+				(Primitive	AD5308
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:30:32 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ad5308)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD5308
+
+							(PackType	AD5308)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ad5308_tssop16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bd30381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c570377)
+
+)
+

@@ -1,0 +1,158 @@
+(Cell	smb_coax
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/17/05,12:31:22)
+
+			(User	ematsumo)
+
+			(Path	parts.smb_coax)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	079aca3d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/05,16:20:20)
+
+							(User	ematsumo)
+
+							(Path	parts.smb_coax)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	8f7301a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	e89a243f)
+
+			(Primitives	1
+
+				(Primitive	SMB_COAX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/17/05,12:31:36)
+
+							(User	ematsumo)
+
+							(Path	parts.smb_coax)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SMB_COAX
+
+							(PackType	SMB_COAX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	3fcc0194)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	0f3001a1)
+
+)
+

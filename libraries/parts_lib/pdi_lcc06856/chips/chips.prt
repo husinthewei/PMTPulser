@@ -1,0 +1,679 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PDI_LCC06856';
+  pin
+    'TRANSFER_Q1 1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT3 41':
+      PIN_NUMBER='(41)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VOUTPUT2 20':
+      PIN_NUMBER='(20)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q2 12':
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q3 38':
+      PIN_NUMBER='(38)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT1 7':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'ANALOG_POWER 15':
+      PIN_NUMBER='(15)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'CC_Q1 8':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '31 VRESET4':
+      PIN_NUMBER='(31)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '40 VRESET3':
+      PIN_NUMBER='(40)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '22 VRESET2':
+      PIN_NUMBER='(22)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '5 VRESET1':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'ANALOG_POWER2 30':
+      PIN_NUMBER='(30)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VOUTPUTPRECHARGE 19':
+      PIN_NUMBER='(19)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'CC_VREF 9':
+      PIN_NUMBER='(9)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '60 CC_CLK':
+      PIN_NUMBER='(60)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '61 CC_D':
+      PIN_NUMBER='(61)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '58 RESET_ENABLE':
+      PIN_NUMBER='(58)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '59 RESET_D':
+      PIN_NUMBER='(59)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '57 RESET_CLK':
+      PIN_NUMBER='(57)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '56 RESET_ON':
+      PIN_NUMBER='(56)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '55 TRANSFER_D':
+      PIN_NUMBER='(55)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '52 TRANSFER_CLK':
+      PIN_NUMBER='(52)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '54 TRANSFER_ENABLE':
+      PIN_NUMBER='(54)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '51 TRANSFER_ON':
+      PIN_NUMBER='(51)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '50 TRANSFER_OFF':
+      PIN_NUMBER='(50)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '49 SWITCH_D':
+      PIN_NUMBER='(49)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '48 SWITCH_ENABLE':
+      PIN_NUMBER='(48)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '47 SWITCH_CLK':
+      PIN_NUMBER='(47)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '46 SWITCH_OFF':
+      PIN_NUMBER='(46)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '32 IBIAS4':
+      PIN_NUMBER='(32)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '29 SELECT_CLK':
+      PIN_NUMBER='(29)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '21 IBIAS2':
+      PIN_NUMBER='(21)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '28 SELECT_ENABLE':
+      PIN_NUMBER='(28)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '17 SELECT_D':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '18 VOLTAGECONTROL':
+      PIN_NUMBER='(18)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '10 V_RESET_CONTROL':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '53 GND':
+      PIN_NUMBER='(53)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'SWITCH_Q1 3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VOUTPUT4 33':
+      PIN_NUMBER='(33)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q1 2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q2 11':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SELECT_Q2 13':
+      PIN_NUMBER='(13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT2 23':
+      PIN_NUMBER='(23)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q2 24':
+      PIN_NUMBER='(24)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q4 25':
+      PIN_NUMBER='(25)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q4 26':
+      PIN_NUMBER='(26)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SELECT_Q4 27':
+      PIN_NUMBER='(27)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT4 34':
+      PIN_NUMBER='(34)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q4 35':
+      PIN_NUMBER='(35)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q3 39':
+      PIN_NUMBER='(39)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q3 42':
+      PIN_NUMBER='(42)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VDDIO 45':
+      PIN_NUMBER='(45)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD4 37':
+      PIN_NUMBER='(37)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD4 36':
+      PIN_NUMBER='(36)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD3 43':
+      PIN_NUMBER='(43)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD3 44':
+      PIN_NUMBER='(44)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD2 16':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD2 14':
+      PIN_NUMBER='(14)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD1 6':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD1 4':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '62 NC':
+      PIN_NUMBER='(62)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '63 NC':
+      PIN_NUMBER='(63)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '64 NC':
+      PIN_NUMBER='(64)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '65 NC':
+      PIN_NUMBER='(65)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '66 NC':
+      PIN_NUMBER='(66)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '67 NC':
+      PIN_NUMBER='(67)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '68 NC':
+      PIN_NUMBER='(68)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='PDI_LCC06856';
+    BODY_NAME='PDI_LCC06856';
+    JEDEC_TYPE='lcc68';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'PDI_LCC06856_1';
+  pin
+    'GND':
+      PIN_NUMBER='(35)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC6':
+      PIN_NUMBER='(61)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC5':
+      PIN_NUMBER='(60)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC4':
+      PIN_NUMBER='(45)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC3':
+      PIN_NUMBER='(44)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC2':
+      PIN_NUMBER='(42)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC1':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'SWITCH_Q1':
+      PIN_NUMBER='(24)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT1':
+      PIN_NUMBER='(20)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q1':
+      PIN_NUMBER='(19)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VDDIO':
+      PIN_NUMBER='(46)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD2':
+      PIN_NUMBER='(13)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD1':
+      PIN_NUMBER='(23)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD3':
+      PIN_NUMBER='(47)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDDD4':
+      PIN_NUMBER='(55)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD1':
+      PIN_NUMBER='(21)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD2':
+      PIN_NUMBER='(11)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD3':
+      PIN_NUMBER='(48)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VDD4':
+      PIN_NUMBER='(56)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VOUTPUTPRECHARGE':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'CC_VREF':
+      PIN_NUMBER='(18)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'ANALOG_POWER2':
+      PIN_NUMBER='(64)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'ANALOG_POWER':
+      PIN_NUMBER='(12)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'RESET_Q1':
+      PIN_NUMBER='(25)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q1':
+      PIN_NUMBER='(26)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT2':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SELECT_Q2':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q2':
+      PIN_NUMBER='(16)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q2':
+      PIN_NUMBER='(15)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT3':
+      PIN_NUMBER='(50)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q3':
+      PIN_NUMBER='(49)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SWITCH_Q3':
+      PIN_NUMBER='(52)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q3':
+      PIN_NUMBER='(54)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q3':
+      PIN_NUMBER='(53)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_OUT4':
+      PIN_NUMBER='(58)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CC_Q4':
+      PIN_NUMBER='(57)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'SELECT_Q4':
+      PIN_NUMBER='(67)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'TRANSFER_Q4':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'RESET_Q4':
+      PIN_NUMBER='(68)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VOUTPUT2':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VOUTPUT4':
+      PIN_NUMBER='(59)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VRESET2':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VRESET1':
+      PIN_NUMBER='(22)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VRESET3':
+      PIN_NUMBER='(51)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VRESET4':
+      PIN_NUMBER='(63)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'V_RESET_CONTROL':
+      PIN_NUMBER='(17)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SELECT_D':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IBIAS2':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'SELECT_ENABLE':
+      PIN_NUMBER='(66)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VOLTAGECONTROL':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IBIAS4':
+      PIN_NUMBER='(62)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SELECT_CLK':
+      PIN_NUMBER='(65)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SWITCH_OFF':
+      PIN_NUMBER='(43)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SWITCH_CLK':
+      PIN_NUMBER='(41)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SWITCH_ENABLE':
+      PIN_NUMBER='(40)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'SWITCH_D':
+      PIN_NUMBER='(39)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TRANSFER_OFF':
+      PIN_NUMBER='(38)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TRANSFER_ON':
+      PIN_NUMBER='(37)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TRANSFER_ENABLE':
+      PIN_NUMBER='(34)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TRANSFER_CLK':
+      PIN_NUMBER='(36)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'TRANSFER_D':
+      PIN_NUMBER='(33)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RESET_ON':
+      PIN_NUMBER='(32)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RESET_CLK':
+      PIN_NUMBER='(31)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RESET_ENABLE':
+      PIN_NUMBER='(30)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'RESET_D':
+      PIN_NUMBER='(29)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CC_CLK':
+      PIN_NUMBER='(28)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CC_D':
+      PIN_NUMBER='(27)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='PDI_LCC06856_1';
+    BODY_NAME='PDI_LCC06856';
+    JEDEC_TYPE='plcc68';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

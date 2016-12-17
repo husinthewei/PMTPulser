@@ -1,0 +1,16 @@
+
+	(Comment
+		(Time 06/13/05,13:56:44)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package LMV2011MF added to cell")
+		(Param1 LMV2011MF)
+	)
+	(Comment
+		(Time 06/13/05,13:56:53)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

@@ -1,0 +1,180 @@
+(Cell	lm4041
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/09/12,13:25:51)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm4041)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/09/12,13:28:28)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm4041)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000da975bd5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,13:27:31)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm4041)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001df703e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bdd4c351)
+
+			(Primitives	1
+
+				(Primitive	LM4041
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,13:25:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm4041)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM4041
+
+							(PackType	LM4041)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001fa80410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6e0376)
+
+)
+

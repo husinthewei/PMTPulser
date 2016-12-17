@@ -1,0 +1,180 @@
+(Cell	adg609br
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/24/12,18:45:02)
+
+			(User	HEP)
+
+			(Path	mayers_lib.adg609br)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/24/12,18:48:44)
+
+			(User	HEP)
+
+			(Path	mayers_lib.adg609br)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000069875c6a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/24/12,18:48:37)
+
+							(User	HEP)
+
+							(Path	mayers_lib.adg609br)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b3c038e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b3a61f64)
+
+			(Primitives	1
+
+				(Primitive	ADG609BR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/24/12,18:45:06)
+
+							(User	HEP)
+
+							(Path	mayers_lib.adg609br)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADG609BR
+
+							(PackType	ADG609BR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e5f03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cdb03dc)
+
+)
+

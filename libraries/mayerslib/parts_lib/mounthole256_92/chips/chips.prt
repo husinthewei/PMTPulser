@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MOUNTHOLE256_92';
+  pin
+    'PROBE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='MOUNTHOLE256_92';
+    BODY_NAME='MOUNTHOLE256_92';
+    JEDEC_TYPE='mounthole256_92';
+    PHYS_DES_PREFIX='U';
+    CLASS='IO';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,38 @@
+
+	(Comment
+		(Time 02/08/05,17:28:08)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 02/08/05,17:32:33)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package CSMD1210_1 added to cell")
+		(Param1 CSMD1210_1)
+	)
+	(Comment
+		(Time 02/08/05,17:33:02)
+		(User ematsumo)
+		(MsgId ECO_022)
+		(Text "Package CSMD1210_1 deleted from cell")
+		(Param1 CSMD1210_1)
+	)
+	(Comment
+		(Time 02/08/05,17:33:31)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/08/05,17:33:42)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+

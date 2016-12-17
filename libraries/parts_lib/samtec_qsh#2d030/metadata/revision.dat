@@ -1,0 +1,180 @@
+(Cell	samtec_qsh-030
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/20/2010,04:00:07 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.samtec_qsh-030)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/20/2010,04:10:46 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.samtec_qsh-030)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a466e785)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/20/2010,04:10:18 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.samtec_qsh-030)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c74038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005004bee9)
+
+			(Primitives	1
+
+				(Primitive	SAMTEC_QSH-030
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/20/2010,04:00:18 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.samtec_qsh-030)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SAMTEC_QSH-030
+
+							(PackType	SAMTEC_QSH-030)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	samtec_qsh-030-01-x-d-a)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5b0389)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c370380)
+
+)
+

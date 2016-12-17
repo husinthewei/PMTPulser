@@ -1,0 +1,14 @@
+	(Comment
+		(Time 09/08/14,16:03:20)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package MOLEX_PWR_CONN6 added to cell")
+		(Param1 "MOLEX_PWR_CONN6")
+	)
+	(Comment
+		(Time 09/08/14,16:04:31)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

@@ -1,0 +1,180 @@
+(Cell	10h125_plcc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/27/14,14:38:28)
+
+			(User	Godwin)
+
+			(Path	parts_lib.10h125_plcc)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/31/14,12:23:15)
+
+			(User	Godwin)
+
+			(Path	parts_lib.10h125_plcc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008607be5a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/31/14,11:55:00)
+
+							(User	Godwin)
+
+							(Path	parts_lib.10h125_plcc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bbf03b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e100c119)
+
+			(Primitives	1
+
+				(Primitive	10H125_PLCC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/31/14,11:52:39)
+
+							(User	Godwin)
+
+							(Path	parts_lib.10h125_plcc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	10H125_PLCC
+
+							(PackType	10H125_PLCC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	plcc20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000002050046f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001a0c0348)
+
+)
+

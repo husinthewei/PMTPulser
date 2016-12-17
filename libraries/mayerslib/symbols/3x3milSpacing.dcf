@@ -1,0 +1,592 @@
+( ConstraintFile "Bondpad42"
+    ( constraintHeader
+        ( objectKey
+            ( physical )
+        )
+        ( version
+            ( 16.1 )
+        )
+        ( revisionNumber
+            ( logicalViewRevNum 0 )
+            ( physicalViewRevNum 0 )
+            ( otherViewRevNum 0 )
+        )
+        ( contents
+            ( opFlags )
+            ( dictionaryExtensions )
+            ( worksheetCustomizations )
+            ( crossSection )
+            ( electricalConstraints )
+            ( physicalConstraints )
+            ( spacingConstraints )
+            ( netClasses )
+            ( functions )
+        )
+    )
+    ( DictionaryExtensions
+    )
+    ( Functions
+    )
+    ( crossSection
+        ( layer "SURFACE_ABOVE_TOP"
+            ( attribute "CDS_LAYER_TYPE" "SURFACE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_MATERIAL" "AIR"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THICKNESS" "0"
+                ( Units "uDesign" "mil" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+                ( Units "uElectricalConductivity" "mho/cm" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0002700"
+                ( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+                ( Origin gBackEnd )
+            )
+        )
+        ( layer "TOP"
+            ( attribute "CDS_LAYER_IS_NAMED" "1"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_MATERIAL" "COPPER"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THICKNESS" "1"
+                ( Units "uDesign" "mil" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "5.959e+005"
+                ( Units "uElectricalConductivity" "mho/cm" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+                ( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+                ( Origin gBackEnd )
+            )
+        )
+        ( layer "DIELECTRIC_MIDDLE"
+            ( attribute "CDS_LAYER_TYPE" "DIELECTRIC"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_MATERIAL" "FR-4"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THICKNESS" "8"
+                ( Units "uDesign" "mil" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+                ( Units "uElectricalConductivity" "mho/cm" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "4.500"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.01200"
+                ( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+                ( Origin gBackEnd )
+            )
+        )
+        ( layer "BOTTOM"
+            ( attribute "CDS_LAYER_IS_NAMED" "1"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_TYPE" "CONDUCTOR"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_MATERIAL" "COPPER"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THICKNESS" "1"
+                ( Units "uDesign" "mil" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "5.959e+005"
+                ( Units "uElectricalConductivity" "mho/cm" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "3.980"
+                ( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+                ( Origin gBackEnd )
+            )
+        )
+        ( layer "SURFACE_BELOW_BOTTOM"
+            ( attribute "CDS_LAYER_TYPE" "SURFACE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_MATERIAL" "AIR"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_NEGATIVE_ARTWORK" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_IS_SHIELD" "FALSE"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THICKNESS" "0"
+                ( Units "uDesign" "mil" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_ELECTRICAL_CONDUCTIVITY" "0.0000"
+                ( Units "uElectricalConductivity" "mho/cm" 1.000000)
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_DIELECTRIC_CONSTANT" "1.000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_LOSS_TANGENT" "0.0000"
+                ( Origin gBackEnd )
+            )
+            ( attribute "CDS_LAYER_THERMAL_CONDUCTIVITY" "0.0002700"
+                ( Units "uThermalConductivity" "W/cm-degC" 1.000000)
+                ( Origin gBackEnd )
+            )
+        )
+    )
+    ( opFlags
+        ( attribute "IMPEDANCE_RULE_VMODE" "OFF"
+        )
+        ( attribute "STUB_LENGTH_VMODE" "OFF"
+        )
+        ( attribute "MAX_VIA_COUNT_VMODE" "OFF"
+        )
+        ( attribute "MAX_EXPOSED_LENGTH_VMODE" "OFF"
+        )
+        ( attribute "MAX_PARALLEL_VMODE" "OFF"
+        )
+        ( attribute "LAYERSET_GROUP_VMODE" "OFF"
+        )
+        ( attribute "PROPAGATION_DELAY_MIN_VMODE" "ON"
+        )
+        ( attribute "TOTAL_ETCH_LENGTH_MIN_VMODE" "OFF"
+        )
+        ( attribute "RELATIVE_PROPAGATION_DELAY_VMODE" "OFF"
+        )
+        ( attribute "MIN_LINE_WIDTH_VMODE" "ON"
+        )
+        ( attribute "MAX_LINE_WIDTH_VMODE" "ON"
+        )
+        ( attribute "DRC_UNROUTED_MINPROP" "N"
+        )
+        ( attribute "DRC_UNROUTED_RELPROP" "N"
+        )
+        ( attribute "PIN_DELAY_ENABLED" "N"
+        )
+        ( attribute "VIA_Z_ENABLED" "N"
+        )
+        ( attribute "SAME_NET_XTALK_ENABLED" "N"
+        )
+        ( attribute "ALLOW_ON_ETCH_SUBCLASS_VMODE" "ON"
+        )
+        ( attribute "TS_ALLOWED_VMODE" "ON"
+        )
+        ( attribute "MIN_BVIA_STAGGER_VMODE" "ON"
+        )
+        ( attribute "MAX_BVIA_STAGGER_VMODE" "OFF"
+        )
+        ( attribute "PAD_PAD_DIRECT_CONNECT_VMODE" "OFF"
+        )
+        ( attribute "THRUPIN_TO_THRUPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "THRUPIN_TO_SMDPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTPIN_TO_THRUPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "THRUPIN_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTVIA_TO_THRUPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_THRUPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "THRUPIN_TO_BONDPAD_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_THRUPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "THRUPIN_TO_SHAPE_SPACING_VMODE" "ON"
+        )
+        ( attribute "SMDPIN_TO_SMDPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "SMDPIN_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "SMDPIN_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "SMDPIN_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_SMDPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "SMDPIN_TO_BONDPAD_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_SMDPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "SHAPE_TO_SMDPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTPIN_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTPIN_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTPIN_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "SHAPE_TO_TESTPIN_SPACING_VMODE" "ON"
+        )
+        ( attribute "THRUVIA_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTVIA_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "SHAPE_TO_THRUVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "TESTVIA_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "SHAPE_TO_TESTVIA_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_BBV_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_BBV_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_LINE_SPACING_VMODE" "ON"
+        )
+        ( attribute "BBV_TO_SHAPE_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_BONDPAD_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_LINE_SPACING_VMODE" "ON"
+        )
+        ( attribute "BONDPAD_TO_SHAPE_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_LINE_SPACING_VMODE" "ON"
+        )
+        ( attribute "LINE_TO_SHAPE_SPACING_VMODE" "ON"
+        )
+        ( attribute "SHAPE_TO_SHAPE_SPACING_VMODE" "ON"
+        )
+        ( attribute "MIN_BVIA_GAP_VMODE" "ON"
+        )
+        ( attribute "BONDWIRE_BONDWIRE_SPC_VMODE" "OFF"
+        )
+        ( attribute "BONDWIRE_DIFF_PROFILE_SPC_VMODE" "OFF"
+        )
+        ( attribute "BONDWIRE_BONDWIRE_CONNECTION_SP_VMODE" "OFF"
+        )
+        ( attribute "BONDWIRE_PIN_SPC_VMODE" "OFF"
+        )
+        ( attribute "BONDWIRE_BONDPAD_SPC_VMODE" "OFF"
+        )
+        ( attribute "MIN_BOND_LENGTH_VMODE" "OFF"
+        )
+        ( attribute "MAX_BOND_LENGTH_VMODE" "OFF"
+        )
+        ( attribute "MAX_LINE_EXIT_ANGLE_VMODE" "OFF"
+        )
+        ( attribute "BONDWIRE_DIAMETER_VMODE" "OFF"
+        )
+        ( attribute "BONDPAD_COMP_EDGE_VMODE" "OFF"
+        )
+        ( attribute "PACKAGE_PACKAGE_VMODE" "ON"
+        )
+        ( attribute "PACKAGE_KEEPIN_VMODE" "ON"
+        )
+        ( attribute "PACKAGE_KEEPOUT_VMODE" "ON"
+        )
+        ( attribute "ROOM_TYPE_VMODE" "ON"
+        )
+        ( attribute "SHAPE_ISLAND_OVERSIZE_VMODE" "OFF"
+        )
+        ( attribute "SOLDERMASK_ALIGNMENT_VMODE" "OFF"
+        )
+        ( attribute "SOLDERMASK_SPACING_VMODE" "OFF"
+        )
+        ( attribute "SOLDERMASK_CLINE_SPACING_VMODE" "OFF"
+        )
+        ( attribute "SOLDERMASK_SHAPE_SPACING_VMODE" "OFF"
+        )
+        ( attribute "TESTPOINT_ALLOW_UNDER_VMODE" "OFF"
+        )
+    )
+    ( designConstraints
+        ( ruleChanges
+            ( allRules )
+            ( design "Bondpad42"
+                ( physicalCSetRef "DEFAULT" )
+                ( spacingCSetRef "DEFAULT" )
+                ( attribute "DESIGN_UNITS" "0"
+                    ( Units "uPrecision" "mil" 1.000000)
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_MIN_AMPLITUDE" "No limit"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_CORNER_TYPE" "45"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_MIN_WRAP_GAP" "3x width"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_ELONGATION_PATTERN" "ACCORDION"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_CORNER_LEN" "1x width"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_LAYER_MATCH" "FALSE"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_MAX_AMPLITUDE" "No limit"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_MAX_TRANSITION_COUNT" "0"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PLAN_BUNDLE_SPACING" "Default"
+                    ( Origin gBackEnd )
+                )
+                ( objectStatus "@lib.Bondpad42(view)" )
+            )
+            ( physicalCSet "DEFAULT"
+                ( attribute "MIN_LINE_WIDTH" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MIN_NECK_WIDTH" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MIN_BVIA_STAGGER" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MAX_BVIA_STAGGER" "0,0"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TS_ALLOWED" "ANYWHERE,ANYWHERE"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MAX_LINE_WIDTH" "0,0"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MAXIMUM_NECK_LENGTH" "0,0"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "PAD_PAD_DIRECT_CONNECT" "ALL_ALLOWED,ALL_ALLOWED"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "ALLOW_ON_ETCH_SUBCLASS" "TRUE,TRUE"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "VIA_LIST" "VIA"
+                    ( Origin gBackEnd )
+                )
+                ( objectStatus "@lib.Bondpad42(view):\DEFAULT\" )
+            )
+            ( spacingCSet "DEFAULT"
+                ( attribute "THRUPIN_TO_THRUPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "THRUPIN_TO_SMDPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "THRUPIN_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_THRUPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "THRUPIN_TO_SHAPE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SMDPIN_TO_SMDPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SMDPIN_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_SMDPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SHAPE_TO_SMDPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "THRUVIA_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SHAPE_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_LINE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_SHAPE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SHAPE_TO_SHAPE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_BBV_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_THRUPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_SMDPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_LINE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_SHAPE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BBV_TO_TESTVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTPIN_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTPIN_TO_THRUPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SMDPIN_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTPIN_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTPIN_TO_TESTVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SHAPE_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTVIA_TO_TESTVIA_SPACING" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTVIA_TO_THRUPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SMDPIN_TO_TESTVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "TESTVIA_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "LINE_TO_TESTVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SHAPE_TO_TESTVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_BONDPAD_SPACING" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "THRUPIN_TO_BONDPAD_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SMDPIN_TO_BONDPAD_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_THRUVIA_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_LINE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_SHAPE_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_BBV_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_TESTPIN_SPACING" "3,3"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "BONDPAD_TO_TESTVIA_SPACING" "5,5"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "SAME_NET" "FALSE,FALSE"
+                    ( Origin gBackEnd )
+                )
+                ( attribute "MIN_BVIA_GAP" "5"
+                    ( Origin gBackEnd )
+                )
+                ( objectStatus "@lib.Bondpad42(view):\DEFAULT\" )
+            )
+        )
+    )
+)

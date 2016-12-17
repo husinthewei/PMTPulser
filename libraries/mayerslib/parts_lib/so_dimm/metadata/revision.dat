@@ -1,0 +1,180 @@
+(Cell	so_dimm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/19/12,14:48:47)
+
+			(User	HEP)
+
+			(Path	mayers_lib.so_dimm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/19/12,14:59:50)
+
+			(User	HEP)
+
+			(Path	mayers_lib.so_dimm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001722eae7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/19/12,14:59:33)
+
+							(User	HEP)
+
+							(Path	mayers_lib.so_dimm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bb703af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000070b3bf0b)
+
+			(Primitives	1
+
+				(Primitive	SO_DIMM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/19/12,14:48:54)
+
+							(User	HEP)
+
+							(Path	mayers_lib.so_dimm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SO_DIMM
+
+							(PackType	SO_DIMM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ddr2_sodimm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db5040b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8703a3)
+
+)
+

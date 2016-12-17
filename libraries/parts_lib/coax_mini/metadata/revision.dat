@@ -1,0 +1,162 @@
+(Cell	coax_mini
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/01/05,10:33:38)
+
+			(User	ematsumo)
+
+			(Path	parts.coax_mini)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	1bc8d662)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/01/05,10:33:49)
+
+							(User	ematsumo)
+
+							(Path	parts.coax_mini)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	bf38021c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	8c630cda)
+
+			(Primitives	1
+
+				(Primitive	COAX_MINI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/01/05,10:35:56)
+
+							(User	ematsumo)
+
+							(Path	parts.coax_mini)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	COAX_MINI
+
+							(PackType	COAX_MINI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	bf9901ec)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	5eac0246)
+
+)
+

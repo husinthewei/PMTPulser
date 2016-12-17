@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/13/12,13:58:53)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package CONN40_FLATINSERT added to cell")
+		(Param1 CONN40_FLATINSERT)
+	)
+	(Comment
+		(Time 08/13/12,14:01:03)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

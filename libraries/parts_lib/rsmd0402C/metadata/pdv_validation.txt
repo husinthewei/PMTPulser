@@ -1,0 +1,1 @@
+pdv_170,Cell 'rsmd0402':Pins 1,2 are not present in any of the packages or symbols.,Warning

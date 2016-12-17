@@ -1,0 +1,180 @@
+(Cell	bondpads_25
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/24/07,18:11:46)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bondpads_25)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/24/07,18:14:04)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bondpads_25)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bbc420ac)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/07,18:13:50)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bondpads_25)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e610402)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001257bf02)
+
+			(Primitives	1
+
+				(Primitive	BONDPADS_25
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/07,18:11:54)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bondpads_25)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BONDPADS_25
+
+							(PackType	BONDPADS_25)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BondPad25)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bd50378)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c66037f)
+
+)
+

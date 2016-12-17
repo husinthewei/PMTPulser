@@ -1,0 +1,169 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'AD9245';
+  pin
+    'D5 10':
+      PIN_NUMBER='(10)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D6 11':
+      PIN_NUMBER='(11)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D7 12':
+      PIN_NUMBER='(12)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D8 13':
+      PIN_NUMBER='(13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D9 14':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '15 DGND':
+      PIN_NUMBER='(15)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'DRVDD 16':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'D10 17':
+      PIN_NUMBER='(17)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D11 18':
+      PIN_NUMBER='(18)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D12 19':
+      PIN_NUMBER='(19)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '22 MODE':
+      PIN_NUMBER='(22)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '23 SENSE':
+      PIN_NUMBER='(23)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VREF 24':
+      PIN_NUMBER='(24)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'AVDD 27':
+      PIN_NUMBER='(27)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '28 AGND':
+      PIN_NUMBER='(28)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '29 VIN+':
+      PIN_NUMBER='(29)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '30 VIN-':
+      PIN_NUMBER='(30)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '31 AGND':
+      PIN_NUMBER='(31)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'AVDD 32':
+      PIN_NUMBER='(32)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'OTR 21':
+      PIN_NUMBER='(21)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '33 GND':
+      PIN_NUMBER='(33)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '1 DNC':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2 CLK':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3 DNC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '4 PDWN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'D13 20':
+      PIN_NUMBER='(20)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D0 5':
+      PIN_NUMBER='(5)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D1 6':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D2 7':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D3 8':
+      PIN_NUMBER='(8)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'D4 9':
+      PIN_NUMBER='(9)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'REFB- 25':
+      PIN_NUMBER='(25)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'REFT- 26':
+      PIN_NUMBER='(26)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='AD9245';
+    ALT_SYMBOLS='(lfcsp_vq_b)';
+    BODY_NAME='AD9245';
+    JEDEC_TYPE='lfcsp_vq';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

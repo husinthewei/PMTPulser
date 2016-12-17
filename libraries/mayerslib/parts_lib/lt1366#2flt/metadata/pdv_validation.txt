@@ -1,0 +1,5 @@
+SPLBPD-159,Package Property:Invalid low output load value. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:Invalid high output load value. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:Invalid low output load value. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:Invalid high output load value. Specify a negative non-zero numeric value.,Error
+SPLBPD-170,Cell 'lt1366/lt':Pin(s) OUT1,-INA,+INA,OUT2,INB*,+ INB,V-,V+,-,+,- INB is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

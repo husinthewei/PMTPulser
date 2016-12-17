@@ -1,0 +1,26 @@
+Thu Nov 09 14:48:13 2006				Page     1
+
+Cadence Design Systems, Inc.
+
+Pad Stack Refresh Logfile
+
+------ Pad Stack Refresh Options ------
+
+OLD_LAYOUT_NAME = '#Taaaaaa03940.dra';
+NEW_LAYOUT_NAME = '';
+REFRESH_SYMBOL_TEXT_LOCATIONS = 'NO';
+
+
+------ Library Paths ------
+PSMPATH =  C:\CADENCEWORK\psmfiles\ 
+
+PADPATH =  C:\CadenceWork\allegroPads\ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD30_150'  pad stack refresh starting.
+
+     'SMD30_150'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

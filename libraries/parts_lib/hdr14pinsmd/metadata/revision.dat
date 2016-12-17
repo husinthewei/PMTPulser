@@ -1,0 +1,180 @@
+(Cell	hdr14pinsmd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,10:43:09 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.hdr14pinsmd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,11:01:59 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.hdr14pinsmd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008bd93572)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,11:01:10 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.hdr14pinsmd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cbe0389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a5d8c7ab)
+
+			(Primitives	1
+
+				(Primitive	HDR14PINSMD
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,10:43:15 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.hdr14pinsmd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HDR14PINSMD
+
+							(PackType	HDR14PINSMD)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	hdr14pinsmd)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf603b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ccd03a7)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	ada4938
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/09/12,13:50:28)
+
+			(User	nandor)
+
+			(Path	parts.ada4938)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/09/12,12:19:19)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.ada4938)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006256ad3d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/09/12,13:50:28)
+
+							(User	nandor)
+
+							(Path	parts.ada4938)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba403b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008ed151f5)
+
+			(Primitives	1
+
+				(Primitive	ADA4938
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/09/12,13:50:28)
+
+							(User	nandor)
+
+							(Path	parts.ada4938)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADA4938
+
+							(PackType	ADA4938)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ADA4938)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3c03af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb603d6)
+
+)
+

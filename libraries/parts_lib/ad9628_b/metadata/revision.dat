@@ -1,0 +1,180 @@
+(Cell	ad9628_b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/14/13,00:19:25)
+
+			(User	Godwin)
+
+			(Path	parts.ad9628_b)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/14/13,00:40:39)
+
+			(User	Godwin)
+
+			(Path	parts.ad9628_b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fa8ec5d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/13,00:21:17)
+
+							(User	Godwin)
+
+							(Path	parts.ad9628_b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e430419)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000033febebb)
+
+			(Primitives	1
+
+				(Primitive	AD9628_B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/13,00:20:09)
+
+							(User	Godwin)
+
+							(Path	parts.ad9628_b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD9628_B
+
+							(PackType	AD9628_B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	LFCSP_64)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b21037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4f0372)
+
+)
+

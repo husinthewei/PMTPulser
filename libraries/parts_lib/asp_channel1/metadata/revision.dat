@@ -1,0 +1,180 @@
+(Cell	asp_channel1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/17/12,12:43:39)
+
+			(User	nandor)
+
+			(Path	parts.asp_channel1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/17/12,12:45:45)
+
+			(User	nandor)
+
+			(Path	parts.asp_channel1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d5761eb7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/17/12,12:45:34)
+
+							(User	nandor)
+
+							(Path	parts.asp_channel1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ca903b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006a6ac151)
+
+			(Primitives	1
+
+				(Primitive	ASP_CHANNEL1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/17/12,12:43:43)
+
+							(User	nandor)
+
+							(Path	parts.asp_channel1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ASP_CHANNEL1
+
+							(PackType	ASP_CHANNEL1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	asp_chan1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001af80353)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c71037c)
+
+)
+

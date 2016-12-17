@@ -1,0 +1,180 @@
+(Cell	max6350
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/07/12,13:40:06)
+
+			(User	nandor)
+
+			(Path	parts.max6350)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/07/12,13:47:53)
+
+			(User	nandor)
+
+			(Path	parts.max6350)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004f24e1e2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,13:45:15)
+
+							(User	nandor)
+
+							(Path	parts.max6350)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8d03ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000016f3ad74)
+
+			(Primitives	1
+
+				(Primitive	MAX6350
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,13:40:11)
+
+							(User	nandor)
+
+							(Path	parts.max6350)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX6350
+
+							(PackType	MAX6350)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001abe0346)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d3b03a7)
+
+)
+

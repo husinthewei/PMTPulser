@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Msop_11.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Sep 25 16:45:04 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = msop_11.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

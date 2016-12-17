@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive '74HC08';
+  pin
+    'A':
+      PIN_NUMBER='(1,4,9,12)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    'B':
+      PIN_NUMBER='(2,5,10,13)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    'Y':
+      PIN_NUMBER='(3,6,8,11)';
+      OUTPUT_LOAD='(0.01,-.01)';
+  end_pin;
+  body
+    PART_NAME='74HC08';
+    BODY_NAME='74HC08';
+    JEDEC_TYPE='soic14';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    POWER_PINS='(VCC:14)';
+    POWER_PINS='(GND:7)';
+  end_body;
+end_primitive;
+
+END.

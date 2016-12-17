@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HOLE_MT','HOLE_MT_HOLE_MOUNT';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='HOLE_MT';
+    BODY_NAME='HOLE_MT';
+    JEDEC_TYPE='Hole_Mount';
+    PHYS_DES_PREFIX='M';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

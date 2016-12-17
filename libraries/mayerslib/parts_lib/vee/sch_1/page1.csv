@@ -1,0 +1,29 @@
+FILE_TYPE = CONNECTIVITY;
+{Concept-HDL 15.00-s004 31-Oct-2003}
+"PAGE_NUMBER" = 1;
+0"NC";
+1"VEE\G";
+2"A<SIZE-1..0>\NAC\I";
+3"A<SIZE-1..0>\NAC\I";
+%"REPLICATE"
+"2","(1400,1750)","2","standard","2P";
+;
+SIZE"SIZE"
+CDS_LIB"standard"
+HDL_REPLICATE"TRUE"
+BODY_TYPE"PLUMBING";
+"INPUT \NAC"1;
+"OUTPUT <SIZE-1..0> \NAC"2;
+%"DEFINE"
+"1","(800,1500)","0","standard","";
+;
+SIZE"1"
+X_FIRST"0"
+X_STEP"SIZE";
+%"DRAWING"
+"1","(1550,1550)","0","standard","";
+;
+LAST_MODIFIED"Mon Feb  7 17:41:27 2005"
+ABBREV"VEE"
+TITLE"VEE";
+END.

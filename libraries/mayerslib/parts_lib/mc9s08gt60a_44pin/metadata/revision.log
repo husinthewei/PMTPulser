@@ -1,0 +1,32 @@
+
+	(Comment
+		(Time 04/02/07,23:17:21)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 04/02/07,23:33:01)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package MC9S08GT60A_44PIN added to cell")
+		(Param1 MC9S08GT60A_44PIN)
+	)
+	(Comment
+		(Time 04/03/07,00:13:43)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 04/03/07,00:16:44)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+
+

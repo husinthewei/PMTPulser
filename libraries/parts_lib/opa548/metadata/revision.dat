@@ -1,0 +1,180 @@
+(Cell	opa548
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/12/13,15:30:22)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa548)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/12/13,15:43:56)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa548)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000046feaf34)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/12/13,15:32:12)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa548)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9703e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000023627e0b)
+
+			(Primitives	1
+
+				(Primitive	OPA548
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/12/13,15:30:27)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa548)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA548
+
+							(PackType	OPA548)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	to_200_7pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001be403b8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cbd03aa)
+
+)
+

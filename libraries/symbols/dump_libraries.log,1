@@ -1,0 +1,39 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Dump Library Log                                    )
+(                                                            )
+(        Software Version : 16.01S5                          )
+(        Date/Time        : Thu Jan  7 18:10:29 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+*** file: /home/ashmansk/proj/spews/cadlib/footprints/rj45_b.dra ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  THRU035 being dumped.
+
+  VIA being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:            1
+*****************************************************
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pixil_array.dra                               )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Sep 12 11:35:00 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/mayerspcb/Symbols
+    Name      = pixil_array.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

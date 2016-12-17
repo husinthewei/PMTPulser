@@ -1,0 +1,205 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd             |
+|                                                    Mon Aug 06 10:20:19 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UNNAMED_1_CONN40127MM_I1_1 pins MOVED FROM this net (to net name listed on right)
+                                 U2.1            1250.00 21175.0
+                                                    UNNAMED_1_CONN40127MM_I1_31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_2 pins MOVED FROM this net (to net name listed on right)
+                                 U2.2            1250.00 21125.0
+                                                    UNNAMED_1_CONN40127MM_I1_21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_3 pins MOVED FROM this net (to net name listed on right)
+                                 U2.3            1250.00 21075.0
+                                                    UNNAMED_1_CONN40127MM_I1_32
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_4 pins MOVED FROM this net (to net name listed on right)
+                                 U2.4            1250.00 21025.0
+                                                    UNNAMED_1_CONN40127MM_I1_22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_5 pins MOVED FROM this net (to net name listed on right)
+                                 U2.5            1250.00 20975.0
+                                                    UNNAMED_1_CONN40127MM_I1_33
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_6 pins MOVED FROM this net (to net name listed on right)
+                                 U2.6            1250.00 20925.0
+                                                    UNNAMED_1_CONN40127MM_I1_23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_7 pins MOVED FROM this net (to net name listed on right)
+                                 U2.7            1250.00 20875.0
+                                                    UNNAMED_1_CONN40127MM_I1_34
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_8 pins MOVED FROM this net (to net name listed on right)
+                                 U2.8            1250.00 20825.0
+                                                    UNNAMED_1_CONN40127MM_I1_24
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_9 pins MOVED FROM this net (to net name listed on right)
+                                 U2.9            1250.00 20775.0
+                                                    UNNAMED_1_CONN40127MM_I1_35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_10 pins MOVED FROM this net (to net name listed on right)
+                                 U2.10           1250.00 20725.0
+                                                    UNNAMED_1_CONN40127MM_I1_25
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_11 pins MOVED FROM this net (to net name listed on right)
+                                 U2.11           1250.00 20675.0
+                                                    UNNAMED_1_CONN40127MM_I1_36
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_12 pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd             |
+|                                                    Mon Aug 06 10:20:19 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U2.12           1250.00 20625.0
+                                                    UNNAMED_1_CONN40127MM_I1_26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_13 pins MOVED FROM this net (to net name listed on right)
+                                 U2.13           1250.00 20575.0
+                                                    UNNAMED_1_CONN40127MM_I1_37
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_14 pins MOVED FROM this net (to net name listed on right)
+                                 U2.14           1250.00 20525.0
+                                                    UNNAMED_1_CONN40127MM_I1_27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_15 pins MOVED FROM this net (to net name listed on right)
+                                 U2.15           1250.00 20475.0
+                                                    UNNAMED_1_CONN40127MM_I1_38
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_16 pins MOVED FROM this net (to net name listed on right)
+                                 U2.16           1250.00 20425.0
+                                                    UNNAMED_1_CONN40127MM_I1_28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_17 pins MOVED FROM this net (to net name listed on right)
+                                 U2.17           1250.00 20375.0
+                                                    UNNAMED_1_CONN40127MM_I1_39
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_18 pins MOVED FROM this net (to net name listed on right)
+                                 U2.18           1250.00 20325.0
+                                                    UNNAMED_1_CONN40127MM_I1_29
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_19 pins MOVED FROM this net (to net name listed on right)
+                                 U2.19           1250.00 20275.0
+                                                    UNNAMED_1_CONN40127MM_I1_40
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_20 pins MOVED FROM this net (to net name listed on right)
+                                 U2.20           1250.00 20225.0
+                                                    UNNAMED_1_CONN40127MM_I1_30
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_21 pins MOVED FROM this net (to net name listed on right)
+                                 U2.21           1350.00 20225.0
+                                                    UNNAMED_1_CONN40127MM_I1_10
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_22 pins MOVED FROM this net (to net name listed on right)
+                                 U2.22           1350.00 20275.0
+                                                    UNNAMED_1_CONN40127MM_I1_20
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_23 pins MOVED FROM this net (to net name listed on right)
+                                 U2.23           1350.00 20325.0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd             |
+|                                                    Mon Aug 06 10:20:19 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                     UNNAMED_1_CONN40127MM_I1_9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_24 pins MOVED FROM this net (to net name listed on right)
+                                 U2.24           1350.00 20375.0
+                                                    UNNAMED_1_CONN40127MM_I1_19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_25 pins MOVED FROM this net (to net name listed on right)
+                                 U2.25           1350.00 20425.0
+                                                     UNNAMED_1_CONN40127MM_I1_8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_26 pins MOVED FROM this net (to net name listed on right)
+                                 U2.26           1350.00 20475.0
+                                                    UNNAMED_1_CONN40127MM_I1_18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_27 pins MOVED FROM this net (to net name listed on right)
+                                 U2.27           1350.00 20525.0
+                                                     UNNAMED_1_CONN40127MM_I1_7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_28 pins MOVED FROM this net (to net name listed on right)
+                                 U2.28           1350.00 20575.0
+                                                    UNNAMED_1_CONN40127MM_I1_17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_29 pins MOVED FROM this net (to net name listed on right)
+                                 U2.29           1350.00 20625.0
+                                                     UNNAMED_1_CONN40127MM_I1_6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_30 pins MOVED FROM this net (to net name listed on right)
+                                 U2.30           1350.00 20675.0
+                                                    UNNAMED_1_CONN40127MM_I1_16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_31 pins MOVED FROM this net (to net name listed on right)
+                                 U2.31           1350.00 20725.0
+                                                     UNNAMED_1_CONN40127MM_I1_5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_32 pins MOVED FROM this net (to net name listed on right)
+                                 U2.32           1350.00 20775.0
+                                                    UNNAMED_1_CONN40127MM_I1_15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_33 pins MOVED FROM this net (to net name listed on right)
+                                 U2.33           1350.00 20825.0
+                                                     UNNAMED_1_CONN40127MM_I1_4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_34 pins MOVED FROM this net (to net name listed on right)
+                                 U2.34           1350.00 20875.0
+                                                    UNNAMED_1_CONN40127MM_I1_14
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd             |
+|                                                    Mon Aug 06 10:20:19 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UNNAMED_1_CONN40127MM_I1_35 pins MOVED FROM this net (to net name listed on right)
+                                 U2.35           1350.00 20925.0
+                                                     UNNAMED_1_CONN40127MM_I1_3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_36 pins MOVED FROM this net (to net name listed on right)
+                                 U2.36           1350.00 20975.0
+                                                    UNNAMED_1_CONN40127MM_I1_13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_37 pins MOVED FROM this net (to net name listed on right)
+                                 U2.37           1350.00 21025.0
+                                                     UNNAMED_1_CONN40127MM_I1_2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_38 pins MOVED FROM this net (to net name listed on right)
+                                 U2.38           1350.00 21075.0
+                                                    UNNAMED_1_CONN40127MM_I1_12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_39 pins MOVED FROM this net (to net name listed on right)
+                                 U2.39           1350.00 21125.0
+                                                     UNNAMED_1_CONN40127MM_I1_1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CONN40127MM_I1_40 pins MOVED FROM this net (to net name listed on right)
+                                 U2.40           1350.00 21175.0
+                                                    UNNAMED_1_CONN40127MM_I1_11
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  40                                             |
+|------------------------------------------------------------------------------|

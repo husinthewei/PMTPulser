@@ -1,0 +1,15 @@
+	(Comment
+		(Time 02/23/12,16:27:52)
+		(User Godwin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/23/12,16:28:00)
+		(User Godwin)
+		(MsgId ECO_083)
+		(Text "Symbol sym_3 renamed to sym_1")
+		(Param1 sym_3)
+		(Param2 sym_1)
+	)

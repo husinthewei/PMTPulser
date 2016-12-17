@@ -1,0 +1,190 @@
+(Cell	ihp_sppchip
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/12,16:14:25)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ihp_sppchip)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/23/12,16:28:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ihp_sppchip)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c5a3e774)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/12,16:28:00)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ihp_sppchip)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	02/23/12,16:28:19)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ihp_sppchip)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7b03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000066d3bf48)
+
+			(Primitives	1
+
+				(Primitive	IHP_SPPCHIP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/12,16:14:25)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ihp_sppchip)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IHP_SPPCHIP
+
+							(PackType	IHP_SPPCHIP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ihp_sppchip_v2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7e03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca703ad)
+
+)
+

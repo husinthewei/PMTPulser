@@ -1,0 +1,124 @@
+(Cell	variables
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/22/06,11:00:59)
+
+			(User	cadown)
+
+			(Path	parts.variables)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000039afd9b6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/22/06,11:00:59)
+
+							(User	cadown)
+
+							(Path	parts.variables)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000034320423)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/22/06,11:00:59)
+
+							(User	cadown)
+
+							(Path	parts.variables)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e4c0416)
+
+		)
+
+		(Checksum	000000001c360379)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4d0351)
+
+)
+

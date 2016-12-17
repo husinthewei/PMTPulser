@@ -1,0 +1,206 @@
+(Cell	tps735xx/737xx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/24/14,13:16:05)
+
+			(User	Godwin)
+
+			(Path	parts_lib.tps735xx/737xx)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/24/14,13:09:42)
+
+			(User	Godwin)
+
+			(Path	parts_lib.tps735xx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	10/24/14,13:16:05)
+
+					(User	Godwin)
+
+					(Path	parts_lib.tps735xx/737xx)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c439e0fe)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/14,13:16:05)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps735xx/737xx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cf803e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000002b6dd09)
+
+			(Primitives	1
+
+				(Primitive	TPS735XX/737XX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/14,13:16:05)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps735xx/737xx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS735XX)
+
+						(LogicalPart	TPS735XX/737XX
+
+							(PackType	TPS735XX/737XX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	8SON)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001eb3043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8b03a6)
+
+)
+

@@ -1,0 +1,186 @@
+(Cell	ad9245
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.19)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/19/09,17:35:56)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad9245)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/19/09,17:56:22)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad9245)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000623aea2d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.17)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,17:53:11)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad9245)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7403d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000002838323)
+
+			(Primitives	1
+
+				(Primitive	AD9245
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.9)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,17:36:04)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ad9245)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD9245
+
+							(PackType	AD9245)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lfcsp_vq)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	lfcsp_vq_b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4303eb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd003a7)
+
+)
+

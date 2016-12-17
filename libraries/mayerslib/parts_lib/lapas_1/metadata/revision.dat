@@ -1,0 +1,180 @@
+(Cell	lapas_1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/15/09,18:08:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lapas_1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/28/09,14:17:33)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lapas_1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ecef0593)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/09,14:17:28)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lapas_1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f0d03e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002b9f9aeb)
+
+			(Primitives	1
+
+				(Primitive	LAPAS_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.9)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/15/09,18:08:24)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lapas_1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LAPAS_1
+
+							(PackType	LAPAS_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn_64)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e57040c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8b037a)
+
+)
+

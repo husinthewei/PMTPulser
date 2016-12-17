@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : lssop8.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jan 27 23:40:01 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/TestProj/symbols
+    Name      = lssop8.psm
+    User      = HEP
+    Machine   = HEP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

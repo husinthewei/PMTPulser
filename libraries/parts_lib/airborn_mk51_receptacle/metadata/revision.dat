@@ -1,0 +1,180 @@
+(Cell	airborn_mk51_receptacle
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/15/09,15:10:39)
+
+			(User	nandor)
+
+			(Path	parts.airborn_mk51_receptacle)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/15/09,11:31:00)
+
+			(User	nandor)
+
+			(Path	parts.airborn_mk51_plug)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e750d922)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/09,15:10:39)
+
+							(User	nandor)
+
+							(Path	parts.airborn_mk51_receptacle)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c780383)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002488bf27)
+
+			(Primitives	1
+
+				(Primitive	AIRBORN_MK51_RECEPTACLE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/09,15:10:39)
+
+							(User	nandor)
+
+							(Path	parts.airborn_mk51_receptacle)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AIRBORN_MK51_RECEPTACLE
+
+							(PackType	AIRBORN_MK51_RECEPTACLE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	airborn_mk_51receptacle)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b1c039d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c4a03a8)
+
+)
+

@@ -1,0 +1,16 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MC68HC908GR8CFA';
+  pin
+  end_pin;
+  body
+    PART_NAME='MC68HC908GR8CFA';
+    LIBRARY_NAME='mayerslib';
+    PACKAGE_CREATOR='?';
+    BODY_NAME='MC68HC908GR8CFA';
+    JEDEC_TYPE='pqfp32';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

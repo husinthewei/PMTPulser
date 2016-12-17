@@ -1,0 +1,10 @@
+(PropertyFile "1.0" 
+ (Creator " HDL Direct 15.00-s001 13-Aug-2003" )
+ (Created "Mon Feb  7 17:41:29 2005" )
+ (Cell "vee" 
+  (View "sch_1" 
+   (Pr 
+    ("SIZE" "1" )
+    ("ROT" "0" )
+    ("VER" "1" )
+    ("XY" "(800,1500)" )))))

@@ -1,0 +1,180 @@
+(Cell	conn_mod_key
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/07/14,13:26:18)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn_mod_key)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/07/14,13:27:29)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn_mod_key)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b0ab50f4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/07/14,13:27:13)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn_mod_key)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc403d5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000095b09d46)
+
+			(Primitives	1
+
+				(Primitive	CONN_MOD_KEY
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/07/14,13:26:29)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn_mod_key)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN_MOD_KEY
+
+							(PackType	CONN_MOD_KEY)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Mod_key)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c6e03a6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9b03aa)
+
+)
+

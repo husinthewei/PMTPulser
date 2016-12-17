@@ -1,0 +1,1 @@
+SPLBPD-170,Cell 'ada4937-1':Pin(s) 10 VOCM,6 COMM,9 VPOS,8 OPHI,4 INLO,2 RGP1,3 INHI,5 RGP2,7 OPLO,1 PWUP,COMM,VPOS is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

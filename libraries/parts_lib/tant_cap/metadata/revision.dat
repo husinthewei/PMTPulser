@@ -1,0 +1,326 @@
+(Cell	tant_cap
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.14)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/06,18:28:01)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.tant_cap)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/05/06,18:45:52)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.tant_cap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ecce5391)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,18:37:20)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.tant_cap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f0803e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004619fc68)
+
+			(Primitives	3
+
+				(Primitive	TANT_CAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,18:28:56)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.tant_cap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TANT_CAP
+
+							(PackType	TANT_CAP)
+
+							(PackType	TANT_CAP_TANT_B)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tant_b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	TANT_CAP_2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,18:42:38)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.tant_cap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TANT_CAP
+
+							(PackType	TANT_CAP_2)
+
+							(PackType	TANT_CAP_TANT_D)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tant_d)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Primitive	TANT_CAP_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,18:42:35)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.tant_cap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TANT_CAP
+
+							(PackType	TANT_CAP_1)
+
+							(PackType	TANT_CAP_TANT_C)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tant_c)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a330346)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b270346)
+
+)
+

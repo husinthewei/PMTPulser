@@ -1,0 +1,180 @@
+(Cell	conn37_screwholes
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/27/12,13:48:51)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn37_screwholes)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/27/12,14:03:03)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn37_screwholes)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006a63e40d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/12,14:02:54)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn37_screwholes)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5e03ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e522bf33)
+
+			(Primitives	1
+
+				(Primitive	CONN37_SCREWHOLES
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/12,13:48:54)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn37_screwholes)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN37_SCREWHOLES
+
+							(PackType	CONN37_SCREWHOLES)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	D_37_pin_conn)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b0d0376)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c170378)
+
+)
+

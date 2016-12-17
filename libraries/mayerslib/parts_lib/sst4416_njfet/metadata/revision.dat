@@ -1,0 +1,180 @@
+(Cell	sst4416_njfet
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/19/06,08:33:01)
+
+			(User	cadown)
+
+			(Path	parts.sst4416_njfet)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/19/06,08:41:16)
+
+			(User	cadown)
+
+			(Path	parts.sst4416_njfet)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007b0a9d18)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/19/06,08:33:01)
+
+							(User	cadown)
+
+							(Path	parts.sst4416_njfet)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce503b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007657c888)
+
+			(Primitives	1
+
+				(Primitive	SST4416_NJFET
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/19/06,08:34:01)
+
+							(User	cadown)
+
+							(Path	parts.sst4416_njfet)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SST4416_NJFET
+
+							(PackType	SST4416_NJFET)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7203b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba30378)
+
+)
+

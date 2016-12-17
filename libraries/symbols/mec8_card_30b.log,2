@@ -1,0 +1,19 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Create Symbol of type PACKAGE                       )
+(                                                            )
+(        Drawing          : Mec8_Card_30b.dra                )
+(        Software Version : 16.1p001                         )
+(        Date/Time        : Wed Jan 14 14:17:02 2009         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+Create symbol started.
+ 
+ Duplicate pin number 21. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

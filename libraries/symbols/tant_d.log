@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tant_d.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Sep 15 12:23:33 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PennTriggerBoard/symbols
+    Name      = tant_d.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+  WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 0 SECTOR TABLE	@67447624
+
+ WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

@@ -1,0 +1,186 @@
+(Cell	mec8_card30b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/14/09,14:46:12)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_card30b)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/14/09,14:55:35)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_card30b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa8baa6f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/09,14:50:34)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_card30b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f5a0440)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b742bdd3)
+
+			(Primitives	1
+
+				(Primitive	MEC8_CARD30B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/09,14:46:19)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_card30b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_CARD30B
+
+							(PackType	MEC8_CARD30B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mec8_card_30b)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	mec8_30pinb)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6603b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb30377)
+
+)
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DF22R-2P-7_92DS.dra                           )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Feb 13 13:23:02 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/mayerspcb/Symbols
+    Name      = df22r-2p-7_92ds.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

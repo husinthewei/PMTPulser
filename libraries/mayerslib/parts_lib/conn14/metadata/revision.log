@@ -1,0 +1,30 @@
+
+	(Comment
+		(Time 04/22/06,18:38:59)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package CONN14 added to cell")
+		(Param1 CONN14)
+	)
+	(Comment
+		(Time 04/22/06,18:40:30)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 01/31/07,16:06:21)
+		(User Administrator)
+		(MsgId ECO_021)
+		(Text "Package CONN14_1 added to cell")
+		(Param1 CONN14_1)
+	)
+	(Comment
+		(Time 01/31/07,16:24:56)
+		(User Administrator)
+		(MsgId ECO_022)
+		(Text "Package CONN14_1 deleted from cell")
+		(Param1 CONN14_1)
+	)

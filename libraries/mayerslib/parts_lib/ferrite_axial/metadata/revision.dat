@@ -1,0 +1,180 @@
+(Cell	ferrite_axial
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/14/13,15:17:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ferrite_axial)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/14/13,15:22:10)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ferrite_axial)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002eef4f99)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/13,15:20:52)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ferrite_axial)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e2c03ef)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000060549f7e)
+
+			(Primitives	1
+
+				(Primitive	FERRITE_AXIAL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/13,15:17:10)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ferrite_axial)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FERRITE_AXIAL
+
+							(PackType	FERRITE_AXIAL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ferrite_do35)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7803b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbf037c)
+
+)
+

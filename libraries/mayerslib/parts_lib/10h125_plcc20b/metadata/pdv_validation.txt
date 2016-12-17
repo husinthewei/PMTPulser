@@ -1,0 +1,1 @@
+SPLBPD-126,Package '10h125_plcc20b':No unique non-common pin found across sections 1 and 2 for the split part. Make sure that at least one unique pin is mapped to each section.,Error

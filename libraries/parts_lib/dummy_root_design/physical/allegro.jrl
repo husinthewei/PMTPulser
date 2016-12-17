@@ -1,0 +1,119 @@
+\t (00:00:02) allegro 16.1 S55 (v16-1-53CA) Linux IA32
+\t (00:00:02) 
+
+\t (00:00:02) Starting new drawing...
+\i (00:00:03) trapsize 923
+\i (00:00:03) trapsize 898
+\i (00:00:04) trapsize 1254
+\i (00:00:05) generaledit 
+\i (00:00:07) open 
+\f (00:00:07) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:09) fillin no 
+\i (00:00:25) fillin "/home/ashmansk/proj/spews/cadlib/footprints/CP-48-1.dra"
+\i (00:00:25) cd "/home/ashmansk/proj/spews/cadlib/footprints"
+\t (00:00:25) Opening existing drawing...
+\f (00:00:25) This database has been created using an earlier release of software and will be updated for compatibility with the current version.  Once saved, the database will only be accessible using the current or later versions of the software.  OK to proceed?
+\i (00:00:31) fillin yes 
+\t (00:00:32) Grids are drawn 4.0000, 4.0000 apart for enhanced viewability.
+\i (00:00:32) trapsize 822
+\i (00:00:32) trapsize 843
+\i (00:00:32) trapsize 1010
+\i (00:00:32) trapsize 1171
+\d (00:00:32) Database opened: /home/ashmansk/proj/spews/cadlib/footprints/CP-48-1.dra
+\i (00:00:32) generaledit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -3.1852 7.4202
+\i (00:00:33) trapsize 2342
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -3.1853 7.4202
+\t (00:00:33) Grids are drawn 1.0000, 1.0000 apart for enhanced viewability.
+\i (00:00:33) trapsize 4683
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -3.1853 7.4201
+\i (00:00:34) trapsize 2342
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -3.1853 7.4202
+\i (00:00:34) trapsize 4683
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -15.0801 9.2933
+\i (00:00:40) trapsize 2342
+\i (00:00:41) drag_start grid -7.4936 6.7177
+\i (00:00:42) drag_stop -3.9814 13.6954
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out -11.9893 9.8085
+\i (00:00:44) trapsize 4683
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -11.9893 9.8085
+\i (00:00:44) trapsize 2342
+\i (00:01:04) zoom fit 
+\i (00:01:04) trapsize 2383
+\i (00:02:22) grid toggle 
+\i (00:02:23) generaledit 
+\i (00:02:28) xsection 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) define lyrstack 
+   (00:02:28) Loading floor.cxt 
+   (00:02:28) Loading axlcore.cxt 
+\i (00:02:28) setwindow form.fplyrstack
+\i (00:02:28) FORM fplyrstack lsgrid cell 1,1 
+\i (00:03:09) FORM fplyrstack cancel  
+\i (00:03:09) setwindow pcb
+\i (00:03:09) generaledit 
+\i (00:03:19) check symbol 
+\i (00:03:26) setwindow form.symchk_form
+\i (00:03:26) FORM symchk_form run_chk  
+\t (00:03:26) REFDES Exist PASSED
+\t (00:03:26) REFDES Text Size FAILED
+\t (00:03:26) REFDES Subclass PASSED
+\t (00:03:26) COMPONENT VALUE Exist PASSED
+\t (00:03:26) COMPONENT VALUE Text Size Has WARNINGS
+\t (00:03:26) COMPONENT VALUE Subclass PASSED
+\t (00:03:26) DEVICE TYPE Exist Has WARNINGS
+\t (00:03:26) DEVICE TYPE Text Size Has WARNINGS
+\t (00:03:26) DEVICE TYPE Subclass Has WARNINGS
+\t (00:03:26) TOLERANCE Exist Has WARNINGS
+\t (00:03:26) TOLERANCE Text Size Has WARNINGS
+\t (00:03:26) TOLERANCE Subclass Has WARNINGS
+\t (00:03:26) USER PART NUMBER Exist PASSED
+\t (00:03:26) USER PART NUMBER Text Size FAILED
+\t (00:03:26) USER PART NUMBER Subclass FAILED
+\t (00:03:26) SILK SCREEN Geometry PASSED
+\t (00:03:26) ASSEMBLY Geometry PASSED
+\t (00:03:26) PIN Location Report PASSED
+   (00:03:26) Loading symchk.cxt 
+\i (00:03:47) FORM symchk_form get_log  
+\i (00:03:57) setwindow text
+\i (00:03:57) close 
+\i (00:03:58) setwindow form.symchk_form
+\i (00:03:58) FORM symchk_form done  
+\i (00:03:58) setwindow pcb
+\i (00:03:58) generaledit 
+\i (00:04:12) setwindow form.vf_vis
+\i (00:04:12) FORM vf_vis 1 all_colorvisible YES 
+\i (00:04:13) FORM vf_vis 1 all_colorvisible NO 
+\i (00:04:13) FORM vf_vis 1 all_colorvisible YES 
+\i (00:04:16) FORM vf_vis all_all_visible YES 
+\i (00:04:18) FORM vf_vis all_all_visible NO 
+\i (00:04:18) FORM vf_vis all_all_visible YES 
+\i (00:04:19) FORM vf_vis all_all_visible_pln NO 
+\i (00:04:20) FORM vf_vis all_all_visible_pln YES 
+\i (00:04:21) FORM vf_vis all_all_visible_pln NO 
+\i (00:04:21) FORM vf_vis all_all_visible_pln YES 
+\i (00:04:24) FORM vf_vis 1 all_colorvisible NO 
+\i (00:04:25) FORM vf_vis 1 all_colorvisible YES 
+\i (00:04:26) FORM vf_vis 2 all_colorvisible NO 
+\i (00:04:27) FORM vf_vis 2 all_colorvisible YES 
+\i (00:04:28) FORM vf_vis 3 all_colorvisible NO 
+\i (00:04:29) FORM vf_vis 3 all_colorvisible YES 
+\i (00:04:30) FORM vf_vis 3 all_colorvisible NO 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) exit 
+\f (00:04:38) Do you want to save the changes you made to CP-48-1.dra?
+\i (00:04:40) fillin no 

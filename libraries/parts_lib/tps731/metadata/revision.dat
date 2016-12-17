@@ -1,0 +1,180 @@
+(Cell	tps731
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/07/12,10:52:27)
+
+			(User	nandor)
+
+			(Path	parts.tps731)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/20/08,12:28:01)
+
+			(User	HEP)
+
+			(Path	lsst_new_board_lib.tps731)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008aa992ed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,10:52:27)
+
+							(User	nandor)
+
+							(Path	parts.tps731)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4203e8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000aea72316)
+
+			(Primitives	1
+
+				(Primitive	tps731
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,10:52:27)
+
+							(User	nandor)
+
+							(Path	parts.tps731)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	tps731
+
+							(PackType	tps731)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot25)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001eac0417)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d4503a7)
+
+)
+

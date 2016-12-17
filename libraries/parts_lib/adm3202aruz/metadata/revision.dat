@@ -1,0 +1,180 @@
+(Cell	adm3202aruz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,12:06:55 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.adm3202aruz)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,12:19:44 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.adm3202aruz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000815573d2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:17:51 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.adm3202aruz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a9d0354)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000058982fdd)
+
+			(Primitives	1
+
+				(Primitive	ADM3202ARUZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,12:07:09 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.adm3202aruz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADM3202ARUZ
+
+							(PackType	ADM3202ARUZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	adm3202_tssop16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a24031d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4e0371)
+
+)
+

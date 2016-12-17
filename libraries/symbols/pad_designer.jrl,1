@@ -1,0 +1,8 @@
+\t (00:00:00) pad_designer 15.7 p007 (v15-7-42E) i86
+\t (00:00:00) 
+
+\e (00:00:00) Error, Database revision 16.x is newer than current program version.
+\e (00:00:00) Error, Database revision 16.x is newer than current program version.
+\i (00:00:02) fillin confirm
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_exit

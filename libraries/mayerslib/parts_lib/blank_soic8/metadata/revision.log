@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/17/12,16:01:06)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package BLANK_SOIC8 added to cell")
+		(Param1 BLANK_SOIC8)
+	)
+	(Comment
+		(Time 12/17/12,16:02:12)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,180 @@
+(Cell	lm1085
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/05/12,12:54:35)
+
+			(User	HEP)
+
+			(Path	mayers_lib.lm1085)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/05/12,13:01:12)
+
+			(User	HEP)
+
+			(Path	mayers_lib.lm1085)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ad387144)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/05/12,12:58:23)
+
+							(User	HEP)
+
+							(Path	mayers_lib.lm1085)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce90381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002577f355)
+
+			(Primitives	1
+
+				(Primitive	LM1085
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/05/12,12:54:44)
+
+							(User	HEP)
+
+							(Path	mayers_lib.lm1085)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM1085
+
+							(PackType	LM1085)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DDpak_3pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b3a0383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c190376)
+
+)
+

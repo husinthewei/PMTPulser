@@ -1,0 +1,14 @@
+	(Comment
+		(Time 04/14/2010,01:41:37 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package XC3S1400ANFGG676 added to cell")
+		(Param1 XC3S1400ANFGG676)
+	)
+	(Comment
+		(Time 04/14/2010,02:26:20 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

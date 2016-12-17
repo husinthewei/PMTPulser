@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/12/2014,05:06:15 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package ASEMPLV added to cell")
+		(Param1 ASEMPLV)
+	)
+	(Comment
+		(Time 06/12/2014,05:18:25 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

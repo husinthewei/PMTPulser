@@ -1,0 +1,182 @@
+(Cell	conn16
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/01/06,20:56:56)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.conn16)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/01/06,21:37:47)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.conn16)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000038aa68d8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/01/06,21:37:30)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.conn16)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9b03b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a55f20fe)
+
+			(Primitives	1
+
+				(Primitive	CONN16
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/01/06,20:57:04)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.conn16)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN16
+
+							(PackType	CONN16)
+
+							(PackType	CONN16_HDR16)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de603da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001d0203d9)
+
+)
+

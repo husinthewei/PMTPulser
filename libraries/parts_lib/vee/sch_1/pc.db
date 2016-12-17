@@ -1,0 +1,13 @@
+-- pcdb file, Rev:1.0 written by Concept-HDL 15.00-s004 31-Oct-2003 on Mon Feb  7 17:41:27 2005
+#ISCELL
+  standard define *
+  *
+#ISCELL
+  standard drawing *
+  *
+#ISCELL
+  standard pin#20names *
+  *
+#ISCELL
+  standard replicate *
+  page1_2p

@@ -1,0 +1,180 @@
+(Cell	dsm_0402
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/02/13,17:03:45)
+
+			(User	Godwin)
+
+			(Path	parts.dsm_0402)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/27/10,14:44:14)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.diode)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000103057a4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/13,17:03:45)
+
+							(User	Godwin)
+
+							(Path	parts.dsm_0402)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a390346)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002f94985a)
+
+			(Primitives	1
+
+				(Primitive	DSM_0402
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/13,17:03:45)
+
+							(User	Godwin)
+
+							(Path	parts.dsm_0402)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DSM_0402
+
+							(PackType	DSM_0402)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	d0402)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4103e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b950374)
+
+)
+

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 10/17/12,12:43:43)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package ASP_CHANNEL1 added to cell")
+		(Param1 ASP_CHANNEL1)
+	)
+	(Comment
+		(Time 10/17/12,12:45:34)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

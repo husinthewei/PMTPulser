@@ -1,0 +1,204 @@
+(Cell	tps74201_qfn20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/02/14,11:45:05)
+
+			(User	mbreilly)
+
+			(Path	mayers_lib.tps74201_qfn20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/02/14,12:30:27)
+
+			(User	mbreilly)
+
+			(Path	mayers_lib.tps74201_qfn20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.11)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bd8ec1a1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/02/14,12:23:48)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.tps74201_qfn20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ef7040a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000863ebebc)
+
+			(Primitives	1
+
+				(Primitive	TPS74201_QFN20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/02/14,11:52:18)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.tps74201_qfn20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS74201_QFN20
+
+							(PackType	TPS74201_QFN20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tps74201)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ca403ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd603d2)
+
+)
+

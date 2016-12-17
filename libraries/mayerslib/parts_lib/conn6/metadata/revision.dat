@@ -1,0 +1,188 @@
+(Cell	conn6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/12/06,23:17:29)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.conn6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/29/06,18:02:48)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.conn6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002d62a68d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/06,23:46:43)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.conn6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5403b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004acdef93)
+
+			(Primitives	1
+
+				(Primitive	CONN6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/06,23:17:38)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.conn6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN6
+
+							(PackType	CONN6)
+
+							(PackType	CONN6_HDR6)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR6)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	HSR6)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001af00353)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c490374)
+
+)
+

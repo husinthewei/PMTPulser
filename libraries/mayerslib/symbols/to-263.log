@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TO-263.dra                                    )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Jun 05 12:57:08 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = to-263.psm
+    User      = HEP
+    Machine   = UPENN-2CE323C8D
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,180 @@
+(Cell	ssb44_smb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/22/2010,02:25:34 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ssb44_smb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/22/2010,02:34:12 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ssb44_smb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007674605c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/22/2010,02:30:43 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ssb44_smb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a850357)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000820f9af3)
+
+			(Primitives	1
+
+				(Primitive	SSB44_SMB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/22/2010,02:27:21 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ssb44_smb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SSB44_SMB
+
+							(PackType	SSB44_SMB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ssb44_smb)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c8303bd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bdd03a9)
+
+)
+

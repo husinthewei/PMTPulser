@@ -1,0 +1,180 @@
+(Cell	opa890
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/02/12,13:45:17)
+
+			(User	HEP)
+
+			(Path	mayers_lib.opa890)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/02/12,13:50:10)
+
+			(User	HEP)
+
+			(Path	mayers_lib.opa890)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000035e59a33)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/12,13:48:40)
+
+							(User	HEP)
+
+							(Path	mayers_lib.opa890)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001be20383)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f284e8f3)
+
+			(Primitives	1
+
+				(Primitive	OPA890
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/12,13:46:17)
+
+							(User	HEP)
+
+							(Path	mayers_lib.opa890)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA890
+
+							(PackType	OPA890)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot236)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ccf03b8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001db203db)
+
+)
+

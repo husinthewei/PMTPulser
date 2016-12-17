@@ -1,0 +1,13 @@
+(DEVICE FILE: pwr_ind_jwm)
+
+PACKAGE pwr_ind_jwm
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER pwr_ind_jwm  1 2
+
+PINSWAP pwr_ind_jwm  1 2
+
+FUNCTION pwr_ind_jwm pwr_ind_jwm  1 2
+
+END

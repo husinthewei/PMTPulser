@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tssop8a.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Nov 20 14:16:02 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PMPv3/worklib/clock_board/physical
+    Name      = tssop8a.psm
+    User      = HEP
+    Machine   = HEP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

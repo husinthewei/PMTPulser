@@ -1,0 +1,180 @@
+(Cell	acx1991
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/17/13,00:56:28)
+
+			(User	Godwin)
+
+			(Path	parts.acx1991)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/17/13,01:03:26)
+
+			(User	Godwin)
+
+			(Path	parts.acx1991)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000385c7ef7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/13,01:00:24)
+
+							(User	Godwin)
+
+							(Path	parts.acx1991)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c2b03bd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ec05c4f2)
+
+			(Primitives	1
+
+				(Primitive	ACX1991
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/17/13,00:56:36)
+
+							(User	Godwin)
+
+							(Path	parts.acx1991)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ACX1991
+
+							(PackType	ACX1991)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SMA_132372)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b5f03af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc303d9)
+
+)
+

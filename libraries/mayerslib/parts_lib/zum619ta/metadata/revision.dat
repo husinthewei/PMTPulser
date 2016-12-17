@@ -1,0 +1,180 @@
+(Cell	zum619ta
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/10/12,16:20:57)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.zum619ta)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/10/12,16:23:50)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.zum619ta)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000817777b7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/10/12,16:23:44)
+
+							(User	nandor)
+
+							(Path	lsst_lb_lib.zum619ta)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ac0035f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002487c6e1)
+
+			(Primitives	1
+
+				(Primitive	ZUM619TA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/10/12,16:21:00)
+
+							(User	nandor)
+
+							(Path	lsst_lb_lib.zum619ta)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ZUM619TA
+
+							(PackType	ZUM619TA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot323)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc403ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce203d4)
+
+)
+

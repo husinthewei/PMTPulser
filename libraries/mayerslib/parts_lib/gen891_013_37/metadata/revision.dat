@@ -1,0 +1,180 @@
+(Cell	gen891_013_37
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/14/12,11:22:23)
+
+			(User	nandor)
+
+			(Path	parts.gen891_013_37)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/11/09,19:30:13)
+
+			(User	nandor)
+
+			(Path	parts.gen891009_37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000963eee6f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/12,11:22:23)
+
+							(User	nandor)
+
+							(Path	parts.gen891_013_37)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd203ee)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000099c6bfd0)
+
+			(Primitives	1
+
+				(Primitive	GEN891_013_37
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/12,11:22:23)
+
+							(User	nandor)
+
+							(Path	parts.gen891_013_37)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GEN891_013_37
+
+							(PackType	GEN891_013_37)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Omnetics_A29100-037)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1603e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba2037c)
+
+)
+

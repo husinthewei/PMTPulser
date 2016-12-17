@@ -1,0 +1,14 @@
+	(Comment
+		(Time 11/25/15,13:10:14)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package TESTPART added to cell")
+		(Param1 "TESTPART")
+	)
+	(Comment
+		(Time 11/25/15,13:23:41)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

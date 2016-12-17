@@ -1,0 +1,204 @@
+(Cell	molex_pwr_conn6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/08/14,16:03:13)
+
+			(User	Godwin)
+
+			(Path	parts_lib.molex_pwr_conn6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/08/14,16:10:20)
+
+			(User	Godwin)
+
+			(Path	parts_lib.molex_pwr_conn6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a1ada0c3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/08/14,16:04:31)
+
+							(User	Godwin)
+
+							(Path	parts_lib.molex_pwr_conn6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e7603ff)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b3d35a59)
+
+			(Primitives	1
+
+				(Primitive	MOLEX_PWR_CONN6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/08/14,16:03:20)
+
+							(User	Godwin)
+
+							(Path	parts_lib.molex_pwr_conn6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MOLEX_PWR_CONN6
+
+							(PackType	MOLEX_PWR_CONN6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	molex_53258_0629)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c48038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b88037e)
+
+)
+

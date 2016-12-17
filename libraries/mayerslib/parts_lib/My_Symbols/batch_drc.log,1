@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : TantC.dra                        )
+(        Software Version : 15.5p008                         )
+(        Date/Time        : Wed Mar 01 13:12:41 2006         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Wed Mar 01 13:12:41 2006
+ ========= check standalone pins              Wed Mar 01 13:12:41 2006
+ ========= check symbols (pins,lines,text)    Wed Mar 01 13:12:41 2006
+ ========= check nets                         Wed Mar 01 13:12:41 2006
+ ========= check standalone branches          Wed Mar 01 13:12:41 2006
+ ========= check standalone filled rectangles Wed Mar 01 13:12:41 2006
+ ========= check standalone lines             Wed Mar 01 13:12:41 2006
+ ========= check standalone text              Wed Mar 01 13:12:41 2006
+ ========= check standalone rectangles        Wed Mar 01 13:12:41 2006
+
+ ..... Total number of DRC errors  0
+
+ ..... end batch DRC at                       Wed Mar 01 13:12:41 2006
+ *************************************************************************
+

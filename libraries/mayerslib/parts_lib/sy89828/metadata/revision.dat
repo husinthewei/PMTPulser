@@ -1,0 +1,180 @@
+(Cell	sy89828
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/13/2014,09:49:01 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sy89828)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/13/2014,10:34:10 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sy89828)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006a600319)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/13/2014,10:28:57 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sy89828)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b4f034b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ca4c97e3)
+
+			(Primitives	1
+
+				(Primitive	SY89828
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/13/2014,09:49:20 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sy89828)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SY89828
+
+							(PackType	SY89828)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sy89828l_tqfp64)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7e03e8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-P2 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb203b2)
+
+)
+

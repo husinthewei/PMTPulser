@@ -1,0 +1,183 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Wed Mar 02 01:16:10 2016
+\t (00:00:03)         Host=HEP-PC User=HEP Pid=6424 CPUs=2
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) fillin yes 
+\d (00:00:07) Database opened: C:/SPB_Data/TestProj/symbols/sot23.dra
+\i (00:00:07) trapsize 1
+\t (00:00:07) Grids are drawn 4, 4 apart for enhanced viewability.
+\i (00:00:07) trapsize 1
+\i (00:00:07) generaledit 
+\i (00:00:08) trapsize 3
+\i (00:00:09) zoom in 0.100000 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 13 47 0.1
+\i (00:00:09) trapsize 2
+\i (00:00:09) zoom in 0.100000 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 12 58 0.1
+\i (00:00:09) trapsize 2
+\i (00:00:09) zoom in 0.100000 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 13 59 0.1
+\i (00:00:09) trapsize 2
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -18 37 0.1
+\i (00:00:10) trapsize 2
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -20 35 0.1
+\i (00:00:10) trapsize 2
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -27 29 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -28 28 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -32 23 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -49 22 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -49 22 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -50 23 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:10) zoom in 0.100000 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -51 24 0.1
+\i (00:00:10) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -58 32 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -57 33 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -57 33 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -56 33 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -55 32 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -55 33 0.1
+\i (00:00:11) trapsize 1
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -50 23 0.1
+\i (00:00:11) trapsize 2
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -50 22 0.1
+\i (00:00:11) trapsize 2
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -50 22 0.1
+\i (00:00:11) trapsize 2
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -49 22 0.1
+\i (00:00:11) trapsize 2
+\i (00:00:11) zoom out 0.100000 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -49 22 0.1
+\i (00:00:11) trapsize 2
+\i (00:00:13) roam x -96 
+\i (00:00:13) roam x -96
+\i (00:00:13) roam x -96 
+\i (00:00:13) roam x -96
+\i (00:00:13) roam x -96 
+\i (00:00:13) roam x -96
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 29 5 0.1
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 36 5 0.1
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 36 6 0.1
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 37 6 0.1
+\i (00:00:15) trapsize 2
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 47 3 0.1
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 47 4 0.1
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 47 5 0.1
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 47 6 0.1
+\i (00:00:15) trapsize 1
+\i (00:00:15) zoom in 0.100000 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 46 7 0.1
+\i (00:00:15) trapsize 1
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 43 10 0.1
+\i (00:00:16) trapsize 1
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 43 10 0.1
+\i (00:00:16) trapsize 1
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 44 11 0.1
+\i (00:00:16) trapsize 1
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 44 11 0.1
+\i (00:00:16) trapsize 1
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 44 12 0.1
+\i (00:00:16) trapsize 2
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 44 13 0.1
+\i (00:00:16) trapsize 2
+\i (00:00:16) zoom out 0.100000 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 45 14 0.1
+\i (00:00:16) trapsize 2
+\i (00:00:17) open 
+\e (00:00:17) Do you want to save the changes you made to sot23.dra?
+\i (00:00:19) fillin no 
+\i (00:00:22) fillin "menu_cancel"
+\i (00:00:22) generaledit 
+\i (00:00:28) exit 
+\e (00:00:28) Do you want to save the changes you made to sot23.dra?
+\i (00:00:30) fillin no 
+\t (00:00:30)     Journal end - Wed Mar 02 01:16:37 2016

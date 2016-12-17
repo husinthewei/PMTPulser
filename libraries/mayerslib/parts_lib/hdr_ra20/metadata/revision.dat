@@ -1,0 +1,180 @@
+(Cell	hdr_ra20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/20/09,16:09:27)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr_ra20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/20/09,16:15:27)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr_ra20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000033f1ac34)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/09,16:11:33)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr_ra20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6d03a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002001c183)
+
+			(Primitives	1
+
+				(Primitive	HDR_RA20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/09,16:09:31)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr_ra20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HDR_RA20
+
+							(PackType	HDR_RA20)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4c03df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc203da)
+
+)
+

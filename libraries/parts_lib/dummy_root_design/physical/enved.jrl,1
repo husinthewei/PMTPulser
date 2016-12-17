@@ -1,0 +1,7 @@
+\t (00:00:00) enved 16.01 S33 (v16-1-53AR) Linux IA32
+\t (00:00:00) 
+
+\i (00:00:13) setwindow form.prfedit
+\i (00:00:13) FORM prfedit treelist  Design_paths 
+\i (00:00:21) FORM prfedit psmpath  
+\i (00:01:56) FORM prfedit done  

@@ -1,0 +1,180 @@
+(Cell	fci_84516_b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/14,21:35:51)
+
+			(User	Godwin)
+
+			(Path	amb_lib.fci_84516_b)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/05/14,22:11:13)
+
+			(User	Godwin)
+
+			(Path	amb_lib.fci_84516_b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004759ea92)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/14,21:42:08)
+
+							(User	Godwin)
+
+							(Path	amb_lib.fci_84516_b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ba7038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001ac5bf78)
+
+			(Primitives	1
+
+				(Primitive	FCI_84516_B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/14,21:36:02)
+
+							(User	Godwin)
+
+							(Path	amb_lib.fci_84516_b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FCI_84516_B
+
+							(PackType	FCI_84516_B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	FCI_84516_200_pin_BGA)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bcd037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7603d8)
+
+)
+

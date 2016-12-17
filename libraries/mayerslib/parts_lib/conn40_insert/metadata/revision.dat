@@ -1,0 +1,180 @@
+(Cell	conn40_insert
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/08/12,16:43:36)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn40_insert)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/13/12,13:48:17)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn40_insert)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fd58b9fb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/12,13:48:10)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn40_insert)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e73041b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a564c2f3)
+
+			(Primitives	1
+
+				(Primitive	CONN40_INSERT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/12,13:47:16)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn40_insert)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN40_INSERT
+
+							(PackType	CONN40_INSERT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	conn40_flat_insert)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dae03e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001da703d5)
+
+)
+

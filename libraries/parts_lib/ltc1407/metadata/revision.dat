@@ -1,0 +1,188 @@
+(Cell	ltc1407
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/24/12,17:38:36)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ltc1407)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/25/12,17:04:37)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ltc1407)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000526ef90c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/25/12,16:56:37)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ltc1407)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c1903b5)
+
+		)
+
+		(View	Schematic
+
+			(Pages	0)
+
+			(Checksum	000000001ba20379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000027312d62)
+
+			(Primitives	1
+
+				(Primitive	LTC1407
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/24/12,17:38:40)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ltc1407)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC1407
+
+							(PackType	LTC1407)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	msop_11)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bab03a7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d8803d2)
+
+)
+

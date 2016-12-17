@@ -1,0 +1,204 @@
+(Cell	TPS60502
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/25/15,13:54:36)
+
+			(User	HEP)
+
+			(Path	parts_lib.TPS60502)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/25/15,13:45:35)
+
+			(User	HEP)
+
+			(Path	parts_lib.testpart)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.3)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	11/25/15,13:54:36)
+
+					(User	HEP)
+
+					(Path	parts_lib.TPS60502)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004b8ef152)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/25/15,13:54:36)
+
+							(User	HEP)
+
+							(Path	parts_lib.TPS60502)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2e03b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c47f0793)
+
+			(Primitives	1
+
+				(Primitive	TPS60502
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/25/15,13:54:36)
+
+							(User	HEP)
+
+							(Path	parts_lib.TPS60502)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS60502
+
+							(PackType	TPS60502)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	vssop10)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e0c03d7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8203a8)
+
+)
+

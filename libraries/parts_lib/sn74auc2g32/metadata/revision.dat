@@ -1,0 +1,204 @@
+(Cell	sn74auc2g32
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.17)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/26/16,23:09:26)
+
+			(User	HEP)
+
+			(Path	parts_lib.sn74auc2g32)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/26/16,22:59:34)
+
+			(User	HEP)
+
+			(Path	parts_lib.ssop8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.17)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	01/26/16,23:09:26)
+
+					(User	HEP)
+
+					(Path	parts_lib.sn74auc2g32)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006d3d6d5f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.13)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/26/16,23:09:26)
+
+							(User	HEP)
+
+							(Path	parts_lib.sn74auc2g32)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3603e7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000edb0aea4)
+
+			(Primitives	1
+
+				(Primitive	SN74AUC2G32
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/26/16,23:09:26)
+
+							(User	HEP)
+
+							(Path	parts_lib.sn74auc2g32)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74AUC2G32
+
+							(PackType	SN74AUC2G32)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lssop8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5c03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc503d8)
+
+)
+

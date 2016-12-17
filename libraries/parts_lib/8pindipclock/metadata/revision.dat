@@ -1,0 +1,180 @@
+(Cell	8pindipclock
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/16/12,12:22:13)
+
+			(User	HEP)
+
+			(Path	mayers_lib.8pindipclock)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/16/12,12:24:43)
+
+			(User	HEP)
+
+			(Path	mayers_lib.8pindipclock)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000709ac88a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/12,12:23:40)
+
+							(User	HEP)
+
+							(Path	mayers_lib.8pindipclock)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c1803b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c13f65aa)
+
+			(Primitives	1
+
+				(Primitive	8PINDIPCLOCK
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/16/12,12:22:16)
+
+							(User	HEP)
+
+							(Path	mayers_lib.8pindipclock)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	8PINDIPCLOCK
+
+							(PackType	8PINDIPCLOCK)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dip8_3)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1c038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5303a6)
+
+)
+

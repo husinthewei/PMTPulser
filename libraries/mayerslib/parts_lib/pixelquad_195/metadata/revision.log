@@ -1,0 +1,14 @@
+	(Comment
+		(Time 09/15/11,17:58:59)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package PIXELQUAD_195 added to cell")
+		(Param1 PIXELQUAD_195)
+	)
+	(Comment
+		(Time 09/15/11,18:00:04)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

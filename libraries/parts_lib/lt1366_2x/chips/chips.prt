@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LT1366_2X';
+  pin
+    'OUT':
+      PIN_NUMBER='(1,7)';
+      OUTPUT_LOAD='(-1.000000,1.000000)';
+    '-V':
+      PIN_NUMBER='(4,4)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    '+V':
+      PIN_NUMBER='(8,8)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '-IN':
+      PIN_NUMBER='(2,6)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    '+IN':
+      PIN_NUMBER='(3,5)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+  end_pin;
+  body
+    PART_NAME='lt1366_2X';
+    BODY_NAME='LT1366_2X';
+    JEDEC_TYPE='soic8';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

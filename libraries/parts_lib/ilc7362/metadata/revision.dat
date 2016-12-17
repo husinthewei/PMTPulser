@@ -1,0 +1,180 @@
+(Cell	ilc7362
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/26/13,15:29:05)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ilc7362)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/26/13,15:35:50)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ilc7362)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b4095fd9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,15:32:37)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ilc7362)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9003b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003334c435)
+
+			(Primitives	1
+
+				(Primitive	ILC7362
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,15:29:09)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ilc7362)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ILC7362
+
+							(PackType	ILC7362)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot89)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001def0415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d6303ab)
+
+)
+

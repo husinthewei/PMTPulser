@@ -1,0 +1,12 @@
+(PropertyFile "1.0"
+	(Creator "Device property file created by analog_uprev: ground on Mon Dec 11 13:00:54 IST 2000")
+	("device_info"
+		( MODEL_TYPE 3 )
+		( SYMBOL_NAME "Ground" )
+		( PORT_ORDER 
+ 			("A")
+ 			("B") )
+	)
+	("device_max_ops"
+	)
+)

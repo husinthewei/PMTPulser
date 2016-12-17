@@ -1,0 +1,180 @@
+(Cell	conn40
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/14/09,14:23:09)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/14/09,14:33:13)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007492e3e5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/09,14:28:41)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b700389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000da54beb7)
+
+			(Primitives	1
+
+				(Primitive	CONN40
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/14/09,14:23:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN40
+
+							(PackType	CONN40)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	conn40)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8303ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001be103a8)
+
+)
+

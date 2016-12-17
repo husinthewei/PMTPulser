@@ -1,0 +1,180 @@
+(Cell	ad9287
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/19/2009,05:35:12 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib_lib.ad9287)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/19/2009,05:53:03 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib_lib.ad9287)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000220bbae0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/2009,05:52:27 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib_lib.ad9287)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6d03cf)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f2a1b92e)
+
+			(Primitives	1
+
+				(Primitive	AD9287_CP48-1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.9)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/19/2009,05:39:04 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib_lib.ad9287)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD9287
+
+							(PackType	AD9287_CP48-1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn50p700x700x100-49an)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1d043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c5a03a6)
+
+)
+

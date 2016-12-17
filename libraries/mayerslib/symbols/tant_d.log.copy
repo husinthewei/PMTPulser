@@ -1,0 +1,28 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tant_d.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Sep 15 12:23:33 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PennTriggerBoard/symbols
+    Name      = tant_d.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+  <b><i><font color="darkred">WARNING(SPMHA1-264)</i></b></font>: Sector table is not empty .... use dbdoctor to resolve. 0 SECTOR TABLE	@67447624
+
+ <b><i><font color="darkred">WARNING(SPMHA1-264)</i></b></font>: Sector table is not empty .... use dbdoctor to resolve. 
+
+<b><i><font color="darkred">ERROR(SPMHA1-291)</i></b></font>: Create symbol has been aborted.
+
+</PRE>
+</BODY></HTML>

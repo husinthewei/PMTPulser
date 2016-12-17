@@ -1,0 +1,1 @@
+SPLBPD-170,Cell 'lt1763_33':Pin(s) NC 12,NC  4,NC  9,SENSE/ADJ  5,OUT  2,OUT  3,NC  1,BYP  6,9 NC,1 NC,4 NC,13 GND,12 NC,5 SENSE/ADJ,1,4,GND is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

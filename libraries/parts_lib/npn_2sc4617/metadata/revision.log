@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/23/09,15:05:48)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package NPN_2SC4617 added to cell")
+		(Param1 NPN_2SC4617)
+	)
+	(Comment
+		(Time 12/23/09,15:08:16)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

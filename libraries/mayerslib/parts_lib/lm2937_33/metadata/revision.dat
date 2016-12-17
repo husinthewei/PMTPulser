@@ -1,0 +1,180 @@
+(Cell	lm2937_33
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/01/08,00:07:45)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm2937_33)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/01/08,00:10:47)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm2937_33)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e29e7681)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/01/08,00:10:16)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm2937_33)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc4038c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000afa7b118)
+
+			(Primitives	1
+
+				(Primitive	LM2937_33
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/01/08,00:07:49)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm2937_33)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM2937_33
+
+							(PackType	LM2937_33)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot223)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ee5040a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c9f03a6)
+
+)
+

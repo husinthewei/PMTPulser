@@ -1,0 +1,46 @@
+(Cell	lmv2011mf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/13/05,13:56:36)
+
+			(User	ematsumo)
+
+			(Path	petparts.lmv2011mf)
+
+		)
+
+	)
+
+	(Views	
+
+		(Checksum	00000001)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	20000002)
+
+)
+

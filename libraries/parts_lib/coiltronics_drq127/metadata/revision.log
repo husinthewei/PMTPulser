@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/24/2010,04:12:29 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package COILTRONICS_DRQ127 added to cell")
+		(Param1 COILTRONICS_DRQ127)
+	)
+	(Comment
+		(Time 08/24/2010,04:15:18 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

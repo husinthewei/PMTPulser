@@ -1,0 +1,180 @@
+(Cell	conn50_127mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/16/11,16:53:27)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn50_127mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/16/11,16:57:05)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn50_127mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009bbde62b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/16/11,16:56:35)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn50_127mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e820411)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000acaabed2)
+
+			(Primitives	1
+
+				(Primitive	CONN50_127MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/16/11,16:53:32)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn50_127mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN50_127MM
+
+							(PackType	CONN50_127MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CONN50_127mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ed00408)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c570377)
+
+)
+

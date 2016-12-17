@@ -1,0 +1,211 @@
+(marker_file
+  (version 1.0)
+  (markers
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 1)
+   (short_msg "Incorrect Text Size For REFDES Text.")
+   (long_msg "Text Size For REFDES is Incorrect.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "-4.5000:4.7500=REF DES/SILKSCREEN_TOP")
+     (parent_canonical_name "TEXT@(-4.5 4.75)")
+     (drawing_name "TEXT@(-4.5 4.75)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 2)
+   (short_msg "Incorrect Text Size For REFDES Text.")
+   (long_msg "Text Size For REFDES is Incorrect.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:-0.2489=REF DES/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 -0.2489)")
+     (drawing_name "TEXT@(0.0 -0.2489)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 3)
+   (short_msg "Incorrect Text Size For COMPONENT VALUE Text.")
+   (long_msg "Text Size For COMPONENT VALUE is Incorrect.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=COMPONENT VALUE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 4)
+   (short_msg "No DEVICE Text in Symbol.")
+   (long_msg "No DEVICE Text in Symbol
+ DEVICE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=DEVICE TYPE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 5)
+   (short_msg "No TOLERANCE Text in Symbol.")
+   (long_msg "No TOLERANCE Text in Symbol
+ TOLERANCE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=TOLERANCE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 6)
+   (short_msg "Incorrect Text Size For USER PART NUMBER Text.")
+   (long_msg "Text Size For USER PART NUMBER is Incorrect.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/SILKSCREEN_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 7)
+   (short_msg "Incorrect Text Size For USER PART NUMBER Text.")
+   (long_msg "Text Size For USER PART NUMBER is Incorrect.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 8)
+   (short_msg "Incorrect Subclass Assignment For USER PART NUMBER Text.")
+   (long_msg "Subclass Assignment For USER PART NUMBER Text Not
+on an Allowed Layer.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/SILKSCREEN_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 20)
+   (error_num 9)
+   (short_msg "PIN LOCATION DATA")
+   (long_msg "PIN LOCATION DATA:
+1      (-3.25 3.75) SPM55X30
+2      (-3.25 3.25) SPM55X30
+3      (-3.25 2.75) SPM55X30
+4      (-3.25 2.25) SPM55X30
+5      (-3.25 1.75) SPM55X30
+6      (-3.25 1.25) SPM55X30
+7      (-3.25 0.75) SPM55X30
+8      (-3.25 0.25) SPM55X30
+9      (-3.25 -0.25) SPM55X30
+10     (-3.25 -0.75) SPM55X30
+11     (-3.25 -1.25) SPM55X30
+12     (-3.25 -1.75) SPM55X30
+13     (-2.5 -2.5) SPM30X55
+14     (-2.0 -2.5) SPM30X55
+15     (-1.5 -2.5) SPM30X55
+16     (-1.0 -2.5) SPM30X55
+17     (-0.5 -2.5) SPM30X55
+18     (0.0 -2.5) SPM30X55
+19     (0.5 -2.5) SPM30X55
+20     (1.0 -2.5) SPM30X55
+21     (1.5 -2.5) SPM30X55
+22     (2.0 -2.5) SPM30X55
+23     (2.5 -2.5) SPM30X55
+24     (3.0 -2.5) SPM30X55
+25     (3.75 -1.75) SPM55X30
+26     (3.75 -1.25) SPM55X30
+27     (3.75 -0.75) SPM55X30
+28     (3.75 -0.25) SPM55X30
+29     (3.75 0.25) SPM55X30
+30     (3.75 0.75) SPM55X30
+31     (3.75 1.25) SPM55X30
+32     (3.75 1.75) SPM55X30
+33     (3.75 2.25) SPM55X30
+34     (3.75 2.75) SPM55X30
+35     (3.75 3.25) SPM55X30
+36     (3.75 3.75) SPM55X30
+37     (3.0 4.5) SPM30X55
+38     (2.5 4.5) SPM30X55
+39     (2.0 4.5) SPM30X55
+40     (1.5 4.5) SPM30X55
+41     (1.0 4.5) SPM30X55
+42     (0.5 4.5) SPM30X55
+43     (0.0 4.5) SPM30X55
+44     (-0.5 4.5) SPM30X55
+45     (-1.0 4.5) SPM30X55
+46     (-1.5 4.5) SPM30X55
+47     (-2.0 4.5) SPM30X55
+48     (-2.5 4.5) SPM30X55
+")
+   (location
+    (
+     (object_kind "PIN")
+     (canonical_name "0.0000:0.0000=PIN")
+     (parent_canonical_name "PIN@(0.0 0.0)")
+     (drawing_name "PIN@(0.0 0.0)")
+    )
+
+   )
+  )
+
+  )
+)

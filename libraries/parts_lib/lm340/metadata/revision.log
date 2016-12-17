@@ -1,0 +1,31 @@
+
+	(Comment
+		(Time 04/23/06,06:45:13)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package LM340 added to cell")
+		(Param1 LM340)
+	)
+	(Comment
+		(Time 04/23/06,08:58:53)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 04/23/06,14:22:27)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 04/23/06,14:23:12)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)

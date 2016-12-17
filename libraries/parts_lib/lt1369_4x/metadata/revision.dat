@@ -1,0 +1,190 @@
+(Cell	lt1369_4x
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	04/01/09,23:54:56)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1369_4x)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/01/09,23:57:47)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1369_4x)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002aa3467b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/09,23:57:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1369_4x)
+
+						)
+
+						(LastModifyInfo	
+
+							(Time	04/01/09,23:57:47)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1369_4x)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8e03ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c8fd5619)
+
+			(Primitives	1
+
+				(Primitive	LT1369_4X_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	04/01/09,23:54:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1369_4x)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT1369_4X_1
+
+							(PackType	LT1369_4X_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic14)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1e03ba)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.01-s025 (v16-1-53))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb103d2)
+
+)
+

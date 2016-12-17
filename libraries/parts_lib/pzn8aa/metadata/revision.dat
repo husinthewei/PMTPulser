@@ -1,0 +1,180 @@
+(Cell	pzn8aa
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/02/09,15:18:29)
+
+			(User	nandor)
+
+			(Path	parts.pzn8aa)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/02/09,15:24:10)
+
+			(User	nandor)
+
+			(Path	parts.pzn8aa)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000af9be2ae)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/09,15:21:07)
+
+							(User	nandor)
+
+							(Path	parts.pzn8aa)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f330440)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000030efb1a7)
+
+			(Primitives	1
+
+				(Primitive	PZN8AA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/02/09,15:18:37)
+
+							(User	nandor)
+
+							(Path	parts.pzn8aa)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PZN8AA
+
+							(PackType	PZN8AA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	omnetics_pzn8aa)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b16037d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b650379)
+
+)
+

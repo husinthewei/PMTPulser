@@ -1,0 +1,180 @@
+(Cell	fw40_samtec
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/11/10,12:44:55)
+
+			(User	nandor)
+
+			(Path	parts.fw40_samtec)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/11/10,13:17:54)
+
+			(User	nandor)
+
+			(Path	parts.fw40_samtec)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cd8df12a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,13:14:35)
+
+							(User	nandor)
+
+							(Path	parts.fw40_samtec)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ed8040e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000029bcc0e0)
+
+			(Primitives	1
+
+				(Primitive	FW40_SAMTEC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,12:46:03)
+
+							(User	nandor)
+
+							(Path	parts.fw40_samtec)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FW40_SAMTEC
+
+							(PackType	FW40_SAMTEC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fw40_samtec)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ba903bb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce803d5)
+
+)
+

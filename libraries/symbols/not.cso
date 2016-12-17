@@ -1,0 +1,62 @@
+		<schematicsymbolporttemplate>
+       <name>not</name>
+   	<hotspot>
+       <pt>
+		<x>0</x>
+		<y>0</y>
+		</pt>
+   	</hotspot>
+   	<anchorpoint>
+		<pt>
+		<x>0</x>
+		<y>0</y>
+		</pt>
+   	</anchorpoint>
+   	<orientation>L</orientation>
+   	<allignment>LRTB</allignment>
+   	<pnlocation>
+		<pt>
+		<x>0</x>
+		<y>0</y>
+		</pt>
+   	</pnlocation>
+       <value>0</value>
+
+				<originalboundingbox>
+					<rectangle>
+						<pt> <x>-50</x> <y>100</y></pt>
+						<pt> <x>99</x> <y>-25</y></pt></rectangle></originalboundingbox>
+
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>-50</x><y>100</y></pt>
+								<pt> <x>50</x><y>100</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>50</x><y>100</y></pt>
+								<pt> <x>0</x><y>0</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+						<path>
+							<pointlist>
+								<pt> <x>0</x><y>0</y></pt>
+								<pt> <x>-50</x><y>100</y></pt></pointlist>
+                           <pattern>-1</pattern><color>0</color><width>76</width>
+							<scalable>0</scalable>
+							<identifier>0</identifier></path></figure>
+					<figure>
+								<arc>
+									<pt> <x>0</x> <y>-13</y></pt>
+									<radius>12</radius>
+									<startangle>0</startangle>
+									<stopangle>360</stopangle><color>0</color>
+									</arc></figure>
+		</schematicsymbolporttemplate>
+

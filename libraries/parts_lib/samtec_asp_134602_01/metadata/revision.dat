@@ -1,0 +1,180 @@
+(Cell	samtec_asp_134602_01
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/03/12,23:05:26)
+
+			(User	nandor)
+
+			(Path	parts.samtec_asp_134602_01)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/03/12,16:22:37)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.samtec_asp_134602_01)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e97d240d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,23:05:26)
+
+							(User	nandor)
+
+							(Path	parts.samtec_asp_134602_01)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ced03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a9fbc167)
+
+			(Primitives	1
+
+				(Primitive	samtec_asp_134602_01
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/03/12,23:05:26)
+
+							(User	nandor)
+
+							(Path	parts.samtec_asp_134602_01)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	samtec_asp_134602_01
+
+							(PackType	samtec_asp_134602_01)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	asp400)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dc703e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001cce03aa)
+
+)
+

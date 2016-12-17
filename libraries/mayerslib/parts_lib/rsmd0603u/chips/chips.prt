@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'RSMD0603U','RSMD0603U_C0603';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+  end_pin;
+  body
+    PART_NAME='rsmd0603u';
+    PATH='1P';
+    DRAWING='ELEMENTCHIPS.LOGIC.1.1';
+    PRIM_TYPE='CHIPS_PRT';
+    PRIM_FILE='/modeler/build/awbged/element/resistor/chips_prt';
+    VER='1';
+    XY='(1400,2400)';
+    DIR='ELEMENT.LIB';
+    ROT='0';
+    PINCOUNT='2';
+    SIZE='1';
+    BODY_NAME='RSMD0603U';
+    JEDEC_TYPE='c0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,21 @@
+	(Comment
+		(Time 08/24/2010,01:55:53 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package FUSE_AXIAL_473 added to cell")
+		(Param1 FUSE_AXIAL_473)
+	)
+	(Comment
+		(Time 08/24/2010,01:58:15 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 08/24/2010,01:59:38 PM)
+		(User ashmansk)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 part.ptf)
+	)

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/10/12,14:13:58)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package AD7794 added to cell")
+		(Param1 AD7794)
+	)
+	(Comment
+		(Time 08/10/12,14:23:47)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

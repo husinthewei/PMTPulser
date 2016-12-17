@@ -1,0 +1,28 @@
+	(Comment
+		(Time 02/12/16,14:42:06)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package CONN10_500MIL added to cell")
+		(Param1 "CONN10_500MIL")
+	)
+	(Comment
+		(Time 02/12/16,14:43:47)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 02/12/16,14:43:58)
+		(User HEP)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 02/12/16,14:44:15)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

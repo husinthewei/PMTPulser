@@ -1,0 +1,180 @@
+(Cell	adcmp601
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/24/12,18:57:00)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.adcmp601)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/24/12,19:00:18)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.adcmp601)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000026f99965)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/12,18:58:45)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.adcmp601)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8b0365)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008b894eaf)
+
+			(Primitives	1
+
+				(Primitive	ADCMP601
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/24/12,18:57:05)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.adcmp601)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADCMP601
+
+							(PackType	ADCMP601)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	SC70)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b83034a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b770377)
+
+)
+

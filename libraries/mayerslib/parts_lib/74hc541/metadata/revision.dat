@@ -1,0 +1,180 @@
+(Cell	74hc541
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/07/09,12:44:00)
+
+			(User	nandor)
+
+			(Path	parts.74hc541)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/07/09,12:48:11)
+
+			(User	nandor)
+
+			(Path	parts.74hc541)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007a97c6f3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/09,12:46:09)
+
+							(User	nandor)
+
+							(Path	parts.74hc541)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc503bb)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e1b6c25a)
+
+			(Primitives	1
+
+				(Primitive	74HC541
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/07/09,12:44:08)
+
+							(User	nandor)
+
+							(Path	parts.74hc541)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	74HC541
+
+							(PackType	74HC541)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	74hc541)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ebc03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001dad03d8)
+
+)
+

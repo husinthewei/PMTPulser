@@ -1,0 +1,180 @@
+(Cell	tyco_6605814-x
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/04/12,12:36:44)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.tyco_6605814-x)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/04/12,12:52:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.tyco_6605814-x)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001d6f8bb0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/04/12,12:40:17)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.tyco_6605814-x)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d5003de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d5fd2dae)
+
+			(Primitives	1
+
+				(Primitive	TYCO_6605814-X
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/04/12,12:36:58)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.tyco_6605814-x)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TYCO_6605814-X
+
+							(PackType	TYCO_6605814-X)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	rj45_a)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc303b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cac03a1)
+
+)
+

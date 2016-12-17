@@ -1,0 +1,13 @@
+(DEVICE FILE: ferrite_1806)
+
+PACKAGE ferrite_1806
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER ferrite_1806  1 2
+
+PINSWAP ferrite_1806  1 2
+
+FUNCTION ferrite_1806 ferrite_1806  1 2
+
+END

@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 04/24/07,18:11:54)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BONDPADS_25 added to cell")
+		(Param1 BONDPADS_25)
+	)
+	(Comment
+		(Time 04/24/07,18:13:50)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+

@@ -1,0 +1,180 @@
+(Cell	cap_1210
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/26/2010,03:42:43 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_1210)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/19/2010,03:14:59 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000977b50ab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/26/2010,03:42:43 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_1210)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bd503b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003dd198f1)
+
+			(Primitives	1
+
+				(Primitive	CAP_1210
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/26/2010,03:42:43 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_1210)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_1210
+
+							(PackType	CAP_1210)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cap1210)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5d03b6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9203a9)
+
+)
+

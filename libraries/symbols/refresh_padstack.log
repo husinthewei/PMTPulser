@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : qfn50p500x500x80-33n.dra                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 10 13:18:36 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Sep 10 13:18:36 2014				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/SPB_Data/PennTriggerBoard/symbols/qfn50p500x500x80-33n.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/SPB_Data/PennTriggerBoard/symbols/ 
+           C:/SPB_Data/lsst_2014/psmfiles/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/SPB_Data/PennTriggerBoard/symbols/ 
+           C:/SPB_Data/lsst_2014/pads/ 
+           C:/SPB_Data/lsst_2014/symbols/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMDMM_2P6_2P6_THERM_H'  pad stack refresh starting.
+
+     'SMDMM_2P6_2P6_THERM_H'  pad stack refreshed successfully.
+     
+'S320P202'  pad stack refresh starting.
+
+     'S320P202'  pad stack refreshed successfully.
+     
+'R80_30'  pad stack refresh starting.
+
+     'R80_30'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

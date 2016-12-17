@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ferrite'
+CLASS = discrete 
+JEDEC_TYPE = FERRITE_1806
+
+{========================================================================================}
+:'VALUE'  |'TOLERANCE'(OPT)     = 'PART_NUMBER'        |'VENDOR_PN'        |'COST'    |'VENDOR'     ;
+{========================================================================================}
+ '1Kohm,1.5A' | ''              = 'BLM41PG102SN1L'     | '490-1061-1-ND'   |'0.23'    |'digikey'
+
+END_PART
+
+END.

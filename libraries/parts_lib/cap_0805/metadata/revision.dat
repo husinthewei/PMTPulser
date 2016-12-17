@@ -1,0 +1,180 @@
+(Cell	cap_0805
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/19/2010,03:27:22 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_0805)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/19/2010,03:14:59 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a35350b4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/2010,03:27:22 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_0805)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bd60378)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005def9915)
+
+			(Primitives	1
+
+				(Primitive	CAP_0805
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/19/2010,03:27:22 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.cap_0805)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAP_0805
+
+							(PackType	CAP_0805)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	cap0805)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5303c1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b9a0374)
+
+)
+

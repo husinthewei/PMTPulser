@@ -1,0 +1,180 @@
+(Cell	airborn69receptacle
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/15/09,15:17:30)
+
+			(User	nandor)
+
+			(Path	parts.airborn69receptacle)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/15/09,09:54:23)
+
+			(User	nandor)
+
+			(Path	parts.airborn69plug)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c311d61a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/09,15:17:30)
+
+							(User	nandor)
+
+							(Path	parts.airborn69receptacle)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5d03a5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000052f5bef6)
+
+			(Primitives	1
+
+				(Primitive	AIRBORN69RECEPTACLE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/09,15:17:30)
+
+							(User	nandor)
+
+							(Path	parts.airborn69receptacle)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AIRBORN69RECEPTACLE
+
+							(PackType	AIRBORN69RECEPTACLE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	airborn69mk_receptacle)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7803b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001bc0037d)
+
+)
+

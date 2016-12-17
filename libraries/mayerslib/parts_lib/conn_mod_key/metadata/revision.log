@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/07/14,13:26:29)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package CONN_MOD_KEY added to cell")
+		(Param1 CONN_MOD_KEY)
+	)
+	(Comment
+		(Time 03/07/14,13:27:13)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

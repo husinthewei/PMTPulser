@@ -1,0 +1,180 @@
+(Cell	testcrap
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.13)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/21/09,12:04:33)
+
+			(User	nandor)
+
+			(Path	parts.testcrap)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/21/09,12:27:51)
+
+			(User	nandor)
+
+			(Path	parts.testcrap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005c53db48)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/09,12:27:49)
+
+							(User	nandor)
+
+							(Path	parts.testcrap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc003b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cf54af8a)
+
+			(Primitives	1
+
+				(Primitive	TESTCRAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/09,12:04:37)
+
+							(User	nandor)
+
+							(Path	parts.testcrap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TESTCRAP
+
+							(PackType	TESTCRAP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dc203da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce203d3)
+
+)
+

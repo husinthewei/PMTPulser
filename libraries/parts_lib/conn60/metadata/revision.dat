@@ -1,0 +1,180 @@
+(Cell	conn60
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/09/07,18:30:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn60)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/09/07,18:32:59)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn60)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000542ee6e0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/07,18:32:24)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn60)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3903b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fa02beb9)
+
+			(Primitives	1
+
+				(Primitive	CONN60
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/07,18:30:23)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn60)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN60
+
+							(PackType	CONN60)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR60)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001be603aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cee03d4)
+
+)
+

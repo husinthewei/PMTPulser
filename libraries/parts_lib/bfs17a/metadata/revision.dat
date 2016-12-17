@@ -1,0 +1,180 @@
+(Cell	bfs17a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/22/13,14:14:43)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bfs17a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/02/12,15:11:37)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bft92)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008e0a5b56)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/22/13,14:14:43)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bfs17a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cf203b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008281c437)
+
+			(Primitives	1
+
+				(Primitive	BFS17A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/22/13,14:14:43)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bfs17a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BFS17A
+
+							(PackType	BFS17A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cde03c1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dae03d5)
+
+)
+

@@ -1,0 +1,8 @@
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error

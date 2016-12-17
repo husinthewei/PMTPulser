@@ -1,0 +1,19 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Feb 28 11:24:12 2003' ;
+primitive 'CSMD1206';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='CSMD1206';
+    PHYS_DES_PREFIX='C';
+    JEDEC_TYPE='C1206';
+  end_body;
+end_primitive;
+END.

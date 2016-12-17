@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 04/26/06,17:30:43)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package TEST_POINT added to cell")
+		(Param1 TEST_POINT)
+	)
+	(Comment
+		(Time 04/26/06,17:32:24)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

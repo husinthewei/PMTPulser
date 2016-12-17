@@ -1,0 +1,182 @@
+(Cell	eleccap
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/08/06,20:39:55)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.eleccap)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/08/06,20:46:15)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.eleccap)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f8374ec2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/08/06,20:43:43)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.eleccap)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc403b7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cbdf9d1c)
+
+			(Primitives	1
+
+				(Primitive	ELECCAP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/08/06,20:40:01)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.eleccap)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ELECCAP
+
+							(PackType	ELECCAP)
+
+							(PackType	ELECCAP_ELECTCAP)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ElectCap)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dd403da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001cf203d6)
+
+)
+

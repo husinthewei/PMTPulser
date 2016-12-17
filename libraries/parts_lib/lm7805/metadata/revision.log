@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 03/31/06,09:24:49)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package LM7805 added to cell")
+		(Param1 LM7805)
+	)
+	(Comment
+		(Time 03/31/06,09:31:01)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+

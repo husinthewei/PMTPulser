@@ -1,0 +1,23 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LENSADP';
+  pin
+    '5':
+      PIN_NUMBER='(@)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='LENSADP';
+    BODY_NAME='LENSADP';
+    JEDEC_TYPE='Lens_Adaptor2';
+    PHYS_DES_PREFIX='M';
+    CLASS='DISCRETE';
+    CDS_LMAN_UNMAPPED_PHYS_PIN='(1,2,3,4)';
+  end_body;
+end_primitive;
+
+END.

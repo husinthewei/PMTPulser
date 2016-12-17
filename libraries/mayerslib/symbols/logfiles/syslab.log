@@ -1,0 +1,51 @@
+SYSTEM DESIGN SOLUTION 01.60-p004
+(C) Copyright 1993,1996 Cadence Design Systems, Inc.
+
+Log File: logfiles/syslab.log
+Run Time: Tue May  4 12:38:08 EDT 1999
+
+Initiating Process Manager...
+
+Starting Communications Manager...
+
+/tape/calcard/mayers/trans.bd/sch/symbols/global.cmd: No such file or directory
+toolstrt v1.6.3
+5
+commands=psympackage
+5
+  ALLEGRO SYMBOL EDITOR 11.5 S27 SOLARIS-2.x
+(c) Copyright 1995 Cadence Design Systems Inc.
+             All Rights Reserved
+5
+commands=psympackage
+5
+  ALLEGRO SYMBOL EDITOR 11.5 S27 SOLARIS-2.x
+(c) Copyright 1995 Cadence Design Systems Inc.
+             All Rights Reserved
+5
+commands=psymmech
+5
+  ALLEGRO SYMBOL EDITOR 11.5 S27 SOLARIS-2.x
+(c) Copyright 1995 Cadence Design Systems Inc.
+             All Rights Reserved
+commands=psymformat
+5
+  ALLEGRO SYMBOL EDITOR 11.5 S27 SOLARIS-2.x
+(c) Copyright 1995 Cadence Design Systems Inc.
+             All Rights Reserved
+5
+commands=psymformat;class drawing format;add line;ministat
+5
+  ALLEGRO SYMBOL EDITOR 11.5 S27 SOLARIS-2.x
+(c) Copyright 1995 Cadence Design Systems Inc.
+             All Rights Reserved
+5
+commands=label refdes
+commands=psymformat
+commands=psymformat
+commands=psymmech
+commands=psymmech
+commands=class package geometry;add line;ministat
+commands=label refdes
+commands=label refdes
+toolstrt exit.

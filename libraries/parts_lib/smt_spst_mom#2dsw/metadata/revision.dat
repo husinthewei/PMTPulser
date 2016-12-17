@@ -1,0 +1,226 @@
+(Cell	smt_spst_mom-sw
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.15)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/26/12,14:26:40)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.smt_spst_mom-sw)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/06/13,17:22:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.smt_spst_mom-sw)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000797f7bc9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,14:29:28)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.smt_spst_mom-sw)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e5517661)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/13,17:21:58)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.smt_spst_mom-sw)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7f03db)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009c4907cf)
+
+			(Primitives	1
+
+				(Primitive	SMT_SPST_MOM-SW
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/26/12,14:26:44)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.smt_spst_mom-sw)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SMT_SPST_MOM-SW
+
+							(PackType	SMT_SPST_MOM-SW)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	6x6mm_smt_sw)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	smt_switch)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de2040b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8a03a3)
+
+)
+

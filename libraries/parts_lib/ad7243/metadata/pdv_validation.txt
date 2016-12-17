@@ -1,0 +1,2 @@
+SPLBPD-310,Symbol 'sym_2':No package is associated with symbol sym_2 due to logical pin mismatches in the chips and the symbol. Use the Interface Comparison tool to correct the problem.,Error
+SPLBPD-210,Symbol 'sym_2':Wrong PACK_TYPE property defined. Package AD7243 is not packageable with the symbol.,Warning

@@ -1,0 +1,180 @@
+(Cell	tp
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/28/2010,04:13:10 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.tp)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/28/2010,04:16:21 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.tp)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007d6434e8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/2010,04:14:21 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.tp)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bf6038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000056c7646f)
+
+			(Primitives	1
+
+				(Primitive	TP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/28/2010,04:13:19 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.tp)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TP
+
+							(PackType	TP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tp)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ca803bc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001ceb03d6)
+
+)
+

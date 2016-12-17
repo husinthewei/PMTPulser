@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 05/07/07,17:20:04)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BZX384-B3V3 added to cell")
+		(Param1 BZX384-B3V3)
+	)
+	(Comment
+		(Time 05/07/07,17:21:16)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

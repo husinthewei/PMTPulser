@@ -1,0 +1,182 @@
+(Cell	test_point
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/26/06,17:30:36)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.test_point)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/26/06,17:32:37)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.test_point)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000085553a98)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/26/06,17:32:24)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.test_point)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ae3035d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000587b7211)
+
+			(Primitives	1
+
+				(Primitive	TEST_POINT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/26/06,17:30:43)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.test_point)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TEST_POINT
+
+							(PackType	TEST_POINT)
+
+							(PackType	TEST_POINT_TP)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tp)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b70038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b6c0379)
+
+)
+

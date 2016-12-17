@@ -1,0 +1,180 @@
+(Cell	j0011d21bnl
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/08/2010,12:16:43 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.j0011d21bnl)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/08/2010,12:51:23 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.j0011d21bnl)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000088e22bcd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/08/2010,12:17:08 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.j0011d21bnl)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8803e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b01b7e20)
+
+			(Primitives	1
+
+				(Primitive	J0011D21BNL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/08/2010,12:47:55 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.j0011d21bnl)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	J0011D21BNL
+
+							(PackType	J0011D21BNL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	rj45_b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001deb03a8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001daf03d9)
+
+)
+

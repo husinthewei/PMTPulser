@@ -1,0 +1,226 @@
+(Cell	mec8_card30a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/14/09,14:28:32)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_card30a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/14/09,14:55:28)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_card30a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b3b68d00)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/09,14:54:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_card30a)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001232aa3e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/09,14:32:52)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_card30a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1203b9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006916be29)
+
+			(Primitives	1
+
+				(Primitive	MEC8_CARD30A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/14/09,14:28:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_card30a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_CARD30A
+
+							(PackType	MEC8_CARD30A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mec8_card_30a)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	mec8_30pina)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b690384)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b640352)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	conn_lemo
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/27/12,14:26:06)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn_lemo)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/27/12,14:28:14)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn_lemo)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000093bf88e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/12,14:28:10)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn_lemo)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ccf03c0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000047a2695)
+
+			(Primitives	1
+
+				(Primitive	CONN_LEMO
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/27/12,14:26:12)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn_lemo)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN_LEMO
+
+							(PackType	CONN_LEMO)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	D_37_pin_conn)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a96034e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b89037e)
+
+)
+

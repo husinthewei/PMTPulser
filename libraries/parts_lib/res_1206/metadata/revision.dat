@@ -1,0 +1,180 @@
+(Cell	res_1206
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/26/2010,03:44:11 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.res_1206)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/19/2010,03:14:59 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.cap_v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c3ce657b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/26/2010,03:44:11 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.res_1206)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ddf03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a366996c)
+
+			(Primitives	1
+
+				(Primitive	RES_1206
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/26/2010,03:44:11 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.res_1206)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RES_1206
+
+							(PackType	RES_1206)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	res1206)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5e03b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9603a9)
+
+)
+

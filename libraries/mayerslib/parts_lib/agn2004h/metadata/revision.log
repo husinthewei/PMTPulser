@@ -1,0 +1,30 @@
+
+	(Comment
+		(Time 08/12/05,08:23:10)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package AGN2004H added to cell")
+		(Param1 AGN2004H)
+	)
+	(Comment
+		(Time 08/12/05,08:27:51)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 08/12/05,08:28:19)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 08/12/05,08:28:28)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+

@@ -1,0 +1,180 @@
+(Cell	max603_604
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/26/13,15:43:54)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max603_604)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/26/13,15:47:35)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max603_604)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005d46c2c1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,15:44:37)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max603_604)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9303ad)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b686ad40)
+
+			(Primitives	1
+
+				(Primitive	MAX603_604
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,15:43:58)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max603_604)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX603_604
+
+							(PackType	MAX603_604)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cde03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001de30409)
+
+)
+

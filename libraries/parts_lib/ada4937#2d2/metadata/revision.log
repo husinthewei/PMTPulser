@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/03/2009,03:14:28 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/03/2009,03:27:42 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package ADA4937-2 added to cell")
+		(Param1 ADA4937-2)
+	)

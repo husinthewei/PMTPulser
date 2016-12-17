@@ -1,0 +1,182 @@
+(Cell	sn65lvds117
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/09/12,14:03:25)
+
+			(User	HEP)
+
+			(Path	mayers_lib.sn65lvds117)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/09/12,14:09:48)
+
+			(User	HEP)
+
+			(Path	mayers_lib.sn65lvds117)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a1e8f2fd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,14:08:53)
+
+							(User	HEP)
+
+							(Path	mayers_lib.sn65lvds117)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e030412)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002e5885c0)
+
+			(Primitives	1
+
+				(Primitive	SN65LVDS117
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,14:03:33)
+
+							(User	HEP)
+
+							(Path	mayers_lib.sn65lvds117)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN65LVDS117
+
+							(PackType	SN65LVDS117)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sn65footprint)
+
+							)
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cd203b6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb203a6)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	st2378e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/08/2010,04:28:39 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.st2378e)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/08/2010,04:37:48 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.st2378e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004143d98d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/2010,04:37:16 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.st2378e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b0d0386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009c8894b5)
+
+			(Primitives	1
+
+				(Primitive	ST2378E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/08/2010,04:28:45 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.st2378e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ST2378E
+
+							(PackType	ST2378E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	st2378e_tssop20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c14038e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b65037a)
+
+)
+

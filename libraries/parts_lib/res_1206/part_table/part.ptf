@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'res_1206'
+CLASS = discrete 
+JEDEC_TYPE = RES1206 
+
+{========================================================================================}
+:'VALUE'  |'TOLERANCE'(OPT)         = 'PART_NUMBER'         |'VENDOR_PN'        |'COST'    |'VENDOR'     ;
+{========================================================================================}
+ '10.0K'  |'1%,0.25W'               = 'ERJ-8ENF1002V'       |'P10.0KFCT-ND'     |'0.01'    |'digikey'  
+
+END_PART
+
+END.
+

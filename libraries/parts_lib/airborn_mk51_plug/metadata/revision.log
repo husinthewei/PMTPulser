@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 01/15/09,11:29:24)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package AIRBORN_MK51_PLUG added to cell")
+		(Param1 AIRBORN_MK51_PLUG)
+	)
+	(Comment
+		(Time 01/15/09,11:30:54)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

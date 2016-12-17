@@ -1,0 +1,180 @@
+(Cell	airborn69plug
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/15/09,09:47:59)
+
+			(User	nandor)
+
+			(Path	parts.airborn69plug)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/15/09,09:54:23)
+
+			(User	nandor)
+
+			(Path	parts.airborn69plug)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f8cbd33e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/15/09,09:54:17)
+
+							(User	nandor)
+
+							(Path	parts.airborn69plug)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001eb80413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c2eabf18)
+
+			(Primitives	1
+
+				(Primitive	AIRBORN69PLUG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/15/09,09:48:09)
+
+							(User	nandor)
+
+							(Path	parts.airborn69plug)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AIRBORN69PLUG
+
+							(PackType	AIRBORN69PLUG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	airborn69mk_plug)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7a03d4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9803a9)
+
+)
+

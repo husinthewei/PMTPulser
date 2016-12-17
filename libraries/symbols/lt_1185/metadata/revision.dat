@@ -1,0 +1,180 @@
+(Cell	lt_1185
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/06/12,09:47:35)
+
+			(User	HEP)
+
+			(Path	Symbols.lt_1185)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/06/12,09:48:47)
+
+			(User	HEP)
+
+			(Path	Symbols.lt_1185)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000153c9c6e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/06/12,09:48:20)
+
+							(User	HEP)
+
+							(Path	Symbols.lt_1185)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bca03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002e0850c7)
+
+			(Primitives	1
+
+				(Primitive	LT_1185
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/06/12,09:47:38)
+
+							(User	HEP)
+
+							(Path	Symbols.lt_1185)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT_1185
+
+							(PackType	LT_1185)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DDpak_5pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b910386)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b50034f)
+
+)
+

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/30/14,14:10:20)
+		(User mbreilly)
+		(MsgId ECO_021)
+		(Text "Package CONN_50PIN added to cell")
+		(Param1 "CONN_50PIN")
+	)
+	(Comment
+		(Time 05/30/14,14:11:04)
+		(User mbreilly)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

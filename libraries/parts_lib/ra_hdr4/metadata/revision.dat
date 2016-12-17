@@ -1,0 +1,180 @@
+(Cell	ra_hdr4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/26/12,14:08:48)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ra_hdr4)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/26/12,14:11:17)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ra_hdr4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000211297bd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/26/12,14:10:57)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ra_hdr4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a88037d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000042b75250)
+
+			(Primitives	1
+
+				(Primitive	RA_HDR4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/26/12,14:09:05)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ra_hdr4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RA_HDR4
+
+							(PackType	RA_HDR4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ConnHdr_4pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0103e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b800373)
+
+)
+

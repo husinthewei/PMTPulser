@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive '74F04';
+  pin
+    'A':
+      PIN_NUMBER='(1,3,5,9,11,13)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    '-Y':
+      PIN_NUMBER='(2,4,6,8,10,12)';
+      OUTPUT_LOAD='(-1.000000,1.000000)';
+  end_pin;
+  body
+    PART_NAME='74F04';
+    BODY_NAME='74F04';
+    JEDEC_TYPE='soic14';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    POWER_PINS='(VCC:14)';
+    POWER_PINS='(GND:7)';
+  end_body;
+end_primitive;
+
+END.

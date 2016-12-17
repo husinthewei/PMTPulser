@@ -1,0 +1,14 @@
+	(Comment
+		(Time 09/17/2010,03:47:07 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package LT1185 added to cell")
+		(Param1 LT1185)
+	)
+	(Comment
+		(Time 09/17/2010,04:09:22 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

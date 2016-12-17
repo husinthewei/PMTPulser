@@ -1,0 +1,21 @@
+	(Comment
+		(Time 08/21/09,13:42:46)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package FSI_20 added to cell")
+		(Param1 FSI_20)
+	)
+	(Comment
+		(Time 08/21/09,13:46:05)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 08/21/09,13:57:32)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)

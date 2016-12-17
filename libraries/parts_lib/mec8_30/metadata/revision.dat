@@ -1,0 +1,186 @@
+(Cell	mec8_30
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/14/07,13:22:49)
+
+			(User	Administrator)
+
+			(Path	mayers_lib.mec8_30)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/14/07,13:36:50)
+
+			(User	Administrator)
+
+			(Path	mayers_lib.mec8_30)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001a25899e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/14/07,13:36:45)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.mec8_30)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b960389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ee74beb2)
+
+			(Primitives	1
+
+				(Primitive	MEC8_30
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/14/07,13:22:55)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.mec8_30)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_30
+
+							(PackType	MEC8_30)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mec8_30p)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	mec8card_30)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cef03ce)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ded040b)
+
+)
+

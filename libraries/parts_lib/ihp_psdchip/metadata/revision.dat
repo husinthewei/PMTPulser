@@ -1,0 +1,180 @@
+(Cell	ihp_psdchip
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/12,17:58:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ihp_psdchip)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/23/12,16:28:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ihp_sppchip)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006e4ee235)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/12,17:58:03)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ihp_psdchip)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3903b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bd4bbf44)
+
+			(Primitives	1
+
+				(Primitive	IHP_PSDCHIP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/12,17:58:03)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ihp_psdchip)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IHP_PSDCHIP
+
+							(PackType	IHP_PSDCHIP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ihp_psdchip_v2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1103e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8e0376)
+
+)
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : conn20_insert.dra                             )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Aug 13 14:33:02 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = conn20_insert.psm
+    User      = HEP
+    Machine   = UPENN-2CE323C8D
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

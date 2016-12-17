@@ -1,0 +1,182 @@
+(Cell	microusb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/29/06,14:28:50)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mayers_lib.microusb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/29/06,14:40:34)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mayers_lib.microusb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dadbded5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/29/06,14:38:28)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mayers_lib.microusb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000002095046e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000040e41762)
+
+			(Primitives	1
+
+				(Primitive	MICROUSB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/29/06,14:28:53)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mayers_lib.microusb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MICROUSB
+
+							(PackType	MICROUSB)
+
+							(PackType	MICROUSB_MINIUSB)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	miniusb)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b20037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4f0376)
+
+)
+

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 04/21/09,13:31:38)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package LAPAS_2 added to cell")
+		(Param1 LAPAS_2)
+	)
+	(Comment
+		(Time 04/21/09,13:38:17)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

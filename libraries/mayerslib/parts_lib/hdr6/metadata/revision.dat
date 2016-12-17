@@ -1,0 +1,180 @@
+(Cell	hdr6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/06,23:34:28)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.hdr6)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/23/09,12:42:24)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b00a9a58)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/23/09,12:41:26)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cde03ab)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d6825c20)
+
+			(Primitives	1
+
+				(Primitive	HDR6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,23:40:09)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.hdr6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HDR6
+
+							(PackType	HDR6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR6)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc703e0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc503a7)
+
+)
+

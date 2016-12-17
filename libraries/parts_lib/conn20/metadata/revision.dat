@@ -1,0 +1,182 @@
+(Cell	conn20
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/22/06,17:09:59)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.conn20)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/22/06,17:14:23)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.conn20)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001061bb0a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/06,17:12:41)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.conn20)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b50039e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000de07c12c)
+
+			(Primitives	1
+
+				(Primitive	CONN20
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/06,17:10:06)
+
+							(User	Godwin Mayers)
+
+							(Path	mayers_lib.conn20)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN20
+
+							(PackType	CONN20)
+
+							(PackType	CONN20_HDR20)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2f03e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c9803ad)
+
+)
+

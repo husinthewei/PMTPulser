@@ -1,0 +1,180 @@
+(Cell	pwrjack
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/06/2011,12:27:46 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.pwrjack)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/06/2011,12:35:50 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.pwrjack)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007fcf737d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/2011,12:34:39 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.pwrjack)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001de903ec)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000aa43f1cb)
+
+			(Primitives	1
+
+				(Primitive	PWRJACK
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/06/2011,12:30:03 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.pwrjack)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PWRJACK
+
+							(PackType	PWRJACK)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pwrjack)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dbd03e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dac03d9)
+
+)
+

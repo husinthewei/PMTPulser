@@ -1,0 +1,222 @@
+(Cell	ls7084
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/06,17:48:33)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.ls7084)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/29/06,18:04:08)
+
+			(User	Godwin Mayers)
+
+			(Path	mayers_lib.ls7084)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b7b0ccce)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/29/06,12:55:13)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mayers_lib.ls7084)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000db22e617)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,17:48:49)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.ls7084)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7303b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f47afd34)
+
+			(Primitives	1
+
+				(Primitive	LS7084_SOIC8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,17:48:54)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.ls7084)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LS7084
+
+							(PackType	LS7084_SOIC8)
+
+							(PackType	LS7084)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5803a8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb6037e)
+
+)
+

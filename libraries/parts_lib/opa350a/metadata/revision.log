@@ -1,0 +1,14 @@
+	(Comment
+		(Time 02/28/12,16:26:38)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package OPA350A added to cell")
+		(Param1 OPA350A)
+	)
+	(Comment
+		(Time 02/28/12,16:30:54)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

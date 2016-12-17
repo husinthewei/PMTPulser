@@ -1,0 +1,180 @@
+(Cell	32kxtal
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/06,23:31:40)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.32kxtal)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/13/06,00:29:57)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.32kxtal)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005bab5cbb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/13/06,00:29:40)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.32kxtal)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e790437)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000335aa65a)
+
+			(Primitives	1
+
+				(Primitive	32KXTAL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/06,23:31:46)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.32kxtal)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	32KXTAL
+
+							(PackType	32KXTAL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	32kxtal)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7003aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001bc303a1)
+
+)
+

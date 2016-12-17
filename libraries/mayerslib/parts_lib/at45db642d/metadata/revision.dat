@@ -1,0 +1,180 @@
+(Cell	at45db642d
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/07/2010,02:46:19 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.at45db642d)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/07/2010,02:56:41 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.at45db642d)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000025b1c9b0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/07/2010,02:56:10 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.at45db642d)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3f03a9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000847defea)
+
+			(Primitives	1
+
+				(Primitive	AT45DB642D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/07/2010,02:49:07 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.at45db642d)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT45DB642D
+
+							(PackType	AT45DB642D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	at45db642d_8cn3)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e3903dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bee03ad)
+
+)
+

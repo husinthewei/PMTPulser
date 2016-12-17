@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/21/12,12:16:53)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package THS4130IDGN added to cell")
+		(Param1 THS4130IDGN)
+	)
+	(Comment
+		(Time 06/21/12,12:18:58)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

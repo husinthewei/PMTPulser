@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LED','LED_R0603';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(*,*)';
+      OUTPUT_LOAD='(*,*)';
+    'B':
+      PIN_NUMBER='(1)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(*,*)';
+      OUTPUT_LOAD='(*,*)';
+  end_pin;
+  body
+    PART_NAME='LED';
+    ROT='0';
+    PATH='11P';
+    VER='1';
+    DIR='DISCRETE.LIB';
+    XY='(-1650,1150)';
+    SIZE='1';
+    BODY_NAME='LED_0603';
+    JEDEC_TYPE='R0603';
+    PHYS_DES_PREFIX='DS';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

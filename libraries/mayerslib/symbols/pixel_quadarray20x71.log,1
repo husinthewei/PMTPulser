@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Pixel_Quadarray20x71.dra                      )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Thu Jan 19 16:16:12 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/mayerspcb/Symbols
+    Name      = pixel_quadarray20x71.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,31 @@
+\t (00:00:10) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:10) 
+
+\t (00:00:12) Opening existing drawing...
+\d (00:00:12) Database opened: C:/SPB_Data/Symbols/clock oscillator/kc2520C_Clock_Driver.dra
+\i (00:00:12) trapsize 1
+\i (00:00:12) trapsize 1
+\i (00:00:12) placementedit 
+\i (00:00:13) pick grid 80 -18
+\t (00:00:13) last pick:  100  0
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 80 -18
+\i (00:00:14) trapsize 1
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 41 -19
+\i (00:00:14) trapsize 2
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 97 -32
+\i (00:00:15) trapsize 1
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 97 -31
+\i (00:00:16) trapsize 2
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 97 -32
+\i (00:00:16) trapsize 2
+\i (00:00:19) exit 

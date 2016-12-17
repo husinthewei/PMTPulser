@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/14/2010,10:35:31 AM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package DIP16PINSMD added to cell")
+		(Param1 DIP16PINSMD)
+	)
+	(Comment
+		(Time 05/14/2010,10:40:58 AM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,180 @@
+(Cell	sn65lvdt2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/09/12,19:38:13)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.sn65lvdt2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/09/12,19:41:28)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.sn65lvdt2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009ca283bb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,19:40:06)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.sn65lvdt2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2c03df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d69b2431)
+
+			(Primitives	1
+
+				(Primitive	SN65LVDT2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,19:38:19)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.sn65lvdt2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN65LVDT2
+
+							(PackType	SN65LVDT2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so23_5pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ccc037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7b03db)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	ths4130idgn
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.13)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/21/12,12:12:27)
+
+			(User	nandor)
+
+			(Path	parts.ths4130idgn)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/21/12,12:22:01)
+
+			(User	nandor)
+
+			(Path	parts.ths4130idgn)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000934bffd6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/21/12,12:18:58)
+
+							(User	nandor)
+
+							(Path	parts.ths4130idgn)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce703e9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b256e21a)
+
+			(Primitives	1
+
+				(Primitive	THS4130IDGN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/21/12,12:16:53)
+
+							(User	nandor)
+
+							(Path	parts.ths4130idgn)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THS4130IDGN
+
+							(PackType	THS4130IDGN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ths4130igdn)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ea103df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cdd03d6)
+
+)
+

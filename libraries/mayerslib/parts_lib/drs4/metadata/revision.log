@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/03/2009,12:53:54 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/03/2009,01:33:41 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package DRS4 added to cell")
+		(Param1 DRS4)
+	)

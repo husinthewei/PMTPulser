@@ -1,0 +1,180 @@
+(Cell	omnetics_a29100-037_mirrored
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/01/13,17:58:38)
+
+			(User	Godwin)
+
+			(Path	parts.omnetics_a29100-037_mirrored)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/11/09,19:30:13)
+
+			(User	nandor)
+
+			(Path	parts.gen891009_37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa0cf2fc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/01/13,17:58:38)
+
+							(User	Godwin)
+
+							(Path	parts.omnetics_a29100-037_mirrored)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f13043c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005abec0fd)
+
+			(Primitives	1
+
+				(Primitive	OMNETICS_A29100-037_MIRRORED
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/01/13,17:58:38)
+
+							(User	Godwin)
+
+							(Path	parts.omnetics_a29100-037_mirrored)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OMNETICS_A29100-037_MIRRORED
+
+							(PackType	OMNETICS_A29100-037_MIRRORED)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Omnetics_A29100-037_Mirrored)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2e038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5c03a8)
+
+)
+

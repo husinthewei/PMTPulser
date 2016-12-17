@@ -1,0 +1,14 @@
+	(Comment
+		(Time 02/09/10,11:53:06)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package PMT_BASE added to cell")
+		(Param1 PMT_BASE)
+	)
+	(Comment
+		(Time 02/09/10,11:59:16)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

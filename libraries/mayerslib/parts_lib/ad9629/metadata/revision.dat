@@ -1,0 +1,180 @@
+(Cell	ad9629
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/09/12,13:48:32)
+
+			(User	nandor)
+
+			(Path	parts.ad9629)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/09/12,12:54:26)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.ad9629)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c667f44e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/09/12,13:48:32)
+
+							(User	nandor)
+
+							(Path	parts.ad9629)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cba03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000140cbff5)
+
+			(Primitives	1
+
+				(Primitive	AD9629
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/09/12,13:48:32)
+
+							(User	nandor)
+
+							(Path	parts.ad9629)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD9629
+
+							(PackType	AD9629)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	AD9629)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c6503da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bdc03a8)
+
+)
+

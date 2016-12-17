@@ -1,0 +1,180 @@
+(Cell	lan8710
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/07/2010,12:26:55 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lan8710)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/07/2010,01:39:43 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lan8710)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002694e97c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/07/2010,12:28:13 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lan8710)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b44038e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000002a26872)
+
+			(Primitives	1
+
+				(Primitive	LAN8710
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/07/2010,01:33:14 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lan8710)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LAN8710
+
+							(PackType	LAN8710)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn50p500x500x100-33n)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1103aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-P2 (v16-3-85A))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001bab039d)
+
+)
+

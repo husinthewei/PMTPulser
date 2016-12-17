@@ -1,0 +1,32 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TANT_CAP'
+{========================================================================================}
+:VALUE   | TOL   | PACKTYPE | VOLTAGE    = JEDEC_TYPE | VALUE   ;
+{========================================================================================}
+ '1.0UF' | '10%' | 'TantB'   | '25V'(!)   = 'TantB'   | '1UF'
+ '2.2UF' | '10%' | 'TantB'   | '25V'(!)   = 'TantB'   | '2.2UF'
+ '3.3UF' | '10%' | 'TantB'   | '25V'(!)   = 'TantB'   | '3.3UF'
+ '4.7UF' | '10%' | 'TantB'   | '25V'(!)   = 'TantB'   | '4.7UF'
+ '10 UF' | '10%' | 'TantB'   | '10V'(!)   = 'TantB'   | '10UF'
+ '22 UF' | '10%' | 'TantB'   | '10V'(!)   = 'TantB'   | '22UF'
+ '47 UF' | '10%' | 'TantB'   | '10V'(!)   = 'TantB'   | '22UF'
+
+
+ '1.0UF' | '10%' | 'TantC'   | '25V'(!)   = 'TantC'   | '1UF'
+ '2.2UF' | '10%' | 'TantC'   | '25V'(!)   = 'TantC'   | '2.2UF'
+ '3.3UF' | '10%' | 'TantC'   | '25V'(!)   = 'TantC'   | '3.3UF'
+ '4.7UF' | '10%' | 'TantC'   | '25V'(!)   = 'TantC'   | '4.7UF'
+ '10 UF' | '10%' | 'TantC'   | '10V'(!)   = 'TantC'   | '10UF'
+ '22 UF' | '10%' | 'TantC'   | '10V'(!)   = 'TantC'   | '22UF'
+
+ '1.0UF' | '10%' | 'TantD'   | '25V'(!)   = 'TantD'   | '1UF'
+ '2.2UF' | '10%' | 'TantD'   | '25V'(!)   = 'TantD'   | '2.2UF'
+ '3.3UF' | '10%' | 'TantD'   | '25V'(!)   = 'TantD'   | '3.3UF'
+ '4.7UF' | '10%' | 'TantD'   | '25V'(!)   = 'TantD'   | '4.7UF'
+ '10 UF' | '10%' | 'TantD'   | '10V'(!)   = 'TantD'   | '10UF'
+ '22 UF' | '10%' | 'TantD'   | '10V'(!)   = 'TantD'   | '22UF'
+
+
+END_PART
+END.

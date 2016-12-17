@@ -1,0 +1,180 @@
+(Cell	opa356
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/19/09,19:17:18)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa356)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/19/09,19:24:13)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.opa356)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d17284b4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.10)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,19:23:25)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa356)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bff0381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003e3cc0a1)
+
+			(Primitives	1
+
+				(Primitive	OPA356
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,19:17:21)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.opa356)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA356
+
+							(PackType	OPA356)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so23_5pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf903a7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ce003af)
+
+)
+

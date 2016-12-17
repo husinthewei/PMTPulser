@@ -1,0 +1,46 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CAP_L_0402';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_L';
+    BODY_NAME='CAP_L';
+    JEDEC_TYPE='c0402';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'CAP_L_0603';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAP_L';
+    BODY_NAME='CAP_L';
+    JEDEC_TYPE='c0603';
+    PHYS_DES_PREFIX='C';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

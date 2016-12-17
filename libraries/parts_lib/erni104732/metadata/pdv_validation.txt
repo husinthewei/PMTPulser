@@ -1,0 +1,1 @@
+SPLBPD-216,Symbol 'sym_1':The size of the symbol is greater than the sheet size. Choose Tools - Setup - Symbol to specify a larger sheet or reduce the size of the symbol by modifying the symbol outline.,Error

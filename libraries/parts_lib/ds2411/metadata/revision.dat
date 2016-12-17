@@ -1,0 +1,180 @@
+(Cell	ds2411
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/17/12,14:22:59)
+
+			(User	nandor)
+
+			(Path	parts.ds2411)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/17/12,14:25:10)
+
+			(User	nandor)
+
+			(Path	parts.ds2411)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005fbf7e95)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,14:24:27)
+
+							(User	nandor)
+
+							(Path	parts.ds2411)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e3e03ee)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000018eec41c)
+
+			(Primitives	1
+
+				(Primitive	DS2411
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,14:23:07)
+
+							(User	nandor)
+
+							(Path	parts.ds2411)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS2411
+
+							(PackType	DS2411)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ds2411)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bf903ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d0503da)
+
+)
+

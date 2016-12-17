@@ -1,0 +1,220 @@
+(Cell	aspic_2013_v3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/07/13,17:35:06)
+
+			(User	Godwin)
+
+			(Path	parts.aspic_2013_v3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/20/13,14:53:10)
+
+			(User	Godwin)
+
+			(Path	lsst_lb_lib.aspic_2013_v3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bafc0108)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/07/13,17:35:06)
+
+							(User	Godwin)
+
+							(Path	parts.aspic_2013_v3)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d28b0195)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/07/13,17:35:06)
+
+							(User	Godwin)
+
+							(Path	parts.aspic_2013_v3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001be4038c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f7e2c0f9)
+
+			(Primitives	1
+
+				(Primitive	ASPIC_2013_V3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/07/13,17:35:06)
+
+							(User	Godwin)
+
+							(Path	parts.aspic_2013_v3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ASPIC_2013_V3
+
+							(PackType	ASPIC_2013_V3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn100ld_aspic_2012_v1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bf30383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c65037b)
+
+)
+

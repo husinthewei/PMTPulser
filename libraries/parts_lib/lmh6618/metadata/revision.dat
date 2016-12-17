@@ -1,0 +1,180 @@
+(Cell	lmh6618
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/14/13,12:16:16)
+
+			(User	Godwin)
+
+			(Path	parts.lmh6618)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/22/13,21:53:23)
+
+			(User	HEP)
+
+			(Path	mayers_lib.lmh6611)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aec594a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/13,12:16:16)
+
+							(User	Godwin)
+
+							(Path	parts.lmh6618)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e6803dd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bda6e9f2)
+
+			(Primitives	1
+
+				(Primitive	LMH6618
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/14/13,12:16:16)
+
+							(User	Godwin)
+
+							(Path	parts.lmh6618)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMH6618
+
+							(PackType	LMH6618)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot236)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001faa046f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7b03da)
+
+)
+

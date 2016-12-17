@@ -1,0 +1,32 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LM317T_L';
+  pin
+    'CAT':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'AN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'REF':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LM317T_L';
+    ALT_SYMBOLS='(sot223)';
+    LAST_MODIFIED='Fri May 22 15:20:13 PDT 1992';
+    ABBREV='LM317T_L';
+    NEEDS_NO_SIZE='TRUE';
+    LEADOUT_STYLE='TO220AB_10';
+    PINCOUNT='4';
+    PATH='10P';
+    SIZE='1';
+    BODY_NAME='LM317T_L';
+    JEDEC_TYPE='TO220ABV';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    NC_PINS='(4)';
+  end_body;
+end_primitive;
+
+END.

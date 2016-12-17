@@ -1,0 +1,180 @@
+(Cell	bas40_04_serial
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/26/13,18:19:29)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bas40_04_serial)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/26/13,18:22:33)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bas40_04_serial)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000eb08617a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,18:20:34)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bas40_04_serial)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1803af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000dd13cb7f)
+
+			(Primitives	1
+
+				(Primitive	BAS40_04_SERIAL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/13,18:19:49)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bas40_04_serial)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BAS40_04_SERIAL
+
+							(PackType	BAS40_04_SERIAL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f44043c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b83037a)
+
+)
+

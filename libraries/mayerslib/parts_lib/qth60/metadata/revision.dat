@@ -1,0 +1,180 @@
+(Cell	qth60
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/22/12,18:25:21)
+
+			(User	HEP)
+
+			(Path	mayers_lib.qth60)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/22/12,18:26:51)
+
+			(User	HEP)
+
+			(Path	mayers_lib.qth60)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002930e2df)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,18:26:28)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qth60)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b6903b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a6c3bee7)
+
+			(Primitives	1
+
+				(Primitive	QTH60
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,18:25:29)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qth60)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	QTH60
+
+							(PackType	QTH60)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qth60)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2c03b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7c03a0)
+
+)
+

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 08/11/09,19:28:09)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package GEN891009_37 added to cell")
+		(Param1 GEN891009_37)
+	)
+	(Comment
+		(Time 08/11/09,19:29:55)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

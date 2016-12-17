@@ -1,0 +1,59 @@
+
+	(Comment
+		(Time 09/19/05,13:41:59)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package MAX4145 added to cell")
+		(Param1 MAX4145)
+	)
+
+	(Comment
+		(Time 09/20/05,13:46:38)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 01/12/06,13:52:53)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 01/12/06,13:53:00)
+		(User Administrator)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 01/12/06,13:55:11)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 01/12/06,13:55:26)
+		(User Administrator)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 01/12/06,13:55:52)
+		(User Administrator)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 01/12/06,13:55:58)
+		(User Administrator)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/17/2010,05:27:26 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package DS15BR400 added to cell")
+		(Param1 DS15BR400)
+	)
+	(Comment
+		(Time 05/17/2010,05:39:17 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

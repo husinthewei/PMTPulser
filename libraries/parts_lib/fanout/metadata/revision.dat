@@ -1,0 +1,180 @@
+(Cell	fanout
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/23/2010,10:16:20 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.fanout)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/23/2010,10:28:04 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.fanout)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b89525ba)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/2010,10:16:20 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.fanout)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5303b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ea787d2e)
+
+			(Primitives	1
+
+				(Primitive	FANOUT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/2010,10:16:20 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.fanout)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FANOUT
+
+							(PackType	FANOUT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic14)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7a03ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb903d3)
+
+)
+

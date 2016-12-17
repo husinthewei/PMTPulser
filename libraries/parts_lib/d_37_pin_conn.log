@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : D_37_pin_conn.dra                             )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Jul 27 09:03:10 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Mayers_lib
+    Name      = d_37_pin_conn.psm
+    User      = HEP
+    Machine   = UPENN-2CE323C8D
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

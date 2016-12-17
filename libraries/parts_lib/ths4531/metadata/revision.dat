@@ -1,0 +1,180 @@
+(Cell	ths4531
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/04/12,12:20:07)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ths4531)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/04/12,12:32:47)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ths4531)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007af1e6ed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/04/12,12:27:58)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ths4531)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dec0414)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bc783d54)
+
+			(Primitives	1
+
+				(Primitive	THS4531
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/04/12,12:20:17)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ths4531)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	THS4531
+
+							(PackType	THS4531)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	wqfn-10)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ce60383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c75037e)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	lt 3080_ddp8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/22/12,14:21:13)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt 3080_ddp8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/22/12,14:30:46)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt 3080_ddp8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e995dac9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,14:23:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt 3080_ddp8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9803ee)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000058bdd98)
+
+			(Primitives	1
+
+				(Primitive	LT 3080_DDP8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,14:21:16)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt 3080_ddp8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT 3080_DDP8
+
+							(PackType	LT 3080_DDP8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ddpak_8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001abd034f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d6603d6)
+
+)
+

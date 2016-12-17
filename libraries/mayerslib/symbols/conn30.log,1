@@ -1,0 +1,18 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Create Symbol of type PACKAGE                       )
+(                                                            )
+(        Drawing          : Conn30.dra                       )
+(        Software Version : 15.5p006                         )
+(        Date/Time        : Tue Feb 13 12:58:34 2007         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+ CREATE SYMBOL BEGUN.
+  SECTOR TABLE NOT EMPTY 0 SECTOR TABLE	@25069796
+
+ SECTOR TABLE NOT EMPTY 
+ CREATE SYMBOL ABORTED. 
+ Create Symbol Aborted, error = SECTOR TABLE NOT EMPTY 

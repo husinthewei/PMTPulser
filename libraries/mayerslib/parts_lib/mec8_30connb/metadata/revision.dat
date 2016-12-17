@@ -1,0 +1,180 @@
+(Cell	mec8_30connb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/20/09,12:24:20)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_30connb)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/20/09,12:27:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_30connb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fe858d8c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/09,12:27:33)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_30connb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfb03f0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f255bde3)
+
+			(Primitives	1
+
+				(Primitive	MEC8_30CONNB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/20/09,12:24:24)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_30connb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_30CONNB
+
+							(PackType	MEC8_30CONNB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mec8_Conn30b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001af90373)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7a037f)
+
+)
+

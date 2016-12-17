@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/27/14,11:45:29)
+		(User mbreilly)
+		(MsgId ECO_021)
+		(Text "Package DIP8_SOCKET_WIDE added to cell")
+		(Param1 "DIP8_SOCKET_WIDE")
+	)
+	(Comment
+		(Time 06/27/14,11:46:15)
+		(User mbreilly)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

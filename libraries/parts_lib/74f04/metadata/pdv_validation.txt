@@ -1,0 +1,13 @@
+SPLBPD-140,Symbol 'sym_1':The symbol cannot be saved because pin(s) Y* is (are) not on the standard grid. To make sure that all pins are on the standard grid, first select all the pins in the Symbol Pins pane and then click the up and down arrow buttons in the Move Pins area to move the pins up by 1 grid unit and then down by 1 grid unit.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error
+SPLBPD-159,Package Property:The specified low output load value cannot be saved because the value is invalid. Specify a positive non-zero numeric value.,Error
+SPLBPD-160,Package Property:The specified high output load value cannot be saved because the value is invalid. Specify a negative non-zero numeric value.,Error

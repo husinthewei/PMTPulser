@@ -1,0 +1,180 @@
+(Cell	ltc2620
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.17)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/19/09,18:11:51)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ltc2620)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/19/09,18:32:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ltc2620)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000025328b48)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.14)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,18:27:34)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ltc2620)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001aa50353)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006fb6897a)
+
+			(Primitives	1
+
+				(Primitive	LTC2620
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/09,18:11:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ltc2620)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC2620
+
+							(PackType	LTC2620)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ssop16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d920413)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b550349)
+
+)
+

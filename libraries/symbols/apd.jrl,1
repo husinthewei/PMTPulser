@@ -1,0 +1,15 @@
+\t (00:00:10) apd 14.0 S21 Solaris
+\t (00:00:10) Internal version = v14-0-103AG
+\t (00:00:10) 
+
+\t (00:00:13) Opening existing drawing...
+\t (00:00:16) Grids are drawn 10.2400, 10.2400 apart for enhanced viewability.
+\t (00:00:16) Grids are drawn 0.6400, 0.6400 apart for enhanced viewability.
+\t (00:00:16) Grids are drawn 2.5600, 2.5600 apart for enhanced viewability.
+\i (00:12:52) setwindow pcb
+\i (00:12:52) zoom fit 
+\t (00:12:52) Grids are drawn 0.0400, 0.0400 apart for enhanced viewability.
+\i (00:12:54) zoom out 
+\i (00:12:54) zoom out 0.0438 0.1423
+\t (00:12:54) Grids are drawn 0.1600, 0.1600 apart for enhanced viewability.
+\i (00:25:01) exit 

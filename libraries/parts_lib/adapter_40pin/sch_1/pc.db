@@ -1,0 +1,7 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.3-p006 (v16-3-85F) 11/10/2009 on Thu Aug 02 14:52:12 2012
+#CELL
+  mayers_lib conn40_127mm *
+  page1_i1
+#CELL
+  mayers_lib conn40_new *
+  page1_i2

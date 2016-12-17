@@ -1,0 +1,25 @@
+\t (00:00:08) apd 14.0 S21 Solaris
+\t (00:00:08) Internal version = v14-0-103AG
+\t (00:00:08) 
+
+\t (00:00:11) Opening existing drawing...
+\t (00:00:14) Grids are drawn 2.560, 2.560 apart for enhanced viewability.
+\i (00:00:24) setwindow pcb
+\i (00:00:24) rpn 
+\t (00:00:26) Please Select pins that form a single row/column, or staggered pattern
+\t (00:00:26) Loading apt.cxt 
+\t (00:00:26) Loading axlcore.cxt 
+\i (00:00:27) zoom in 
+\i (00:00:27) zoom in 32.515 -4.158
+\i (00:00:27) zoom in 
+\i (00:00:27) zoom in 32.516 -4.158
+\t (00:00:27) Grids are drawn 0.640, 0.640 apart for enhanced viewability.
+\i (00:00:29) pop Done 
+\i (00:00:33) create symbol 
+\f (00:00:36) /tape/atlas/systest/TRT/ppanel/parts/allegroSymbols/psmfiles/plcc20.psm: File Exists. Overwrite? 
+\i (00:00:39) fillin "plcc20.psm"
+\t (00:00:39) Creating package symbol '/tape/atlas/systest/TRT/ppanel/parts/allegroSymbols/psmfiles/plcc20.psm'.
+\t (00:00:43) Performing a partial dbcheck before saving.
+\t (00:00:43) Writing database to disk.
+\t (00:00:43) 'plcc20.psm' saved to disk.
+\i (00:04:28) exit 

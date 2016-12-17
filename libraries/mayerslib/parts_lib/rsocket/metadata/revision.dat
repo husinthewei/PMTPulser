@@ -1,0 +1,180 @@
+(Cell	rsocket
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/27/09,18:56:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.rsocket)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/27/09,19:01:59)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.rsocket)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007f28511a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/09,18:57:34)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.rsocket)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc00380)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000566396c0)
+
+			(Primitives	1
+
+				(Primitive	RSOCKET
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/09,18:56:25)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.rsocket)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RSOCKET
+
+							(PackType	RSOCKET)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ab0034d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.01-s025 (v16-1-53))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6003a0)
+
+)
+

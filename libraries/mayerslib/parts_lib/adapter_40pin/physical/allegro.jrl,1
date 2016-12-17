@@ -1,0 +1,118 @@
+\t (00:00:00) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:00) 
+
+\t (00:00:02) Opening existing drawing...
+\d (00:00:02) Database opened: C:/SPB_Data/Mayers_lib/adapter_40pin/physical/adapter_40pin.brd
+\i (00:00:02) trapsize 881
+\i (00:00:02) trapsize 843
+\i (00:00:02) trapsize 828
+\i (00:00:02) trapsize 678
+\i (00:00:02) trapsize 678
+\i (00:00:03) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 1030.06 21072.18
+\i (00:00:12) trapsize 1356
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 1177.10 21077.61
+\i (00:00:12) trapsize 2712
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 2104.67 20595.08
+\i (00:00:13) trapsize 1356
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:14) roam x -96 
+\i (00:00:14) roam x -96
+\i (00:00:15) roam y -96 
+\i (00:00:15) roam y -96
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 1323.56 21092.85
+\i (00:00:39) trapsize 678
+\i (00:01:20) xhilite 
+\i (00:01:20) xrefdes U2 
+\i (00:01:20) xrefdes U2 
+\i (00:01:20) xname_flush 
+\i (00:01:20) trapsize 2172
+\t (00:01:20) Symbol "U2" highlighted.
+\i (00:01:20) done 
+\i (00:01:20) generaledit 
+\i (00:01:29) pick grid 2224.24 20632.16
+\t (00:01:29) last pick:  2225.00  20625.00
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 1407.53 21114.37
+\i (00:03:04) trapsize 1086
+\i (00:03:05) roam x -96 
+\i (00:03:05) roam x -96
+\i (00:03:05) roam x -96 
+\i (00:03:05) roam x -96
+\i (00:03:05) roam x -96 
+\i (00:03:05) roam x -96
+\i (00:03:06) roam x 96 
+\i (00:03:06) roam x 96
+\i (00:03:10) delete 
+\i (00:03:10) pick grid 1275.03 21220.81
+\t (00:03:10) last pick:  1275.00  21225.00
+\t (00:03:10) Connect Line "Unnamed_1_Conn40127mm_I1_11, Etch/Top"
+\i (00:03:11) pick grid 1248.97 21372.86
+\t (00:03:11) last pick:  1250.00  21375.00
+\i (00:03:12) move 
+\t (00:03:12) Select element(s) to move.
+\i (00:03:13) pick grid 1329.33 20823.31
+\t (00:03:13) last pick:  1325.00  20825.00
+\t (00:03:13) last pick:  1300.00  20700.00
+\t (00:03:13) Moving U2 / CONN40_NEW / CONN40_NEW.
+\t (00:03:13) Pick new location for the element(s).
+\i (00:03:22) pick grid 1283.72 20784.22
+\t (00:03:22) last pick:  1275.00  20775.00
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in 1014.38 21166.51
+\i (00:04:04) trapsize 543
+\i (00:04:07) pick grid 1116.47 21207.78
+\t (00:04:07) last pick:  1125.00  21200.00
+\i (00:04:08) prepopup 1134.93 21205.60
+\i (00:04:08) done 
+\i (00:04:08) generaledit 
+\i (00:04:09) pick grid 1117.55 21216.46
+\t (00:04:09) last pick:  1125.00  21225.00
+\i (00:04:13) dehilight 
+\i (00:04:14) pick grid 1453.14 21094.83
+\t (00:04:14) last pick:  1450.00  21100.00
+\t (00:04:14) Symbol "U2" dehighlighted.
+\i (00:04:15) prepopup 1416.22 21294.66
+\i (00:04:15) done 
+\i (00:04:15) generaledit 
+\i (00:04:28) zoom out 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom out 1185.97 21195.83
+\i (00:04:28) trapsize 1086
+\i (00:06:56) zoom out 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom out 708.12 21026.41
+\i (00:06:56) trapsize 2172
+\i (00:07:18) zoom in 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom in 951.38 20787.48
+\i (00:07:18) trapsize 1086
+\i (00:07:42) pick grid 2020.06 21091.58
+\t (00:07:42) last pick:  2025.00  21100.00
+\i (00:07:42) exit 
+\f (00:07:42) Do you want to save the changes you made to adapter_40pin.brd?
+\i (00:07:46) fillin menu_cancel 
+\i (00:07:46) generaledit 
+\i (00:07:47) prepopup 1437.94 20822.24
+\i (00:07:48) pick grid 1414.04 21017.73
+\t (00:07:48) last pick:  1425.00  21025.00
+\i (00:07:49) pick grid 1700.76 21041.62
+\t (00:07:49) last pick:  1700.00  21050.00
+\i (00:07:53) pick grid 1909.28 21050.31
+\t (00:07:53) last pick:  1900.00  21050.00
+\i (00:07:53) exit 
+\f (00:07:53) Do you want to save the changes you made to adapter_40pin.brd?
+\i (00:07:54) fillin yes 

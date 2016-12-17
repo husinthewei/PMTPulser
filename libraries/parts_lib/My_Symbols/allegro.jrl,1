@@ -1,0 +1,19 @@
+\t (00:00:07) allegro 15.2 p003 (v15-2-51C) i86
+\t (00:00:07) 
+
+\t (00:00:08) Opening existing drawing...
+\i (00:00:08) trapsize 1
+\i (00:00:08) trapsize 2
+\i (00:00:09) trapsize 2
+\i (00:00:14) show measure 
+\i (00:00:14) pick grid -0.070 0.096
+\t (00:00:14) last pick:  -0.070  0.100
+\i (00:00:16) pick grid 0.050 0.097
+\t (00:00:16) last pick:  0.050  0.100
+\i (00:00:18) pick grid 0.071 0.075
+\t (00:00:18) last pick:  0.070  0.080
+\i (00:00:20) pick grid -0.070 0.095
+\t (00:00:20) last pick:  -0.070  0.100
+\i (00:00:59) pick grid -0.072 -0.094
+\t (00:00:59) last pick:  -0.070  -0.090
+\i (00:01:03) exit 

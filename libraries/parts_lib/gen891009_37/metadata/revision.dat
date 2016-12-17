@@ -1,0 +1,180 @@
+(Cell	gen891009_37
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/11/09,19:28:03)
+
+			(User	nandor)
+
+			(Path	parts.gen891009_37)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/11/09,19:30:13)
+
+			(User	nandor)
+
+			(Path	parts.gen891009_37)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b9e7ee29)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/11/09,19:29:55)
+
+							(User	nandor)
+
+							(Path	parts.gen891009_37)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e4003ed)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009095c052)
+
+			(Primitives	1
+
+				(Primitive	GEN891009_37
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/11/09,19:28:09)
+
+							(User	nandor)
+
+							(Path	parts.gen891009_37)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GEN891009_37
+
+							(PackType	GEN891009_37)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	glenair891_009_37s)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ef00410)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c5d0372)
+
+)
+

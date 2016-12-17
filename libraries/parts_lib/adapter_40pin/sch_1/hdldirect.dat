@@ -1,0 +1,13 @@
+(
+ (file_type "hdldirect.dat" "1.0" )
+ (design_name "adapter_40pin" )
+ (view "sch_1" )
+ (modtime "verilog.v" 1344262821 4751 )
+ (timescale "1ns/1ns" )
+ (cells "CONN40_127MM" "CONN40_NEW" )
+ (global_signals )
+ (single_page 
+  ("" 
+   ("page1_I1" "CONN40_127MM" )
+   ("page1_I2" "CONN40_NEW" )))
+ (multiple_pages ))

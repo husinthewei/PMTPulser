@@ -1,0 +1,180 @@
+(Cell	xc5vlx50ff1153
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/12/2010,02:05:52 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.xc5vlx50ff1153)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/12/2010,04:09:16 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.xc5vlx50ff1153)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000cbb467bb)
+
+			(Primitives	1
+
+				(Primitive	XC5VLX50FF1153
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/12/2010,02:08:55 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.xc5vlx50ff1153)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC5VLX50FF1153
+
+							(PackType	XC5VLX50FF1153)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	v5ff1153)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ef1af85b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/12/2010,04:07:50 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.xc5vlx50ff1153)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ee003db)
+
+		)
+
+		(Checksum	000000001cec03d5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001db003d9)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	led160x80mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,11:53:51 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.led160x80mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,12:05:00 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.led160x80mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000921855c9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,11:55:44 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.led160x80mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001aa6035b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000080419e29)
+
+			(Primitives	1
+
+				(Primitive	LED160X80MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,11:54:14 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.led160x80mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LED160X80MM
+
+							(PackType	LED160X80MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	led_apt1608)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6b03b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9403a8)
+
+)
+

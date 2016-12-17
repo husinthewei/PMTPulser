@@ -1,0 +1,180 @@
+(Cell	bfu710f
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/10/14,11:54:22)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bfu710f)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/10/14,11:57:13)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bfu710f)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c6c073fb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/10/14,11:56:13)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bfu710f)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4703df)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000068d9f2a2)
+
+			(Primitives	1
+
+				(Primitive	BFU710F
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/10/14,11:55:35)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bfu710f)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BFU710F
+
+							(PackType	BFU710F)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot143)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b010356)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b140343)
+
+)
+

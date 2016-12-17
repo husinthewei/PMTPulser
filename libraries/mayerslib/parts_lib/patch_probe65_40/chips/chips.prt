@@ -1,0 +1,21 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PATCH_PROBE65_40';
+  pin
+    'PROBE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='PATCH_PROBE65_40';
+    ALT_SYMBOLS='(patchprobe65_40)';
+    BODY_NAME='PATCH_PROBE65_40';
+    JEDEC_TYPE='patchprobe65_40';
+    PHYS_DES_PREFIX='U';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

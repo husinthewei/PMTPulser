@@ -1,0 +1,284 @@
+(Cell	lt1369
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	04/01/09,21:07:20)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1369)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/01/09,21:48:27)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1369)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e89bd935)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/09,21:07:20)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1369)
+
+						)
+
+					)
+
+				)
+
+				(View	Chips
+
+					(Checksum	0000000053c91549)
+
+					(Primitives	2
+
+						(Primitive	LT1369
+
+							(RevisionInfoBlock	
+
+								(Baselined	0)
+
+								(Revision	0.0.2)
+
+								(ModificationStatus	NULL)
+
+								(Status	Created)
+
+								(ErrorStatus	1)
+
+								(CreateInfo	
+
+									(Time	04/01/09,21:07:20)
+
+									(User	Godwin)
+
+									(Path	mayers_lib.lt1369)
+
+								)
+
+							)
+
+							(LogicalPhysicalPartRelation	
+
+								(LogicalPart	LT1369
+
+									(PackType	LT1369)
+
+								)
+
+							)
+
+							(Packages	1
+
+								(FunctionGroups	1
+
+									(FunctionGroup	1[4]
+
+										(Linkages	
+
+											(Linkage	Symbol
+
+												(Name	sym_1)
+
+											)
+
+										)
+
+									)
+
+								)
+
+								(Linkages	
+
+									(DefaultFootPrint	
+
+										(Name	soic14)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Primitive	LT1369_1
+
+							(RevisionInfoBlock	
+
+								(Baselined	0)
+
+								(Revision	0.0.1)
+
+								(ModificationStatus	NULL)
+
+								(Status	Created)
+
+								(ErrorStatus	1)
+
+								(CreateInfo	
+
+									(Time	04/01/09,21:38:58)
+
+									(User	Godwin)
+
+									(Path	mayers_lib.lt1369)
+
+								)
+
+							)
+
+							(LogicalPhysicalPartRelation	
+
+								(LogicalPart	LT1369_1
+
+									(PackType	LT1369_1)
+
+								)
+
+							)
+
+							(Packages	1
+
+								(FunctionGroups	1
+
+									(FunctionGroup	1[1]
+
+										(Linkages	
+
+											(Linkage	Symbol
+
+												(Name	sym_2)
+
+											)
+
+										)
+
+									)
+
+								)
+
+								(Linkages	
+
+									(DefaultFootPrint	
+
+										(Name	soic14)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000174448c6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/09,21:44:23)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1369)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b560356)
+
+		)
+
+		(Checksum	000000001b4b034d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.01-s025 (v16-1-53))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c4d03a5)
+
+)
+

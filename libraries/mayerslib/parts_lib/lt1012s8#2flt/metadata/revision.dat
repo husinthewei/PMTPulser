@@ -1,0 +1,180 @@
+(Cell	lt1012s8/lt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/31/12,13:37:01)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1012s8/lt)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/29/11,10:56:58)
+
+			(User	Godwin)
+
+			(Path	lin_tech.lt1012s8/lt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009a7b08a7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/31/12,13:37:01)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1012s8/lt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd403b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000931ef03a)
+
+			(Primitives	1
+
+				(Primitive	LT1012S8/LT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/31/12,13:37:01)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1012s8/lt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT1012S8/LT
+
+							(PackType	LT1012S8/LT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	so8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f600443)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4d0349)
+
+)
+

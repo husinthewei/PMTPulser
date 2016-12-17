@@ -1,0 +1,1 @@
+SPLBPD-170,Cell 'conn6':Pin(s) 11,12,13,14,15,16 is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

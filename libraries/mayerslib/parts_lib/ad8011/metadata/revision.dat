@@ -1,0 +1,180 @@
+(Cell	ad8011
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/13,16:54:27)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ad8011)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/05/13,16:57:54)
+
+			(User	HEP)
+
+			(Path	mayers_lib.ad8011)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000f3fbc8d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/13,16:55:53)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ad8011)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dcf0411)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000016623fef)
+
+			(Primitives	1
+
+				(Primitive	AD8011
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/13,16:54:31)
+
+							(User	HEP)
+
+							(Path	mayers_lib.ad8011)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8011
+
+							(PackType	AD8011)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000019f70314)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4d0350)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	edgeconn16x127
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/11/13,11:40:58)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.edgeconn16x127)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/11/13,11:42:09)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.edgeconn16x127)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000000206bb3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/13,11:42:02)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.edgeconn16x127)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ab10370)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003d6226f6)
+
+			(Primitives	1
+
+				(Primitive	EDGECONN16X127
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/13,11:41:07)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.edgeconn16x127)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EDGECONN16X127
+
+							(PackType	EDGECONN16X127)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	EdgeConn_16x127)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ab20351)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c390370)
+
+)
+

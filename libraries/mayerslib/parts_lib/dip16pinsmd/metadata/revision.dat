@@ -1,0 +1,180 @@
+(Cell	dip16pinsmd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/14/2010,10:35:21 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.dip16pinsmd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/14/2010,10:41:46 AM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.dip16pinsmd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c1e4652e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,10:40:58 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.dip16pinsmd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce103b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a3e92765)
+
+			(Primitives	1
+
+				(Primitive	DIP16PINSMD
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/14/2010,10:35:31 AM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.dip16pinsmd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIP16PINSMD
+
+							(PackType	DIP16PINSMD)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dip16pinsmd)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001df403d2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ccf03a9)
+
+)
+

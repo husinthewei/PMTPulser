@@ -1,0 +1,54 @@
+
+	(Comment
+		(Time 04/13/07,17:22:08)
+		(User Godwin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+
+
+
+
+
+
+	(Comment
+		(Time 04/16/07,13:01:36)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 04/16/07,13:02:05)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+
+
+	(Comment
+		(Time 04/16/07,13:05:12)
+		(User Godwin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 04/16/07,13:05:18)
+		(User Godwin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+	(Comment
+		(Time 04/16/07,13:08:09)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)

@@ -1,0 +1,168 @@
+
+	(Comment
+		(Time 02/17/06,13:34:28)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MC68HC908GR8 added to cell")
+		(Param1 MC68HC908GR8)
+	)
+	(Comment
+		(Time 02/17/06,13:49:57)
+		(User Godwin M. Mayers)
+		(MsgId ECO_022)
+		(Text "Package MC68HC908GR8 deleted from cell")
+		(Param1 MC68HC908GR8)
+	)
+	(Comment
+		(Time 02/17/06,13:50:02)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MC68HC908GR8 added to cell")
+		(Param1 MC68HC908GR8)
+	)
+	(Comment
+		(Time 02/17/06,13:53:07)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MC68HC908GR8_1 added to cell")
+		(Param1 MC68HC908GR8_1)
+	)
+
+	(Comment
+		(Time 02/17/06,16:42:40)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/06,16:42:48)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/17/06,17:27:23)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+
+	(Comment
+		(Time 02/23/06,16:33:10)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/23/06,16:33:20)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/23/06,16:33:38)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/23/06,16:34:28)
+		(User Godwin M. Mayers)
+		(MsgId ECO_022)
+		(Text "Package MC68HC908GR8 deleted from cell")
+		(Param1 MC68HC908GR8)
+	)
+	(Comment
+		(Time 02/23/06,16:35:32)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MC68HC908GR8 added to cell")
+		(Param1 MC68HC908GR8)
+	)
+
+
+	(Comment
+		(Time 02/23/06,16:48:15)
+		(User Godwin M. Mayers)
+		(MsgId ECO_022)
+		(Text "Package MC68HC908GR8 deleted from cell")
+		(Param1 MC68HC908GR8)
+	)
+
+	(Comment
+		(Time 02/23/06,17:02:02)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 02/23/06,17:06:09)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/23/06,17:08:46)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/23/06,17:09:24)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/23/06,17:10:42)
+		(User Godwin M. Mayers)
+		(MsgId ECO_171)
+		(Text "VHDL map view vhdl_map added to cell")
+		(Param1 vhdl_map)
+	)
+	(Comment
+		(Time 02/23/06,17:10:50)
+		(User Godwin M. Mayers)
+		(MsgId ECO_291)
+		(Text "Primitive MC68HC908GR8_1_QFP_32 added to mapview vhdl_map")
+		(Param1 MC68HC908GR8_1_QFP_32)
+		(Param2 vhdl_map)
+	)
+	(Comment
+		(Time 02/23/06,17:12:13)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package MC68HC908GR8 added to cell")
+		(Param1 MC68HC908GR8)
+	)
+	(Comment
+		(Time 02/23/06,17:13:09)
+		(User Godwin M. Mayers)
+		(MsgId ECO_022)
+		(Text "Package MC68HC908GR8 deleted from cell")
+		(Param1 MC68HC908GR8)
+	)
+
+
+
+
+	(Comment
+		(Time 02/24/06,00:33:25)
+		(User Godwin Mayers)
+		(MsgId ECO_272)
+		(Text "Primitive MC68HC908GR8_1_QFP_32 deleted from mapview vhdl_map")
+		(Param1 MC68HC908GR8_1_QFP_32)
+		(Param2 vhdl_map)
+	)

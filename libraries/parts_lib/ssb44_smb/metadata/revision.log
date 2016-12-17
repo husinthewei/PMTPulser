@@ -1,0 +1,14 @@
+	(Comment
+		(Time 09/22/2010,02:27:21 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package SSB44_SMB added to cell")
+		(Param1 SSB44_SMB)
+	)
+	(Comment
+		(Time 09/22/2010,02:30:43 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

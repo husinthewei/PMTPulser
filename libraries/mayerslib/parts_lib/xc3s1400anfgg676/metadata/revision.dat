@@ -1,0 +1,180 @@
+(Cell	xc3s1400anfgg676
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/14/2010,01:36:16 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.xc3s1400anfgg676)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/14/2010,02:27:14 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.xc3s1400anfgg676)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000002da46418)
+
+			(Primitives	1
+
+				(Primitive	XC3S1400ANFGG676
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/2010,01:41:37 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.xc3s1400anfgg676)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC3S1400ANFGG676
+
+							(PackType	XC3S1400ANFGG676)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	S3FG676)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000301af369)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/14/2010,02:26:20 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.xc3s1400anfgg676)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9803b7)
+
+		)
+
+		(Checksum	000000001bd60383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c68037c)
+
+)
+

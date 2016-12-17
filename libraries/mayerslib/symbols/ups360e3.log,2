@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ups360e3.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 16 13:17:38 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/PennTriggerBoard/symbols
+    Name      = ups360e3.psm
+    User      = Godwin
+    Machine   = GRATITUDE
+
+
+Create symbol started.
+  WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 0 SECTOR TABLE	@63961640
+
+ WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

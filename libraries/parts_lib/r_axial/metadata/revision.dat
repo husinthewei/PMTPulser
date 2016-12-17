@@ -1,0 +1,180 @@
+(Cell	r_axial
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/14/13,15:22:51)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.r_axial)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/14/13,15:24:27)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.r_axial)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d4e64ced)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/13,15:23:48)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.r_axial)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001def0414)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b94d97c8)
+
+			(Primitives	1
+
+				(Primitive	R_AXIAL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/13,15:22:54)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.r_axial)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	R_AXIAL
+
+							(PackType	R_AXIAL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	r_do35)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dc70414)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6b0379)
+
+)
+

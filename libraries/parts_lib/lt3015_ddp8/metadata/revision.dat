@@ -1,0 +1,180 @@
+(Cell	lt3015_ddp8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/22/12,16:31:01)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt3015_ddp8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/22/12,16:34:40)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt3015_ddp8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d2a1da74)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,16:32:54)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt3015_ddp8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dde03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000059b5dd32)
+
+			(Primitives	1
+
+				(Primitive	LT3015_DDP8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/22/12,16:31:05)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt3015_ddp8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT3015_DDP8
+
+							(PackType	LT3015_DDP8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ddpak_8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b470383)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4d034d)
+
+)
+

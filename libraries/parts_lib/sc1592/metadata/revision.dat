@@ -1,0 +1,180 @@
+(Cell	sc1592
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/17/2010,03:33:00 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sc1592)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/17/2010,03:36:56 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sc1592)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000098a6e084)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,03:36:50 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sc1592)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3c038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009402e452)
+
+			(Primitives	1
+
+				(Primitive	SC1592
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,03:33:06 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sc1592)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SC1592
+
+							(PackType	SC1592)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic127p602x168-9n)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dbf040e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001d7f03d7)
+
+)
+

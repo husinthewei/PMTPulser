@@ -1,0 +1,180 @@
+(Cell	lm50
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/09/07,17:43:02)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm50)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/09/07,17:52:12)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lm50)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ee9e5ede)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/07,17:51:30)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm50)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f3a044c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008c75c225)
+
+			(Primitives	1
+
+				(Primitive	LM50
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/07,17:43:09)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lm50)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM50
+
+							(PackType	LM50)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f97040c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001baa037f)
+
+)
+

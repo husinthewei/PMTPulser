@@ -1,0 +1,226 @@
+(Cell	bondpad18
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/07/09,17:21:59)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bondpad18)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/07/09,17:53:55)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bondpad18)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	2
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d65592ee)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/07/09,17:52:49)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bondpad18)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c5418893)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/07/09,17:22:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bondpad18)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c430389)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006bb48722)
+
+			(Primitives	1
+
+				(Primitive	BONDPAD18
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/07/09,17:22:04)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.bondpad18)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BONDPAD18
+
+							(PackType	BONDPAD18)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Bondpad18)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	Bondpad18b)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001caf03e9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dad03dd)
+
+)
+

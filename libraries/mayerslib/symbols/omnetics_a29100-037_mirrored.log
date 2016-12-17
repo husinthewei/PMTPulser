@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : Omnetics_A29100-037_Mirrored.dra              )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Nov 05 13:23:29 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/lsst_2013/psmfiles
+    Name      = omnetics_a29100-037_mirrored.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

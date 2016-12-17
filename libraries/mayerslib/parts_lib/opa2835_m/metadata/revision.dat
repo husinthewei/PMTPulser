@@ -1,0 +1,172 @@
+(Cell	opa2835_m
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	05/31/12,17:56:23)
+
+			(User	HEP)
+
+			(Path	mayers_lib.opa2835_m)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/31/12,17:56:23)
+
+			(User	HEP)
+
+			(Path	mayers_lib.opa2835_m)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005abd78bb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/31/12,17:56:23)
+
+							(User	HEP)
+
+							(Path	mayers_lib.opa2835_m)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e090410)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004332d313)
+
+			(Primitives	1
+
+				(Primitive	OPA2835_M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	05/31/12,17:56:23)
+
+							(User	HEP)
+
+							(Path	mayers_lib.opa2835_m)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OPA2835_M
+
+							(PackType	OPA2835_M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	WQFN-10)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bbf037d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d7b03da)
+
+)
+

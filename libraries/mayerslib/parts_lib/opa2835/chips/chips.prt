@@ -1,0 +1,54 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'OPA2835';
+  pin
+    '2':
+      PIN_NUMBER='(2,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '3':
+      PIN_NUMBER='(3,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '4':
+      PIN_NUMBER='(4,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '5':
+      PIN_NUMBER='(5,5)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '10':
+      PIN_NUMBER='(10,10)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1,0)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    '6':
+      PIN_NUMBER='(0,6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '7':
+      PIN_NUMBER='(0,7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '8':
+      PIN_NUMBER='(0,8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '9':
+      PIN_NUMBER='(0,9)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='OPA2835';
+    BODY_NAME='OPA2835';
+    JEDEC_TYPE='WQFN-10';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

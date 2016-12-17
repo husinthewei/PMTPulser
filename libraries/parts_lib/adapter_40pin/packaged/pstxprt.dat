@@ -1,0 +1,48 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 06-Aug-2012 AT 10:20:18 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ADAPTER_40PIN';
+ POST_TIME='06-Aug-2012 AT 10:20:18';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ U1 'CONN40_127MM':
+ REUSE_ID='2';
+
+SECTION_NUMBER 1
+ '@MAYERS_LIB.ADAPTER_40PIN(SCH_1):PAGE1_I1@MAYERS_LIB.CONN40_127MM(CHIPS)':
+ C_PATH='@mayers_lib.adapter_40pin(sch_1):page1_i1@mayers_lib.conn40_127mm(chips~
+)',
+ P_PATH='@mayers_lib.adapter_40pin(sch_1):page1_i1@mayers_lib.conn40_127mm(chips~
+)',
+ PATH='I1',
+ DRAWING='@MAYERS_LIB.ADAPTER_40PIN(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(100,1450)',
+ VER='1',
+ ROT='2',
+ CDS_LIB='mayers_lib',
+ PRIM_FILE='C:/SPB_Data/mayers_lib/conn40_127mm/chips/chips.prt',
+ REUSE_ID='2';
+
+PART_NAME
+ U2 'CONN40_NEW':
+ REUSE_ID='1';
+
+SECTION_NUMBER 1
+ '@MAYERS_LIB.ADAPTER_40PIN(SCH_1):PAGE1_I2@MAYERS_LIB.CONN40_NEW(CHIPS)':
+ C_PATH='@mayers_lib.adapter_40pin(sch_1):page1_i2@mayers_lib.conn40_new(chips)',
+ P_PATH='@mayers_lib.adapter_40pin(sch_1):page1_i2@mayers_lib.conn40_new(chips)',
+ PATH='I2',
+ DRAWING='@MAYERS_LIB.ADAPTER_40PIN(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1850,1450)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='mayers_lib',
+ PRIM_FILE='C:/SPB_Data/mayers_lib/conn40_new/chips/chips.prt',
+ REUSE_ID='1';
+
+END.

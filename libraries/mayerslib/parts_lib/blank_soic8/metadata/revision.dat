@@ -1,0 +1,180 @@
+(Cell	blank_soic8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/17/12,16:01:02)
+
+			(User	HEP)
+
+			(Path	mayers_lib.blank_soic8)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/17/12,16:02:22)
+
+			(User	HEP)
+
+			(Path	mayers_lib.blank_soic8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003b12c701)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,16:02:12)
+
+							(User	HEP)
+
+							(Path	mayers_lib.blank_soic8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bf80374)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000095c7a0b7)
+
+			(Primitives	1
+
+				(Primitive	BLANK_SOIC8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,16:01:06)
+
+							(User	HEP)
+
+							(Path	mayers_lib.blank_soic8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BLANK_SOIC8
+
+							(PackType	BLANK_SOIC8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e670405)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b63034d)
+
+)
+

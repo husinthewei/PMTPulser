@@ -1,0 +1,180 @@
+(Cell	ada4937-2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/03/2009,03:13:46 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ada4937-2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/03/2009,03:29:13 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.ada4937-2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f68078b2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/03/2009,03:14:28 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ada4937-2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c340388)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007380479e)
+
+			(Primitives	1
+
+				(Primitive	ADA4937-2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/03/2009,03:27:42 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.ada4937-2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADA4937-2
+
+							(PackType	ADA4937-2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CP-24-1)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3a03b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7b03a2)
+
+)
+

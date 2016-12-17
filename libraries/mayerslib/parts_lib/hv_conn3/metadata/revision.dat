@@ -1,0 +1,180 @@
+(Cell	hv_conn3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/12,13:27:45)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hv_conn3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/13/12,13:29:26)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hv_conn3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001d0087a3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/12,13:28:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hv_conn3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b9e0379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b6272476)
+
+			(Primitives	1
+
+				(Primitive	HV_CONN3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/12,13:27:50)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hv_conn3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HV_CONN3
+
+							(PackType	HV_CONN3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DF22R-3P-7_92DS)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3f03e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9903a9)
+
+)
+

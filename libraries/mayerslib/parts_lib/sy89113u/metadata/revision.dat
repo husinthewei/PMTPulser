@@ -1,0 +1,180 @@
+(Cell	sy89113u
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/16/2011,02:32:28 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sy89113u)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/16/2011,03:55:53 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.sy89113u)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f2d3e7f9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/16/2011,02:35:17 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sy89113u)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001df303eb)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007ea9b6ab)
+
+			(Primitives	1
+
+				(Primitive	SY89113U
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/16/2011,02:35:24 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.sy89113u)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SY89113U
+
+							(PackType	SY89113U)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qfn50p700x700x85-45n)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001de503eb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001d0003da)
+
+)
+

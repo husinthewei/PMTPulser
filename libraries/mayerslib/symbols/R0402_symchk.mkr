@@ -1,0 +1,98 @@
+(marker_file
+  (version 1.0)
+  (markers
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 8)
+   (short_msg "No COMPONENT VALUE Text in Symbol.")
+   (long_msg "No COMPONENT VALUE Text in Symbol
+ COMPONENT VALUE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=COMPONENT VALUE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 9)
+   (short_msg "No DEVICE Text in Symbol.")
+   (long_msg "No DEVICE Text in Symbol
+ DEVICE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=DEVICE TYPE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 30)
+   (error_num 10)
+   (short_msg "No TOLERANCE Text in Symbol.")
+   (long_msg "No TOLERANCE Text in Symbol
+ TOLERANCE Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=TOLERANCE/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 40)
+   (error_num 11)
+   (short_msg "No USER PART NUMBER Text in Symbol.")
+   (long_msg "No USER PART NUMBER Text in Symbol
+ USER PART NUMBER Text Has Not Been Defined in This Symbol.")
+   (location
+    (
+     (object_kind "TEXT")
+     (canonical_name "0.0000:0.0000=USER PART NUMBER/ASSEMBLY_TOP")
+     (parent_canonical_name "TEXT@(0.0 0.0)")
+     (drawing_name "TEXT@(0.0 0.0)")
+    )
+
+   )
+  )
+  (
+   (tool "Symchk")
+   (class "Symchk")
+   (severity 20)
+   (error_num 12)
+   (short_msg "PIN LOCATION DATA")
+   (long_msg "PIN LOCATION DATA:
+1      (-17.72 0.0) SMD25X25
+2      (17.72 0.0) SMD25X25
+")
+   (location
+    (
+     (object_kind "PIN")
+     (canonical_name "0.0000:0.0000=PIN")
+     (parent_canonical_name "PIN@(0.0 0.0)")
+     (drawing_name "PIN@(0.0 0.0)")
+    )
+
+   )
+  )
+
+  )
+)

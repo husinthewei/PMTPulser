@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/14/2010,11:54:14 AM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package LED160X80MM added to cell")
+		(Param1 LED160X80MM)
+	)
+	(Comment
+		(Time 05/14/2010,11:55:44 AM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

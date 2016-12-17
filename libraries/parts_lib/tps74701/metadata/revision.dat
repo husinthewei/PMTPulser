@@ -1,0 +1,180 @@
+(Cell	tps74701
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/11/14,16:01:04)
+
+			(User	Godwin)
+
+			(Path	parts_lib.tps74701)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/11/14,16:11:22)
+
+			(User	Godwin)
+
+			(Path	parts_lib.tps74701)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d5a000d4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/14,16:03:24)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps74701)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce503a3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000060d83681)
+
+			(Primitives	1
+
+				(Primitive	TPS74701
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/14,16:02:31)
+
+							(User	Godwin)
+
+							(Path	parts_lib.tps74701)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS74701
+
+							(PackType	TPS74701)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	DRC_10)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e0b03dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca903d3)
+
+)
+

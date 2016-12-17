@@ -1,0 +1,72 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MAX4781';
+  pin
+    '1 X4':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '2 X6':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '4 X7':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '5 X5':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '6 ENABLE':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '7 NC':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '8 GND':
+      PIN_NUMBER='(8)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '9 C':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '10 B':
+      PIN_NUMBER='(10)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '11 A':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '12 X3':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '13 X0':
+      PIN_NUMBER='(13)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '14 X1':
+      PIN_NUMBER='(14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '15 X2':
+      PIN_NUMBER='(15)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VCC 16':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'X 3':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='MAX4781';
+    BODY_NAME='MAX4781';
+    JEDEC_TYPE='tssop16';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

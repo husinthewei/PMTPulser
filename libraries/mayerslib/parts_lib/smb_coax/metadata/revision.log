@@ -1,0 +1,134 @@
+
+	(Comment
+		(Time 02/17/05,12:31:37)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package SMB_COAX added to cell")
+		(Param1 SMB_COAX)
+	)
+
+	(Comment
+		(Time 02/17/05,12:33:19)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 02/17/05,16:15:23)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/17/05,16:15:50)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_3 added to cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/17/05,16:16:13)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package SMB_COAX_1 added to cell")
+		(Param1 SMB_COAX_1)
+	)
+	(Comment
+		(Time 02/17/05,16:16:23)
+		(User ematsumo)
+		(MsgId ECO_022)
+		(Text "Package SMB_COAX_1 deleted from cell")
+		(Param1 SMB_COAX_1)
+	)
+	(Comment
+		(Time 02/17/05,16:16:35)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_4 added to cell")
+		(Param1 sym_4)
+	)
+	(Comment
+		(Time 02/17/05,16:17:16)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/17/05,16:17:20)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package SMB_COAX_1 added to cell")
+		(Param1 SMB_COAX_1)
+	)
+	(Comment
+		(Time 02/17/05,16:17:27)
+		(User ematsumo)
+		(MsgId ECO_022)
+		(Text "Package SMB_COAX_1 deleted from cell")
+		(Param1 SMB_COAX_1)
+	)
+	(Comment
+		(Time 02/17/05,16:17:40)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/17/05,16:17:47)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/05,16:17:54)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/05,16:18:00)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+
+
+	(Comment
+		(Time 02/17/05,16:19:57)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/05,16:20:14)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/05,16:20:20)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/17/05,16:20:30)
+		(User ematsumo)
+		(MsgId ECO_082)
+		(Text "Symbol sym_4 deleted from cell")
+		(Param1 sym_4)
+	)
+
+

@@ -1,0 +1,3 @@
+SPLBPD-295,Verilog Wrapper:Pin(s) 1,2 are not mapped in wrapper vlog_model for model RES but are present on the symbol(s).,Warning
+SPLBPD-294,Verilog Wrapper:Pin(s) A<0>,B<0> are mapped in wrapper vlog_model for model RES but are missing on the symbol(s).,Warning
+SPLBPD-170,Cell 'rsmd0402':Pin(s) A<0>,B<0> is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS_FIXED_SIZE value has been reduced, reload the part.,Warning

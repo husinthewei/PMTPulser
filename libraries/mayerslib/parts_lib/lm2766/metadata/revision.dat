@@ -1,0 +1,204 @@
+(Cell	lm2766
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.36)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/20/16,21:00:20)
+
+			(User	HEP)
+
+			(Path	parts_lib.lm2766)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/20/16,21:05:01)
+
+			(User	HEP)
+
+			(Path	parts_lib.lm2766)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.36)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fd0a0fc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.33)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/20/16,21:02:50)
+
+							(User	HEP)
+
+							(Path	parts_lib.lm2766)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001de5040d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000063ce4f9f)
+
+			(Primitives	1
+
+				(Primitive	LM2766
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/20/16,21:00:25)
+
+							(User	HEP)
+
+							(Path	parts_lib.lm2766)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LM2766
+
+							(PackType	LM2766)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23_6pin)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc403ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd903d1)
+
+)
+

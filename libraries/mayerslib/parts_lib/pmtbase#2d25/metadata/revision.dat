@@ -1,0 +1,180 @@
+(Cell	pmtbase-25
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/27/10,13:22:11)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pmtbase-25)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/27/10,13:31:46)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pmtbase-25)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004b9a7d22)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/27/10,13:27:35)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pmtbase-25)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cf703b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000eb142750)
+
+			(Primitives	1
+
+				(Primitive	PMTBASE-25
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/27/10,13:22:27)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pmtbase-25)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PMTBASE-25
+
+							(PackType	PMTBASE-25)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	PMT_BASE_R7081_24-9)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b690370)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b5e034d)
+
+)
+

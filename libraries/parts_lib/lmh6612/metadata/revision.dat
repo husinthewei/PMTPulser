@@ -1,0 +1,180 @@
+(Cell	lmh6612
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/17/12,16:09:44)
+
+			(User	HEP)
+
+			(Path	mayers_lib.lmh6612)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/17/12,16:14:12)
+
+			(User	HEP)
+
+			(Path	mayers_lib.lmh6612)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000017cbc685)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,16:11:33)
+
+							(User	HEP)
+
+							(Path	mayers_lib.lmh6612)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce803b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000242ce3dd)
+
+			(Primitives	1
+
+				(Primitive	LMH6612
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/17/12,16:09:47)
+
+							(User	HEP)
+
+							(Path	mayers_lib.lmh6612)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMH6612
+
+							(PackType	LMH6612)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001acd0351)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d3903a3)
+
+)
+

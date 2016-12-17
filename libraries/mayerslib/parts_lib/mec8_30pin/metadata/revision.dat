@@ -1,0 +1,186 @@
+(Cell	mec8_30pin
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/07,18:43:06)
+
+			(User	Administrator)
+
+			(Path	mayers_lib.mec8_30pin)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/13/07,18:45:12)
+
+			(User	Administrator)
+
+			(Path	mayers_lib.mec8_30pin)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000000bf8aa6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/07,18:44:43)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.mec8_30pin)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce503d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000022a6beea)
+
+			(Primitives	1
+
+				(Primitive	MEC8_30PIN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/07,18:43:09)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.mec8_30pin)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_30PIN
+
+							(PackType	MEC8_30PIN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mec8_30pin)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	mec8_Conn30a)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8703df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bfe03b2)
+
+)
+

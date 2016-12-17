@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/26/13,18:19:49)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BAS40_04_SERIAL added to cell")
+		(Param1 BAS40_04_SERIAL)
+	)
+	(Comment
+		(Time 03/26/13,18:20:34)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

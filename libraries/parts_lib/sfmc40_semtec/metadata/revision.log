@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/11/10,13:21:49)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package SFMC40_SEMTEC added to cell")
+		(Param1 SFMC40_SEMTEC)
+	)
+	(Comment
+		(Time 03/11/10,13:22:21)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

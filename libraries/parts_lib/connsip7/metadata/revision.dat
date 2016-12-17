@@ -1,0 +1,182 @@
+(Cell	connsip7
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/25/06,05:42:35)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.connsip7)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/25/06,05:44:53)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.connsip7)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007c86c492)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/25/06,05:44:18)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.connsip7)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c67038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000db5f90c8)
+
+			(Primitives	1
+
+				(Primitive	CONNSIP7
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/25/06,05:42:41)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.connsip7)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONNSIP7
+
+							(PackType	CONNSIP7)
+
+							(PackType	CONNSIP7_HSR7)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HSR7)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cfe038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9603de)
+
+)
+

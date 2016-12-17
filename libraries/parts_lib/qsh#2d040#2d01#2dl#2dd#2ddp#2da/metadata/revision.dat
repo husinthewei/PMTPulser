@@ -1,0 +1,204 @@
+(Cell	qsh-040-01-l-d-dp-a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/05/14,10:59:59)
+
+			(User	HEP)
+
+			(Path	mayers_lib.qsh-040-01-l-d-dp-a)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/01/14,10:00:55)
+
+			(User	HEP)
+
+			(Path	1_shot.qsh-040-01-l-d-dp-a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.2)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	08/05/14,10:59:59)
+
+					(User	HEP)
+
+					(Path	mayers_lib.qsh-040-01-l-d-dp-a)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000482de780)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/14,10:59:59)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qsh-040-01-l-d-dp-a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bf10387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008089bdf6)
+
+			(Primitives	1
+
+				(Primitive	QSH-040-01-L-D-DP-A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/14,10:59:59)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qsh-040-01-l-d-dp-a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	QSH-040-01-L-D-DP-A
+
+							(PackType	QSH-040-01-L-D-DP-A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	QSH-040-01-L-D-DP-A_6)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6d03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	Allegro_performance)
+
+	)
+
+	(Checksum	000000001ca303ac)
+
+)
+

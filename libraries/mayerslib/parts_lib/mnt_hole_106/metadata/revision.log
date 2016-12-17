@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/06/2011,12:43:59 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package MNT_HOLE_106 added to cell")
+		(Param1 MNT_HOLE_106)
+	)
+	(Comment
+		(Time 01/06/2011,12:45:16 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

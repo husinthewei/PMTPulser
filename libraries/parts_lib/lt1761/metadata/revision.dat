@@ -1,0 +1,180 @@
+(Cell	lt1761
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/17/2010,03:40:29 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lt1761)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/17/2010,03:45:55 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lt1761)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003df08995)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,03:45:01 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lt1761)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001caa038d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cee825df)
+
+			(Primitives	1
+
+				(Primitive	LT1761
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,03:40:42 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lt1761)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT1761
+
+							(PackType	LT1761)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lt1761_tsot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3803b7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb2037d)
+
+)
+

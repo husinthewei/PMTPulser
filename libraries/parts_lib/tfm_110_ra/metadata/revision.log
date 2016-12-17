@@ -1,0 +1,28 @@
+	(Comment
+		(Time 12/17/12,17:04:16)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package TFM_110_RA added to cell")
+		(Param1 TFM_110_RA)
+	)
+	(Comment
+		(Time 12/17/12,17:05:01)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 12/17/12,17:21:06)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 12/17/12,17:21:17)
+		(User nandor)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

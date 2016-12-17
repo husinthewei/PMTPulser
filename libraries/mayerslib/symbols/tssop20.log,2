@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tssop20.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Oct 09 17:44:29 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = tssop20.psm
+    User      = Godwin
+    Machine   = TUVOK
+
+
+Create symbol started.
+  WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 0 SECTOR TABLE	@47593472
+
+ WARNING(SPMHA1-264): Sector table is not empty .... use dbdoctor to resolve. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

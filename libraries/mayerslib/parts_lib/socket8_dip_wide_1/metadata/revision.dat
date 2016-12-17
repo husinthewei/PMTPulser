@@ -1,0 +1,204 @@
+(Cell	socket8_dip_wide_1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/07/14,15:51:05)
+
+			(User	mbreilly)
+
+			(Path	mayers_lib.socket8_dip_wide_1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/11/13,16:40:05)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.socket8_dip)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	07/07/14,15:51:05)
+
+					(User	mbreilly)
+
+					(Path	mayers_lib.socket8_dip_wide_1)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cdbcbd4b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/14,15:51:05)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.socket8_dip_wide_1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000205d0469)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000087e9ba30)
+
+			(Primitives	1
+
+				(Primitive	socket8_dip_wide_1_WIDE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/14,15:51:05)
+
+							(User	mbreilly)
+
+							(Path	mayers_lib.socket8_dip_wide_1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SOCKET8_DIP_WIDE
+
+							(PackType	socket8_dip_wide_1_WIDE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	dip8_3_special)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0803bd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bcd03a7)
+
+)
+

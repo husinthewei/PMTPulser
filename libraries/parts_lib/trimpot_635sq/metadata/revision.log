@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/08/09,14:36:42)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package TRIMPOT_635SQ added to cell")
+		(Param1 TRIMPOT_635SQ)
+	)
+	(Comment
+		(Time 06/08/09,14:38:54)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

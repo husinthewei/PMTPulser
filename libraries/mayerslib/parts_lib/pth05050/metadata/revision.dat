@@ -1,0 +1,180 @@
+(Cell	pth05050
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/05/12,17:48:01)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pth05050)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/05/12,17:53:09)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pth05050)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005c7ea365)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,17:50:52)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pth05050)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2e03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000065c950f2)
+
+			(Primitives	1
+
+				(Primitive	PTH05050
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/05/12,17:48:06)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pth05050)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PTH05050
+
+							(PackType	PTH05050)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pth05050wad)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bcd0388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d4d03ae)
+
+)
+

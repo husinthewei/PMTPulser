@@ -1,0 +1,42 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HFA3096';
+  pin
+    'EN':
+      PIN_NUMBER='(2,4,7,0,0)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'BN':
+      PIN_NUMBER='(1,5,8,0,0)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'CN':
+      PIN_NUMBER='(3,6,9,0,0)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'EP':
+      PIN_NUMBER='(0,0,0,10,13)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'CP':
+      PIN_NUMBER='(0,0,0,12,15)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'BP':
+      PIN_NUMBER='(0,0,0,11,14)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='HFA3096';
+    ALT_SYMBOLS='(SOIC16)';
+    BODY_NAME='HFA3096';
+    JEDEC_TYPE='SOIC16';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    NC_PINS='(16)';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,28 @@
+	(Comment
+		(Time 05/16/2011,02:35:17 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 05/16/2011,02:35:24 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package SY89113U added to cell")
+		(Param1 SY89113U)
+	)
+	(Comment
+		(Time 05/16/2011,03:37:05 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 05/16/2011,03:37:48 PM)
+		(User ashmansk)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

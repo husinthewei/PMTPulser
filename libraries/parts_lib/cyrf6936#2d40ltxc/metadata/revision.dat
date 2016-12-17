@@ -1,0 +1,180 @@
+(Cell	cyrf6936-40ltxc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.17)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/09/12,17:05:24)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.cyrf6936-40ltxc)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	05/11/12,13:00:04)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.cyrf6936-40ltxc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c495f0fa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.14)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/12,17:29:04)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.cyrf6936-40ltxc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0803e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009984be9a)
+
+			(Primitives	1
+
+				(Primitive	CYRF6936-40LTXC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/09/12,17:05:30)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.cyrf6936-40ltxc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CYRF6936-40LTXC
+
+							(PackType	CYRF6936-40LTXC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	40-Pin-Sawn_QFN6x6)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8d03e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001caf03ae)
+
+)
+

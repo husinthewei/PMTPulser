@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QSH-030-01-X-D-A.dra                          )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Thu Jul 05 18:17:21 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/SPB_Data/Symbols
+    Name      = qsh-030-01-x-d-a.psm
+    User      = HEP
+    Machine   = MBREILLY-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

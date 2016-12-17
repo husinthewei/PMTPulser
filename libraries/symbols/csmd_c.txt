@@ -1,0 +1,13 @@
+(DEVICE FILE: csmd_c)
+
+PACKAGE csmd_c
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER csmd_c  1 2
+
+PINSWAP csmd_c  1 2
+
+FUNCTION csmd_c csmd_c  1 2
+
+END

@@ -1,0 +1,33 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'AM26LS32','AM26LS32_SOIC16';
+  pin
+    'A':
+      PIN_NUMBER='(2,6,10,14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'B':
+      PIN_NUMBER='(1,7,9,15)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'Y':
+      PIN_NUMBER='(3,5,11,13)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'G1':
+      PIN_NUMBER='(4,4,4,4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-G2':
+      PIN_NUMBER='(12,12,12,12)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='AM26LS32';
+    LIBRARY_NAME='mayerslib';
+    PACKAGE_CREATOR='?';
+    BODY_NAME='AM26LS32';
+    JEDEC_TYPE='soic16';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    POWER_PINS='(VCC:16)';
+    POWER_PINS='(GND:8)';
+  end_body;
+end_primitive;
+
+END.

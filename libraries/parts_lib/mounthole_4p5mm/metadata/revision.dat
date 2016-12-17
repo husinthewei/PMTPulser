@@ -1,0 +1,180 @@
+(Cell	mounthole_4p5mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/14/12,12:37:33)
+
+			(User	nandor)
+
+			(Path	parts.mounthole_4p5mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/11/12,13:20:33)
+
+			(User	nandor)
+
+			(Path	parts.mounthole_2mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001cc57db6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/14/12,12:37:33)
+
+							(User	nandor)
+
+							(Path	parts.mounthole_4p5mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6a03e0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008e1b677c)
+
+			(Primitives	1
+
+				(Primitive	MOUNTHOLE_4P5MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/14/12,12:37:33)
+
+							(User	nandor)
+
+							(Path	parts.mounthole_4p5mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MOUNTHOLE_4P5MM
+
+							(PackType	MOUNTHOLE_4P5MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	mounthole_4p5mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001daa03e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001d9303d1)
+
+)
+

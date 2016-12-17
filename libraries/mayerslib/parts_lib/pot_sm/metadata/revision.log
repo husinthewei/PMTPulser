@@ -1,0 +1,33 @@
+
+	(Comment
+		(Time 02/15/05,12:58:11)
+		(User ematsumo)
+		(MsgId ECO_021)
+		(Text "Package POT_SM added to cell")
+		(Param1 POT_SM)
+	)
+	(Comment
+		(Time 02/15/05,12:59:13)
+		(User ematsumo)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+
+
+	(Comment
+		(Time 02/17/06,14:35:55)
+		(User cadown)
+		(MsgId ECO_151)
+		(Text "Verilog wrapper vlog_model added to cell")
+		(Param1 vlog_model)
+	)
+
+	(Comment
+		(Time 02/17/06,14:43:41)
+		(User cadown)
+		(MsgId ECO_151)
+		(Text "Verilog wrapper vlog_model added to cell")
+		(Param1 vlog_model)
+	)

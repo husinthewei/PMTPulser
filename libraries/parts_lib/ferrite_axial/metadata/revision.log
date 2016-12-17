@@ -1,0 +1,14 @@
+	(Comment
+		(Time 06/14/13,15:17:10)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package FERRITE_AXIAL added to cell")
+		(Param1 FERRITE_AXIAL)
+	)
+	(Comment
+		(Time 06/14/13,15:20:52)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

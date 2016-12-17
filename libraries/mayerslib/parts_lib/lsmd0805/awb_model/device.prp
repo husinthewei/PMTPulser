@@ -1,0 +1,17 @@
+(PropertyFile "1.0"
+	(Creator "Device property file created by analog_uprev: inductor on Mon Dec 11 13:00:54 IST 2000")
+	("device_info"
+		( MODEL_TYPE 2 )
+		( SYMBOL_NAME "Inductor" )
+		( PORT_ORDER 
+ 			("A")
+ 			("B") )
+	)
+	("model_params"
+	("symbol"
+			( "VALUE" )
+	)
+	)
+	("device_max_ops"
+	)
+)

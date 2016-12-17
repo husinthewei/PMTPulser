@@ -1,0 +1,180 @@
+(Cell	qsh-30
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/05/12,16:05:51)
+
+			(User	HEP)
+
+			(Path	mayers_lib.qsh-30)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/05/12,16:09:28)
+
+			(User	HEP)
+
+			(Path	mayers_lib.qsh-30)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000071bfe62e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/12,16:08:57)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qsh-30)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2803e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007de2bea1)
+
+			(Primitives	1
+
+				(Primitive	QSH-30
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/05/12,16:05:59)
+
+							(User	HEP)
+
+							(Path	mayers_lib.qsh-30)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	QSH-30
+
+							(PackType	QSH-30)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	qsh-030-01-x-d-a)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1103ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001baf03a1)
+
+)
+

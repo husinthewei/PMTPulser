@@ -1,0 +1,180 @@
+(Cell	hdr4x3
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/28/09,18:07:56)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr4x3)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/28/09,18:13:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.hdr4x3)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000d8d1a31)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/09,18:09:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr4x3)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cce03a7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f25463d4)
+
+			(Primitives	1
+
+				(Primitive	HDR4X3
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/28/09,18:07:59)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.hdr4x3)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HDR4X3
+
+							(PackType	HDR4X3)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	HDR4X3)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b960382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b650350)
+
+)
+

@@ -1,0 +1,180 @@
+(Cell	hfa1130
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/11/12,15:03:11)
+
+			(User	HEP)
+
+			(Path	mayers_lib.hfa1130)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/11/12,15:10:21)
+
+			(User	HEP)
+
+			(Path	mayers_lib.hfa1130)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009332b91f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/12,15:07:29)
+
+							(User	HEP)
+
+							(Path	mayers_lib.hfa1130)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b240384)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000afe442b6)
+
+			(Primitives	1
+
+				(Primitive	HFA1130
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/12,15:03:23)
+
+							(User	HEP)
+
+							(Path	mayers_lib.hfa1130)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HFA1130
+
+							(PackType	HFA1130)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0703ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc503a4)
+
+)
+

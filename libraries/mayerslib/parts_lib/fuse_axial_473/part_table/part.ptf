@@ -1,0 +1,17 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FUSE_AXIAL_473'
+CLASS=discrete
+JEDEC_TYPE=fuse473
+
+{========================================================================================}
+:VALUE = PART_NUMBER     | VENDOR_PN    | COST   | VENDOR ;
+{========================================================================================}
+ '2A'  = '0473002.MRT1L' | 'F2342CT-ND' | '2.19' | 'digikey'
+ '3A'  = '0473003.MRT1L' | 'F2343CT-ND' | '2.19' | 'digikey'
+ '4A'  = '0473004.MRT1L' | 'F2344CT-ND' | '2.19' | 'digikey'
+
+END_PART
+
+END.
+

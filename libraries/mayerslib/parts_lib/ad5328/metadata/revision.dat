@@ -1,0 +1,180 @@
+(Cell	ad5328
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.13)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/07/12,20:21:15)
+
+			(User	nandor)
+
+			(Path	parts.ad5328)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/08/12,17:14:04)
+
+			(User	nandor)
+
+			(Path	parts.ad5328)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fef98d59)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,20:28:53)
+
+							(User	nandor)
+
+							(Path	parts.ad5328)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ef303f5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007b3f2b92)
+
+			(Primitives	1
+
+				(Primitive	AD5328
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/07/12,20:21:21)
+
+							(User	nandor)
+
+							(Path	parts.ad5328)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD5328
+
+							(PackType	AD5328)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	AD5328)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c0c0387)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c1c037a)
+
+)
+

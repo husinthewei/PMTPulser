@@ -1,0 +1,18 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Thu Mar 18 17:31:30 2004' ;
+primitive 'PATCH_PROBE';
+  pin
+    'PROBE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='PATCH_PROBE';
+    JEDEC_TYPE='patch_probe';
+  end_body;
+end_primitive;
+END.

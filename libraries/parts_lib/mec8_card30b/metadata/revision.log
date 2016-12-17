@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/14/09,14:46:19)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package MEC8_CARD30B added to cell")
+		(Param1 MEC8_CARD30B)
+	)
+	(Comment
+		(Time 01/14/09,14:50:34)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

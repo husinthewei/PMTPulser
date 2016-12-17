@@ -1,0 +1,14 @@
+	(Comment
+		(Time 03/23/09,18:57:16)
+		(User Godwin)
+		(MsgId ECO_022)
+		(Text "Package BTE-040_1 deleted from cell")
+		(Param1 BTE-040_1)
+	)
+	(Comment
+		(Time 03/23/09,18:57:39)
+		(User Godwin)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

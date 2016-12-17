@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HFA3134','HFA3134_SOT23';
+  pin
+    'B':
+      PIN_NUMBER='(1,4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'E':
+      PIN_NUMBER='(2,5)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'C':
+      PIN_NUMBER='(6,3)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='HFA3134';
+    ALT_SYMBOLS='(sot26)';
+    LIBRARY_NAME='my_library';
+    BODY_NAME='HFA3134';
+    JEDEC_TYPE='sot26';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

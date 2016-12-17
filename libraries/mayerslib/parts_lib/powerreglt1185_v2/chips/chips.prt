@@ -1,0 +1,34 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Nov 19 17:12:40 2004' ;
+primitive 'POWERREGLT1185_V2';
+  pin
+    'REF':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'VOUT':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VIN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'FB':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'VIN2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    POWER_PINS='(GR:5)';
+    GROUND_NETS='GR';
+    CLASS='IC';
+    PART_NAME='POWERREGLT1185_V2';
+    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='powerreglt1185_v2';
+    BODY_NAME='PowerRegLT1185_v2';
+  end_body;
+end_primitive;
+END.

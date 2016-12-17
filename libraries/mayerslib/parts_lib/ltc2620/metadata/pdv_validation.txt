@@ -1,0 +1,1 @@
+SPLBPD-170,Cell 'ltc2620':Pin(s) VOUT_A  2,VOUT_B  3,VOUT_C  4,VOUT_D  5,REF  6,7  CD/LD,8  SCK,8  SDI,SD0  9,VOUT_E  12,VOUT_F  13,9  SDI,SD0  10,SD0 10 is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

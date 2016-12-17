@@ -1,0 +1,180 @@
+(Cell	npn_2sc4617
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/23/09,15:05:39)
+
+			(User	nandor)
+
+			(Path	parts.npn_2sc4617)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/23/09,15:09:01)
+
+			(User	nandor)
+
+			(Path	parts.npn_2sc4617)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000419c648f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/09,15:08:16)
+
+							(User	nandor)
+
+							(Path	parts.npn_2sc4617)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b56038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003326caf3)
+
+			(Primitives	1
+
+				(Primitive	NPN_2SC4617
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/23/09,15:05:48)
+
+							(User	nandor)
+
+							(Path	parts.npn_2sc4617)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	NPN_2SC4617
+
+							(PackType	NPN_2SC4617)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot_416_ncd)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001df90417)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8a0381)
+
+)
+

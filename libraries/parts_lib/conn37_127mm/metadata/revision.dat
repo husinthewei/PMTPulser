@@ -1,0 +1,180 @@
+(Cell	conn37_127mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/25/12,14:44:39)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn37_127mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	07/25/12,14:47:57)
+
+			(User	HEP)
+
+			(Path	mayers_lib.conn37_127mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000283ae1d5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/12,14:47:40)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn37_127mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c2303ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fbd6bed7)
+
+			(Primitives	1
+
+				(Primitive	CONN37_127MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/25/12,14:44:45)
+
+							(User	HEP)
+
+							(Path	mayers_lib.conn37_127mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN37_127MM
+
+							(PackType	CONN37_127MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	conn40_127mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2a038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001c4903a5)
+
+)
+

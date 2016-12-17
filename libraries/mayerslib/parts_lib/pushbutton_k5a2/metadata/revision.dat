@@ -1,0 +1,180 @@
+(Cell	pushbutton_k5a2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/03/2010,01:48:05 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.pushbutton_k5a2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/03/2010,01:54:48 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.pushbutton_k5a2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000044b28c52)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/03/2010,01:54:29 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.pushbutton_k5a2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc7037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c7862eef)
+
+			(Primitives	1
+
+				(Primitive	PUSHBUTTON_K5A2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/03/2010,01:48:13 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.pushbutton_k5a2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PUSHBUTTON_K5A2
+
+							(PackType	PUSHBUTTON_K5A2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	k5a2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cbc03b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9603d0)
+
+)
+

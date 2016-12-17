@@ -1,0 +1,68 @@
+Setup libraries:
+Setup->Paths->Library
+Padpath to symbols
+pmspath to symbols 
+devpath to parts
+
+
+Must in different product to do different things. Ex: Librarian to make parts. File->Change Product
+Package symbol manager to make new package.
+flows-> Library Management -> Part Developer
+Then package symbol Wizard.
+Go with bigger number in range for package size.
+e1 is distance between centers of leads.
+SOIC is surface mount.
+Also usually says what size pads to use.
+Tools->padstack->Select Library Padstack to change
+Looking at the part from the top when editing.
+
+Must make pins counterclockwise. Must move pins around. 12345678 counterclockwise.
+Change pin names
+
+
+Schematic: 
+Change to-
+penn b size page (add to every page)
+One page for power
+Anything analog on one page
+Anything digital on another 
+
+Component browser:
+res is resistor. 402s and 603s are good. Good practice to have value and part number.
+
+
+
+
+/GND to wire to make ground. Make this signal name
+
+Knows anything with the same signal name is connected
+
+When done, do file->export physical
+
+Give name for file EX: simple test 1
+
+
+Layout: Conductor, then dialectrics between, and then the planes in the middle, separated by dialectric
+Cross-Section -> 
+Place->Manually
+
+Change visibility to see what layers you want to see.
+
+Draw board with size.
+
+Top colors red and bottom colors blue. Change color of the traces. Ground is green, and power is like yellow.
+Silkscreen is colored slightly different. Bluer for bottom and pick for top.
+Must make sizes and shapes, using dynamic copper, for the planes.
+
+Allegro constraint manager to set up things early.
+
+setup->constraints->constraint manager
+
+Anything for ground and power, you want bigger vias (like size 40)
+
+usually size 20 for power
+lower for signal
+
+What else:
+Modules
+Test points

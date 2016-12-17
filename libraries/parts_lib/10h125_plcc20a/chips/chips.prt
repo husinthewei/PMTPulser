@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive '10H125_PLCC20A';
+  pin
+    '-B':
+      PIN_NUMBER='(18,13,8,3)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    'A':
+      PIN_NUMBER='(19,14,9,4)';
+      INPUT_LOAD='(-0.010000,0.010000)';
+    'Y':
+      PIN_NUMBER='(17,15,7,5)';
+      OUTPUT_LOAD='(0.01,-.01)';
+    'VBB':
+      PIN_NUMBER='(2,2,2,2)';
+      OUTPUT_LOAD='(0.01,-.01)';
+  end_pin;
+  body
+    PART_NAME='10H125_PLCC20A';
+    BODY_NAME='10H125_PLCC20A';
+    JEDEC_TYPE='plcc20';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    POWER_PINS='(VCC:12)';
+    POWER_PINS='(GND:20)';
+    POWER_PINS='(VEE:10)';
+    NC_PINS='(1,6,11,16)';
+  end_body;
+end_primitive;
+
+END.

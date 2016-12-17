@@ -1,0 +1,14 @@
+	(Comment
+		(Time 05/14/2010,12:07:09 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package ADM3202ARUZ added to cell")
+		(Param1 ADM3202ARUZ)
+	)
+	(Comment
+		(Time 05/14/2010,12:17:51 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

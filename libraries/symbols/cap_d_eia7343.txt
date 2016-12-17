@@ -1,0 +1,13 @@
+(DEVICE FILE: cap_d_eia7343)
+
+PACKAGE cap_d_eia7343
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER cap_d_eia7343  1 2
+
+PINSWAP cap_d_eia7343  1 2
+
+FUNCTION cap_d_eia7343 cap_d_eia7343  1 2
+
+END

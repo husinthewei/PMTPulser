@@ -1,0 +1,180 @@
+(Cell	lt1366_2X
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	03/26/09,13:34:43)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.lt1366_2X)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/26/09,13:32:03)
+
+			(User	Godwin)
+
+			(Path	lin_tech.lt1366/lt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000005e1da939)
+
+			(Primitives	1
+
+				(Primitive	lt1366_2X
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	03/26/09,13:34:43)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1366_2X)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	lt1366_2X
+
+							(PackType	lt1366_2X)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000018658586)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/26/09,13:34:43)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.lt1366_2X)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b7203b8)
+
+		)
+
+		(Checksum	000000001b9f037a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8203ae)
+
+)
+

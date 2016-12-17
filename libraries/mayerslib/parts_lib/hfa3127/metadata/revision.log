@@ -1,0 +1,30 @@
+
+	(Comment
+		(Time 02/01/05,11:38:19)
+		(User riwiener)
+		(MsgId ECO_021)
+		(Text "Package HFA3127 added to cell")
+		(Param1 HFA3127)
+	)
+	(Comment
+		(Time 02/01/05,11:45:50)
+		(User riwiener)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 02/01/05,16:43:46)
+		(User riwiener)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/01/05,16:44:00)
+		(User riwiener)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

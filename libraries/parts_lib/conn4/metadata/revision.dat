@@ -1,0 +1,188 @@
+(Cell	conn4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/24/06,19:14:34)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.conn4)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/24/06,19:18:30)
+
+			(User	Godwin Mayers)
+
+			(Path	mayerslib_lib.conn4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d22c8425)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/24/06,19:17:04)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.conn4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7e037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000084af099d)
+
+			(Primitives	1
+
+				(Primitive	CONN4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/24/06,19:14:40)
+
+							(User	Godwin Mayers)
+
+							(Path	mayerslib_lib.conn4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN4
+
+							(PackType	CONN4)
+
+							(PackType	CONN4_HSR4)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	hsr4)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	hdr4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0003d1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001b76036e)
+
+)
+

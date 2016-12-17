@@ -1,0 +1,186 @@
+(Cell	bondpads_30
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/07,17:44:04)
+
+			(User	Administrator)
+
+			(Path	mayers_lib.bondpads_30)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/06/09,15:28:37)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.bondpads_30)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000077caa72f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/07,17:45:43)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.bondpads_30)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3303e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000993fbf00)
+
+			(Primitives	1
+
+				(Primitive	BONDPADS_30
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/07,17:44:21)
+
+							(User	Administrator)
+
+							(Path	mayers_lib.bondpads_30)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BONDPADS_30
+
+							(PackType	BONDPADS_30)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	BondPad30)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	BondPad30x4)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cbd03af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_design_expert)
+
+	)
+
+	(Checksum	000000001dce0405)
+
+)
+

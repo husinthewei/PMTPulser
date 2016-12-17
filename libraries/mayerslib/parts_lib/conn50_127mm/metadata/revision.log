@@ -1,0 +1,14 @@
+	(Comment
+		(Time 09/16/11,16:53:32)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package CONN50_127MM added to cell")
+		(Param1 CONN50_127MM)
+	)
+	(Comment
+		(Time 09/16/11,16:56:35)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,1 @@
+SPLBPD-170,Cell 'opa2356':Pin(s) 2V-,3+IN,V+5,OUT1,4-IN,OUT  1,V-  2,3 +IN,4 -N,5 V+,2 V-,V+ 5,OUT 1,4-N is (are) not present in any package or symbol. You can choose Pins - Add from the Package Pin page and delete these pins. If the HAS FIXED SIZE value has been reduced, reload the part.,Warning

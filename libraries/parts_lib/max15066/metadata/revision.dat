@@ -1,0 +1,180 @@
+(Cell	max15066
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/12/14,12:14:49)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max15066)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/12/14,12:31:59)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.max15066)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000020c1689d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/12/14,12:20:21)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max15066)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b4d0382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009f2e2431)
+
+			(Primitives	1
+
+				(Primitive	MAX15066
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/12/14,12:14:56)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.max15066)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX15066
+
+							(PackType	MAX15066)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	WLP_16)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1f03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc203d7)
+
+)
+

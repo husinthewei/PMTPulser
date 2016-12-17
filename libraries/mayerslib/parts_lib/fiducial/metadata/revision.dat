@@ -1,0 +1,180 @@
+(Cell	fiducial
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/11/13,13:24:33)
+
+			(User	nandor)
+
+			(Path	parts.fiducial)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/11/13,13:15:55)
+
+			(User	nandor)
+
+			(Path	lsst_lb_lib.fiducial)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ce4649cb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/11/13,13:24:33)
+
+							(User	nandor)
+
+							(Path	parts.fiducial)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9403e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000092526ce5)
+
+			(Primitives	1
+
+				(Primitive	FIDUCIAL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/11/13,13:24:33)
+
+							(User	nandor)
+
+							(Path	parts.fiducial)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FIDUCIAL
+
+							(PackType	FIDUCIAL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	fiducial)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ea1040e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7703a2)
+
+)
+

@@ -1,0 +1,28 @@
+	(Comment
+		(Time 01/13/14,07:48:56)
+		(User mbreilly)
+		(MsgId ECO_021)
+		(Text "Package ERNI104732 added to cell")
+		(Param1 ERNI104732)
+	)
+	(Comment
+		(Time 01/14/14,07:33:09)
+		(User mbreilly)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/11/14,16:58:05)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/17/14,15:44:20)
+		(User HEP)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)

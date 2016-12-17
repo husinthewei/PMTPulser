@@ -1,0 +1,180 @@
+(Cell	68pin_50mil conn
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/24/07,14:58:08)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.68pin_50mil conn)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/10/09,12:30:25)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.68pin_50mil conn)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b5b4e3db)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/24/07,15:00:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.68pin_50mil conn)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dfa040c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e469bec7)
+
+			(Primitives	1
+
+				(Primitive	68PIN_50MIL CONN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/24/07,14:58:27)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.68pin_50mil conn)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	68PIN_50MIL CONN
+
+							(PackType	68PIN_50MIL CONN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	68pin50milConn)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b170379)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b3f034f)
+
+)
+

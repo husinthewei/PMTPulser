@@ -1,0 +1,180 @@
+(Cell	pixelpad71
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/19/12,16:36:38)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pixelpad71)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/17/12,15:00:33)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.pixelpad83)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bae3e8c5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/19/12,16:36:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pixelpad71)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f1b0411)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004c7fbec5)
+
+			(Primitives	1
+
+				(Primitive	PIXELPAD71
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/19/12,16:36:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.pixelpad71)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PIXELPAD71
+
+							(PackType	PIXELPAD71)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	pixel_quadarray20x71)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8903e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd60381)
+
+)
+

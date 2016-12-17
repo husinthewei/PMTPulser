@@ -1,0 +1,180 @@
+(Cell	bft92
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/02/12,15:07:00)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bft92)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/02/12,15:11:37)
+
+			(User	HEP)
+
+			(Path	mayers_lib.bft92)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000121b5b63)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/12,15:08:14)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bft92)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b5f0377)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fd55c300)
+
+			(Primitives	1
+
+				(Primitive	BFT92
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/12,15:07:05)
+
+							(User	HEP)
+
+							(Path	mayers_lib.bft92)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BFT92
+
+							(PackType	BFT92)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c0c0388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c1d037b)
+
+)
+

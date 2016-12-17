@@ -1,0 +1,12 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DDR2_SODIMM';
+  pin
+  end_pin;
+  body
+    BODY_NAME='DDR2_SODIMM';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,180 @@
+(Cell	qusb2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/14/06,08:53:29)
+
+			(User	cadown)
+
+			(Path	parts.qusb2)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/14/06,10:06:46)
+
+			(User	cadown)
+
+			(Path	parts.qusb2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c83aff48)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/06,10:04:03)
+
+							(User	cadown)
+
+							(Path	parts.qusb2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001df103e8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008abf90b1)
+
+			(Primitives	1
+
+				(Primitive	QUSB2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/14/06,08:53:32)
+
+							(User	cadown)
+
+							(Path	parts.qusb2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	QUSB2
+
+							(PackType	QUSB2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	q_usb2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cc7038b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-s005)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9d03ac)
+
+)
+

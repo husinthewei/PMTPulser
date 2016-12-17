@@ -1,0 +1,180 @@
+(Cell	ada4937-1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/01/09,14:45:38)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ada4937-1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/23/09,20:06:19)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.ad8351)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002a8f662a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/09,14:45:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ada4937-1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9403b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cd843924)
+
+			(Primitives	1
+
+				(Primitive	ADA4937-1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/01/09,14:45:38)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.ada4937-1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADA4937-1
+
+							(PackType	ADA4937-1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	CP-16-2)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dcf03df)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001deb040c)
+
+)
+

@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/06/2011,12:49:57 PM)
+		(User ashmansk)
+		(MsgId ECO_021)
+		(Text "Package W25Q64BV added to cell")
+		(Param1 W25Q64BV)
+	)
+	(Comment
+		(Time 01/06/2011,12:56:15 PM)
+		(User ashmansk)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

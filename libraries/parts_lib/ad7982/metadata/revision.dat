@@ -1,0 +1,180 @@
+(Cell	ad7982
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/21/12,15:43:41)
+
+			(User	nandor)
+
+			(Path	parts.ad7982)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	06/21/12,15:54:55)
+
+			(User	nandor)
+
+			(Path	parts.ad7982)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000076480f24)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/21/12,15:46:13)
+
+							(User	nandor)
+
+							(Path	parts.ad7982)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001adc0356)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000050e20967)
+
+			(Primitives	1
+
+				(Primitive	AD7982
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/21/12,15:43:49)
+
+							(User	nandor)
+
+							(Path	parts.ad7982)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD7982
+
+							(PackType	AD7982)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	ad7982)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e840439)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b6a0353)
+
+)
+

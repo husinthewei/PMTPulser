@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 01/23/08,23:11:05)
+		(User Godwin Mayers)
+		(MsgId ECO_021)
+		(Text "Package MT9V032_B added to cell")
+		(Param1 MT9V032_B)
+	)
+	(Comment
+		(Time 01/23/08,23:57:54)
+		(User Godwin Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

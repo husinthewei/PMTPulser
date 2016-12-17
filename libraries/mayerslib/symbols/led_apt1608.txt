@@ -1,0 +1,13 @@
+(DEVICE FILE: led_apt1608)
+
+PACKAGE led_apt1608
+CLASS DISCRETE
+PINCOUNT 2
+
+PINORDER led_apt1608  1 2
+
+PINSWAP led_apt1608  1 2
+
+FUNCTION led_apt1608 led_apt1608  1 2
+
+END

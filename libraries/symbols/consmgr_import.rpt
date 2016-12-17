@@ -1,0 +1,38 @@
+Constraint Difference Report
+============================
+
+Design        : Bondpad18
+Input File    : C:\Cadence\mayerspcb\SRT_REV3_BRD\worklib\sigeradtest\physical\SRT_REV3_2009.dcf
+Baseline File : Current Design
+Update Mode   : Overwrite
+Constraint Information : CrossSection, Electrical, Physical, Spacing, NetClasses
+
+Notes:
+------
+  - Property updates are reported as additions, deletions, or changes.
+  - Object updates are reported as association additions or deletions.
+  - Clearing an object implies that all attributes are removed.
+
+
+---------------------------------------------------------
+Design: Bondpad18
+     Adding   : SQ_LINE_WIDTH_VALUES value "DIFFMODE OFF|TOP|0.1270 MM|NONE||BOTTOM|0.1270 MM|NONE|"
+     Adding   : PIN_DELAY_PVF value "1.524e+08 m/s"
+     Adding   : VIA_Z_PVF value "0 m/s"
+     Adding   : TPPAD_CMP_SPACING_VMODE value "OFF"
+     Adding   : TPLOC_CMP_SPACING_VMODE value "OFF"
+---------------------------------------------------------
+PhysicalCSet: DEFAULT
+     Changing : MIN_LINE_WIDTH to "3,3" from "5,5"
+     Changing : MIN_NECK_WIDTH to "3,3" from "5,5"
+     Changing : MIN_BVIA_STAGGER to "3,3" from "5,5"
+     Changing : VIA_LIST to "VIA,VIA_8" from "VIA"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 5 additions, 0 deletions, 4 changes.
+
+No association changes done.
+
+

@@ -1,0 +1,2 @@
+pdv_117,Package Pin:No mapping between Logical Pin '5' and section number S1. Blank values not allowed for any Section Number,Error
+pdv_170,Cell 'lensadp':Pins 1,2,3,4 are not present in any of the packages or symbols.,Warning

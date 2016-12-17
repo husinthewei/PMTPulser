@@ -1,0 +1,180 @@
+(Cell	cdclvc1110
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/09/12,15:41:04)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.cdclvc1110)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/09/12,15:50:43)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.cdclvc1110)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004587c5e9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,15:45:14)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.cdclvc1110)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b74038f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000022f8c089)
+
+			(Primitives	1
+
+				(Primitive	CDCLVC1110
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,15:41:15)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.cdclvc1110)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CDCLVC1110
+
+							(PackType	CDCLVC1110)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	tssop20)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2003b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b7f036f)
+
+)
+

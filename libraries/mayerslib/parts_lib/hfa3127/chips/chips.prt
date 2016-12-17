@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HFA3127','HFA3127_SOIC';
+  pin
+    'B':
+      PIN_NUMBER='(15,4,8,9,14)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'E':
+      PIN_NUMBER='(16,3,7,10,13)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'C':
+      PIN_NUMBER='(1,2,6,11,12)';
+      BIDIRECTIONAL='TRUE';
+      INPUT_LOAD='(-0.01,0.01)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    PART_NAME='HFA3127';
+    ALT_SYMBOLS='(SOIC16)';
+    LIBRARY_NAME='my_library';
+    PACKAGE_CREATOR='?';
+    BODY_NAME='HFA3127';
+    JEDEC_TYPE='SOIC16';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    NC_PINS='(5)';
+  end_body;
+end_primitive;
+
+END.

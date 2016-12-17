@@ -1,0 +1,180 @@
+(Cell	conn40_25mm
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/02/12,17:13:53)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40_25mm)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	08/02/12,17:17:36)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.conn40_25mm)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000be62df8d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/02/12,17:13:53)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40_25mm)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e770416)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007ab2be10)
+
+			(Primitives	1
+
+				(Primitive	CONN40_25MM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/02/12,17:13:53)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.conn40_25mm)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CONN40_25MM
+
+							(PackType	CONN40_25MM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	conn40_25mm)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b2c035b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c4603a3)
+
+)
+

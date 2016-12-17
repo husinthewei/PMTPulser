@@ -1,0 +1,45 @@
+
+	(Comment
+		(Time 01/27/08,18:19:50)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BSE-D40 added to cell")
+		(Param1 BSE-D40)
+	)
+	(Comment
+		(Time 01/27/08,18:22:17)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+
+	(Comment
+		(Time 01/28/08,23:36:01)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BSE-D40_1 added to cell")
+		(Param1 BSE-D40_1)
+	)
+	(Comment
+		(Time 01/28/08,23:41:52)
+		(User Godwin)
+		(MsgId ECO_022)
+		(Text "Package BSE-D40_1 deleted from cell")
+		(Param1 BSE-D40_1)
+	)
+	(Comment
+		(Time 01/28/08,23:41:55)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package BSE-D40_1 added to cell")
+		(Param1 BSE-D40_1)
+	)
+	(Comment
+		(Time 01/28/08,23:50:56)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+

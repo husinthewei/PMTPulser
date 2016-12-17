@@ -1,0 +1,28 @@
+	(Comment
+		(Time 05/30/14,14:47:24)
+		(User mbreilly)
+		(MsgId ECO_021)
+		(Text "Package LEMO_0B added to cell")
+		(Param1 "LEMO_0B")
+	)
+	(Comment
+		(Time 05/30/14,14:47:58)
+		(User mbreilly)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)
+	(Comment
+		(Time 07/31/14,14:01:30)
+		(User mbreilly)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 "sym_2")
+	)
+	(Comment
+		(Time 07/31/14,14:01:39)
+		(User mbreilly)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 "sym_2")
+	)

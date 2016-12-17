@@ -1,0 +1,186 @@
+(Cell	ls7084
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/06,17:48:33)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.ls7084)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/23/06,17:56:54)
+
+			(User	Godwin M. Mayers)
+
+			(Path	mlib_lib.ls7084)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003051dab1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,17:48:49)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.ls7084)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b9303a2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000541001d6)
+
+			(Primitives	1
+
+				(Primitive	LS7084_SOIC8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/06,17:48:54)
+
+							(User	Godwin M. Mayers)
+
+							(Path	mlib_lib.ls7084)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LS7084
+
+							(PackType	LS7084_SOIC8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	dip8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c940385)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b650352)
+
+)
+

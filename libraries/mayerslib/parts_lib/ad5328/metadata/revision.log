@@ -1,0 +1,21 @@
+	(Comment
+		(Time 08/07/12,20:21:21)
+		(User nandor)
+		(MsgId ECO_021)
+		(Text "Package AD5328 added to cell")
+		(Param1 AD5328)
+	)
+	(Comment
+		(Time 08/07/12,20:28:53)
+		(User nandor)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 10/08/12,17:14:01)
+		(User nandor)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)

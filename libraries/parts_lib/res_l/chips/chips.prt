@@ -1,0 +1,46 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'RES_L_0402';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+  end_pin;
+  body
+    PART_NAME='RES_L';
+    BODY_NAME='RES_L';
+    JEDEC_TYPE='r0402';
+    PHYS_DES_PREFIX='R';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'RES_L_0603';
+  pin
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      UNKNOWN_LOADING='TRUE';
+  end_pin;
+  body
+    PART_NAME='RES_L';
+    BODY_NAME='RES_L';
+    JEDEC_TYPE='r0603';
+    PHYS_DES_PREFIX='U';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

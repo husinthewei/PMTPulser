@@ -1,0 +1,180 @@
+(Cell	da22f2100l
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/12/14,12:59:37)
+
+			(User	Godwin)
+
+			(Path	parts_lib.da22f2100l)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/12/14,13:14:21)
+
+			(User	Godwin)
+
+			(Path	parts_lib.da22f2100l)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e20e4c29)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/14,13:02:12)
+
+							(User	Godwin)
+
+							(Path	parts_lib.da22f2100l)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0503af)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005d039bb3)
+
+			(Primitives	1
+
+				(Primitive	DA22F2100L
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/12/14,12:59:41)
+
+							(User	Godwin)
+
+							(Path	parts_lib.da22f2100l)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DA22F2100L
+
+							(PackType	DA22F2100L)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Mini2_f4-b_doide)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c1b0388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c1e037b)
+
+)
+

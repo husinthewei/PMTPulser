@@ -1,0 +1,180 @@
+(Cell	mec8_25
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/24/07,18:28:24)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_25)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	04/24/07,18:30:03)
+
+			(User	Godwin)
+
+			(Path	mayers_lib.mec8_25)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000affe1ea4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/07,18:29:35)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_25)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001fe8043e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002dd6beb6)
+
+			(Primitives	1
+
+				(Primitive	MEC8_25
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/07,18:28:30)
+
+							(User	Godwin)
+
+							(Path	mayers_lib.mec8_25)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MEC8_25
+
+							(PackType	MEC8_25)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	Mec8Card_25)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e93040f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.50-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b92037d)
+
+)
+

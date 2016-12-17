@@ -1,0 +1,18 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Create Symbol of type PACKAGE                       )
+(                                                            )
+(        Drawing          : AirBorn_MK_69_a.dra              )
+(        Software Version : 15.7s001                         )
+(        Date/Time        : Wed Jul 30 10:23:07 2008         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+
+ Create symbol started.
+  Sector table not empty. Use dbdoctor to resolve. 0 SECTOR TABLE	@27304504
+
+ Sector table not empty. Use dbdoctor to resolve. 
+ Create symbol aborted. 
+ Create Symbol Aborted, error = Sector table not empty. Use dbdoctor to resolve. 

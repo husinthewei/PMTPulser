@@ -1,0 +1,14 @@
+	(Comment
+		(Time 04/28/09,18:07:59)
+		(User Godwin)
+		(MsgId ECO_021)
+		(Text "Package HDR4X3 added to cell")
+		(Param1 HDR4X3)
+	)
+	(Comment
+		(Time 04/28/09,18:09:56)
+		(User Godwin)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

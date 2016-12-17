@@ -1,0 +1,28 @@
+	(Comment
+		(Time 10/09/12,12:56:00)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package KC2520C added to cell")
+		(Param1 KC2520C)
+	)
+	(Comment
+		(Time 10/09/12,13:01:46)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 10/09/12,13:02:26)
+		(User HEP)
+		(MsgId ECO_082)
+		(Text "Symbol sym_1 deleted from cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 10/09/12,13:02:28)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

@@ -1,0 +1,49 @@
+========================================================================
+Symbol Check Log File
+Drawing: C:/SPB_Data/Symbols/c0402.dra 
+Aug 27 12:40:48 2012
+========================================================================
+REFDES Exist PASSED
+
+REFDES Text Size FAILED
+
+REFDES Subclass PASSED
+
+COMPONENT VALUE Exist PASSED
+
+COMPONENT VALUE Text Size Has WARNINGS
+
+COMPONENT VALUE Subclass PASSED
+
+DEVICE TYPE Exist Has WARNINGS
+
+DEVICE TYPE Text Size Has WARNINGS
+
+DEVICE TYPE Subclass Has WARNINGS
+
+TOLERANCE Exist Has WARNINGS
+
+TOLERANCE Text Size Has WARNINGS
+
+TOLERANCE Subclass Has WARNINGS
+
+USER PART NUMBER Exist FAILED
+
+USER PART NUMBER Text Size FAILED
+
+USER PART NUMBER Subclass FAILED
+
+SILK SCREEN Geometry PASSED
+
+ASSEMBLY Geometry PASSED
+
+PIN LOCATION DATA:
+1      (-20.0 0.0) 25X25
+2      (20.0 0.0) 25X25
+PIN Location Report PASSED
+
+========================================================================
+Errors Found: 5
+Warnings Found: 7
+
+End Of Log File

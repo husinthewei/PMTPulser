@@ -1,0 +1,180 @@
+(Cell	lt3957
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/17/2010,02:52:50 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lt3957)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	09/17/2010,03:13:58 PM)
+
+			(User	ashmansk)
+
+			(Path	cadlib.lt3957)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000099d4cf1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,03:06:23 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lt3957)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c1f03b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bc98c556)
+
+			(Primitives	1
+
+				(Primitive	LT3957
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/2010,02:52:57 PM)
+
+							(User	ashmansk)
+
+							(Path	cadlib.lt3957)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT3957
+
+							(PackType	LT3957)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	lt3957_qfn36)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dd003e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-S25 (v16-1-53AW))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb303a6)
+
+)
+

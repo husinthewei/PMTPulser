@@ -1,0 +1,57 @@
+
+	(Comment
+		(Time 02/23/06,15:39:11)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)
+	(Comment
+		(Time 02/23/06,15:39:15)
+		(User Godwin M. Mayers)
+		(MsgId ECO_021)
+		(Text "Package A3967SLB added to cell")
+		(Param1 A3967SLB)
+	)
+	(Comment
+		(Time 02/23/06,16:28:13)
+		(User Godwin M. Mayers)
+		(MsgId ECO_081)
+		(Text "Symbol sym_2 added to cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 02/24/06,14:04:46)
+		(User Godwin M. Mayers)
+		(MsgId ECO_211)
+		(Text "PTF file part.ptf added")
+		(Param1 part.ptf)
+	)
+
+	(Comment
+		(Time 03/29/06,12:56:32)
+		(User Godwin M. Mayers)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)
+
+	(Comment
+		(Time 03/29/06,12:57:02)
+		(User Godwin M. Mayers)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+
+
+	(Comment
+		(Time 03/29/06,17:58:07)
+		(User Godwin Mayers)
+		(MsgId ECO_212)
+		(Text "PTF file part.ptf deleted")
+		(Param1 part.ptf)
+	)
+

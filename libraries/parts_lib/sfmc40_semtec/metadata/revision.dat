@@ -1,0 +1,180 @@
+(Cell	sfmc40_semtec
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/11/10,13:21:43)
+
+			(User	nandor)
+
+			(Path	parts.sfmc40_semtec)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/11/10,13:29:17)
+
+			(User	nandor)
+
+			(Path	parts.sfmc40_semtec)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002e77f228)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,13:22:21)
+
+							(User	nandor)
+
+							(Path	parts.sfmc40_semtec)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4a0388)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000aa70c0d5)
+
+			(Primitives	1
+
+				(Primitive	SFMC40_SEMTEC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/11/10,13:21:49)
+
+							(User	nandor)
+
+							(Path	parts.sfmc40_semtec)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SFMC40_SEMTEC
+
+							(PackType	SFMC40_SEMTEC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sfmc40_samtec)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e89040d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.1-p002 (v16-1-53B))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba80380)
+
+)
+

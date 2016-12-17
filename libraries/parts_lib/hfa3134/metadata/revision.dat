@@ -1,0 +1,164 @@
+(Cell	hfa3134
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	1.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/01/05,14:09:53)
+
+			(User	riwiener)
+
+			(Path	pet_parts.hfa3134)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Checksum	e60fa8e6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/01/05,16:45:08)
+
+							(User	riwiener)
+
+							(Path	pet_parts.hfa3134)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	3ee00284)
+
+		)
+
+		(View	Chips
+
+			(Checksum	bbf19104)
+
+			(Primitives	1
+
+				(Primitive	HFA3134
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/01/05,14:10:17)
+
+							(User	riwiener)
+
+							(Path	pet_parts.hfa3134)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HFA3134
+
+							(PackType	HFA3134)
+
+							(PackType	HFA3134_SOT23)
+
+						)
+
+					)
+
+					(Packages	2
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[2]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(AltSymbolsFootPrints	)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	6d8f02e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-p003)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	5f5b01e6)
+
+)
+

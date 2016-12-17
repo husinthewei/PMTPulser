@@ -1,0 +1,186 @@
+(Cell	kc2520c_clock_driver
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/09/12,14:29:06)
+
+			(User	HEP)
+
+			(Path	mayers_lib.kc2520c_clock_driver)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/09/12,14:33:33)
+
+			(User	HEP)
+
+			(Path	mayers_lib.kc2520c_clock_driver)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000031fe76b5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,14:32:46)
+
+							(User	HEP)
+
+							(Path	mayers_lib.kc2520c_clock_driver)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9303b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000083bacc4a)
+
+			(Primitives	1
+
+				(Primitive	KC2520C_CLOCK_DRIVER
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/09/12,14:29:16)
+
+							(User	HEP)
+
+							(Path	mayers_lib.kc2520c_clock_driver)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	KC2520C_CLOCK_DRIVER
+
+							(PackType	KC2520C_CLOCK_DRIVER)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	kc2520C_Clock_Driver)
+
+							)
+
+							(AltSymbolsFootPrints	
+
+								(Name	kc2520c_clock_driver)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e43043e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.3-p002 (v16-3-85A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b79037a)
+
+)
+
