@@ -1,0 +1,19 @@
+Not Made Yet
+
+Bourns PV37 style 10k Trim Pot
+
+Rk09L1140A2U (Pot)
+
+ADN4661 (LVDS)
+
+LMC555 (Timer) _____S-PDSO-G8
+
+BFR182(transistor)
+
+LTC2051 (amplifier)
+
+HFAPNP (transistor array)
+
+Made Already
+
+bfu730f(transistor)

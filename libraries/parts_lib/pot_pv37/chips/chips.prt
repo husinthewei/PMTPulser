@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'POT_PV37';
+  pin
+  end_pin;
+  body
+    BODY_NAME='POT_PV37';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'POT_PV37_1';
+  pin
+  end_pin;
+  body
+    BODY_NAME='POT_PV37';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

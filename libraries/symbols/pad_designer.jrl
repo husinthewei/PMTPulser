@@ -1,5 +1,15 @@
-\t (00:00:00) pad_designer 16.3 p003 (v16-3-85D) i86
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Linux I32
+\t (00:00:00)     Journal start - Wed Dec 21 14:39:16 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=5971 CPUs=2
+\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/pad_designer.exe
 \t (00:00:00) 
-
-\i (00:00:05) setwindow form.padedit
-\i (00:00:05) pse_exit
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:12) fillin "smd6p5mm_4mm.pad"
+\i (00:00:13) FORM padedit layers  
+\i (00:00:28) FORM padedit width 0.45 
+\i (00:00:33) FORM padedit height 1.45 
+\i (00:00:36) pse_save_as 
+\i (00:01:14) fillin "smd1p45mm_0p45mm.pad"
+\i (00:01:17) pse_exit
+\t (00:01:17)     Journal end - Wed Dec 21 14:40:34 2016

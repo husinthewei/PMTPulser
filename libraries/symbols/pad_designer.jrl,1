@@ -1,8 +1,18 @@
-\t (00:00:00) pad_designer 15.7 p007 (v15-7-42E) i86
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Linux I32
+\t (00:00:00)     Journal start - Wed Dec 21 14:37:14 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=5906 CPUs=2
+\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/pad_designer.exe
 \t (00:00:00) 
-
-\e (00:00:00) Error, Database revision 16.x is newer than current program version.
-\e (00:00:00) Error, Database revision 16.x is newer than current program version.
-\i (00:00:02) fillin confirm
-\i (00:00:03) setwindow form.padedit
-\i (00:00:03) pse_exit
+\i (00:00:07) setwindow form.padedit
+\i (00:00:07) pse_open 
+\i (00:00:21) fillin "smd50rec30mm.pad"
+\i (00:00:23) FORM padedit layers  
+\i (00:00:25) FORM padedit parameters  
+\i (00:00:25) FORM padedit layers  
+\i (00:00:27) FORM padedit grid row begin_layer 
+\i (00:00:35) FORM padedit width 0.45 
+\i (00:00:37) FORM padedit height 1.45 
+\i (00:01:17) pse_save_as 
+\i (00:01:37) fillin "menu_cancel"
+\i (00:01:40) pse_exit
+\t (00:01:41)     Journal end - Wed Dec 21 14:38:55 2016

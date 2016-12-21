@@ -1,4 +1,4 @@
 DEFINE pmtpulser_lib worklib
 INCLUDE $CONCEPT_INST_DIR/share/cdssetup/cds.lib
-DEFINE parts_lib C:\Users\labadmin\Documents\GitHub\PMTPulser\libraries\parts_lib
-DEFINE Symbols C:\Users\labadmin\Documents\GitHub\PMTPulser\libraries\symbols
+DEFINE parts_lib /home/weiwei/Documents/Github/PMTPulser/libraries/parts_lib
+DEFINE Symbols /home/weiwei/Documents/Github/PMTPulser/libraries/symbols

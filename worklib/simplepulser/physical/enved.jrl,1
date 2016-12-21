@@ -1,11 +1,12 @@
-\t (00:00:00) enved 16.6 P001 (v16-6-112A) Windows 32
-\t (00:00:00)     Journal start - Sat Dec 17 12:44:28 2016
-\t (00:00:00)         Host=PHYSGRAD-G510-0 User=labadmin Pid=11296 CPUs=4
+\t (00:00:00) enved 16.6-2015 S053 (v16-6-112EB) Linux I32
+\t (00:00:00)     Journal start - Wed Dec 21 12:01:24 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=4089 CPUs=2
+\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/enved.exe -proj /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
 \t (00:00:00) 
-\i (00:00:06) setwindow form.prfedit
-\i (00:00:06) FORM prfedit treelist  Paths 
-\i (00:00:07) FORM prfedit treelist  Library Paths 
-\i (00:00:09) FORM prfedit psmpath  
-\i (00:01:07) FORM prfedit apply  
-\i (00:01:08) FORM prfedit done  
-\t (00:01:09)     Journal end - Sat Dec 17 12:45:37 2016
+\i (00:00:13) setwindow form.prfedit
+\i (00:00:13) FORM prfedit treelist  Library Paths 
+\i (00:00:16) FORM prfedit devpath  
+\i (00:00:21) FORM prfedit parampath  
+\i (00:00:24) FORM prfedit padpath  
+\i (00:04:15) FORM prfedit cancel  
+\t (00:04:15)     Journal end - Wed Dec 21 12:05:40 2016
