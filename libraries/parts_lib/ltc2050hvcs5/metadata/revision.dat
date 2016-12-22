@@ -1,0 +1,120 @@
+(Cell	ltc2050hvcs5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/22/16,15:20:27)
+
+			(User	weiwei)
+
+			(Path	parts_lib.ltc2050hvcs5)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/16,15:27:10)
+
+			(User	weiwei)
+
+			(Path	parts_lib.ltc2050hvcs5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000073e43116)
+
+			(Primitives	1
+
+				(Primitive	LTC2050HVCS5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/16,15:20:42)
+
+							(User	weiwei)
+
+							(Path	parts_lib.ltc2050hvcs5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LTC2050HVCS5
+
+							(PackType	LTC2050HVCS5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b46034f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b73037b)
+
+)
+

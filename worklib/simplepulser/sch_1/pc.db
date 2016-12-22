@@ -1,0 +1,13 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016 on Thu Dec 22 14:26:06 2016
+#CELL
+  parts_lib lmc555 *
+  page1_i1
+#CELL
+  parts_lib 100el05 *
+  page1_i2
+#CELL
+  parts_lib lmc555 *
+  page1_i3
+#CELL
+  parts_lib lmc555 *
+  page1_i4

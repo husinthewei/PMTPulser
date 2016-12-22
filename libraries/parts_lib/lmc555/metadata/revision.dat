@@ -1,0 +1,204 @@
+(Cell	lmc555
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/22/16,13:12:19)
+
+			(User	weiwei)
+
+			(Path	parts_lib.lmc555)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/16,13:45:44)
+
+			(User	weiwei)
+
+			(Path	parts_lib.lmc555)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.5)
+
+				(ModificationStatus	NULL)
+
+				(Status	Created)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	12/22/16,13:12:19)
+
+					(User	weiwei)
+
+					(Path	parts_lib.lmc555)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002ccccecf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/16,13:44:48)
+
+							(User	weiwei)
+
+							(Path	parts_lib.lmc555)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f3d046d)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c70db185)
+
+			(Primitives	1
+
+				(Primitive	LMC555
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/16,13:35:05)
+
+							(User	weiwei)
+
+							(Path	parts_lib.lmc555)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMC555
+
+							(PackType	LMC555)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic8)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db403e0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb703a4)
+
+)
+

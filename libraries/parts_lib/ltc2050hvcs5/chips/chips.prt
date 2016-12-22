@@ -1,0 +1,12 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'LTC2050HVCS5';
+  pin
+  end_pin;
+  body
+    BODY_NAME='LTC2050HVCS5';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,156 @@
+; Packager-XL run on 22-Dec-2016 AT 14:28:11 CONSTRAINTS_VIEW_GENERATED
+( ConstraintFile "simplepulser"
+	( constraintHeader
+		( objectKey
+			( physical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 8 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "simplepulser"
+				( objectFlag fObjectReadOnly )
+				( objectStatus "simplepulser" )
+			)
+			( gate "U1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1" )
+				( pin "U1.5"
+					( objectStatus "ctrl" )
+				)
+				( pin "U1.7"
+					( objectStatus "disch" )
+				)
+				( pin "U1.1"
+					( objectStatus "gnd" )
+				)
+				( pin "U1.3"
+					( objectStatus "\out\" )
+				)
+				( pin "U1.4"
+					( objectStatus "res" )
+				)
+				( pin "U1.6"
+					( objectStatus "thresh" )
+				)
+				( pin "U1.2"
+					( objectStatus "trig" )
+				)
+				( pin "U1.8"
+					( objectStatus "\v+\" )
+				)
+			)
+			( gate "U3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i2" )
+				( pin "U3.1"
+					( objectStatus "in1" )
+				)
+				( pin "U3.2"
+					( objectStatus "\in1*\" )
+				)
+				( pin "U3.3"
+					( objectStatus "in2" )
+				)
+				( pin "U3.4"
+					( objectStatus "\in2*\" )
+				)
+				( pin "U3.7"
+					( objectStatus "\out\" )
+				)
+				( pin "U3.6"
+					( objectStatus "\out*\" )
+				)
+			)
+			( gate "U4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3" )
+				( pin "U4.5"
+					( objectStatus "ctrl" )
+				)
+				( pin "U4.7"
+					( objectStatus "disch" )
+				)
+				( pin "U4.1"
+					( objectStatus "gnd" )
+				)
+				( pin "U4.3"
+					( objectStatus "\out\" )
+				)
+				( pin "U4.4"
+					( objectStatus "res" )
+				)
+				( pin "U4.6"
+					( objectStatus "thresh" )
+				)
+				( pin "U4.2"
+					( objectStatus "trig" )
+				)
+				( pin "U4.8"
+					( objectStatus "\v+\" )
+				)
+			)
+			( gate "U2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i4" )
+				( pin "U2.5"
+					( objectStatus "ctrl" )
+				)
+				( pin "U2.7"
+					( objectStatus "disch" )
+				)
+				( pin "U2.1"
+					( objectStatus "gnd" )
+				)
+				( pin "U2.3"
+					( objectStatus "\out\" )
+				)
+				( pin "U2.4"
+					( objectStatus "res" )
+				)
+				( pin "U2.6"
+					( objectStatus "thresh" )
+				)
+				( pin "U2.2"
+					( objectStatus "trig" )
+				)
+				( pin "U2.8"
+					( objectStatus "\v+\" )
+				)
+			)
+		)
+	)
+)

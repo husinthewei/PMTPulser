@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="file:///cad/SPB166-lnx/share/pcb/consmgr/VDD/report/treeview.xsl"?>
+<ConstraintDifferenceReport Path="file:///cad/SPB166-lnx/share/pcb/consmgr/VDD/report/rc" Type="Constraint Difference Report">
+
+  <RptSummary Col1="Layout" Col2="Schematic">
+    <Entry Name="Report time">Thu Dec 22 14:28:12 2016
+</Entry>
+    <Entry Name="Software version">16.6-2015 (S082)</Entry>
+    <Entry Name="Layout">/home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd</Entry>
+    <Entry Name="Schematic">/home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/packaged/pstcmdb.dat</Entry>
+    <Entry Name="Baseline File">/home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/Current Design</Entry>
+    <Entry Name="Destination design updated">Yes</Entry>
+    <Entry Name="Update Mode">Merge (no deletions will be done)</Entry>
+    <Entry Name="Constraint Information">Electrical, NetClasses, Properties</Entry>
+    <Entry Name="Objects with conflicts">0</Entry>
+  </RptSummary>
+
+  <Tree>
+    <Item Filter="0x80000000" Name="Summary" Ref="main-summary"/>
+  </Tree>
+
+  <Summaries>
+    <MainSummary ID="main-summary"/>
+  </Summaries>
+
+  <Layers>
+    <Layer Name="TOP"/>
+    <Layer Name="BOTTOM"/>
+  </Layers>
+
+</ConstraintDifferenceReport>

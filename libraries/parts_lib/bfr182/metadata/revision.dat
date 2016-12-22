@@ -1,0 +1,204 @@
+(Cell	bfr182
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/22/16,16:12:09)
+
+			(User	weiwei)
+
+			(Path	parts_lib.bfr182)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	12/22/16,16:17:42)
+
+			(User	weiwei)
+
+			(Path	parts_lib.bfr182)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.1)
+
+				(ModificationStatus	NULL)
+
+				(Status	Modified)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d2cc6406)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/16,16:17:08)
+
+							(User	weiwei)
+
+							(Path	parts_lib.bfr182)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d9903ad)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006712c668)
+
+			(Primitives	1
+
+				(Primitive	BFR182
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/22/16,16:12:13)
+
+							(User	weiwei)
+
+							(Path	parts_lib.bfr182)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BFR182
+
+							(PackType	BFR182)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	sot23)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7203da)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-S051 (v16-6-112ED))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bda03a7)
+
+)
+

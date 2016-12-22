@@ -1,0 +1,67 @@
+FILE_TYPE = CONNECTIVITY;
+{Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016}
+"PAGE_NUMBER" = 1;
+0"NC";
+%"LMC555"
+"1","(100,2650)","0","parts_lib","I1";
+;
+$LOCATION"U1"
+CDS_SEC"1"
+$SEC"1"
+CDS_LOCATION"U1"
+CDS_LIB"parts_lib"
+CDS_LMAN_SYM_OUTLINE"-175,125,175,-125";
+"CTRL"
+$PN"5"0;
+"THRESH"
+$PN"6"0;
+"DISCH"
+$PN"7"0;
+"V+"
+$PN"8"0;
+"RES"
+$PN"4"0;
+"OUT"
+$PN"3"0;
+"TRIG"
+$PN"2"0;
+"GND"
+$PN"1"0;
+%"100EL05"
+"1","(-500,3500)","0","parts_lib","I2";
+;
+CDS_LIB"parts_lib"
+CDS_LMAN_SYM_OUTLINE"-125,125,125,-125";
+"IN1* \B"0;
+"IN1"0;
+"OUT* \B"0;
+"OUT"0;
+"IN2* \B"0;
+"IN2"0;
+%"LMC555"
+"1","(750,2750)","0","parts_lib","I3";
+;
+CDS_LIB"parts_lib"
+CDS_LMAN_SYM_OUTLINE"-175,125,175,-125";
+"CTRL"0;
+"THRESH"0;
+"DISCH"0;
+"V+"0;
+"RES"0;
+"OUT"0;
+"TRIG"0;
+"GND"0;
+%"LMC555"
+"1","(-550,2850)","0","parts_lib","I4";
+;
+CDS_LIB"parts_lib"
+CDS_LMAN_SYM_OUTLINE"-175,125,175,-125";
+"CTRL"0;
+"THRESH"0;
+"DISCH"0;
+"V+"0;
+"RES"0;
+"OUT"0;
+"TRIG"0;
+"GND"0;
+END.

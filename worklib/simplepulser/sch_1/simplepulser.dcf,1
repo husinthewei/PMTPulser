@@ -1,0 +1,113 @@
+( ConstraintFile "simplepulser"
+	( constraintHeader
+		( objectKey
+			( logical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 5 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+		( Attribute
+			( Name "CDS_LMAN_SYM_OUTLINE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "simplepulser"
+				( attribute "CDS_EXPORT_CONTENTS_MASK" "33330"
+				)
+				( attribute "CDS_EDIT_PNS_STATUS" "1"
+					( Origin gFrontEnd )
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i1"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-175,125,175,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(100,2650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "LMC555"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "LMC555"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PHYS_PART_NAME" "LMC555"
+					( Origin gPackager )
+				)
+				( objectStatus "U1" )
+				( pin "ctrl"
+					( objectStatus "U1.5" )
+				)
+				( pin "disch"
+					( objectStatus "U1.7" )
+				)
+				( pin "gnd"
+					( objectStatus "U1.1" )
+				)
+				( pin "\out\"
+					( objectStatus "U1.3" )
+				)
+				( pin "res"
+					( objectStatus "U1.4" )
+				)
+				( pin "thresh"
+					( objectStatus "U1.6" )
+				)
+				( pin "trig"
+					( objectStatus "U1.2" )
+				)
+			)
+			( pin "@pmtpulser_lib.simplepulser(sch_1):page1_i1:v"
+				( attribute "PN" "8"
+					( Origin gPackager )
+				)
+				( objectStatus "U1.8" )
+			)
+		)
+	)
+)

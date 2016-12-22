@@ -1,0 +1,12 @@
+#CELL
+  parts_lib lmc555 *
+  page1_i1
+#CELL
+  parts_lib 100el05 *
+  page1_i2
+#CELL
+  parts_lib lmc555 *
+  page1_i3
+#CELL
+  parts_lib lmc555 *
+  page1_i4

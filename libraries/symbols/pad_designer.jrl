@@ -1,15 +1,83 @@
 \t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Linux I32
-\t (00:00:00)     Journal start - Wed Dec 21 14:39:16 2016
-\t (00:00:00)         Host=alpha User=weiwei Pid=5971 CPUs=2
+\t (00:00:00)     Journal start - Thu Dec 22 15:40:37 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=24884 CPUs=2
 \t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/pad_designer.exe
 \t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_open 
-\i (00:00:12) fillin "smd6p5mm_4mm.pad"
-\i (00:00:13) FORM padedit layers  
-\i (00:00:28) FORM padedit width 0.45 
-\i (00:00:33) FORM padedit height 1.45 
-\i (00:00:36) pse_save_as 
-\i (00:01:14) fillin "smd1p45mm_0p45mm.pad"
-\i (00:01:17) pse_exit
-\t (00:01:17)     Journal end - Wed Dec 21 14:40:34 2016
+\i (00:00:05) setwindow form.padedit
+\i (00:00:05) pse_open 
+\i (00:00:15) fillin "smd0p5x0p3mm.pad"
+\i (00:00:19) FORM padedit layers  
+\i (00:00:20) FORM padedit grid row begin_layer 
+\i (00:00:23) FORM padedit parameters  
+\i (00:00:27) pse_open 
+\i (00:00:47) fillin "smd55_55_therm.pad"
+\i (00:00:49) FORM padedit layers  
+\i (00:00:53) pse_open 
+\i (00:01:00) fillin "smd0p3x0p25mm.pad"
+\i (00:01:02) FORM padedit parameters  
+\i (00:01:04) FORM padedit layers  
+\i (00:01:05) FORM padedit grid row begin_layer 
+\i (00:01:16) FORM padedit parameters  
+\i (00:01:19) FORM padedit layers  
+\i (00:03:31) FORM padedit height 1.22 
+\i (00:03:42) FORM padedit width 0.62 
+\i (00:03:53) FORM padedit grid row soldermask_top 
+\i (00:03:55) FORM padedit grid row begin_layer 
+\i (00:03:58) FORM padedit grid row soldermask_top 
+\i (00:04:06) FORM padedit grid row begin_layer 
+\i (00:04:10) FORM padedit grid row soldermask_top 
+\i (00:04:14) FORM padedit width 0.62 
+\i (00:04:16) FORM padedit height 1.22 
+\i (00:04:16) FORM padedit grid row pastemask_top 
+\i (00:04:26) FORM padedit width 0.62 
+\i (00:04:28) FORM padedit height 1.22 
+\i (00:04:28) FORM padedit grid row filmmask_bottom 
+\i (00:04:29) FORM padedit grid row pastemask_bottom 
+\i (00:05:08) pse_save_as 
+\i (00:05:16) setwindow text
+\i (00:05:16) close 
+\i (00:05:19) fillin no 
+\i (00:05:20) setwindow form.padedit
+\i (00:05:20) FORM padedit grid row pastemask_top 
+\i (00:05:25) FORM padedit grid row soldermask_top 
+\i (00:05:31) FORM padedit width 0.625 
+\i (00:05:35) FORM padedit height 1.225 
+\i (00:05:35) FORM padedit grid row pastemask_top 
+\i (00:05:37) FORM padedit grid row soldermask_top 
+\i (00:05:38) FORM padedit grid row pastemask_top 
+\i (00:05:41) FORM padedit width 0.625 
+\i (00:05:45) FORM padedit height 1.225 
+\i (00:05:45) pse_save_as 
+\i (00:05:50) setwindow text
+\i (00:05:50) close 
+\i (00:05:51) fillin no 
+\i (00:05:59) setwindow form.padedit
+\i (00:05:59) FORM padedit grid row begin_layer 
+\i (00:06:01) FORM padedit geometry Null 
+\i (00:06:06) FORM padedit geometry Rectangle 
+\i (00:06:10) FORM padedit grid row begin_layer 
+\i (00:06:15) FORM padedit width 0.62 
+\i (00:06:19) FORM padedit height 1.22 
+\i (00:06:19) FORM padedit geometry_ant Null 
+\i (00:06:20) FORM padedit geometry_th Null 
+\i (00:06:21) FORM padedit grid row pastemask_bottom 
+\i (00:06:22) FORM padedit grid row soldermask_top 
+\i (00:06:22) FORM padedit grid row pastemask_top 
+\i (00:06:26) FORM padedit grid row soldermask_top 
+\i (00:06:29) FORM padedit grid row pastemask_top 
+\i (00:06:30) FORM padedit grid row begin_layer 
+\i (00:06:37) FORM padedit grid row soldermask_top 
+\i (00:06:38) FORM padedit grid row pastemask_top 
+\i (00:06:38) FORM padedit grid row soldermask_bottom 
+\i (00:06:39) FORM padedit grid row soldermask_top 
+\i (00:06:40) FORM padedit grid row begin_layer 
+\i (00:06:40) FORM padedit grid row soldermask_top 
+\i (00:06:41) FORM padedit grid row pastemask_top 
+\i (00:06:44) FORM padedit grid row soldermask_top 
+\i (00:06:45) FORM padedit grid row begin_layer 
+\i (00:06:50) FORM padedit grid row soldermask_top 
+\i (00:06:51) FORM padedit grid row pastemask_top 
+\i (00:06:53) pse_save_as 
+\i (00:07:16) fillin "smd1p22x0p62mm.pad"
+\i (00:07:18) pse_exit
+\t (00:07:18)     Journal end - Thu Dec 22 15:47:56 2016

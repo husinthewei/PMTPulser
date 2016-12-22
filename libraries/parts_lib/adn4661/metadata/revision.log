@@ -1,0 +1,14 @@
+	(Comment
+		(Time 12/22/16,15:10:55)
+		(User weiwei)
+		(MsgId ECO_021)
+		(Text "Package ADN4661 added to cell")
+		(Param1 "ADN4661")
+	)
+	(Comment
+		(Time 12/22/16,15:14:09)
+		(User weiwei)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

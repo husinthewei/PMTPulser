@@ -1,0 +1,27 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 22-Dec-2016 AT 13:30:20 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SIMPLEPULSER';
+ POST_TIME='22-Dec-2016 AT 13:30:20';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ U1 'LMC555':;
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I1@PARTS_LIB.LMC555(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i1@parts_lib.lmc555(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i1@parts_lib.lmc555(chips)',
+ PATH='I1',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(100,2550)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='LMC555',
+ PRIM_FILE='./libraries/parts_lib/lmc555/chips/chips.prt';
+
+END.
