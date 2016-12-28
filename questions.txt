@@ -1,0 +1,9 @@
+Questions for creating parts
+Not able to see anything in Layout
+How give values to resistors?
+What use for caps?
+How do jumpers?
+Dual Diode Package?
+Errors?
+Multiple pages?
+Same name automatically connect? EX: Out_1

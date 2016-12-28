@@ -12,3 +12,10 @@
 		(Text "Symbol sym_1 added to cell")
 		(Param1 "sym_1")
 	)
+	(Comment
+		(Time 12/22/16,16:08:44)
+		(User weiwei)
+		(MsgId ECO_021)
+		(Text "Package BFR182 added to cell")
+		(Param1 "BFR182")
+	)

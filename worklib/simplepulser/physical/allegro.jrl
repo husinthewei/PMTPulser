@@ -1,19 +1,20 @@
 \t (00:00:00) allegro 16.6-2015 S083 (v16-6-112GM) Linux I32
-\t (00:00:00)     Journal start - Thu Dec 22 16:09:35 2016
-\t (00:00:00)         Host=alpha User=weiwei Pid=26147 CPUs=2
+\t (00:00:00)     Journal start - Wed Dec 28 10:48:15 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=13548 CPUs=2
 \t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/allegro.exe -product PCB_librarian_expert -proj /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
 \t (00:00:00) 
-\t (00:00:01) Opening existing design...
-\d (00:00:01) Design opened: /home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/tsot23-5.dra
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: /home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/tsot23-5.dra
 \i (00:00:02) trapsize 1
 \i (00:00:02) trapsize 1
-\i (00:00:02) generaledit 
-\i (00:00:05) open 
-\i (00:00:26) fillin "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols/sot23.dra"
-\i (00:00:26) cd "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols"
-\t (00:00:26) Opening existing design...
-\i (00:00:28) fillin yes 
-\t (00:00:28) Grids are drawn 8, 8 apart for enhanced viewability.
-\t (00:00:28) Grids are drawn 2, 2 apart for enhanced viewability.
-\i (00:00:28) trapsize 2
-\t (00:00:28)     Journal end - Thu Dec 22 16:10:02 2016
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -58 13
+\i (00:00:04) trapsize 1
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -58 14
+\i (00:00:05) trapsize 3
+\i (00:00:06) exit 
+\t (00:00:07)     Journal end - Wed Dec 28 10:48:22 2016

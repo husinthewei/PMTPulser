@@ -1,13 +1,16 @@
-12/22/16  16:11:45		Opening project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
-12/22/16  16:11:45		cdslib /home/weiwei/Documents/Github/PMTPulser/cds.lib opened
-12/22/16  16:11:45		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm opened
-12/22/16  16:13:21		Starting validations on cell bfr182 of library parts_lib
-12/22/16  16:13:21		Completed validations on cell bfr182 of library parts_lib
-12/22/16  16:16:32		Starting validations on cell bfr182 of library parts_lib
-12/22/16  16:16:32		Completed validations on cell bfr182 of library parts_lib
-12/22/16  16:16:48		Starting validations on cell bfr182 of library parts_lib
-12/22/16  16:16:48		Completed validations on cell bfr182 of library parts_lib
-12/22/16  16:17:42		Starting validations on cell bfr182 of library parts_lib
-12/22/16  16:17:42		Completed validations on cell bfr182 of library parts_lib
-12/22/16  16:17:43		Completed saving cell bfr182 in library parts_lib 
-12/22/16  16:18:11		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm is closed.
+12/28/16  10:48:29		Opening project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
+12/28/16  10:48:29		cdslib /home/weiwei/Documents/Github/PMTPulser/cds.lib opened
+12/28/16  10:48:29		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm opened
+12/28/16  10:49:01		Loading cell adn4661 from library parts_lib
+12/28/16  10:49:01		Loading view sym_1 of cell adn4661
+12/28/16  10:49:01		Loading view chips of cell adn4661
+12/28/16  10:49:01		Loading view entity of cell adn4661
+12/28/16  10:49:01		Loading cell adn4661 from library parts_lib
+12/28/16  10:49:01		Analyzing view relationships of cell adn4661 in library parts_lib
+12/28/16  10:49:01		Completed loading cell adn4661 from library parts_lib
+12/28/16  10:49:01		Starting validations on cell adn4661 of library parts_lib
+12/28/16  10:49:01		Completed validations on cell adn4661 of library parts_lib
+12/28/16  10:49:23		Starting validations on cell adn4661 of library parts_lib
+12/28/16  10:49:23		Completed validations on cell adn4661 of library parts_lib
+12/28/16  10:49:23		Completed saving cell adn4661 in library parts_lib 
+12/28/16  10:49:23		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm is closed.

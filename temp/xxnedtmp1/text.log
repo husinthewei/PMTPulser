@@ -1,0 +1,171 @@
+Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016
+Copyright 2011 Cadence Design Systems, Inc
+
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-2065): The PLOT_DPI directive defines the Dots Per Inch setting used by the printer for printing. Ensure that you specify a positive integer value for the directive.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1737): Reading /home/weiwei/Documents/Github/PMTPulser/cds.lib file.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: '/cad/SPB166-lnx/share/cdssetup/xmodules.dat'.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1507): Adding version 1 of part ADN4661 from library parts_lib
+INFO(SPCOCN-1000): Pin: I3.GND selected.
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I4 selected.
+WARNING(SPCOCN-503): The specified stroke shape '9367' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-S083 (v16-6-112HC)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I8 selected.
+WARNING(SPCOCN-503): The specified stroke shape '9367' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1001): Component: I9 selected.
+INFO(SPCOCN-1001): Component: I10 selected.
+INFO(SPCOCN-1001): Component: I9 selected.
+INFO(SPCOCN-1001): Component: I8 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+ERROR(SPCOCN-1521): Specify a signal name before selecting point.
+ERROR(SPCOCN-1521): Specify a signal name before selecting point.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1024): Drawing not written.
+INFO(SPCOCN-1001): Component: ??? selected.
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I13 selected.
+INFO(SPCOCN-1001): Component: I12 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-S083 (v16-6-112HC)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1001): Component: I13 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1000): Pin: I8.1 selected.
+INFO(SPCOCN-1000): Pin: I8.1 selected.
+INFO(SPCOCN-1000): Pin: I8.1 selected.
+INFO(SPCOCN-1000): Pin: I8.1 selected.
+INFO(SPCOCN-1001): Component: I8 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-S083 (v16-6-112HC)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-S083 (v16-6-112HC)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-999): Signal: UN$1$BFU730F$I5$1 selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1001): Component: I13 selected.
+INFO(SPCOCN-1001): Component: I13 selected.
+;
+INFO(SPCOCN-1507): Adding version 1 of part BFU730F from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RES_0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I15 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1001): Component: I16 selected.
+INFO(SPCOCN-1001): Component: I16 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-S083 (v16-6-112HC)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written

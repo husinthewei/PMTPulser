@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 6 )
+			( logicalViewRevNum 16 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -51,6 +51,33 @@
 					( Origin gFrontEnd )
 				)
 			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):gnd"
+				( objectStatus "gnd" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_res"
+				( objectStatus "unnamed_1_lmc555_i1_res" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_disch"
+				( objectStatus "unnamed_1_lmc555_i1_disch" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):vcc"
+				( objectStatus "vcc" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_dout"
+				( objectStatus "unnamed_1_adn4661_i3_dout" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_1"
+				( objectStatus "unnamed_1_bfu730f_i5_1" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_2"
+				( objectStatus "unnamed_1_bfu730f_i5_2" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_res0402_i10_2"
+				( objectStatus "unnamed_1_res0402_i10_2" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_res0402_i6_2"
+				( objectStatus "unnamed_1_res0402_i6_2" )
+			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i1"
 				( attribute "CDS_LIB" "parts_lib"
 					( Origin gPackager )
@@ -67,7 +94,7 @@
 				( attribute "VER" "1"
 					( Origin gFrontEnd )
 				)
-				( attribute "XY" "(100,2650)"
+				( attribute "XY" "(-5550,6350)"
 					( Origin gFrontEnd )
 				)
 				( attribute "CHIPS_PART_NAME" "LMC555"
@@ -79,66 +106,391 @@
 				( attribute "CDS_PHYS_PART_NAME" "LMC555"
 					( Origin gPackager )
 				)
-				( attribute "CDS_LOCATION" "U1"
-					( Origin gPackager )
-				)
-				( attribute "LOCATION" "U1"
-					( Origin gPackager )
-				)
-				( attribute "CDS_SEC" "1"
-					( Origin gPackager )
-				)
-				( attribute "SEC" "1"
-					( Origin gPackager )
-				)
 				( objectStatus "U1" )
 				( pin "ctrl"
-					( attribute "PN" "5"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.5" )
 				)
 				( pin "disch"
-					( attribute "PN" "7"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.7" )
 				)
 				( pin "gnd"
-					( attribute "PN" "1"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.1" )
 				)
 				( pin "\out\"
-					( attribute "PN" "3"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.3" )
 				)
 				( pin "res"
-					( attribute "PN" "4"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.4" )
 				)
 				( pin "thresh"
-					( attribute "PN" "6"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.6" )
 				)
 				( pin "trig"
-					( attribute "PN" "2"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.2" )
 				)
 				( pin "\v+\"
-					( attribute "PN" "8"
-						( Origin gPackager )
-					)
 					( objectStatus "U1.8" )
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i2"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-5000,7000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "100EL05"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I2" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i3"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-150,125,150,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-4600,6100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "ADN4661"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "ADN4661"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I3" )
+				( pin "din"
+				)
+				( pin "\dout+\"
+				)
+				( pin "\dout-\"
+				)
+				( pin "gnd"
+				)
+				( pin "nc1"
+				)
+				( pin "nc2"
+				)
+				( pin "nc3"
+				)
+				( pin "vcc"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i4"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "3"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-3450,6200)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I4" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i5"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2550,6650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "BFU730F"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "BFU730F"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I5" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+				( pin "\3\"
+				)
+				( pin "\4\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i6"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-3300,6550)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I6" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i7"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2900,6550)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I7" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i8"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "7"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-3200,5450)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I8" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i9"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-4100,5500)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I9" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i10"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-4100,5100)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I10" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i11"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2400,6150)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I11" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i12"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2850,5750)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I12" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i13"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,200,125,-50"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2400,5400)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RES_0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I13" )
+				( pin "\1\"
+				)
+				( pin "\2\"
 				)
 			)
 			( pin "@pmtpulser_lib.simplepulser(sch_1):page1_i1:v"

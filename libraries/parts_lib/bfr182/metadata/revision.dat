@@ -14,7 +14,7 @@
 
 		(CreateInfo	
 
-			(Time	12/22/16,16:12:09)
+			(Time	12/22/16,16:08:34)
 
 			(User	weiwei)
 
@@ -24,7 +24,7 @@
 
 		(LastModifyInfo	
 
-			(Time	12/22/16,16:17:42)
+			(Time	12/28/16,10:34:27)
 
 			(User	weiwei)
 
@@ -36,77 +36,9 @@
 
 	(Views	
 
-		(View	Symbol
-
-			(RevisionInfoBlock	
-
-				(Baselined	0)
-
-				(Revision	0.0.1)
-
-				(ModificationStatus	NULL)
-
-				(Status	Modified)
-
-				(ErrorStatus	0)
-
-				(CreateInfo	
-
-					(Time	)
-
-					(User	)
-
-					(Path	)
-
-				)
-
-			)
-
-			(Symbols	1
-
-				(Symbol	sym_1
-
-					(Symbol_Type	Normal)
-
-					(Max_Size	0)
-
-					(Checksum	00000000d2cc6406)
-
-					(RevisionInfoBlock	
-
-						(Baselined	0)
-
-						(Revision	0.0.1)
-
-						(ModificationStatus	NULL)
-
-						(Status	Created)
-
-						(ErrorStatus	0)
-
-						(CreateInfo	
-
-							(Time	12/22/16,16:17:08)
-
-							(User	weiwei)
-
-							(Path	parts_lib.bfr182)
-
-						)
-
-					)
-
-				)
-
-			)
-
-			(Checksum	000000001d9903ad)
-
-		)
-
 		(View	Chips
 
-			(Checksum	000000006712c668)
+			(Checksum	00000000691d395d)
 
 			(Primitives	1
 
@@ -126,7 +58,7 @@
 
 						(CreateInfo	
 
-							(Time	12/22/16,16:12:13)
+							(Time	12/22/16,16:08:44)
 
 							(User	weiwei)
 
@@ -152,15 +84,7 @@
 
 							(FunctionGroup	1[1]
 
-								(Linkages	
-
-									(Linkage	Symbol
-
-										(Name	sym_1)
-
-									)
-
-								)
+								(Linkages	)
 
 							)
 
@@ -184,7 +108,7 @@
 
 		)
 
-		(Checksum	000000001d7203da)
+		(Checksum	000000001b6e038a)
 
 	)
 
@@ -198,7 +122,7 @@
 
 	)
 
-	(Checksum	000000001bda03a7)
+	(Checksum	000000001c6d03ab)
 
 )
 
