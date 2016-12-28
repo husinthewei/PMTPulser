@@ -1,52 +1,118 @@
--- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016 on Wed Dec 28 11:23:53 2016
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016 on Wed Dec 28 15:43:11 2016
 #ISCELL
   parts_lib penn#20b#20size#20page *
   *
 #CELL
+  parts_lib csmd0402 *
+  page1_cfilt
+#CELL
+  parts_lib csmd0402 *
+  page1_cseveral
+#CELL
   parts_lib lmc555 *
   page1_i1
-#CELL
-  parts_lib res_0402 *
-  page1_i10
-#CELL
-  parts_lib res_0402 *
-  page1_i11
-#CELL
-  parts_lib res_0402 *
-  page1_i12
-#CELL
-  parts_lib res_0402 *
-  page1_i13
 #CELL
   parts_lib bfu730f *
   page1_i14
 #CELL
-  parts_lib res_0402 *
-  page1_i15
-#CELL
   parts_lib bfu730f *
   page1_i16
 #CELL
-  parts_lib res_0402 *
-  page1_i2
+  parts_lib rsmd0402 *
+  page1_i17
+#CELL
+  parts_lib rsmd0402 *
+  page1_i22
+#CELL
+  parts_lib rsmd0402 *
+  page1_i23
+#CELL
+  parts_lib rsmd0402 *
+  page1_i24
+#CELL
+  parts_lib rsmd0402 *
+  page1_i26
+#CELL
+  parts_lib rsmd0402 *
+  page1_i27
+#CELL
+  parts_lib rsmd0402 *
+  page1_i28
+#CELL
+  parts_lib csmd0402 *
+  page1_i29
 #CELL
   parts_lib adn4661 *
   page1_i3
 #CELL
-  parts_lib res_0402 *
-  page1_i4
+  parts_lib csmd0402 *
+  page1_i30
+#CELL
+  parts_lib rsmd0402 *
+  page1_i31
+#CELL
+  parts_lib rsmd0402 *
+  page1_i32
+#CELL
+  parts_lib rsmd0402 *
+  page1_i33
+#CELL
+  parts_lib csmd0402 *
+  page1_i34
+#CELL
+  parts_lib rsmd0402 *
+  page1_i35
+#CELL
+  parts_lib csmd0402 *
+  page1_i36
+#CELL
+  parts_lib rsmd0402 *
+  page1_i37
+#CELL
+  parts_lib rsmd0402 *
+  page1_i39
+#CELL
+  parts_lib inductor_1206 *
+  page1_i40
+#CELL
+  parts_lib rsmd0402 *
+  page1_i41
+#CELL
+  parts_lib rsmd0402 *
+  page1_i42
+#CELL
+  parts_lib csmd0402 *
+  page1_i43
+#CELL
+  parts_lib rsmd0402 *
+  page1_i44
+#CELL
+  parts_lib csmd0402 *
+  page1_i45
+#CELL
+  parts_lib rsmd0402 *
+  page1_i46
+#CELL
+  parts_lib rsmd0402 *
+  page1_i47
+#CELL
+  parts_lib rsmd0402 *
+  page1_i48
+#CELL
+  parts_lib rsmd0402 *
+  page1_i49
 #CELL
   parts_lib bfu730f *
   page1_i5
 #CELL
-  parts_lib res_0402 *
-  page1_i6
+  parts_lib rsmd0402 *
+  page1_i50
 #CELL
-  parts_lib res_0402 *
-  page1_i7
+  parts_lib rsmd0402 *
+  page1_i51
 #CELL
-  parts_lib res_0402 *
-  page1_i8
+  parts_lib rsmd0402 *
+  page1_i52
 #CELL
-  parts_lib res_0402 *
-  page1_i9
+  parts_lib rsmd0402 *
+  page1_rseries

@@ -7,3 +7,5 @@ Dual Diode Package?
 Errors?
 Multiple pages?
 Same name automatically connect? EX: Out_1
+How write mu?
+How do connections such as scope trigger?

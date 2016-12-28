@@ -6,12 +6,12 @@
    (class "SCHEMATIC")
    (severity 40)
    (error_num 1)
-   (short_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named.")
-   (long_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named. (ncwires)")
+   (short_msg "ERROR(SPCOCN-1996): More than 2 wires at pin.")
+   (long_msg "ERROR(SPCOCN-1996): More than 2 wires at pin. (twowiresatpins)")
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-3975,6050);")
+     (canonical_name "_!drawerror (-6600,6150);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -22,12 +22,12 @@
    (class "SCHEMATIC")
    (severity 40)
    (error_num 2)
-   (short_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named.")
-   (long_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named. (ncwires)")
+   (short_msg "ERROR(SPCOCN-1993): Invalid value specified for a property 'VALUE'. Ensure that the property value ? is specified only when the corresponding property name is preceded by $ (dollar sign).")
+   (long_msg "ERROR(SPCOCN-1993): Invalid value specified for a property 'VALUE'. Ensure that the property value ? is specified only when the corresponding property name is preceded by $ (dollar sign). (placeholderprops)")
    (location
     (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-5337,6300);")
+     (object_kind "property")
+     (canonical_name "_!drawerror (-2573,5920);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -38,6 +38,118 @@
    (class "SCHEMATIC")
    (severity 40)
    (error_num 3)
+   (short_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named.")
+   (long_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-5775,5300);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 4)
+   (short_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins.")
+   (long_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-6600,5200);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 5)
+   (short_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins.")
+   (long_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-4350,6750);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 6)
+   (short_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named.")
+   (long_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-2100,6875);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 7)
+   (short_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins.")
+   (long_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-6050,4975);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 8)
+   (short_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins.")
+   (long_msg "ERROR(SPCOCN-1982): Wire named but not connected to any pins. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-6950,5500);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 9)
+   (short_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named.")
+   (long_msg "ERROR(SPCOCN-1981): Wire connected to 1 pin and not named. (ncwires)")
+   (location
+    (
+     (object_kind "wire")
+     (canonical_name "_!drawerror (-6650,4900);")
+     (parent_canonical_name "unused")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 40)
+   (error_num 10)
    (short_msg "ERROR(SPCOCN-2004): Two pins on one body shorted by one wire segment.")
    (long_msg "ERROR(SPCOCN-2004): Two pins on one body shorted by one wire segment. (pinshorted)")
    (location
@@ -53,125 +165,13 @@
    (tool "Concept")
    (class "SCHEMATIC")
    (severity 40)
-   (error_num 4)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-4037,4100);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 5)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-1887,6650);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 6)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-1750,6312);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 7)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-2500,6487);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 8)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-3100,5287);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 9)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-3100,5312);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
-   (error_num 10)
-   (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
-   (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
-   (location
-    (
-     (object_kind "wire")
-     (canonical_name "_!drawerror (-5100,7162);")
-     (parent_canonical_name "unused")
-     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
-    )
-   )
-  )
-  (
-   (tool "Concept")
-   (class "SCHEMATIC")
-   (severity 40)
    (error_num 11)
    (short_msg "ERROR(SPCOCN-1999): Wire hidden by component.")
    (long_msg "ERROR(SPCOCN-1999): Wire hidden by component. (check_hiddenwires)")
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5762,6300);")
+     (canonical_name "_!drawerror (-3100,5637);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -187,7 +187,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5337,6400);")
+     (canonical_name "_!drawerror (-4037,4100);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -203,7 +203,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5337,6350);")
+     (canonical_name "_!drawerror (-1887,6650);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -219,7 +219,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5100,6862);")
+     (canonical_name "_!drawerror (-5762,6300);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -235,7 +235,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5762,6400);")
+     (canonical_name "_!drawerror (-5337,6350);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -251,7 +251,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-2100,6487);")
+     (canonical_name "_!drawerror (-5762,6400);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -267,7 +267,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-3462,6650);")
+     (canonical_name "_!drawerror (-2500,6487);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -283,7 +283,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-3012,5850);")
+     (canonical_name "_!drawerror (-5337,6400);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -299,7 +299,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5762,6450);")
+     (canonical_name "_!drawerror (-5337,6300);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
@@ -315,7 +315,7 @@
    (location
     (
      (object_kind "wire")
-     (canonical_name "_!drawerror (-5337,6300);")
+     (canonical_name "_!drawerror (-5762,6450);")
      (parent_canonical_name "unused")
      (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
     )
