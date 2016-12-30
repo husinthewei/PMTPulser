@@ -1,11 +1,31 @@
-Questions for creating parts
+
+Questions for creating parts (look at parts)
+
+
 Not able to see anything in Layout
-How give values to resistors?
-What use for caps?
-How do jumpers?
+PCB Desinger
+shapes -> rectangular -> add it
+
 Dual Diode Package?
+BAS70-04
+
 Errors?
+Solved
+
 Multiple pages?
+1 Ok for simple
+
 Same name automatically connect? EX: Out_1
-How write mu?
+Yes
+
+How do jumpers?
 How do connections such as scope trigger?
+How make circles?
+Use null 0402
+
+How write mu?
+Just use u
+
+How give values to resistors?
+New resistor value
+part developer->part table-> part row -> edit 

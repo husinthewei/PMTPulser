@@ -6,7 +6,7 @@
     Packager-XL 16.6-S078 (v16-6-112GS) lnx86 9/12/2016 12:00:00 IST
     (C) Copyright 1994, Cadence Design Systems, Inc.
 
-    Run on Thu Dec 22 14:28:11 2016
+    Run on Fri Dec 30 14:12:43 2016
 
 
  **********************************************
@@ -52,6 +52,7 @@
     DEBUG    0
     DEFAULT_PHYS_DES_PREFIX U
     FEEDBACK  'OFF'
+    GEN_SUBDESIGN  'SIMPLEPULSER'
     MAX_ERRORS 999
     NET_NAME_CHARS   @  -  !  #  %  &  (  )  *  .  /  :  ?  [  ]  ^  _  `  +
                      =  >  0  1  2  3  4  5  6  7  8  9
@@ -79,7 +80,8 @@
     USE_LIBRARY_PPT ON
     USE_STATE ON
     WARNINGS ON
-    LIBRARY  'pmtpulser_lib' 'standard' 'parts_lib' 'Symbols'
+    LIBRARY  'parts_lib' 'Symbols' 'pmtpulser_lib' 'rf_comp_lib' 'standard'
+             'mayers_lib'
     CDSPROP_FILE 
     VIEW_PTF part_table
     VIEW_PACKAGER packaged
@@ -126,6 +128,11 @@ INFO(SPCODD-181): Loading /cad/SPB166-lnx/share/cdssetup/cdsprop.paf.
  *  Loading the design database  *
  *********************************
 
+INFO(SPCODD-181): Loading ./libraries/parts_lib/rsmd0402/part_table/part.ptf.
+INFO(SPCODD-181): Loading ./libraries/parts_lib/csmd0402/part_table/part.ptf.
+INFO(SPCODD-181): Loading ./libraries/parts_lib/csmd0402/part_table/part - Cop~
+y.ptf.
+INFO(SPCODD-181): Loading ./libraries/parts_lib/lsmd1206/part_table/part.ptf.
 
  *************************
  *  Loading State Files  *
@@ -142,30 +149,419 @@ Loading ./worklib/simplepulser/packaged/pxl.state.
  *  Starting to assign physical parts.  *
  ****************************************
 
-
- ***********************************************
- *  End assigning physical parts.  (00:00:00)  *
- ***********************************************
-
-
- ***************
- *  Packaging  *
- ***************
-
-
- *******************************
- *  End packaging  (00:00:00)  *
- *******************************
-
-INFO(SPCOPK-1442): No errors detected
+ #1   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I17@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i17@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #2   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I22@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i22@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #3   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I23@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i23@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #4   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I24@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i24@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #5   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I26@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i26@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #6   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I27@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i27@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #7   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I28@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i28@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #8   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I31@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i31@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #9   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I32@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i32@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #10  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I33@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i33@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #11  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I35@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i35@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #12  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I37@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i37@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #13  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I39@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i39@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #14  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I41@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i41@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #15  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I42@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i42@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #16  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_RSERIES@P~
+ARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_rseries@parts_~
+lib.rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #17  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I44@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i44@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #18  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I46@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i46@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #19  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I47@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i47@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #20  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I48@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i48@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #21  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I49@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i49@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #22  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I50@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i50@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #23  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I51@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i51@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #24  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I52@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i52@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #25  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I53@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i53@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #26  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I54@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i54@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #27  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: LSMD1206
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I56@PARTS~
+_LIB.LSMD1206(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i56@parts_lib.~
+lsmd1206(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 0.09UH
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 10%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 0805
+ #28  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I57@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i57@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #29  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I58@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i58@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #30  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I59@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i59@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+ #31  ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
+perties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I60@PARTS~
+_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i60@parts_lib.~
+rsmd0402(chips)
+INFO(SPCOPK-1063): Property Name: VALUE
+                   Property Value: 100
+INFO(SPCOPK-1063): Property Name: TOL
+                   Property Value: 5%
+INFO(SPCOPK-1063): Property Name: PACKTYPE
+                   Property Value: 
+INFO(SPCOPK-1441): 31 errors detected
 INFO(SPCOPK-1444): No warnings detected
-    Start time   14:28:11
-    End time     14:28:11
+INFO(SPCOPK-1448): Use Tools->Markers->Packager in ConceptHDL to highlight ins~
+tances for the errors/warnings reported.
+    Start time   14:12:43
+    End time     14:12:44
     CPU time      0:00:00
-    Elapsed time  0:00:00
+    Elapsed time  0:00:01
 
- ***************************************************************************
- *  Packager-XL execution done.
- ***************************************************************************
-Starting to audit ECsets in the design...
-Audit completed successfully.
+ **************************************************
+ *  FATAL ERROR PackagerXL exiting with status 2  *
+ **************************************************
+

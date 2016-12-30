@@ -1,4 +1,5 @@
 DEFINE pmtpulser_lib worklib
 INCLUDE $CONCEPT_INST_DIR/share/cdssetup/cds.lib
 DEFINE parts_lib /home/weiwei/Documents/Github/PMTPulser/libraries/parts_lib
+DEFINE mayers_lib /home/weiwei/Documents/Github/PMTPulser/libraries/mayerslib/parts_lib
 DEFINE Symbols /home/weiwei/Documents/Github/PMTPulser/libraries/symbols

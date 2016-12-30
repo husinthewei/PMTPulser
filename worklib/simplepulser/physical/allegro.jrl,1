@@ -1,12 +1,116 @@
 \t (00:00:00) allegro 16.6-2015 S083 (v16-6-112GM) Linux I32
-\t (00:00:00)     Journal start - Thu Dec 22 17:40:16 2016
-\t (00:00:00)         Host=alpha User=weiwei Pid=27877 CPUs=2
-\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/allegro.exe -product Allegro_performance -proj /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
+\t (00:00:00)     Journal start - Fri Dec 30 15:15:14 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=10719 CPUs=2
+\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/allegro.exe -product PCB_librarian_expert -proj /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
 \t (00:00:00) 
 \t (00:00:01) Opening existing design...
-\d (00:00:01) Design opened: /home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/tsot23-5.dra
-\i (00:00:01) trapsize 1
-\i (00:00:02) trapsize 1
+\d (00:00:01) Design opened: /home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/pmtpulser_0_0.brd
+\i (00:00:01) trapsize 206
+\i (00:00:02) trapsize 202
+\i (00:00:02) trapsize 207
+\i (00:00:02) trapsize 179
+\i (00:00:02) trapsize 205
 \i (00:00:02) generaledit 
-\i (00:00:04) exit 
-\t (00:00:06)     Journal end - Thu Dec 22 17:40:21 2016
+\i (00:00:29) open 
+\i (00:00:31) fillin "menu_cancel"
+\i (00:00:31) generaledit 
+\i (00:00:32) new 
+\i (00:01:51) newdrawfillin "RK09L.dra" "Package Symbol (Wizard)"
+\t (00:01:51) Starting new design...
+\i (00:01:52) trapsize 6530
+\i (00:01:52) trapsize 6391
+\i (00:01:52) trapsize 6530
+\i (00:01:52) trapsize 7543
+\t (00:01:52) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:01:52) trapsize 11348
+\i (00:01:52) trapsize 11348
+\i (00:01:52) package symbol wizard 
+\i (00:01:52) generaledit 
+   (00:01:54) Loading cmds.cxt 
+   (00:01:54) Loading axlcore.cxt 
+\i (00:01:54) setwindow form.sym_wizard
+\i (00:01:54) FORM sym_wizard soic YES 
+\i (00:01:55) FORM sym_wizard plcc YES 
+\i (00:01:55) FORM sym_wizard bga YES 
+\i (00:01:56) FORM sym_wizard rca_th YES 
+\i (00:01:56) FORM sym_wizard rca_smd YES 
+\i (00:01:59) FORM sym_wizard sip YES 
+\i (00:02:00) FORM sym_wizard rca_smd YES 
+\i (00:02:00) FORM sym_wizard rca_th YES 
+\i (00:02:02) FORM sym_wizard bga YES 
+\i (00:02:02) FORM sym_wizard plcc YES 
+\i (00:02:03) FORM sym_wizard soic YES 
+\i (00:02:03) FORM sym_wizard dip YES 
+\i (00:02:05) FORM sym_wizard soic YES 
+\i (00:02:07) FORM sym_wizard wiz_next  
+\i (00:02:09) FORM sym_wizard load_template  
+\t (00:02:09) Opening existing design...
+\i (00:02:10) fillin yes 
+\t (00:02:10) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:02:10) setwindow pcb
+\i (00:02:10) trapsize 227
+\d (00:02:10) Design opened: /cad/SPB166-lnx/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:02:13) setwindow form.sym_wizard
+\i (00:02:13) FORM sym_wizard wiz_next  
+\i (00:02:17) FORM sym_wizard pack_units Millimeter 
+\i (00:02:19) FORM sym_wizard pack_units_create Millimeter 
+\i (00:02:21) FORM sym_wizard pack_precision 4 
+\i (00:02:23) FORM sym_wizard pack_precision_create 4 
+\i (00:02:29) FORM sym_wizard wiz_next  
+\i (00:02:36) FORM sym_wizard sop_pin_count 5 
+\i (00:03:19) FORM sym_wizard sop_e 2.5000 
+\i (00:03:34) FORM sym_wizard sop_e1 7.5000 
+\i (00:03:54) FORM sym_wizard sop_width 11.3000 
+\i (00:04:00) FORM sym_wizard sop_len 7.5000 
+\i (00:04:01) FORM sym_wizard wiz_next  
+\i (00:04:27) fillin confirm
+\i (00:04:29) FORM sym_wizard sop_pin_count 6 
+\i (00:04:29) FORM sym_wizard wiz_next  
+\i (00:04:31) FORM sym_wizard default_pad_browse  
+\i (00:05:07) fillin "menu_cancel"
+\i (00:05:08) FORM sym_wizard default_pad_browse  
+\i (00:05:26) fillin "Unnamed"
+\i (00:05:33) FORM sym_wizard pin1_pad_browse  
+\i (00:06:12) fillin "Cir2p8mm2p2d"
+\i (00:06:14) FORM sym_wizard wiz_next  
+\i (00:06:17) FORM sym_wizard wiz_next  
+\i (00:06:17) FORM sym_wizard wiz_finish  
+\t (00:06:17) Grids are drawn 5.0800, 5.0800 apart for enhanced viewability.
+\i (00:06:17) setwindow pcb
+\i (00:06:17) trapsize 57650
+\t (00:06:17) Performing DRC...
+\t (00:06:17) No DRC errors detected.
+\i (00:06:17) trapsize 57650
+\i (00:06:17) trapsize 8139
+\i (00:06:17) trapsize 1085
+\i (00:06:17) trapsize 1085
+\t (00:06:17) Creating package symbol '/home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical/rk09l.psm'.
+\t (00:06:17) Starting Create symbol...
+\i (00:06:18) generaledit 
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in -3.5216 -0.3203
+\i (00:06:21) trapsize 543
+\i (00:06:21) zoom out 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom out -3.0333 -0.4071
+\i (00:06:21) trapsize 1085
+\i (00:06:25) pick grid -3.8146 0.4394
+\t (00:06:25) last pick:  -5.0800 0.0000
+\i (00:06:26) pick grid -1.9698 7.3411
+\t (00:06:26) last pick:  -2.5400 7.6200
+\i (00:06:26) prepopup -1.9481 7.2109
+\i (00:06:27) pick grid -3.5975 7.2760
+\t (00:06:27) last pick:  -2.5400 7.6200
+\i (00:06:39) padeditlib 
+\i (00:06:46) fillin "menu_ok"
+\i (00:06:46) generaledit 
+\i (00:06:49) prepopup 2.1322 4.3677
+\i (00:06:50) pick grid 1.2858 4.6933
+\t (00:06:50) last pick:  2.5400 5.0800
+\i (00:06:52) save 
+\i (00:06:54) fillin yes 
+\t (00:06:55) Symbol 'rk09l.psm' created.
+\i (00:06:55) generaledit 
+\i (00:06:57) exit 
+\t (00:06:58)     Journal end - Fri Dec 30 15:22:12 2016

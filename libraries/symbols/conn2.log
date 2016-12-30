@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : conn2.dra                                     )
+(    Software Version : 16.6-2015S082                                 )
+(    Date/Time        : Fri Dec 30 13:41:02 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = /home/weiwei/Documents/Github/PMTPulser/worklib/simplepulser/physical
+    Name      = conn2.psm
+    User      = weiwei
+    Machine   = alpha
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,718 @@
+(marker_file
+ (version 5.0)
+ (markers
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I17@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i17@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I17;")
+     (parent_canonical_name "DRAWERROR inst I17")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I22@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i22@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I22;")
+     (parent_canonical_name "DRAWERROR inst I22")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I23@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i23@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I23;")
+     (parent_canonical_name "DRAWERROR inst I23")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I24@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i24@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I24;")
+     (parent_canonical_name "DRAWERROR inst I24")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I26@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i26@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I26;")
+     (parent_canonical_name "DRAWERROR inst I26")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I27@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i27@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I27;")
+     (parent_canonical_name "DRAWERROR inst I27")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I28@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i28@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I28;")
+     (parent_canonical_name "DRAWERROR inst I28")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I31@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i31@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I31;")
+     (parent_canonical_name "DRAWERROR inst I31")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I32@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i32@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I32;")
+     (parent_canonical_name "DRAWERROR inst I32")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I33@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i33@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I33;")
+     (parent_canonical_name "DRAWERROR inst I33")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I35@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i35@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I35;")
+     (parent_canonical_name "DRAWERROR inst I35")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I37@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i37@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I37;")
+     (parent_canonical_name "DRAWERROR inst I37")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I39@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i39@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I39;")
+     (parent_canonical_name "DRAWERROR inst I39")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I41@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i41@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I41;")
+     (parent_canonical_name "DRAWERROR inst I41")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I42@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i42@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I42;")
+     (parent_canonical_name "DRAWERROR inst I42")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_RSERIES@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_rseries@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst RSERIES;")
+     (parent_canonical_name "DRAWERROR inst RSERIES")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I44@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i44@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I44;")
+     (parent_canonical_name "DRAWERROR inst I44")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I46@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i46@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I46;")
+     (parent_canonical_name "DRAWERROR inst I46")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I47@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i47@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I47;")
+     (parent_canonical_name "DRAWERROR inst I47")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I48@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i48@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I48;")
+     (parent_canonical_name "DRAWERROR inst I48")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I49@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i49@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I49;")
+     (parent_canonical_name "DRAWERROR inst I49")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I50@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i50@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I50;")
+     (parent_canonical_name "DRAWERROR inst I50")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I51@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i51@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I51;")
+     (parent_canonical_name "DRAWERROR inst I51")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I52@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i52@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I52;")
+     (parent_canonical_name "DRAWERROR inst I52")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I53@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i53@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I53;")
+     (parent_canonical_name "DRAWERROR inst I53")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I54@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i54@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I54;")
+     (parent_canonical_name "DRAWERROR inst I54")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: LSMD1206
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I56@PARTS_LIB.LSMD1206(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i56@parts_lib.lsmd1206(chips)
+                          Property Value: 0.09UH
+                          Property Value: 10%
+                          Property Value: 0805
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I56;")
+     (parent_canonical_name "DRAWERROR inst I56")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I57@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i57@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I57;")
+     (parent_canonical_name "DRAWERROR inst I57")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I58@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i58@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I58;")
+     (parent_canonical_name "DRAWERROR inst I58")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I59@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i59@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I59;")
+     (parent_canonical_name "DRAWERROR inst I59")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Packager-XL")
+   (class "LOGICAL")
+   (severity 40)
+   (error_num 1053)
+   (short_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.")
+   (long_msg "ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance properties.
+        Ppt Name: RSMD0402
+        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I60@PARTS_LIB.RSMD0402(CHIPS)
+        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i60@parts_lib.rsmd0402(chips)
+                          Property Value: 100
+                          Property Value: 5%
+                          Property Value: 
+")
+   (location
+	(
+     (object_kind "instance")
+     (canonical_name "_!drawerror inst I60;")
+     (parent_canonical_name "DRAWERROR inst I60")
+     (drawing_name "@pmtpulser_lib.simplepulser(sch_1):page1")
+    )
+   )
+  )
+ )
+)

@@ -1,13 +1,14 @@
 All parts are in parts lib
+BAS70-04
 
 Not Made Yet
 
 
 Waiting
-Bourns PV37 style 10k Trim Pot
-Rk09L1140A2U (Pot) (How do this type of package)?
-LTC2050 (amplifier)__(tsot23-5 how interpret 
-HFAPNP (transistor array) (which HFA?)
+Bourns PV37 style 10k Trim Pot (manually)
+Rk09L1140A2U (Pot) (How do this type of package)? (manually)
+LTC2050 (amplifier)__(tsot23-5 how interpret) (USE LEFT)
+HFAPNP (transistor array) (which HFA?) (emailed mike)
 
 Mostly Made
 BFR182(transistor)

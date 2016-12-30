@@ -1,4 +1,4 @@
--- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016 on Wed Dec 28 15:43:11 2016
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.6-S083 (v16-6-112HC) 11/28/2016 on Fri Dec 30 14:12:43 2016
 #ISCELL
   parts_lib penn#20b#20size#20page *
   *
@@ -72,9 +72,6 @@
   parts_lib rsmd0402 *
   page1_i39
 #CELL
-  parts_lib inductor_1206 *
-  page1_i40
-#CELL
   parts_lib rsmd0402 *
   page1_i41
 #CELL
@@ -113,6 +110,27 @@
 #CELL
   parts_lib rsmd0402 *
   page1_i52
+#CELL
+  parts_lib rsmd0402 *
+  page1_i53
+#CELL
+  parts_lib rsmd0402 *
+  page1_i54
+#CELL
+  parts_lib lsmd1206 *
+  page1_i56
+#CELL
+  parts_lib rsmd0402 *
+  page1_i57
+#CELL
+  parts_lib rsmd0402 *
+  page1_i58
+#CELL
+  parts_lib rsmd0402 *
+  page1_i59
+#CELL
+  parts_lib rsmd0402 *
+  page1_i60
 #CELL
   parts_lib rsmd0402 *
   page1_rseries

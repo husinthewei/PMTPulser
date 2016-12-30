@@ -1,16 +1,22 @@
-12/28/16  10:48:29		Opening project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
-12/28/16  10:48:29		cdslib /home/weiwei/Documents/Github/PMTPulser/cds.lib opened
-12/28/16  10:48:29		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm opened
-12/28/16  10:49:01		Loading cell adn4661 from library parts_lib
-12/28/16  10:49:01		Loading view sym_1 of cell adn4661
-12/28/16  10:49:01		Loading view chips of cell adn4661
-12/28/16  10:49:01		Loading view entity of cell adn4661
-12/28/16  10:49:01		Loading cell adn4661 from library parts_lib
-12/28/16  10:49:01		Analyzing view relationships of cell adn4661 in library parts_lib
-12/28/16  10:49:01		Completed loading cell adn4661 from library parts_lib
-12/28/16  10:49:01		Starting validations on cell adn4661 of library parts_lib
-12/28/16  10:49:01		Completed validations on cell adn4661 of library parts_lib
-12/28/16  10:49:23		Starting validations on cell adn4661 of library parts_lib
-12/28/16  10:49:23		Completed validations on cell adn4661 of library parts_lib
-12/28/16  10:49:23		Completed saving cell adn4661 in library parts_lib 
-12/28/16  10:49:23		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm is closed.
+12/30/16  13:47:18		Opening project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
+12/30/16  13:47:18		cdslib /home/weiwei/Documents/Github/PMTPulser/cds.lib opened
+12/30/16  13:47:18		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm opened
+12/30/16  13:47:21		Loading cell conn2 from library parts_lib
+12/30/16  13:47:21		Loading view chips of cell conn2
+12/30/16  13:47:21		Loading cell conn2 from library parts_lib
+12/30/16  13:47:21		Analyzing view relationships of cell conn2 in library parts_lib
+12/30/16  13:47:21		Completed loading cell conn2 from library parts_lib
+12/30/16  13:47:21		Starting validations on cell conn2 of library parts_lib
+12/30/16  13:47:21		Completed validations on cell conn2 of library parts_lib
+12/30/16  13:49:23		Starting validations on cell conn2 of library parts_lib
+12/30/16  13:49:23		Completed validations on cell conn2 of library parts_lib
+12/30/16  13:54:07		Starting validations on cell conn2 of library parts_lib
+12/30/16  13:54:07		Completed validations on cell conn2 of library parts_lib
+12/30/16  13:54:07		Completed saving cell conn2 in library parts_lib 
+12/30/16  13:54:11		Starting validations on cell conn2 of library parts_lib
+12/30/16  13:54:11		Completed validations on cell conn2 of library parts_lib
+12/30/16  13:54:11		Completed saving cell conn2 in library parts_lib 
+12/30/16  13:54:53		Starting validations on cell conn2 of library parts_lib
+12/30/16  13:54:53		Completed validations on cell conn2 of library parts_lib
+12/30/16  13:54:53		Completed saving cell conn2 in library parts_lib 
+12/30/16  13:54:54		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm is closed.
