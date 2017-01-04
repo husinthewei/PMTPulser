@@ -1,0 +1,194 @@
+(Cell	hfa3128b96
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/04/17,17:31:46)
+
+			(User	HEP)
+
+			(Path	parts_lib.hfa3128b96)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	01/04/17,17:38:53)
+
+			(User	HEP)
+
+			(Path	parts_lib.hfa3128b96)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	0)
+
+				(Revision	0.0.4)
+
+				(ModificationStatus	NULL)
+
+				(Status	)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c9ae28f1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/04/17,17:37:34)
+
+							(User	HEP)
+
+							(Path	parts_lib.hfa3128b96)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e2303e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d8fe1d08)
+
+			(Primitives	1
+
+				(Primitive	HFA3128B96
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/04/17,17:32:07)
+
+							(User	HEP)
+
+							(Path	parts_lib.hfa3128b96)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HFA3128B96
+
+							(PackType	HFA3128B96)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2703ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	16.6-p001 (v16-6-112A))
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc903a4)
+
+)
+

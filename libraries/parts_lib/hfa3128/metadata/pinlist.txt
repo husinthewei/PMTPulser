@@ -15,6 +15,9 @@
 		(CheckAssert 1)
 		(CheckOutput 1)
 		(UnknownLoading 0)
+		(PinShape Line)
+		(DIFF_PAIR_PINS_POS )
+		(DIFF_PAIR_PINS_NEG )
 	)
 
 	(Pin
@@ -33,6 +36,9 @@
 		(CheckAssert 1)
 		(CheckOutput 1)
 		(UnknownLoading 0)
+		(PinShape Line)
+		(DIFF_PAIR_PINS_POS )
+		(DIFF_PAIR_PINS_NEG )
 	)
 
 	(Pin
@@ -51,6 +57,9 @@
 		(CheckAssert 1)
 		(CheckOutput 1)
 		(UnknownLoading 0)
+		(PinShape Line-Clock)
+		(DIFF_PAIR_PINS_POS )
+		(DIFF_PAIR_PINS_NEG )
 	)
 
 

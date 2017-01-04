@@ -1,61 +1,10 @@
 \t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Linux I32
-\t (00:00:00)     Journal start - Wed Dec 21 13:19:32 2016
-\t (00:00:00)         Host=alpha User=weiwei Pid=5149 CPUs=2
+\t (00:00:00)     Journal start - Wed Dec 21 14:20:27 2016
+\t (00:00:00)         Host=alpha User=weiwei Pid=5627 CPUs=2
 \t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/pad_designer.exe
 \t (00:00:00) 
-\i (00:00:22) setwindow form.padedit
-\i (00:00:22) FORM padedit decimal_places 2 
-\i (00:00:22) FORM padedit layers  
-\i (00:00:31) FORM padedit grid row begin_layer 
-\i (00:28:59) FORM padedit parameters  
-\i (00:34:34) FORM padedit units Millimeter 
-\i (00:34:36) fillin yes 
-\w (00:34:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:34:42) FORM padedit layers  
-\i (00:40:19) FORM padedit width 0.45 
-\i (00:40:21) FORM padedit grid row begin_layer 
-\i (00:40:26) FORM padedit geometry Rectangle 
-\i (00:40:31) FORM padedit width 0.45 
-\i (00:40:34) FORM padedit height 1.45 
-\i (00:42:37) FORM padedit width 1.4500 
-\i (00:42:40) FORM padedit height 0.45 
-\i (00:43:03) FORM padedit grid row default_internal 
-\i (00:43:08) FORM padedit grid row soldermask_top 
-\i (00:43:08) FORM padedit grid row end_layer 
-\i (00:43:08) FORM padedit grid row default_internal 
-\i (00:43:08) FORM padedit grid row begin_layer 
-\i (00:43:09) FORM padedit grid row default_internal 
-\i (00:44:20) FORM padedit width 1.5 
-\i (00:44:24) FORM padedit geometry Rectangle 
-\i (00:44:27) FORM padedit width 1.50 
-\i (00:44:37) FORM padedit height 0.50 
-\i (00:45:14) pse_save_as 
-\i (00:45:54) setwindow text
-\i (00:45:54) close 
-\i (00:45:58) fillin no 
-\i (00:46:16) setwindow form.padedit
-\i (00:46:16) FORM padedit parameters  
-\i (00:46:22) FORM padedit hole_type Rectangle Slot 
-\i (00:46:26) FORM padedit hole_type Circle Drill 
-\i (00:46:38) FORM padedit layers  
-\i (00:46:44) FORM padedit parameters  
-\i (00:46:55) FORM padedit hole_type Rectangle Slot 
-\i (00:47:00) pse_save_as 
-\i (00:47:03) setwindow text
-\i (00:47:03) close 
-\i (00:47:05) fillin no 
-\i (00:47:13) setwindow form.padedit
-\i (00:47:13) pse_prop_form 
-\i (00:47:16) setwindow form.fileprop
-\i (00:47:16) FORM fileprop tiering  
-\i (00:47:17) FORM fileprop cancel  
-\i (00:47:24) setwindow form.padedit
-\i (00:47:24) pse_save 
-\i (00:47:53) setwindow text
-\i (00:47:53) close 
-\i (00:47:56) fillin no 
-\i (00:48:43) setwindow form.padedit
-\i (00:48:43) FORM padedit layers  
-\i (00:48:49) FORM padedit parameters  
-\i (01:00:48) pse_exit
-\t (01:00:49)     Journal end - Wed Dec 21 14:20:21 2016
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:05:05) fillin "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols/smd143rec128.pad"
+\i (00:05:05) cd "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols"
+\t (00:05:05)     Journal end - Wed Dec 21 14:25:32 2016

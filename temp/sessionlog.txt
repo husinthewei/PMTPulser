@@ -1,22 +1,29 @@
-12/30/16  13:47:18		Opening project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm
-12/30/16  13:47:18		cdslib /home/weiwei/Documents/Github/PMTPulser/cds.lib opened
-12/30/16  13:47:18		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm opened
-12/30/16  13:47:21		Loading cell conn2 from library parts_lib
-12/30/16  13:47:21		Loading view chips of cell conn2
-12/30/16  13:47:21		Loading cell conn2 from library parts_lib
-12/30/16  13:47:21		Analyzing view relationships of cell conn2 in library parts_lib
-12/30/16  13:47:21		Completed loading cell conn2 from library parts_lib
-12/30/16  13:47:21		Starting validations on cell conn2 of library parts_lib
-12/30/16  13:47:21		Completed validations on cell conn2 of library parts_lib
-12/30/16  13:49:23		Starting validations on cell conn2 of library parts_lib
-12/30/16  13:49:23		Completed validations on cell conn2 of library parts_lib
-12/30/16  13:54:07		Starting validations on cell conn2 of library parts_lib
-12/30/16  13:54:07		Completed validations on cell conn2 of library parts_lib
-12/30/16  13:54:07		Completed saving cell conn2 in library parts_lib 
-12/30/16  13:54:11		Starting validations on cell conn2 of library parts_lib
-12/30/16  13:54:11		Completed validations on cell conn2 of library parts_lib
-12/30/16  13:54:11		Completed saving cell conn2 in library parts_lib 
-12/30/16  13:54:53		Starting validations on cell conn2 of library parts_lib
-12/30/16  13:54:53		Completed validations on cell conn2 of library parts_lib
-12/30/16  13:54:53		Completed saving cell conn2 in library parts_lib 
-12/30/16  13:54:54		Project /home/weiwei/Documents/Github/PMTPulser/pmtpulser.cpm is closed.
+01/04/17  12:02:22		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/04/17  12:02:22		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/04/17  12:02:22		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/04/17  12:02:22		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/04/17  12:20:42		Loading cell rsmd0402 from library parts_lib
+01/04/17  12:20:42		Loading view sym_1 of cell rsmd0402
+01/04/17  12:20:42		Loading view chips of cell rsmd0402
+01/04/17  12:20:42		Unable to load view vlog_model because this feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.
+01/04/17  12:20:42		Loading view part_table of cell rsmd0402
+01/04/17  12:20:42		Loading file part.ptf of PTF view part_table of cell rsmd0402
+01/04/17  12:20:42		Loading cell rsmd0402 from library parts_lib
+01/04/17  12:20:42		Analyzing view relationships of cell rsmd0402 in library parts_lib
+01/04/17  12:20:42		Completed loading cell rsmd0402 from library parts_lib
+01/04/17  12:20:42		Starting validations on cell rsmd0402 of library parts_lib
+01/04/17  12:20:42		Completed validations on cell rsmd0402 of library parts_lib
+01/04/17  12:21:40		Loading file part.ptf of PTF view part_table of cell rsmd0402
+01/04/17  12:24:41		Loading file part.ptf of PTF view part_table of cell rsmd0402
+01/04/17  13:03:55		Loading cell csmd0402 from library parts_lib
+01/04/17  13:03:55		Loading view sym_1 of cell csmd0402
+01/04/17  13:03:55		Loading view chips of cell csmd0402
+01/04/17  13:03:55		Unable to load view vlog_model because this feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.
+01/04/17  13:03:55		Loading view part_table of cell csmd0402
+01/04/17  13:03:55		Loading file part.ptf of PTF view part_table of cell csmd0402
+01/04/17  13:03:55		Loading cell csmd0402 from library parts_lib
+01/04/17  13:03:55		Analyzing view relationships of cell csmd0402 in library parts_lib
+01/04/17  13:03:55		Completed loading cell csmd0402 from library parts_lib
+01/04/17  13:03:55		Starting validations on cell csmd0402 of library parts_lib
+01/04/17  13:03:55		Completed validations on cell csmd0402 of library parts_lib
+01/04/17  13:06:24		Loading file part.ptf of PTF view part_table of cell csmd0402

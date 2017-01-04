@@ -14,9 +14,6 @@
   parts_lib bfu730f *
   page1_i14
 #CELL
-  parts_lib bfu730f *
-  page1_i16
-#CELL
   parts_lib rsmd0402 *
   page1_i17
 #CELL
@@ -110,26 +107,29 @@
   parts_lib rsmd0402 *
   page1_i52
 #CELL
-  parts_lib rsmd0402 *
-  page1_i53
-#CELL
-  parts_lib rsmd0402 *
-  page1_i54
-#CELL
   parts_lib lsmd1206 *
   page1_i56
 #CELL
-  parts_lib rsmd0402 *
-  page1_i57
+  parts_lib conn2 *
+  page1_i61
 #CELL
-  parts_lib rsmd0402 *
-  page1_i58
+  parts_lib conn2 *
+  page1_i64
 #CELL
-  parts_lib rsmd0402 *
-  page1_i59
+  parts_lib conn2 *
+  page1_i65
 #CELL
-  parts_lib rsmd0402 *
-  page1_i60
+  parts_lib conn2 *
+  page1_i66
+#CELL
+  parts_lib conn2 *
+  page1_i68
+#CELL
+  parts_lib conn2 *
+  page1_i69
+#CELL
+  parts_lib bas70_04 *
+  page1_i70
 #CELL
   parts_lib rsmd0402 *
   page1_rseries

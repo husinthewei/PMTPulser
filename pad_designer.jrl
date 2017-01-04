@@ -1,10 +1,9 @@
-\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Linux I32
-\t (00:00:00)     Journal start - Wed Dec 21 14:20:27 2016
-\t (00:00:00)         Host=alpha User=weiwei Pid=5627 CPUs=2
-\t (00:00:00) CmdLine= /cad/SPB166-lnx/tools/pcb/bin/pad_designer.exe
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Wed Jan 04 14:43:43 2017
+\t (00:00:00)         Host=HEP-PC User=HEP Pid=6316 CPUs=2
 \t (00:00:00) 
 \i (00:00:02) setwindow form.padedit
 \i (00:00:02) pse_open 
-\i (00:05:05) fillin "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols/smd143rec128.pad"
-\i (00:05:05) cd "/home/weiwei/Documents/Github/PMTPulser/libraries/symbols"
-\t (00:05:05)     Journal end - Wed Dec 21 14:25:32 2016
+\i (00:00:53) fillin "C:\Users\HEP\Documents\GitHub\PMTPulser\libraries\symbols\smd1p22x0p62mm.pad"
+\i (00:00:53) cd "C:\Users\HEP\Documents\GitHub\PMTPulser\libraries\symbols"
+\t (00:00:53)     Journal end - Wed Jan 04 14:44:36 2017
