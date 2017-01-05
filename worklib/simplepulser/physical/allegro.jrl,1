@@ -1,9 +1,9 @@
 \t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Wed Jan 04 16:22:24 2017
-\t (00:00:02)         Host=HEP-PC User=HEP Pid=6236 CPUs=2
+\t (00:00:02)     Journal start - Wed Jan 04 17:27:34 2017
+\t (00:00:02)         Host=HEP-PC User=HEP Pid=3328 CPUs=2
 \t (00:00:02) 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/RK09L.dra
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/RK09L.dra
 \t (00:00:05) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
 \i (00:00:05) trapsize 1954
 \i (00:00:05) trapsize 1902
@@ -11,76 +11,10 @@
 \i (00:00:05) trapsize 1606
 \i (00:00:06) trapsize 2097
 \i (00:00:07) generaledit 
-\t (00:00:09) last pick:  33.0103  4.6548
-\w (00:00:09) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:00:14) drag_start grid -2.4671 11.1548
-\i (00:00:15) drag_stop 16.4458 -2.8097
-\i (00:00:16) prepopup 10.8265 8.4710
-\t (00:00:18) last pick:  29.4039  8.6387
-\w (00:00:18) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\t (00:00:19) last pick:  29.4039  8.6387
-\w (00:00:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:00:19) pick grid 22.1071 7.8000
-\t (00:00:19) last pick:  22.1000  7.8000
-\i (00:00:20) pick grid 11.9587 8.3871
-\t (00:00:20) last pick:  12.0000  8.4000
-\i (00:00:21) pick grid 17.8297 6.5839
-\t (00:00:21) last pick:  17.8000  6.6000
-\i (00:00:23) pick grid 6.2555 0.7968
-\t (00:00:23) last pick:  6.3000  0.8000
-\i (00:00:24) pick grid 16.8232 -2.8516
-\t (00:00:24) last pick:  16.8000  -2.9000
-\i (00:00:25) pick grid 9.1071 0.8806
-\t (00:00:25) last pick:  9.1000  0.9000
-\i (00:00:25) pick grid 7.8491 5.4935
-\t (00:00:25) last pick:  7.8000  5.5000
-\i (00:00:26) pick grid 7.6813 5.8290
-\t (00:00:26) last pick:  7.7000  5.8000
-\i (00:00:37) prepopup 8.6458 9.3516
-\i (00:00:37) pick grid 6.1716 8.5968
-\t (00:00:37) last pick:  6.2000  8.6000
-\i (00:00:38) roam start
-\i (00:00:38) roam end
-\i (00:00:39) drag_start grid 17.8716 9.3935
-\i (00:00:39) drag_stop 20.9329 4.1097
-\i (00:00:40) pick grid 20.9329 4.1516
-\t (00:00:40) last pick:  20.9000  4.2000
-\i (00:00:40) drag_start grid 18.2071 -3.1452
-\i (00:00:40) drag_stop -7.7929 15.3064
-\i (00:00:41) pick grid -5.0251 10.4419
-\t (00:00:41) last pick:  -5.0000  10.4000
-\i (00:00:42) drag_start grid -4.6058 10.5677
-\i (00:00:42) drag_stop 13.0071 -2.2226
-\i (00:00:43) pick grid 14.2652 -1.0065
-\t (00:00:43) last pick:  14.3000  -1.0000
-\i (00:00:43) drag_start grid 17.9555 -1.0065
-\i (00:00:43) drag_stop -2.0058 15.4742
-\i (00:00:45) pick grid 2.6071 9.6032
-\t (00:00:45) last pick:  2.6000  9.6000
-\i (00:00:47) prepopup 2.3555 9.2258
-\i (00:00:54) pick grid 20.6813 11.0290
-\t (00:00:54) last pick:  20.7000  11.0000
-\i (00:00:58) pick grid 20.0103 6.8774
-\t (00:00:58) last pick:  20.0000  6.9000
-\i (00:01:01) pick grid 10.6587 7.4645
-\t (00:01:01) last pick:  10.7000  7.5000
-\i (00:01:01) prepopup 10.6587 7.4645
-\i (00:01:04) pick grid 20.0523 9.5193
-\t (00:01:04) last pick:  20.1000  9.5000
-\i (00:01:07) pick grid 9.1071 0.7129
-\t (00:01:07) last pick:  9.1000  0.7000
-\i (00:01:08) prepopup 9.1071 0.7129
-\i (00:01:10) pick grid 15.9845 2.0129
-\t (00:01:10) last pick:  16.0000  2.0000
-\i (00:01:15) pick grid 6.6329 0.6710
-\t (00:01:15) last pick:  6.6000  0.7000
-\i (00:01:15) prepopup 6.6329 0.6710
-\i (00:01:18) pick grid 14.1394 2.2645
-\t (00:01:18) last pick:  14.1000  2.3000
-\i (00:01:19) pick grid 2.9845 1.1742
-\t (00:01:19) last pick:  3.0000  1.2000
-\i (00:01:19) prepopup 3.5297 1.3000
-\i (00:01:21) pick grid 14.7265 1.3000
-\t (00:01:21) last pick:  14.7000  1.3000
-\i (00:01:30) exit 
-\t (00:01:31)     Journal end - Wed Jan 04 16:23:54 2017
+\i (00:00:11) open 
+\i (00:00:29) fillin "C:\Users\HEP\Documents\GitHub\PMTPulser\libraries\symbols\resadj.dra"
+\i (00:00:29) cd "C:\Users\HEP\Documents\GitHub\PMTPulser\libraries\symbols"
+\t (00:00:29) Opening existing design...
+\i (00:00:31) fillin yes 
+\i (00:00:31) trapsize 6
+\t (00:00:31)     Journal end - Wed Jan 04 17:28:03 2017

@@ -145,4 +145,26 @@
 		<property name="VALUE"  value="2.2UF"/>
 		<property name="VOLTAGE"  value="25V"/>
 	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="50"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="250"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="20"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="3.9K"/>
+	</component>
 </sc:shoppingCart>

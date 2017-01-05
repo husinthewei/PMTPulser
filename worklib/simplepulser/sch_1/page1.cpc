@@ -2,116 +2,41 @@
   parts_lib penn#20b#20size#20page *
   *
 #CELL
-  parts_lib csmd0402 *
-  page1_cfilt
-#CELL
-  parts_lib csmd0402 *
-  page1_cseveral
-#CELL
   parts_lib lmc555 *
   page1_i1
 #CELL
-  parts_lib bfu730f *
-  page1_i14
-#CELL
-  parts_lib rsmd0402 *
-  page1_i17
-#CELL
-  parts_lib rsmd0402 *
-  page1_i22
-#CELL
-  parts_lib rsmd0402 *
-  page1_i23
-#CELL
-  parts_lib rsmd0402 *
-  page1_i24
-#CELL
-  parts_lib rsmd0402 *
-  page1_i26
-#CELL
-  parts_lib rsmd0402 *
-  page1_i27
-#CELL
-  parts_lib rsmd0402 *
-  page1_i28
+  parts_lib csmd0402 *
+  page1_i100
 #CELL
   parts_lib csmd0402 *
-  page1_i29
+  page1_i101
+#CELL
+  parts_lib csmd0402 *
+  page1_i102
+#CELL
+  parts_lib csmd0402 *
+  page1_i103
+#CELL
+  parts_lib csmd0402 *
+  page1_i104
+#CELL
+  parts_lib csmd0402 *
+  page1_i105
+#CELL
+  parts_lib bfu730f *
+  page1_i14
 #CELL
   parts_lib adn4661 *
   page1_i3
 #CELL
   parts_lib csmd0402 *
-  page1_i30
-#CELL
-  parts_lib rsmd0402 *
-  page1_i31
-#CELL
-  parts_lib rsmd0402 *
-  page1_i32
-#CELL
-  parts_lib rsmd0402 *
-  page1_i33
-#CELL
-  parts_lib csmd0402 *
   page1_i34
-#CELL
-  parts_lib rsmd0402 *
-  page1_i35
-#CELL
-  parts_lib csmd0402 *
-  page1_i36
-#CELL
-  parts_lib rsmd0402 *
-  page1_i37
-#CELL
-  parts_lib rsmd0402 *
-  page1_i39
-#CELL
-  parts_lib rsmd0402 *
-  page1_i41
-#CELL
-  parts_lib rsmd0402 *
-  page1_i42
-#CELL
-  parts_lib csmd0402 *
-  page1_i43
-#CELL
-  parts_lib rsmd0402 *
-  page1_i44
-#CELL
-  parts_lib csmd0402 *
-  page1_i45
-#CELL
-  parts_lib rsmd0402 *
-  page1_i46
-#CELL
-  parts_lib rsmd0402 *
-  page1_i47
-#CELL
-  parts_lib rsmd0402 *
-  page1_i48
-#CELL
-  parts_lib rsmd0402 *
-  page1_i49
 #CELL
   parts_lib bfu730f *
   page1_i5
 #CELL
-  parts_lib rsmd0402 *
-  page1_i50
-#CELL
-  parts_lib rsmd0402 *
-  page1_i51
-#CELL
-  parts_lib rsmd0402 *
-  page1_i52
-#CELL
   parts_lib lsmd1206 *
   page1_i56
-#CELL
-  parts_lib conn2 *
-  page1_i61
 #CELL
   parts_lib conn2 *
   page1_i64
@@ -132,4 +57,76 @@
   page1_i70
 #CELL
   parts_lib rsmd0402 *
-  page1_rseries
+  page1_i71
+#CELL
+  parts_lib rsmd0402 *
+  page1_i72
+#CELL
+  parts_lib rsmd0402 *
+  page1_i73
+#CELL
+  parts_lib rsmd0402 *
+  page1_i74
+#CELL
+  parts_lib rsmd0402 *
+  page1_i75
+#CELL
+  parts_lib rsmd0402 *
+  page1_i76
+#CELL
+  parts_lib rsmd0402 *
+  page1_i77
+#CELL
+  parts_lib rsmd0402 *
+  page1_i78
+#CELL
+  parts_lib rsmd0402 *
+  page1_i80
+#CELL
+  parts_lib rsmd0402 *
+  page1_i81
+#CELL
+  parts_lib rsmd0402 *
+  page1_i82
+#CELL
+  parts_lib rsmd0402 *
+  page1_i84
+#CELL
+  parts_lib rsmd0402 *
+  page1_i85
+#CELL
+  parts_lib rsmd0402 *
+  page1_i86
+#CELL
+  parts_lib rsmd0402 *
+  page1_i87
+#CELL
+  parts_lib rsmd0402 *
+  page1_i88
+#CELL
+  parts_lib rsmd0402 *
+  page1_i89
+#CELL
+  parts_lib rsmd0402 *
+  page1_i90
+#CELL
+  parts_lib rsmd0402 *
+  page1_i92
+#CELL
+  parts_lib rsmd0402 *
+  page1_i94
+#CELL
+  parts_lib rsmd0402 *
+  page1_i95
+#CELL
+  parts_lib rsmd0402 *
+  page1_i96
+#CELL
+  parts_lib rsmd0402 *
+  page1_i97
+#CELL
+  parts_lib rsmd0402 *
+  page1_i98
+#CELL
+  parts_lib csmd0402 *
+  page1_i99

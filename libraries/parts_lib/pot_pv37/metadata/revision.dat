@@ -4,7 +4,7 @@
 
 		(Baselined	0)
 
-		(Revision	0.0.1)
+		(Revision	0.0.2)
 
 		(ModificationStatus	NULL)
 
@@ -24,9 +24,9 @@
 
 		(LastModifyInfo	
 
-			(Time	12/21/16,13:14:34)
+			(Time	01/04/17,20:46:19)
 
-			(User	weiwei)
+			(User	HEP)
 
 			(Path	parts_lib.pot_pv37)
 
@@ -36,77 +36,9 @@
 
 	(Views	
 
-		(View	Symbol
-
-			(RevisionInfoBlock	
-
-				(Baselined	0)
-
-				(Revision	0.0.1)
-
-				(ModificationStatus	NULL)
-
-				(Status	Modified)
-
-				(ErrorStatus	0)
-
-				(CreateInfo	
-
-					(Time	)
-
-					(User	)
-
-					(Path	)
-
-				)
-
-			)
-
-			(Symbols	1
-
-				(Symbol	sym_1
-
-					(Symbol_Type	Normal)
-
-					(Max_Size	0)
-
-					(Checksum	00000000e47028d8)
-
-					(RevisionInfoBlock	
-
-						(Baselined	0)
-
-						(Revision	0.0.1)
-
-						(ModificationStatus	NULL)
-
-						(Status	Created)
-
-						(ErrorStatus	0)
-
-						(CreateInfo	
-
-							(Time	12/21/16,12:13:30)
-
-							(User	weiwei)
-
-							(Path	parts_lib.pot_pv37)
-
-						)
-
-					)
-
-				)
-
-			)
-
-			(Checksum	000000001c0e0387)
-
-		)
-
 		(View	Chips
 
-			(Checksum	00000000610a57a7)
+			(Checksum	00000000524a58c5)
 
 			(Primitives	2
 
@@ -152,21 +84,11 @@
 
 							(FunctionGroup	1[1]
 
-								(Linkages	
-
-									(Linkage	Symbol
-
-										(Name	sym_1)
-
-									)
-
-								)
+								(Linkages	)
 
 							)
 
 						)
-
-						(Linkages	)
 
 					)
 
@@ -214,21 +136,11 @@
 
 							(FunctionGroup	1[1]
 
-								(Linkages	
-
-									(Linkage	Symbol
-
-										(Name	sym_1)
-
-									)
-
-								)
+								(Linkages	)
 
 							)
 
 						)
-
-						(Linkages	)
 
 					)
 
@@ -238,7 +150,7 @@
 
 		)
 
-		(Checksum	000000001c4503b3)
+		(Checksum	000000001b6a0382)
 
 	)
 
@@ -246,13 +158,13 @@
 
 		(ToolName	PDV)
 
-		(Version	16.6-S051 (v16-6-112ED))
+		(Version	16.6-p001 (v16-6-112A))
 
 		(License	PCB_librarian_expert)
 
 	)
 
-	(Checksum	000000001b9e0376)
+	(Checksum	000000001c2a0378)
 
 )
 

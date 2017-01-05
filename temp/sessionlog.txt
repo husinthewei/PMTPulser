@@ -1,29 +1,18 @@
-01/04/17  12:02:22		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/04/17  12:02:22		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/04/17  12:02:22		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/04/17  12:02:22		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/04/17  12:20:42		Loading cell rsmd0402 from library parts_lib
-01/04/17  12:20:42		Loading view sym_1 of cell rsmd0402
-01/04/17  12:20:42		Loading view chips of cell rsmd0402
-01/04/17  12:20:42		Unable to load view vlog_model because this feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.
-01/04/17  12:20:42		Loading view part_table of cell rsmd0402
-01/04/17  12:20:42		Loading file part.ptf of PTF view part_table of cell rsmd0402
-01/04/17  12:20:42		Loading cell rsmd0402 from library parts_lib
-01/04/17  12:20:42		Analyzing view relationships of cell rsmd0402 in library parts_lib
-01/04/17  12:20:42		Completed loading cell rsmd0402 from library parts_lib
-01/04/17  12:20:42		Starting validations on cell rsmd0402 of library parts_lib
-01/04/17  12:20:42		Completed validations on cell rsmd0402 of library parts_lib
-01/04/17  12:21:40		Loading file part.ptf of PTF view part_table of cell rsmd0402
-01/04/17  12:24:41		Loading file part.ptf of PTF view part_table of cell rsmd0402
-01/04/17  13:03:55		Loading cell csmd0402 from library parts_lib
-01/04/17  13:03:55		Loading view sym_1 of cell csmd0402
-01/04/17  13:03:55		Loading view chips of cell csmd0402
-01/04/17  13:03:55		Unable to load view vlog_model because this feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.
-01/04/17  13:03:55		Loading view part_table of cell csmd0402
-01/04/17  13:03:55		Loading file part.ptf of PTF view part_table of cell csmd0402
-01/04/17  13:03:55		Loading cell csmd0402 from library parts_lib
-01/04/17  13:03:55		Analyzing view relationships of cell csmd0402 in library parts_lib
-01/04/17  13:03:55		Completed loading cell csmd0402 from library parts_lib
-01/04/17  13:03:55		Starting validations on cell csmd0402 of library parts_lib
-01/04/17  13:03:55		Completed validations on cell csmd0402 of library parts_lib
-01/04/17  13:06:24		Loading file part.ptf of PTF view part_table of cell csmd0402
+01/04/17  21:45:32		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/04/17  21:45:32		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/04/17  21:45:32		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/04/17  21:45:32		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/04/17  21:45:46		Loading cell trimpot from library parts_lib
+01/04/17  21:45:46		Loading view sym_13 of cell trimpot
+01/04/17  21:45:46		Loading view sym_1 of cell trimpot
+01/04/17  21:45:46		Loading view chips of cell trimpot
+01/04/17  21:45:46		Loading view vlog_map of cell trimpot
+01/04/17  21:45:46		File verilog.v does not exist. Check the filename and location.
+01/04/17  21:45:46		Loading view entity of cell trimpot
+01/04/17  21:45:46		Loading cell trimpot from library parts_lib
+01/04/17  21:45:46		Analyzing view relationships of cell trimpot in library parts_lib
+01/04/17  21:45:46		Completed loading cell trimpot from library parts_lib
+01/04/17  21:45:46		Starting validations on cell trimpot of library parts_lib
+01/04/17  21:45:46		BODY_NAME property does not exist in package TRIMPOT. Since backannotation will not work without this property, it will be written automatically when the cell is saved.
+01/04/17  21:45:46		Completed validations on cell trimpot of library parts_lib
+01/04/17  21:46:11		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.

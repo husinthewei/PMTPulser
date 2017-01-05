@@ -1,27 +1,14 @@
 All parts are in parts lib
-BAS70-04
-
-Not Made Yet
-
-
-Waiting
-
-Rk09L1140A2U (Pot) (How do this type of package)? (manually)
-LTC2050 (amplifier)__(tsot23-5 how interpret) (USE LEFT)
-HFAPNP (transistor array) (which HFA?) (emailed mike)
 
 Mostly Made
 BFR182(transistor)
 LMC555 (Timer) _____S-PDSO-G8 (made)
 ADN4661 (LVDS)
+Rk09L1140A2U (Pot) (How do this type of package)? (manually)
+LTC2050 (amplifier)__(tsot23-5 how interpret) (USE LEFT)
+HFAPNP (transistor array) (which HFA?) (emailed mike)
+BAS70-04
 
 Made Already
 bfu730f(transistor)
 Bourns PV37 style 10k Trim Pot (manually) PV37W103C01B00  (TRIMPOT)
-
-
-Vals
-2.2n
-10n
-2.2u
-40p

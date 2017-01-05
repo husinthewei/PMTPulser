@@ -1,0 +1,44 @@
+
+Log File Report from Page Management Commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Design             :   @pmtpulser_lib.simplepulser(sch_1)
+Current Page List          :   1-2
+Current Total Pages        :   2
+Current Active Page        :   2
+
+
+
+Jan 05 10:18:09 2017
+
+---------------------------------------------
+Command:   Page Delete
+
+   Pages to Delete         :   2
+   Retain Page Gaps        :   No
+
+
+Details:   Page Delete
+
+    1. Page Edit       1  
+    2. Page Delete     2  
+
+
+Results:   Page Delete
+
+   Ending Page List        :   1
+   Ending Total Pages      :   1
+   Active Page             :   1
+
+
+---------------------------------------------
+Summary:
+
+    Status                 :  Successful Completion!
+    Initial Page Count     :  2
+    Final Page Count       :  1
+
+    Start Time             :  Jan 05 10:18:09 2017
+    End Time               :  Jan 05 10:18:10 2017
+    Elapsed Time           :  00:00:01  (hrs:min:sec)
+
