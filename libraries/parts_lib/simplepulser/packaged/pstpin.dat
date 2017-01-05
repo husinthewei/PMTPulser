@@ -1,0 +1,22 @@
+FILE_TYPE=PINLIST;
+{ Packager-XL run on 22-Dec-2016 AT 14:28:11 }
+TIME=' COMPILATION ON 22-Dec-2016 AT 14:28:11';
+primitive '100EL05';     body '100EL05';
+    'IN1*':'(2)';IN;
+    'IN1':'(1)';IN;
+    'OUT':'(7)';OUT;
+    'OUT*':'(6)';OUT;
+    'IN2*':'(4)';IN;
+    'IN2':'(3)';IN;
+end_primitive;
+primitive 'LMC555';      body 'LMC555';
+    'GND':'(1)';
+    'TRIG':'(2)';
+    'OUT':'(3)';
+    'RES':'(4)';
+    'CTRL':'(5)';
+    'THRESH':'(6)';
+    'DISCH':'(7)';
+    'V+':'(8)';
+end_primitive;
+END.

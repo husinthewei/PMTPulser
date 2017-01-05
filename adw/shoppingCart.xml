@@ -197,4 +197,9 @@
 		<property name="TOL"  value="5%"/>
 		<property name="VALUE"  value="111"/>
 	</component>
+	<component cell="lsmd1206" library="parts_lib" partname="LSMD1206" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="1206"/>
+		<property name="TOL"  value="10%"/>
+		<property name="VALUE"  value="20UH"/>
+	</component>
 </sc:shoppingCart>

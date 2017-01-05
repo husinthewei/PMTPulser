@@ -1,0 +1,14 @@
+FILE_TYPE=PINLIST;
+{ Packager-XL run on 22-Dec-2016 AT 13:30:20 }
+TIME=' COMPILATION ON 22-Dec-2016 AT 13:30:20';
+primitive 'LMC555';      body 'LMC555';
+    'GND':'(1)';
+    'TRIG':'(2)';
+    'OUT':'(3)';
+    'RES':'(4)';
+    'CTRL':'(5)';
+    'THRESH':'(6)';
+    'DISCH':'(7)';
+    'V':'(8)';
+end_primitive;
+END.
