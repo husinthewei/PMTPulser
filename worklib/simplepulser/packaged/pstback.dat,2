@@ -1,7 +1,32 @@
-{ Packager-XL run on 22-Dec-2016 AT 14:24:57 }
+{ Packager-XL run on 22-Dec-2016 AT 14:26:35 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page1";
 BODY = "LMC555","I1": LOCATION = "U1" #&CDS_LOCATION = "U1" &SEC = "1" #&CDS_SEC = "1";
+"CTRL":   PN = "5"  !CDS_PN = "5";
+"DISCH":   PN = "7"  !CDS_PN = "7";
+"GND":   PN = "1"  !CDS_PN = "1";
+"OUT":   PN = "3"  !CDS_PN = "3";
+"RES":   PN = "4"  !CDS_PN = "4";
+"THRESH":   PN = "6"  !CDS_PN = "6";
+"TRIG":   PN = "2"  !CDS_PN = "2";
+"V+":   PN = "8"  !CDS_PN = "8";
+BODY = "100EL05","I2": LOCATION = "U3" #&CDS_LOCATION = "U3" &SEC = "1" #&CDS_SEC = "1";
+"IN1":   PN = "1"  !CDS_PN = "1";
+"IN1*":   PN = "2"  !CDS_PN = "2";
+"IN2":   PN = "3"  !CDS_PN = "3";
+"IN2*":   PN = "4"  !CDS_PN = "4";
+"OUT":   PN = "7"  !CDS_PN = "7";
+"OUT*":   PN = "6"  !CDS_PN = "6";
+BODY = "LMC555","I3": LOCATION = "U4" #&CDS_LOCATION = "U4" &SEC = "1" #&CDS_SEC = "1";
+"CTRL":   PN = "5"  !CDS_PN = "5";
+"DISCH":   PN = "7"  !CDS_PN = "7";
+"GND":   PN = "1"  !CDS_PN = "1";
+"OUT":   PN = "3"  !CDS_PN = "3";
+"RES":   PN = "4"  !CDS_PN = "4";
+"THRESH":   PN = "6"  !CDS_PN = "6";
+"TRIG":   PN = "2"  !CDS_PN = "2";
+"V+":   PN = "8"  !CDS_PN = "8";
+BODY = "LMC555","I4": LOCATION = "U2" #&CDS_LOCATION = "U2" &SEC = "1" #&CDS_SEC = "1";
 "CTRL":   PN = "5"  !CDS_PN = "5";
 "DISCH":   PN = "7"  !CDS_PN = "7";
 "GND":   PN = "1"  !CDS_PN = "1";

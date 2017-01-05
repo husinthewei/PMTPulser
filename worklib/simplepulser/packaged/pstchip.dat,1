@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 22-Dec-2016 AT 13:30:20 }
+{ Packager-XL run on 22-Dec-2016 AT 14:24:57 }
 primitive 'LMC555';
   pin
     'GND':
@@ -65,7 +65,7 @@ primitive 'LMC555';
       NO_DIR_CHECK='TRUE';
       ALLOW_CONNECT='TRUE';
       PINUSE='UNSPEC';
-    'V':
+    'V+':
       PIN_NUMBER='(8)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';

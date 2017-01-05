@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 114 )
+			( logicalViewRevNum 120 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -357,14 +357,8 @@
 			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_thresh"
 				( objectStatus "unnamed_1_lmc555_i1_thresh" )
 			)
-			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i56_b"
-				( objectStatus "unnamed_1_lsmd1206_i56_b" )
-			)
 			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i78_2"
 				( objectStatus "unnamed_1_rsmd0402_i78_2" )
-			)
-			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i106_2"
-				( objectStatus "unnamed_1_rsmd0402_i106_2" )
 			)
 			( signal "@pmtpulser_lib.simplepulser(sch_1):vcc"
 				( attribute "PHYS_NET_NAME" "VCC"
@@ -515,6 +509,12 @@
 			)
 			( signal "@pmtpulser_lib.simplepulser(sch_1):out_9"
 				( objectStatus "out_9" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i87_2"
+				( objectStatus "unnamed_1_rsmd0402_i87_2" )
+			)
+			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b"
+				( objectStatus "unnamed_1_lsmd1206_i107_b" )
 			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i66"
 				( attribute "CDS_LIB" "parts_lib"
@@ -1148,7 +1148,7 @@
 					( Units "uVoltage" "V" 1.000000)
 					( Origin gFrontEnd )
 				)
-				( attribute "XY" "(-3600,5950)"
+				( attribute "XY" "(-3650,5950)"
 					( Origin gFrontEnd )
 				)
 				( attribute "CHIPS_PART_NAME" "RSMD0402"
@@ -1235,74 +1235,6 @@
 					( Origin gPackager )
 				)
 				( objectStatus "PAGE1_I78" )
-				( pin "\1\"
-				)
-				( pin "\2\"
-				)
-			)
-			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i71"
-				( attribute "CDS_LIB" "parts_lib"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LMAN_SYM_OUTLINE" "0,25,100,-25"
-					( Origin gPackager )
-				)
-				( attribute "DIST" "FLAT"
-					( Origin gFrontEnd )
-				)
-				( attribute "IC" "UNDEF"
-					( Origin gFrontEnd )
-				)
-				( attribute "MAX_TEMP" "RTMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEEDS_NO_SIZE" "TRUE"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEGTOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "PHYS_PAGE" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "POWER" "0.1"
-					( Origin gFrontEnd )
-				)
-				( attribute "ROT" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "SLOPE" "RSMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC1" "RTMPL"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC2" "RTMPO"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL_ON_OFF" "ON"
-					( Origin gFrontEnd )
-				)
-				( attribute "VALUE" "50"
-					( Origin gFrontEnd )
-				)
-				( attribute "VER" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "VOLTAGE" "25V"
-					( Units "uVoltage" "V" 1.000000)
-					( Origin gFrontEnd )
-				)
-				( attribute "XY" "(-6750,4250)"
-					( Origin gFrontEnd )
-				)
-				( attribute "CHIPS_PART_NAME" "RSMD0402"
-					( Origin gPackager )
-				)
-				( objectStatus "PAGE1_I71" )
 				( pin "\1\"
 				)
 				( pin "\2\"
@@ -2590,67 +2522,6 @@
 				( pin "\1\"
 				)
 				( pin "\2\"
-				)
-			)
-			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i56"
-				( attribute "CDS_LIB" "parts_lib"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LMAN_SYM_OUTLINE" "-100,25,50,0"
-					( Origin gPackager )
-				)
-				( attribute "CURRENT" "LMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "DIELECTRIC" "DSMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "DIST" "FLAT"
-					( Origin gFrontEnd )
-				)
-				( attribute "IC" "UNDEF"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEGTOL" "10%"
-					( Origin gFrontEnd )
-				)
-				( attribute "PACKTYPE" "0805"
-					( Origin gFrontEnd )
-				)
-				( attribute "PHYS_PAGE" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "POSTOL" "10%"
-					( Origin gFrontEnd )
-				)
-				( attribute "ROT" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL" "10%"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL_ON_OFF" "ON"
-					( Origin gFrontEnd )
-				)
-				( attribute "VAL" "20UH"
-					( Origin gFrontEnd )
-				)
-				( attribute "VALUE" "0.09UH"
-					( Origin gFrontEnd )
-				)
-				( attribute "VER" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "XY" "(-2500,6000)"
-					( Origin gFrontEnd )
-				)
-				( attribute "CHIPS_PART_NAME" "LSMD1206"
-					( Origin gPackager )
-				)
-				( objectStatus "PAGE1_I56" )
-				( pin "a(0)"
-				)
-				( pin "b(0)"
 				)
 			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i99"
@@ -6691,83 +6562,6 @@
 				( pin "\2\"
 				)
 			)
-			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i106"
-				( attribute "CDS_LIB" "parts_lib"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LMAN_SYM_OUTLINE" "0,25,100,-25"
-					( Origin gPackager )
-				)
-				( attribute "DIST" "FLAT"
-					( Origin gFrontEnd )
-				)
-				( attribute "IC" "UNDEF"
-					( Origin gFrontEnd )
-				)
-				( attribute "MAX_TEMP" "RTMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEEDS_NO_SIZE" "TRUE"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEGTOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "PACKTYPE" "0402"
-					( Origin gFrontEnd )
-				)
-				( attribute "PACK_TYPE" "R0402"
-					( Origin gFrontEnd )
-				)
-				( attribute "PHYS_PAGE" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "POWER" "0.1"
-					( Origin gFrontEnd )
-				)
-				( attribute "ROT" "0"
-					( Origin gFrontEnd )
-				)
-				( attribute "SLOPE" "RSMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC1" "RTMPL"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC2" "RTMPO"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL_ON_OFF" "ON"
-					( Origin gFrontEnd )
-				)
-				( attribute "VALUE" "100"
-					( Origin gFrontEnd )
-				)
-				( attribute "VER" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "VOLTAGE" "25V"
-					( Units "uVoltage" "V" 1.000000)
-					( Origin gFrontEnd )
-				)
-				( attribute "XY" "(-2300,5850)"
-					( Origin gFrontEnd )
-				)
-				( attribute "CHIPS_PART_NAME" "RSMD0402"
-					( Origin gPackager )
-				)
-				( attribute "CDS_PART_NAME" "RSMD0402_R0402-100,5%,0402"
-					( Origin gPackager )
-				)
-				( objectStatus "PAGE1_I106" )
-				( pin "\1\"
-				)
-				( pin "\2\"
-				)
-			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i101"
 				( attribute "CDS_LIB" "parts_lib"
 					( Origin gPackager )
@@ -6857,6 +6651,135 @@
 					( Origin gPackager )
 				)
 				( objectStatus "PAGE1_I105" )
+				( pin "a(0)"
+				)
+				( pin "b(0)"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i71"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "0,25,100,-25"
+					( Origin gPackager )
+				)
+				( attribute "DIST" "FLAT"
+					( Origin gFrontEnd )
+				)
+				( attribute "IC" "UNDEF"
+					( Origin gFrontEnd )
+				)
+				( attribute "MAX_TEMP" "RTMAX"
+					( Origin gFrontEnd )
+				)
+				( attribute "NEEDS_NO_SIZE" "TRUE"
+					( Origin gFrontEnd )
+				)
+				( attribute "NEGTOL" "5%"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "POWER" "0.1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "SLOPE" "RSMAX"
+					( Origin gFrontEnd )
+				)
+				( attribute "TC1" "RTMPL"
+					( Origin gFrontEnd )
+				)
+				( attribute "TC2" "RTMPO"
+					( Origin gFrontEnd )
+				)
+				( attribute "TOL" "5%"
+					( Origin gFrontEnd )
+				)
+				( attribute "TOL_ON_OFF" "ON"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "50"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "VOLTAGE" "25V"
+					( Units "uVoltage" "V" 1.000000)
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-6750,4250)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "RSMD0402"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I71" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i107"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-100,25,50,0"
+					( Origin gPackager )
+				)
+				( attribute "CURRENT" "LMAX"
+					( Origin gFrontEnd )
+				)
+				( attribute "DIELECTRIC" "DSMAX"
+					( Origin gFrontEnd )
+				)
+				( attribute "DIST" "FLAT"
+					( Origin gFrontEnd )
+				)
+				( attribute "IC" "UNDEF"
+					( Origin gFrontEnd )
+				)
+				( attribute "NEGTOL" "10%"
+					( Origin gFrontEnd )
+				)
+				( attribute "PACKTYPE" "1206"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "POSTOL" "10%"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "TOL" "10%"
+					( Origin gFrontEnd )
+				)
+				( attribute "TOL_ON_OFF" "ON"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "20UH"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-2500,6000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "LSMD1206"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "LSMD1206-20UH,10%,1206"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I107" )
 				( pin "a(0)"
 				)
 				( pin "b(0)"

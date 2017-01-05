@@ -1,0 +1,593 @@
+( ConstraintFile "pmtpulser"
+	( constraintHeader
+		( objectKey
+			( physical )
+		)
+		( version
+			( 16.6 )
+		)
+		( revisionNumber
+			( logicalViewRevNum 123 )
+			( physicalViewRevNum 0 )
+			( otherViewRevNum 0 )
+		)
+		( contents
+			( dictionaryExtensions )
+			( worksheetCustomizations )
+			( electricalConstraints )
+			( netClasses )
+			( properties )
+		)
+		( precision
+			( units mil )
+			( numberOfDecimalPlaces 2 )
+		)
+	)
+	( DictionaryExtensions
+	)
+	( designConstraints
+		( ruleChanges
+			( allRules )
+			( design "pmtpulser"
+			)
+			( signal "EXTERNALTRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\external trig\" )
+			)
+			( signal "GND"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):gnd" )
+			)
+			( signal "PAGE2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2" )
+			)
+			( signal "SCOPETRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\scope trig\" )
+			)
+			( signal "SELFTRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\self trig\" )
+			)
+			( signal "TSTPLS"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):tstpls" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DIN"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_din" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DOUT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_dout" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DOUT_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_dout_1" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_VCC"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_vcc" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_1" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_2" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_4" )
+			)
+			( signal "UNNAMED_1_BFU730F_I5_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_1" )
+			)
+			( signal "UNNAMED_1_BFU730F_I5_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_2" )
+			)
+			( signal "UNNAMED_1_CONN2_I69_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_conn2_i69_1" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I34_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i34_b" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_DISCH"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_disch" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_RES"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_res" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_THRESH"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_thresh" )
+			)
+			( signal "UNNAMED_1_RSMD0402_I78_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i78_2" )
+			)
+			( signal "VCC"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):vcc" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I102_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i102_b" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I103_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i103_b" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I104_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i104_a" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I104_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i104_b" )
+			)
+			( signal "UNNAMED_2_BFR182_I1_BASE"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_bfr182_i1_base" )
+			)
+			( signal "UNNAMED_2_BFR182_I1_EMIT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_bfr182_i1_emit" )
+			)
+			( signal "UNNAMED_2_CSMD0402_I3_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_csmd0402_i3_b" )
+			)
+			( signal "UNNAMED_2_CONN2_I9_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i9_2" )
+			)
+			( signal "UNNAMED_2_CONN2_I16_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i16_2" )
+			)
+			( signal "UNNAMED_2_CSMD0402_I13_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_csmd0402_i13_b" )
+			)
+			( signal "VREFIN"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):vrefin" )
+			)
+			( signal "UNNAMED_2_CONN2_I22_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i22_1" )
+			)
+			( signal "UNNAMED_2_CONN2_I23_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i23_1" )
+			)
+			( signal "UNNAMED_2_RK09L_I20_T2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_rk09l_i20_t2" )
+			)
+			( signal "UNNAMED_2_RSMD0402_I11_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_rsmd0402_i11_1" )
+			)
+			( signal "UNNAMED_2_CONN2_I22_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i22_2" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I105_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i105_a" )
+			)
+			( signal "OUT_5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_5" )
+			)
+			( signal "OUT_4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_4" )
+			)
+			( signal "OUT_3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_3" )
+			)
+			( signal "OUT_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_2" )
+			)
+			( signal "OUT_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b2" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b3" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b4" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b5" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b2" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b3" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b4" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b5" )
+			)
+			( signal "UNNAMED_3_CONN2_I38_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i38_1" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I101_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i101_a" )
+			)
+			( signal "UNNAMED_3_CONN2_I49_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i49_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I52_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i52_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I55_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i55_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I58_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i58_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I61_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i61_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I64_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i64_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I67_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i67_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I70_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i70_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I73_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i73_1" )
+			)
+			( signal "OUT_10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_10" )
+			)
+			( signal "OUT_6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_6" )
+			)
+			( signal "OUT_7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_7" )
+			)
+			( signal "OUT_8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_8" )
+			)
+			( signal "OUT_9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_9" )
+			)
+			( signal "UNNAMED_1_RSMD0402_I87_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i87_2" )
+			)
+			( signal "UNNAMED_1_LSMD1206_I107_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b" )
+			)
+			( gate "J1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66" )
+			)
+			( gate "J5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i65" )
+			)
+			( gate "J2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i69" )
+			)
+			( gate "J3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i64" )
+			)
+			( gate "J4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i68" )
+			)
+			( gate "R4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i72" )
+			)
+			( gate "R3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i73" )
+			)
+			( gate "R2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i74" )
+			)
+			( gate "R5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i75" )
+			)
+			( gate "R6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i76" )
+			)
+			( gate "R7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i77" )
+			)
+			( gate "R10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i78" )
+			)
+			( gate "R14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i81" )
+			)
+			( gate "R18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i82" )
+			)
+			( gate "R24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i90" )
+			)
+			( gate "R11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i86" )
+			)
+			( gate "R22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i87" )
+			)
+			( gate "R21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i88" )
+			)
+			( gate "R23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i89" )
+			)
+			( gate "R8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i85" )
+			)
+			( gate "R15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i92" )
+			)
+			( gate "R12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i94" )
+			)
+			( gate "R17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i95" )
+			)
+			( gate "R13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i96" )
+			)
+			( gate "U1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1" )
+			)
+			( gate "U2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3" )
+			)
+			( gate "U4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5" )
+			)
+			( gate "U5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14" )
+			)
+			( gate "C1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34" )
+			)
+			( gate "R19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98" )
+			)
+			( gate "R20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i97" )
+			)
+			( gate "C4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i99" )
+			)
+			( gate "C2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i100" )
+			)
+			( gate "C6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i102" )
+			)
+			( gate "C8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i103" )
+			)
+			( gate "C7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i104" )
+			)
+			( gate "R9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i84" )
+			)
+			( gate "U8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i1" )
+			)
+			( gate "U7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2" )
+			)
+			( gate "C10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i3" )
+			)
+			( gate "R26"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i19" )
+			)
+			( gate "R33"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i5" )
+			)
+			( gate "R31"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i7" )
+			)
+			( gate "R32"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i8" )
+			)
+			( gate "J10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i9" )
+			)
+			( gate "R28"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i10" )
+			)
+			( gate "R25"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i11" )
+			)
+			( gate "R29"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i12" )
+			)
+			( gate "C9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i13" )
+			)
+			( gate "R30"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i15" )
+			)
+			( gate "J9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i16" )
+			)
+			( gate "J8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i18" )
+			)
+			( gate "U6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20" )
+			)
+			( gate "R27"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i21" )
+			)
+			( gate "J6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i22" )
+			)
+			( gate "J7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i23" )
+			)
+			( gate "R36"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i1" )
+			)
+			( gate "R51"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i2" )
+			)
+			( gate "R50"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i3" )
+			)
+			( gate "R35"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i4" )
+			)
+			( gate "J22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i49" )
+			)
+			( gate "R34"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i7" )
+			)
+			( gate "J21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i38" )
+			)
+			( gate "C11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i35" )
+			)
+			( gate "U9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11" )
+			)
+			( gate "R44"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i12" )
+			)
+			( gate "R46"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i13" )
+			)
+			( gate "R47"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i14" )
+			)
+			( gate "R41"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i15" )
+			)
+			( gate "R40"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i16" )
+			)
+			( gate "R52"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i17" )
+			)
+			( gate "R48"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i18" )
+			)
+			( gate "R53"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i19" )
+			)
+			( gate "R49"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i20" )
+			)
+			( gate "R45"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i21" )
+			)
+			( gate "R37"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i22" )
+			)
+			( gate "R42"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i23" )
+			)
+			( gate "R38"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i24" )
+			)
+			( gate "U10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25" )
+			)
+			( gate "R43"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i26" )
+			)
+			( gate "R39"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i27" )
+			)
+			( gate "C12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i51" )
+			)
+			( gate "J23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i52" )
+			)
+			( gate "C13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i54" )
+			)
+			( gate "J24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i55" )
+			)
+			( gate "C14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i57" )
+			)
+			( gate "J25"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i58" )
+			)
+			( gate "C15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i60" )
+			)
+			( gate "J26"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i61" )
+			)
+			( gate "C16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i63" )
+			)
+			( gate "J27"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i64" )
+			)
+			( gate "C17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i66" )
+			)
+			( gate "J28"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i67" )
+			)
+			( gate "C18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i69" )
+			)
+			( gate "J29"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i70" )
+			)
+			( gate "C19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i72" )
+			)
+			( gate "J30"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i73" )
+			)
+			( gate "J13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i86" )
+			)
+			( gate "C20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i75" )
+			)
+			( gate "J11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i76" )
+			)
+			( gate "J12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i77" )
+			)
+			( gate "J14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i79" )
+			)
+			( gate "J15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i80" )
+			)
+			( gate "J16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i81" )
+			)
+			( gate "J17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i82" )
+			)
+			( gate "J18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i83" )
+			)
+			( gate "J19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i84" )
+			)
+			( gate "J20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i85" )
+			)
+			( gate "R16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i108" )
+			)
+			( gate "C3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i101" )
+			)
+			( gate "C5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i105" )
+			)
+			( gate "R1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i109" )
+			)
+			( gate "L1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107" )
+			)
+			( gate "U3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110" )
+			)
+		)
+	)
+)

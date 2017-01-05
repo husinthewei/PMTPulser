@@ -23,8 +23,17 @@
   parts_lib csmd0402 *
   page1_i105
 #CELL
+  parts_lib lsmd1206 *
+  page1_i107
+#CELL
   parts_lib rsmd0402 *
-  page1_i106
+  page1_i108
+#CELL
+  parts_lib rsmd0402 *
+  page1_i109
+#CELL
+  parts_lib bas70 *
+  page1_i110
 #CELL
   parts_lib bfu730f *
   page1_i14
@@ -37,9 +46,6 @@
 #CELL
   parts_lib bfu730f *
   page1_i5
-#CELL
-  parts_lib lsmd1206 *
-  page1_i56
 #CELL
   parts_lib conn2 *
   page1_i64
@@ -55,12 +61,6 @@
 #CELL
   parts_lib conn2 *
   page1_i69
-#CELL
-  parts_lib bas70_04 *
-  page1_i70
-#CELL
-  parts_lib rsmd0402 *
-  page1_i71
 #CELL
   parts_lib rsmd0402 *
   page1_i72

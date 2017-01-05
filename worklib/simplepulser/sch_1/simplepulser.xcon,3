@@ -5,15 +5,15 @@
     <schemaVersion>16.6</schemaVersion>
     <creatorTool>concepthdl</creatorTool>
     <modifierTool>concepthdl</modifierTool>
-    <modificationTime>2017-01-05T16:13:51</modificationTime>
+    <modificationTime>2017-01-05T16:36:41</modificationTime>
     <savedLibrary>pmtpulser_lib</savedLibrary>
   </header>
   <designs>
     <design schemaType="nameBased" name="simplepulser" view="sch_1">
       <lastids>
-        <instanceid>533</instanceid>
-        <netid>234</netid>
-        <insttermid>1185</insttermid>
+        <instanceid>540</instanceid>
+        <netid>238</netid>
+        <insttermid>1199</insttermid>
       </lastids>
       <cells>
         <cell>
@@ -756,12 +756,12 @@
           <name>unnamed_1_csmd0402_i105_a</name>
         </net>
         <net>
-          <id>N233</id>
-          <name>unnamed_1_lsmd1206_i106_b</name>
+          <id>N237</id>
+          <name>unnamed_1_lsmd1206_i107_b</name>
         </net>
         <net>
-          <id>N234</id>
-          <name>unnamed_1_rsmd0402_i80_2</name>
+          <id>N238</id>
+          <name>unnamed_1_rsmd0402_i87_2</name>
         </net>
       </nets>
       <aliases>
@@ -930,7 +930,7 @@
               <id>M755</id>
               <termid>T30</termid>
               <connections>
-                <connection net="N233" />
+                <connection net="N237" />
               </connections>
             </pin>
             <pin>
@@ -965,7 +965,7 @@
               <id>M757</id>
               <termid>T30</termid>
               <connections>
-                <connection net="N233" />
+                <connection net="N237" />
               </connections>
             </pin>
             <pin>
@@ -1007,7 +1007,7 @@
               <id>M770</id>
               <termid>T31</termid>
               <connections>
-                <connection net="N234" />
+                <connection net="N238" />
               </connections>
             </pin>
           </pins>
@@ -1035,7 +1035,7 @@
               <id>M771</id>
               <termid>T30</termid>
               <connections>
-                <connection net="N234" />
+                <connection net="N238" />
               </connections>
             </pin>
             <pin>
@@ -5108,79 +5108,9 @@
           </portinterfaces>
         </instance>
         <instance>
-          <id>I531</id>
-          <cellid>S7</cellid>
-          <name>page1_i71</name>
-          <parameters>
-          </parameters>
-          <masks>
-          </masks>
-          <powers>
-          </powers>
-          <pins>
-            <pin>
-              <id>M1180</id>
-              <termid>T30</termid>
-              <connections>
-                <connection net="N137" />
-              </connections>
-            </pin>
-            <pin>
-              <id>M1181</id>
-              <termid>T31</termid>
-              <connections>
-                <connection net="N151" />
-              </connections>
-            </pin>
-          </pins>
-          <differentialpins>
-          </differentialpins>
-          <differentialbuspins>
-          </differentialbuspins>
-          <portgroups>
-          </portgroups>
-          <portinterfaces>
-          </portinterfaces>
-        </instance>
-        <instance>
-          <id>I532</id>
-          <cellid>S7</cellid>
-          <name>page1_i80</name>
-          <parameters>
-          </parameters>
-          <masks>
-          </masks>
-          <powers>
-          </powers>
-          <pins>
-            <pin>
-              <id>M1182</id>
-              <termid>T30</termid>
-              <connections>
-                <connection net="N144" />
-              </connections>
-            </pin>
-            <pin>
-              <id>M1183</id>
-              <termid>T31</termid>
-              <connections>
-                <connection net="N234" />
-              </connections>
-            </pin>
-          </pins>
-          <differentialpins>
-          </differentialpins>
-          <differentialbuspins>
-          </differentialbuspins>
-          <portgroups>
-          </portgroups>
-          <portinterfaces>
-          </portinterfaces>
-        </instance>
-        <instance>
-          <id>I533</id>
+          <id>I538</id>
           <cellid>S11</cellid>
-          <name>page1_i106</name>
+          <name>page1_i107</name>
           <parameters>
           </parameters>
           <masks>
@@ -5189,7 +5119,7 @@
           </powers>
           <pins>
             <pin>
-              <id>M1184</id>
+              <id>M1194</id>
               <termid>T37</termid>
               <msb>0</msb>
               <lsb>0</lsb>
@@ -5198,12 +5128,82 @@
               </connections>
             </pin>
             <pin>
-              <id>M1185</id>
+              <id>M1195</id>
               <termid>T38</termid>
               <msb>0</msb>
               <lsb>0</lsb>
               <connections>
-                <connection pinmsb="0" pinlsb="0" net="N233" />
+                <connection pinmsb="0" pinlsb="0" net="N237" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
+        <instance>
+          <id>I539</id>
+          <cellid>S7</cellid>
+          <name>page1_i108</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1196</id>
+              <termid>T30</termid>
+              <connections>
+                <connection net="N144" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M1197</id>
+              <termid>T31</termid>
+              <connections>
+                <connection net="N238" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
+        <instance>
+          <id>I540</id>
+          <cellid>S7</cellid>
+          <name>page1_i109</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1198</id>
+              <termid>T30</termid>
+              <connections>
+                <connection net="N137" />
+              </connections>
+            </pin>
+            <pin>
+              <id>M1199</id>
+              <termid>T31</termid>
+              <connections>
+                <connection net="N151" />
               </connections>
             </pin>
           </pins>
@@ -5257,9 +5257,9 @@
               <net ref="unnamed_1_lmc555_i1_disch"></net>
               <net ref="unnamed_1_lmc555_i1_res"></net>
               <net ref="unnamed_1_lmc555_i1_thresh"></net>
-              <net ref="unnamed_1_lsmd1206_i106_b"></net>
+              <net ref="unnamed_1_lsmd1206_i107_b"></net>
               <net ref="unnamed_1_rsmd0402_i78_2"></net>
-              <net ref="unnamed_1_rsmd0402_i80_2"></net>
+              <net ref="unnamed_1_rsmd0402_i87_2"></net>
               <net ref="vcc"></net>
             </nets>
             <instances>
@@ -5274,7 +5274,6 @@
               <instance ref="i68"></instance>
               <instance ref="i69"></instance>
               <instance ref="i70"></instance>
-              <instance ref="i71"></instance>
               <instance ref="i72"></instance>
               <instance ref="i73"></instance>
               <instance ref="i74"></instance>
@@ -5282,7 +5281,6 @@
               <instance ref="i76"></instance>
               <instance ref="i77"></instance>
               <instance ref="i78"></instance>
-              <instance ref="i80"></instance>
               <instance ref="i81"></instance>
               <instance ref="i82"></instance>
               <instance ref="i84"></instance>
@@ -5305,7 +5303,9 @@
               <instance ref="i103"></instance>
               <instance ref="i104"></instance>
               <instance ref="i105"></instance>
-              <instance ref="i106"></instance>
+              <instance ref="i107"></instance>
+              <instance ref="i108"></instance>
+              <instance ref="i109"></instance>
             </instances>
           </page>
           <page number="2">

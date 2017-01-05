@@ -1,0 +1,11 @@
+
+Logical and Physical Net Conflicts 
+----------------------------------
+
+DRAWING = @PMTPULSER_LIB.SIMPLEPULSER(SCH_1)
+NET_NAME = EXTERNAL TRIG
+   PNN = EXTERNALTRIG
+NET_NAME = SCOPE TRIG
+   PNN = SCOPETRIG
+NET_NAME = SELF TRIG
+   PNN = SELFTRIG

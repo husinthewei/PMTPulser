@@ -1,4 +1,4 @@
-; Packager-XL run on 22-Dec-2016 AT 14:28:11 CONSTRAINTS_VIEW_GENERATED
+; Packager-XL run on 05-Jan-2017 AT 16:44:05 CONSTRAINTS_VIEW_GENERATED
 ( ConstraintFile "simplepulser"
 	( constraintHeader
 		( objectKey
@@ -8,7 +8,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 8 )
+			( logicalViewRevNum 123 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -41,115 +41,1654 @@
 			( Analysis
 			)
 		)
+		( Attribute
+			( Name "DIST" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IC" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "MAX_TEMP" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "NEGTOL" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "POWER" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "SLOPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "TC1" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "TC2" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "TOL_ON_OFF" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "VAL" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PACKTYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "ABBREV" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "CURRENT" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "DIELECTRIC" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "POSTOL" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
 	)
 	( designConstraints
 		( ruleChanges
 			( allRules )
 			( design "simplepulser"
 				( objectFlag fObjectReadOnly )
-				( objectStatus "simplepulser" )
+				( objectStatus sObjectLogicalNet )
+			)
+			( signal "EXTERNALTRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\external trig\" )
+			)
+			( signal "GND"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):gnd" )
+			)
+			( signal "PAGE2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2" )
+			)
+			( signal "SCOPETRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\scope trig\" )
+			)
+			( signal "SELFTRIG"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):\self trig\" )
+			)
+			( signal "TSTPLS"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):tstpls" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DIN"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_din" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DOUT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_dout" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_DOUT_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_dout_1" )
+			)
+			( signal "UNNAMED_1_ADN4661_I3_VCC"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_adn4661_i3_vcc" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_1" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_2" )
+			)
+			( signal "UNNAMED_1_BFU730F_I14_4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i14_4" )
+			)
+			( signal "UNNAMED_1_BFU730F_I5_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_1" )
+			)
+			( signal "UNNAMED_1_BFU730F_I5_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_bfu730f_i5_2" )
+			)
+			( signal "UNNAMED_1_CONN2_I69_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_conn2_i69_1" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I34_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i34_b" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_DISCH"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_disch" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_RES"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_res" )
+			)
+			( signal "UNNAMED_1_LMC555_I1_THRESH"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_thresh" )
+			)
+			( signal "UNNAMED_1_RSMD0402_I78_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i78_2" )
+			)
+			( signal "VCC"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):vcc" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I102_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i102_b" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I103_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i103_b" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I104_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i104_a" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I104_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i104_b" )
+			)
+			( signal "UNNAMED_2_BFR182_I1_BASE"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_bfr182_i1_base" )
+			)
+			( signal "UNNAMED_2_BFR182_I1_EMIT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_bfr182_i1_emit" )
+			)
+			( signal "UNNAMED_2_CSMD0402_I3_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_csmd0402_i3_b" )
+			)
+			( signal "UNNAMED_2_CONN2_I9_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i9_2" )
+			)
+			( signal "UNNAMED_2_CONN2_I16_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i16_2" )
+			)
+			( signal "UNNAMED_2_CSMD0402_I13_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_csmd0402_i13_b" )
+			)
+			( signal "VREFIN"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):vrefin" )
+			)
+			( signal "UNNAMED_2_CONN2_I22_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i22_1" )
+			)
+			( signal "UNNAMED_2_CONN2_I23_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i23_1" )
+			)
+			( signal "UNNAMED_2_RK09L_I20_T2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_rk09l_i20_t2" )
+			)
+			( signal "UNNAMED_2_RSMD0402_I11_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_rsmd0402_i11_1" )
+			)
+			( signal "UNNAMED_2_CONN2_I22_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_conn2_i22_2" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I105_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i105_a" )
+			)
+			( signal "OUT_5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_5" )
+			)
+			( signal "OUT_4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_4" )
+			)
+			( signal "OUT_3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_3" )
+			)
+			( signal "OUT_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_2" )
+			)
+			( signal "OUT_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b1" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b2" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b3" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b4" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I11_B5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i11_b5" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b2" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b3" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b4" )
+			)
+			( signal "UNNAMED_3_HFA3128B96_I25_B5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_hfa3128b96_i25_b5" )
+			)
+			( signal "UNNAMED_3_CONN2_I38_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i38_1" )
+			)
+			( signal "UNNAMED_1_CSMD0402_I101_A"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i101_a" )
+			)
+			( signal "UNNAMED_3_CONN2_I49_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i49_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I52_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i52_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I55_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i55_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I58_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i58_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I61_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i61_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I64_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i64_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I67_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i67_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I70_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i70_1" )
+			)
+			( signal "UNNAMED_3_CONN2_I73_1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_3_conn2_i73_1" )
+			)
+			( signal "OUT_10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_10" )
+			)
+			( signal "OUT_6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_6" )
+			)
+			( signal "OUT_7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_7" )
+			)
+			( signal "OUT_8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_8" )
+			)
+			( signal "OUT_9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):out_9" )
+			)
+			( signal "UNNAMED_1_RSMD0402_I87_2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_rsmd0402_i87_2" )
+			)
+			( signal "UNNAMED_1_LSMD1206_I107_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b" )
+			)
+			( gate "J1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66" )
+			)
+			( gate "J5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i65" )
+			)
+			( gate "J2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i69" )
+			)
+			( gate "J3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i64" )
+			)
+			( gate "J4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i68" )
+			)
+			( gate "R4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i72" )
+			)
+			( gate "R3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i73" )
+			)
+			( gate "R2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i74" )
+			)
+			( gate "R5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i75" )
+			)
+			( gate "R6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i76" )
+			)
+			( gate "R7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i77" )
+			)
+			( gate "R10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i78" )
+			)
+			( gate "R14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i81" )
+			)
+			( gate "R18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i82" )
+			)
+			( gate "R24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i90" )
+			)
+			( gate "R11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i86" )
+			)
+			( gate "R22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i87" )
+			)
+			( gate "R21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i88" )
+			)
+			( gate "R23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i89" )
+			)
+			( gate "R8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i85" )
+			)
+			( gate "R15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i92" )
+			)
+			( gate "R12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i94" )
+			)
+			( gate "R17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i95" )
+			)
+			( gate "R13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i96" )
 			)
 			( gate "U1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1" )
-				( pin "U1.5"
-					( objectStatus "ctrl" )
-				)
-				( pin "U1.7"
-					( objectStatus "disch" )
-				)
-				( pin "U1.1"
-					( objectStatus "gnd" )
-				)
-				( pin "U1.3"
-					( objectStatus "\out\" )
-				)
-				( pin "U1.4"
-					( objectStatus "res" )
-				)
-				( pin "U1.6"
-					( objectStatus "thresh" )
-				)
-				( pin "U1.2"
-					( objectStatus "trig" )
-				)
-				( pin "U1.8"
-					( objectStatus "\v+\" )
-				)
-			)
-			( gate "U3"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i2" )
-				( pin "U3.1"
-					( objectStatus "in1" )
-				)
-				( pin "U3.2"
-					( objectStatus "\in1*\" )
-				)
-				( pin "U3.3"
-					( objectStatus "in2" )
-				)
-				( pin "U3.4"
-					( objectStatus "\in2*\" )
-				)
-				( pin "U3.7"
-					( objectStatus "\out\" )
-				)
-				( pin "U3.6"
-					( objectStatus "\out*\" )
-				)
-			)
-			( gate "U4"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3" )
-				( pin "U4.5"
-					( objectStatus "ctrl" )
-				)
-				( pin "U4.7"
-					( objectStatus "disch" )
-				)
-				( pin "U4.1"
-					( objectStatus "gnd" )
-				)
-				( pin "U4.3"
-					( objectStatus "\out\" )
-				)
-				( pin "U4.4"
-					( objectStatus "res" )
-				)
-				( pin "U4.6"
-					( objectStatus "thresh" )
-				)
-				( pin "U4.2"
-					( objectStatus "trig" )
-				)
-				( pin "U4.8"
-					( objectStatus "\v+\" )
-				)
 			)
 			( gate "U2"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i4" )
-				( pin "U2.5"
-					( objectStatus "ctrl" )
-				)
-				( pin "U2.7"
-					( objectStatus "disch" )
-				)
-				( pin "U2.1"
-					( objectStatus "gnd" )
-				)
-				( pin "U2.3"
-					( objectStatus "\out\" )
-				)
-				( pin "U2.4"
-					( objectStatus "res" )
-				)
-				( pin "U2.6"
-					( objectStatus "thresh" )
-				)
-				( pin "U2.2"
-					( objectStatus "trig" )
-				)
-				( pin "U2.8"
-					( objectStatus "\v+\" )
-				)
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3" )
+			)
+			( gate "U4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5" )
+			)
+			( gate "U5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14" )
+			)
+			( gate "C1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34" )
+			)
+			( gate "R19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98" )
+			)
+			( gate "R20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i97" )
+			)
+			( gate "C4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i99" )
+			)
+			( gate "C2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i100" )
+			)
+			( gate "C6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i102" )
+			)
+			( gate "C8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i103" )
+			)
+			( gate "C7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i104" )
+			)
+			( gate "R9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i84" )
+			)
+			( gate "U8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i1" )
+			)
+			( gate "U7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2" )
+			)
+			( gate "C10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i3" )
+			)
+			( gate "R26"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i19" )
+			)
+			( gate "R33"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i5" )
+			)
+			( gate "R31"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i7" )
+			)
+			( gate "R32"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i8" )
+			)
+			( gate "J10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i9" )
+			)
+			( gate "R28"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i10" )
+			)
+			( gate "R25"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i11" )
+			)
+			( gate "R29"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i12" )
+			)
+			( gate "C9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i13" )
+			)
+			( gate "R30"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i15" )
+			)
+			( gate "J9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i16" )
+			)
+			( gate "J8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i18" )
+			)
+			( gate "U6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20" )
+			)
+			( gate "R27"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i21" )
+			)
+			( gate "J6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i22" )
+			)
+			( gate "J7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i23" )
+			)
+			( gate "R36"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i1" )
+			)
+			( gate "R51"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i2" )
+			)
+			( gate "R50"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i3" )
+			)
+			( gate "R35"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i4" )
+			)
+			( gate "J22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i49" )
+			)
+			( gate "R34"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i7" )
+			)
+			( gate "J21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i38" )
+			)
+			( gate "C11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i35" )
+			)
+			( gate "U9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11" )
+			)
+			( gate "R44"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i12" )
+			)
+			( gate "R46"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i13" )
+			)
+			( gate "R47"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i14" )
+			)
+			( gate "R41"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i15" )
+			)
+			( gate "R40"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i16" )
+			)
+			( gate "R52"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i17" )
+			)
+			( gate "R48"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i18" )
+			)
+			( gate "R53"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i19" )
+			)
+			( gate "R49"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i20" )
+			)
+			( gate "R45"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i21" )
+			)
+			( gate "R37"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i22" )
+			)
+			( gate "R42"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i23" )
+			)
+			( gate "R38"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i24" )
+			)
+			( gate "U10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25" )
+			)
+			( gate "R43"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i26" )
+			)
+			( gate "R39"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i27" )
+			)
+			( gate "C12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i51" )
+			)
+			( gate "J23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i52" )
+			)
+			( gate "C13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i54" )
+			)
+			( gate "J24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i55" )
+			)
+			( gate "C14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i57" )
+			)
+			( gate "J25"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i58" )
+			)
+			( gate "C15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i60" )
+			)
+			( gate "J26"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i61" )
+			)
+			( gate "C16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i63" )
+			)
+			( gate "J27"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i64" )
+			)
+			( gate "C17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i66" )
+			)
+			( gate "J28"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i67" )
+			)
+			( gate "C18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i69" )
+			)
+			( gate "J29"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i70" )
+			)
+			( gate "C19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i72" )
+			)
+			( gate "J30"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i73" )
+			)
+			( gate "J13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i86" )
+			)
+			( gate "C20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i75" )
+			)
+			( gate "J11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i76" )
+			)
+			( gate "J12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i77" )
+			)
+			( gate "J14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i79" )
+			)
+			( gate "J15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i80" )
+			)
+			( gate "J16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i81" )
+			)
+			( gate "J17"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i82" )
+			)
+			( gate "J18"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i83" )
+			)
+			( gate "J19"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i84" )
+			)
+			( gate "J20"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i85" )
+			)
+			( gate "R16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i108" )
+			)
+			( gate "C3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i101" )
+			)
+			( gate "C5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i105" )
+			)
+			( gate "R1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i109" )
+			)
+			( gate "L1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107" )
+			)
+			( gate "U3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110" )
+			)
+			( pin "J1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66:\1\" )
+			)
+			( pin "J1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66:\2\" )
+			)
+			( pin "J5.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i65:\1\" )
+			)
+			( pin "J5.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i65:\2\" )
+			)
+			( pin "J2.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i69:\1\" )
+			)
+			( pin "J2.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i69:\2\" )
+			)
+			( pin "J3.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i64:\1\" )
+			)
+			( pin "J3.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i64:\2\" )
+			)
+			( pin "J4.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i68:\1\" )
+			)
+			( pin "J4.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i68:\2\" )
+			)
+			( pin "R4.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i72:\1\" )
+			)
+			( pin "R4.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i72:\2\" )
+			)
+			( pin "R3.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i73:\1\" )
+			)
+			( pin "R3.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i73:\2\" )
+			)
+			( pin "R2.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i74:\1\" )
+			)
+			( pin "R2.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i74:\2\" )
+			)
+			( pin "R5.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i75:\1\" )
+			)
+			( pin "R5.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i75:\2\" )
+			)
+			( pin "R6.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i76:\1\" )
+			)
+			( pin "R6.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i76:\2\" )
+			)
+			( pin "R7.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i77:\1\" )
+			)
+			( pin "R7.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i77:\2\" )
+			)
+			( pin "R10.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i78:\1\" )
+			)
+			( pin "R10.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i78:\2\" )
+			)
+			( pin "R14.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i81:\1\" )
+			)
+			( pin "R14.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i81:\2\" )
+			)
+			( pin "R18.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i82:\1\" )
+			)
+			( pin "R18.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i82:\2\" )
+			)
+			( pin "R24.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i90:\1\" )
+			)
+			( pin "R24.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i90:\2\" )
+			)
+			( pin "R11.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i86:\1\" )
+			)
+			( pin "R11.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i86:\2\" )
+			)
+			( pin "R22.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i87:\1\" )
+			)
+			( pin "R22.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i87:\2\" )
+			)
+			( pin "R21.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i88:\1\" )
+			)
+			( pin "R21.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i88:\2\" )
+			)
+			( pin "R23.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i89:\1\" )
+			)
+			( pin "R23.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i89:\2\" )
+			)
+			( pin "R8.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i85:\1\" )
+			)
+			( pin "R8.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i85:\2\" )
+			)
+			( pin "R15.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i92:\1\" )
+			)
+			( pin "R15.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i92:\2\" )
+			)
+			( pin "R12.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i94:\1\" )
+			)
+			( pin "R12.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i94:\2\" )
+			)
+			( pin "R17.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i95:\1\" )
+			)
+			( pin "R17.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i95:\2\" )
+			)
+			( pin "R13.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i96:\1\" )
+			)
+			( pin "R13.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i96:\2\" )
+			)
+			( pin "U1.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:ctrl" )
+			)
+			( pin "U1.7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:disch" )
+			)
+			( pin "U1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:gnd" )
+			)
+			( pin "U1.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:\out\" )
+			)
+			( pin "U1.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:res" )
+			)
+			( pin "U1.6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:thresh" )
+			)
+			( pin "U1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:trig" )
+			)
+			( pin "U1.8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i1:\v+\" )
+			)
+			( pin "U2.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:din" )
+			)
+			( pin "U2.7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:\dout+\" )
+			)
+			( pin "U2.8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:\dout-\" )
+			)
+			( pin "U2.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:gnd" )
+			)
+			( pin "U2.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:nc1" )
+			)
+			( pin "U2.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:nc2" )
+			)
+			( pin "U2.6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:nc3" )
+			)
+			( pin "U2.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i3:vcc" )
+			)
+			( pin "U4.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5:\1\" )
+			)
+			( pin "U4.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5:\2\" )
+			)
+			( pin "U4.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5:\3\" )
+			)
+			( pin "U4.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i5:\4\" )
+			)
+			( pin "U5.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14:\1\" )
+			)
+			( pin "U5.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14:\2\" )
+			)
+			( pin "U5.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14:\3\" )
+			)
+			( pin "U5.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14:\4\" )
+			)
+			( pin "C1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34:a(0)" )
+			)
+			( pin "C1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34:b(0)" )
+			)
+			( pin "R19.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98:\1\" )
+			)
+			( pin "R19.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98:\2\" )
+			)
+			( pin "R20.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i97:\1\" )
+			)
+			( pin "R20.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i97:\2\" )
+			)
+			( pin "C4.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i99:a(0)" )
+			)
+			( pin "C4.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i99:b(0)" )
+			)
+			( pin "C2.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i100:a(0)" )
+			)
+			( pin "C2.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i100:b(0)" )
+			)
+			( pin "C6.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i102:a(0)" )
+			)
+			( pin "C6.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i102:b(0)" )
+			)
+			( pin "C8.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i103:a(0)" )
+			)
+			( pin "C8.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i103:b(0)" )
+			)
+			( pin "C7.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i104:a(0)" )
+			)
+			( pin "C7.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i104:b(0)" )
+			)
+			( pin "R9.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i84:\1\" )
+			)
+			( pin "R9.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i84:\2\" )
+			)
+			( pin "U8.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i1:base" )
+			)
+			( pin "U8.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i1:coll" )
+			)
+			( pin "U8.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i1:emit" )
+			)
+			( pin "U7.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2:\in+\" )
+			)
+			( pin "U7.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2:\in-\" )
+			)
+			( pin "U7.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2:\out\" )
+			)
+			( pin "U7.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2:\v+\" )
+			)
+			( pin "U7.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i2:\v-\" )
+			)
+			( pin "C10.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i3:a(0)" )
+			)
+			( pin "C10.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i3:b(0)" )
+			)
+			( pin "R26.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i19:a(0)" )
+			)
+			( pin "R26.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i19:b(0)" )
+			)
+			( pin "R26.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i19:c(0)" )
+			)
+			( pin "R33.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i5:\1\" )
+			)
+			( pin "R33.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i5:\2\" )
+			)
+			( pin "R31.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i7:\1\" )
+			)
+			( pin "R31.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i7:\2\" )
+			)
+			( pin "R32.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i8:\1\" )
+			)
+			( pin "R32.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i8:\2\" )
+			)
+			( pin "J10.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i9:\1\" )
+			)
+			( pin "J10.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i9:\2\" )
+			)
+			( pin "R28.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i10:\1\" )
+			)
+			( pin "R28.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i10:\2\" )
+			)
+			( pin "R25.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i11:\1\" )
+			)
+			( pin "R25.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i11:\2\" )
+			)
+			( pin "R29.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i12:\1\" )
+			)
+			( pin "R29.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i12:\2\" )
+			)
+			( pin "C9.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i13:a(0)" )
+			)
+			( pin "C9.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i13:b(0)" )
+			)
+			( pin "R30.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i15:\1\" )
+			)
+			( pin "R30.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i15:\2\" )
+			)
+			( pin "J9.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i16:\1\" )
+			)
+			( pin "J9.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i16:\2\" )
+			)
+			( pin "J8.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i18:\1\" )
+			)
+			( pin "J8.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i18:\2\" )
+			)
+			( pin "U6.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20:nc1" )
+			)
+			( pin "U6.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20:nc2" )
+			)
+			( pin "U6.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20:t1" )
+			)
+			( pin "U6.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20:t2" )
+			)
+			( pin "U6.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i20:w" )
+			)
+			( pin "R27.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i21:\1\" )
+			)
+			( pin "R27.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i21:\2\" )
+			)
+			( pin "J6.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i22:\1\" )
+			)
+			( pin "J6.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i22:\2\" )
+			)
+			( pin "J7.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i23:\1\" )
+			)
+			( pin "J7.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i23:\2\" )
+			)
+			( pin "R36.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i1:\1\" )
+			)
+			( pin "R36.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i1:\2\" )
+			)
+			( pin "R51.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i2:\1\" )
+			)
+			( pin "R51.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i2:\2\" )
+			)
+			( pin "R50.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i3:\1\" )
+			)
+			( pin "R50.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i3:\2\" )
+			)
+			( pin "R35.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i4:\1\" )
+			)
+			( pin "R35.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i4:\2\" )
+			)
+			( pin "J22.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i49:\1\" )
+			)
+			( pin "J22.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i49:\2\" )
+			)
+			( pin "R34.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i7:\1\" )
+			)
+			( pin "R34.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i7:\2\" )
+			)
+			( pin "J21.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i38:\1\" )
+			)
+			( pin "J21.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i38:\2\" )
+			)
+			( pin "C11.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i35:a(0)" )
+			)
+			( pin "C11.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i35:b(0)" )
+			)
+			( pin "U9.15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:b1" )
+			)
+			( pin "U9.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:b2" )
+			)
+			( pin "U9.8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:b3" )
+			)
+			( pin "U9.9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:b4" )
+			)
+			( pin "U9.14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:b5" )
+			)
+			( pin "U9.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:c1" )
+			)
+			( pin "U9.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:c2" )
+			)
+			( pin "U9.6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:c3" )
+			)
+			( pin "U9.11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:c4" )
+			)
+			( pin "U9.12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:c5" )
+			)
+			( pin "U9.16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:e1" )
+			)
+			( pin "U9.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:e2" )
+			)
+			( pin "U9.7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:e3" )
+			)
+			( pin "U9.10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:e4" )
+			)
+			( pin "U9.13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:e5" )
+			)
+			( pin "U9.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i11:nc1" )
+			)
+			( pin "R44.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i12:\1\" )
+			)
+			( pin "R44.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i12:\2\" )
+			)
+			( pin "R46.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i13:\1\" )
+			)
+			( pin "R46.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i13:\2\" )
+			)
+			( pin "R47.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i14:\1\" )
+			)
+			( pin "R47.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i14:\2\" )
+			)
+			( pin "R41.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i15:\1\" )
+			)
+			( pin "R41.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i15:\2\" )
+			)
+			( pin "R40.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i16:\1\" )
+			)
+			( pin "R40.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i16:\2\" )
+			)
+			( pin "R52.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i17:\1\" )
+			)
+			( pin "R52.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i17:\2\" )
+			)
+			( pin "R48.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i18:\1\" )
+			)
+			( pin "R48.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i18:\2\" )
+			)
+			( pin "R53.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i19:\1\" )
+			)
+			( pin "R53.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i19:\2\" )
+			)
+			( pin "R49.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i20:\1\" )
+			)
+			( pin "R49.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i20:\2\" )
+			)
+			( pin "R45.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i21:\1\" )
+			)
+			( pin "R45.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i21:\2\" )
+			)
+			( pin "R37.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i22:\1\" )
+			)
+			( pin "R37.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i22:\2\" )
+			)
+			( pin "R42.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i23:\1\" )
+			)
+			( pin "R42.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i23:\2\" )
+			)
+			( pin "R38.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i24:\1\" )
+			)
+			( pin "R38.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i24:\2\" )
+			)
+			( pin "U10.15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:b1" )
+			)
+			( pin "U10.4"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:b2" )
+			)
+			( pin "U10.8"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:b3" )
+			)
+			( pin "U10.9"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:b4" )
+			)
+			( pin "U10.14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:b5" )
+			)
+			( pin "U10.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:c1" )
+			)
+			( pin "U10.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:c2" )
+			)
+			( pin "U10.6"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:c3" )
+			)
+			( pin "U10.11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:c4" )
+			)
+			( pin "U10.12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:c5" )
+			)
+			( pin "U10.16"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:e1" )
+			)
+			( pin "U10.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:e2" )
+			)
+			( pin "U10.7"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:e3" )
+			)
+			( pin "U10.10"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:e4" )
+			)
+			( pin "U10.13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:e5" )
+			)
+			( pin "U10.5"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i25:nc1" )
+			)
+			( pin "R43.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i26:\1\" )
+			)
+			( pin "R43.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i26:\2\" )
+			)
+			( pin "R39.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i27:\1\" )
+			)
+			( pin "R39.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i27:\2\" )
+			)
+			( pin "C12.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i51:a(0)" )
+			)
+			( pin "C12.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i51:b(0)" )
+			)
+			( pin "J23.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i52:\1\" )
+			)
+			( pin "J23.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i52:\2\" )
+			)
+			( pin "C13.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i54:a(0)" )
+			)
+			( pin "C13.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i54:b(0)" )
+			)
+			( pin "J24.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i55:\1\" )
+			)
+			( pin "J24.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i55:\2\" )
+			)
+			( pin "C14.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i57:a(0)" )
+			)
+			( pin "C14.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i57:b(0)" )
+			)
+			( pin "J25.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i58:\1\" )
+			)
+			( pin "J25.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i58:\2\" )
+			)
+			( pin "C15.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i60:a(0)" )
+			)
+			( pin "C15.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i60:b(0)" )
+			)
+			( pin "J26.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i61:\1\" )
+			)
+			( pin "J26.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i61:\2\" )
+			)
+			( pin "C16.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i63:a(0)" )
+			)
+			( pin "C16.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i63:b(0)" )
+			)
+			( pin "J27.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i64:\1\" )
+			)
+			( pin "J27.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i64:\2\" )
+			)
+			( pin "C17.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i66:a(0)" )
+			)
+			( pin "C17.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i66:b(0)" )
+			)
+			( pin "J28.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i67:\1\" )
+			)
+			( pin "J28.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i67:\2\" )
+			)
+			( pin "C18.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i69:a(0)" )
+			)
+			( pin "C18.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i69:b(0)" )
+			)
+			( pin "J29.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i70:\1\" )
+			)
+			( pin "J29.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i70:\2\" )
+			)
+			( pin "C19.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i72:a(0)" )
+			)
+			( pin "C19.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i72:b(0)" )
+			)
+			( pin "J30.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i73:\1\" )
+			)
+			( pin "J30.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i73:\2\" )
+			)
+			( pin "J13.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i86:\1\" )
+			)
+			( pin "J13.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i86:\2\" )
+			)
+			( pin "C20.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i75:a(0)" )
+			)
+			( pin "C20.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i75:b(0)" )
+			)
+			( pin "J11.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i76:\1\" )
+			)
+			( pin "J11.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i76:\2\" )
+			)
+			( pin "J12.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i77:\1\" )
+			)
+			( pin "J12.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i77:\2\" )
+			)
+			( pin "J14.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i79:\1\" )
+			)
+			( pin "J14.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i79:\2\" )
+			)
+			( pin "J15.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i80:\1\" )
+			)
+			( pin "J15.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i80:\2\" )
+			)
+			( pin "J16.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i81:\1\" )
+			)
+			( pin "J16.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i81:\2\" )
+			)
+			( pin "J17.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i82:\1\" )
+			)
+			( pin "J17.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i82:\2\" )
+			)
+			( pin "J18.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i83:\1\" )
+			)
+			( pin "J18.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i83:\2\" )
+			)
+			( pin "J19.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i84:\1\" )
+			)
+			( pin "J19.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i84:\2\" )
+			)
+			( pin "J20.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i85:\1\" )
+			)
+			( pin "J20.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page3_i85:\2\" )
+			)
+			( pin "R16.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i108:\1\" )
+			)
+			( pin "R16.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i108:\2\" )
+			)
+			( pin "C3.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i101:a(0)" )
+			)
+			( pin "C3.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i101:b(0)" )
+			)
+			( pin "C5.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i105:a(0)" )
+			)
+			( pin "C5.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i105:b(0)" )
+			)
+			( pin "R1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i109:\1\" )
+			)
+			( pin "R1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i109:\2\" )
+			)
+			( pin "L1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107:a(0)" )
+			)
+			( pin "L1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107:b(0)" )
+			)
+			( pin "U3.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\1\" )
+			)
+			( pin "U3.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\2\" )
+			)
+			( pin "U3.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\3\" )
 			)
 		)
 	)

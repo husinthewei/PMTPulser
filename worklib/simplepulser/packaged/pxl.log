@@ -6,7 +6,7 @@
     Packager-XL 16.6-p001 (v16-6-112A) WIN32 9/10/2012 12:00:00 IST
     (C) Copyright 1994, Cadence Design Systems, Inc.
 
-    Run on Thu Jan 05 16:17:59 2017
+    Run on Thu Jan 05 16:44:06 2017
 
 
  **********************************************
@@ -145,59 +145,30 @@ Loading ./worklib/simplepulser/packaged/pxl.state.
  *  Starting to assign physical parts.  *
  ****************************************
 
- #1   ERROR(SPCOPK-1051): Cannot find the physical part BAS70 for 
-        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I70@PARTS~
-_LIB.BAS70_04(CHIPS)
-        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i70@parts_lib.~
-bas70_04(chips)
-        The chips.prt file might have been accidentally edited, or the PACK_TY~
-PE property might be missing from the ptf file or the schematic.
-        Ensure that a physical part corresponding to the instance used in the ~
-schematic exists and the PACK_TYPE property is defined in the schematic or the~
- part table file.        
- #2   ERROR(SPCOPK-1052): No ppt part selected because the instance has no phy~
-sical part.
-        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I70@PARTS~
-_LIB.BAS70_04(CHIPS)
-        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i70@parts_lib.~
-bas70_04(chips)
-        Check the PACK_TYPE or PART_NAME property assigned to the instance and~
- ensure that the part exists in the part table file.
- #3   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
-perties.
-        Ppt Name: LSMD1206
-        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I56@PARTS~
-_LIB.LSMD1206(CHIPS)
-        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i56@parts_lib.~
-lsmd1206(chips)
-INFO(SPCOPK-1063): Property Name: VALUE
-                   Property Value: 0.09UH
-INFO(SPCOPK-1063): Property Name: TOL
-                   Property Value: 10%
-INFO(SPCOPK-1063): Property Name: PACKTYPE
-                   Property Value: 0805
- #4   ERROR(SPCOPK-1053): Cannot find a ppt part that matches the instance pro~
-perties.
-        Ppt Name: RSMD0402
-        Schematic instance: @PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I71@PARTS~
-_LIB.RSMD0402(CHIPS)
-        Physical Path: @pmtpulser_lib.simplepulser(sch_1):page1_i71@parts_lib.~
-rsmd0402(chips)
-INFO(SPCOPK-1063): Property Name: VALUE
-                   Property Value: 50
-INFO(SPCOPK-1063): Property Name: TOL
-                   Property Value: 5%
-INFO(SPCOPK-1063): Property Name: PACKTYPE
-                   Property Value: 
-INFO(SPCOPK-1441): 4 errors detected
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+
+ *******************************
+ *  End packaging  (00:00:01)  *
+ *******************************
+
+Generating state file for subdesign SIMPLEPULSER
+INFO(SPCOPK-1442): No errors detected
 INFO(SPCOPK-1444): No warnings detected
-INFO(SPCOPK-1448): Use Tools->Markers->Packager in ConceptHDL to highlight ins~
-tances for the errors/warnings reported.
-    Start time   16:17:58
-    End time     16:17:59
-    Elapsed time  0:00:01
+    Start time   16:44:05
+    End time     16:44:07
+    Elapsed time  0:00:02
 
- **************************************************
- *  FATAL ERROR PackagerXL exiting with status 2  *
- **************************************************
-
+ ***************************************************************************
+ *  Packager-XL execution done.
+ ***************************************************************************
+Starting to audit ECsets in the design...
+Audit completed successfully.
