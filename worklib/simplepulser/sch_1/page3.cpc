@@ -1,0 +1,159 @@
+#ISCELL
+  parts_lib penn#20b#20size#20page *
+  *
+#CELL
+  parts_lib rsmd0402 *
+  page3_i1
+#CELL
+  parts_lib hfa3128b96 *
+  page3_i11
+#CELL
+  parts_lib rsmd0402 *
+  page3_i12
+#CELL
+  parts_lib rsmd0402 *
+  page3_i13
+#CELL
+  parts_lib rsmd0402 *
+  page3_i14
+#CELL
+  parts_lib rsmd0402 *
+  page3_i15
+#CELL
+  parts_lib rsmd0402 *
+  page3_i16
+#CELL
+  parts_lib rsmd0402 *
+  page3_i17
+#CELL
+  parts_lib rsmd0402 *
+  page3_i18
+#CELL
+  parts_lib rsmd0402 *
+  page3_i19
+#CELL
+  parts_lib rsmd0402 *
+  page3_i2
+#CELL
+  parts_lib rsmd0402 *
+  page3_i20
+#CELL
+  parts_lib rsmd0402 *
+  page3_i21
+#CELL
+  parts_lib rsmd0402 *
+  page3_i22
+#CELL
+  parts_lib rsmd0402 *
+  page3_i23
+#CELL
+  parts_lib rsmd0402 *
+  page3_i24
+#CELL
+  parts_lib hfa3128b96 *
+  page3_i25
+#CELL
+  parts_lib rsmd0402 *
+  page3_i26
+#CELL
+  parts_lib rsmd0402 *
+  page3_i27
+#CELL
+  parts_lib rsmd0402 *
+  page3_i3
+#CELL
+  parts_lib csmd0402 *
+  page3_i35
+#CELL
+  parts_lib conn2 *
+  page3_i38
+#CELL
+  parts_lib rsmd0402 *
+  page3_i4
+#CELL
+  parts_lib conn2 *
+  page3_i49
+#CELL
+  parts_lib csmd0402 *
+  page3_i51
+#CELL
+  parts_lib conn2 *
+  page3_i52
+#CELL
+  parts_lib csmd0402 *
+  page3_i54
+#CELL
+  parts_lib conn2 *
+  page3_i55
+#CELL
+  parts_lib csmd0402 *
+  page3_i57
+#CELL
+  parts_lib conn2 *
+  page3_i58
+#CELL
+  parts_lib csmd0402 *
+  page3_i60
+#CELL
+  parts_lib conn2 *
+  page3_i61
+#CELL
+  parts_lib csmd0402 *
+  page3_i63
+#CELL
+  parts_lib conn2 *
+  page3_i64
+#CELL
+  parts_lib csmd0402 *
+  page3_i66
+#CELL
+  parts_lib conn2 *
+  page3_i67
+#CELL
+  parts_lib csmd0402 *
+  page3_i69
+#CELL
+  parts_lib rsmd0402 *
+  page3_i7
+#CELL
+  parts_lib conn2 *
+  page3_i70
+#CELL
+  parts_lib csmd0402 *
+  page3_i72
+#CELL
+  parts_lib conn2 *
+  page3_i73
+#CELL
+  parts_lib csmd0402 *
+  page3_i75
+#CELL
+  parts_lib conn2 *
+  page3_i76
+#CELL
+  parts_lib conn2 *
+  page3_i77
+#CELL
+  parts_lib conn2 *
+  page3_i79
+#CELL
+  parts_lib conn2 *
+  page3_i80
+#CELL
+  parts_lib conn2 *
+  page3_i81
+#CELL
+  parts_lib conn2 *
+  page3_i82
+#CELL
+  parts_lib conn2 *
+  page3_i83
+#CELL
+  parts_lib conn2 *
+  page3_i84
+#CELL
+  parts_lib conn2 *
+  page3_i85
+#CELL
+  parts_lib conn2 *
+  page3_i86

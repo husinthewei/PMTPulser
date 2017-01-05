@@ -167,4 +167,34 @@
 		<property name="TOL"  value="5%"/>
 		<property name="VALUE"  value="3.9K"/>
 	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="333"/>
+	</component>
+	<component cell="csmd0402" library="parts_lib" partname="CSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="TOL"  value="10%"/>
+		<property name="VALUE"  value="2PF"/>
+		<property name="VOLTAGE"  value="25V"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="33"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="10K"/>
+	</component>
+	<component cell="rsmd0402" library="parts_lib" partname="RSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="PACK_TYPE"  value="R0402"/>
+		<property name="TOL"  value="5%"/>
+		<property name="VALUE"  value="111"/>
+	</component>
 </sc:shoppingCart>

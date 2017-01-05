@@ -1,18 +1,20 @@
-01/04/17  21:45:32		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/04/17  21:45:32		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/04/17  21:45:32		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/04/17  21:45:32		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/04/17  21:45:46		Loading cell trimpot from library parts_lib
-01/04/17  21:45:46		Loading view sym_13 of cell trimpot
-01/04/17  21:45:46		Loading view sym_1 of cell trimpot
-01/04/17  21:45:46		Loading view chips of cell trimpot
-01/04/17  21:45:46		Loading view vlog_map of cell trimpot
-01/04/17  21:45:46		File verilog.v does not exist. Check the filename and location.
-01/04/17  21:45:46		Loading view entity of cell trimpot
-01/04/17  21:45:46		Loading cell trimpot from library parts_lib
-01/04/17  21:45:46		Analyzing view relationships of cell trimpot in library parts_lib
-01/04/17  21:45:46		Completed loading cell trimpot from library parts_lib
-01/04/17  21:45:46		Starting validations on cell trimpot of library parts_lib
-01/04/17  21:45:46		BODY_NAME property does not exist in package TRIMPOT. Since backannotation will not work without this property, it will be written automatically when the cell is saved.
-01/04/17  21:45:46		Completed validations on cell trimpot of library parts_lib
-01/04/17  21:46:11		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.
+01/05/17  13:44:04		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/05/17  13:44:04		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/05/17  13:44:04		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/05/17  13:44:04		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/05/17  13:44:21		Loading cell hfa3128b96 from library parts_lib
+01/05/17  13:44:21		Loading view sym_1 of cell hfa3128b96
+01/05/17  13:44:21		Loading view chips of cell hfa3128b96
+01/05/17  13:44:21		Loading view entity of cell hfa3128b96
+01/05/17  13:44:21		Loading cell hfa3128b96 from library parts_lib
+01/05/17  13:44:21		Analyzing view relationships of cell hfa3128b96 in library parts_lib
+01/05/17  13:44:21		Completed loading cell hfa3128b96 from library parts_lib
+01/05/17  13:44:21		Starting validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:44:21		Completed validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:48:41		Starting validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:48:41		Completed validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:48:41		Completed saving cell hfa3128b96 in library parts_lib 
+01/05/17  13:51:44		Starting validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:51:44		Completed validations on cell hfa3128b96 of library parts_lib
+01/05/17  13:51:44		Completed saving cell hfa3128b96 in library parts_lib 
+01/05/17  13:51:44		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.

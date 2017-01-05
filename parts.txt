@@ -12,3 +12,7 @@ BAS70-04
 Made Already
 bfu730f(transistor)
 Bourns PV37 style 10k Trim Pot (manually) PV37W103C01B00  (TRIMPOT)
+
+Vals to make
+rsmd0402
+111

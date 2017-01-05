@@ -1,0 +1,370 @@
+Allegro Design Entry HDL 16.6-p007 (v16-6-112F) 10/10/2012
+Copyright 2011 Cadence Design Systems, Inc
+
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-2040): Specify the command "page forcereset all" to reset logical page numbers of all pages of this block.
+WARNING(SPCOCN-1523): Invalid set option: <search_history_count>
+INFO(SPCOCN-1177): Unexpected text: <5>
+WARNING(SPCOCN-1523): Invalid set option: <search_history>
+WARNING(SPCOCN-1523): Invalid set option: <search_toolbar_lookin>
+INFO(SPCOCN-1177): Unexpected text: <PAGE>
+WARNING(SPCOCN-1523): Invalid set option: <modify_quick_reset_filters>
+INFO(SPCOCN-1177): Unexpected text: <OFF>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_ports_count>
+INFO(SPCOCN-1177): Unexpected text: <25>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_port_pattern>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_property_name>
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1737): Reading C:\Users\HEP\Documents\GitHub\PMTPulser\cds.lib file.
+ERROR(SPCOCN-1334): Library mayers_lib not found in cds.lib list.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #1.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I4 selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1001): Component: I1 selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-1001): Component: I4 selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$BASE selected.
+INFO(SPCOCN-1001): Component: I5 selected.
+WARNING(SPCOCN-503): The specified stroke shape '65509' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1001): Component: I6 selected.
+INFO(SPCOCN-1001): Component: I7 selected.
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part CONN2 from library parts_lib
+ERROR(SPCOCN-1521): Specify a signal name before selecting point.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-999): Signal: VCC selected.
+INFO(SPCOCN-999): Signal: VCC selected.
+WARNING(SPCOCN-1200): Using group A
+WARNING(SPCOCN-503): The specified stroke shape '9375' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   2 properties   0 notes   3 wires   0 dots   0 images
+INFO(SPCOCN-1001): Component: I6 selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   10 wires   1 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   9 wires   1 dots   0 images
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I10 selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+INFO(SPCOCN-1001): Component: I10 selected.
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I12 selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+INFO(SPCOCN-1507): Adding version 1 of part CSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I13 selected.
+INFO(SPCOCN-1507): Adding version 1 of part RSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I14 selected.
+INFO(SPCOCN-1001): Component: I14 selected.
+INFO(SPCOCN-1000): Pin: I14.2 selected.
+INFO(SPCOCN-1001): Component: I14 selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+INFO(SPCOCN-1001): Component: I15 selected.
+INFO(SPCOCN-1507): Adding version 1 of part CONN2 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part CONN2 from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part CONN2 from library parts_lib
+INFO(SPCOCN-1001): Component: I16 selected.
+INFO(SPCOCN-1001): Component: I18 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1024): Drawing not written.
+INFO(SPCOCN-1000): Pin: I16.1 selected.
+INFO(SPCOCN-1000): Pin: I16.1 selected.
+INFO(SPCOCN-999): Signal: VREFIN selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-999): Signal: UN$2$CSMD0402$I13$B selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+WARNING(SPCOCN-1200): Using group A
+;
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   8 bodies   96 properties   0 notes   17 wires   3 dots   0 images
+INFO(SPCOCN-999): Signal: UN$2$CSMD0402$I13$B selected.
+INFO(SPCOCN-999): Signal: UN$2$CSMD0402$I13$B selected.
+INFO(SPCOCN-999): Signal: GND selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   8 wires   0 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   8 wires   0 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   8 wires   0 dots   0 images
+INFO(SPCOCN-1195): Group contains:   0 bodies   2 properties   0 notes   0 wires   0 dots   0 images
+;
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   3 properties   0 notes   0 wires   0 dots   0 images
+INFO(SPCOCN-999): Signal: GND selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   0 properties   0 notes   2 wires   0 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   2 bodies   22 properties   0 notes   3 wires   0 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   2 bodies   23 properties   0 notes   3 wires   0 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   3 bodies   42 properties   0 notes   6 wires   0 dots   0 images
+INFO(SPCOCN-999): Signal: VCC selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   7 bodies   84 properties   0 notes   22 wires   3 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   8 bodies   95 properties   0 notes   16 wires   2 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   8 bodies   95 properties   0 notes   16 wires   2 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   8 bodies   96 properties   0 notes   16 wires   2 dots   0 images
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   15 bodies   180 properties   0 notes   40 wires   6 dots   0 images
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1001): Component: I11 selected.
+INFO(SPCOCN-1507): Adding version 1 of part TRIMPOT from library parts_lib
+INFO(SPCOCN-1507): Adding version 1 of part TRIMPOT from library parts_lib
+INFO(SPCOCN-1001): Component: I20 selected.
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1001): Component: I20 selected.
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1001): Component: I11 selected.
+WARNING(SPCOCN-503): The specified stroke shape '65509' is not recognized. Ensure that you specify a known shape.
+WARNING(SPCOCN-1915): Default body properties cannot be copied.
+ERROR(SPCOCN-1521): Specify a signal name before selecting point.
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1195): Group contains:   2 bodies   0 properties   0 notes   2 wires   0 dots   0 images
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1001): Component: I17 selected.
+INFO(SPCOCN-1001): Component: I22 selected.
+zoom left; 
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1024): Drawing not written.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1001): Component: I17 selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   0 bodies   0 properties   0 notes   4 wires   1 dots   0 images
+INFO(SPCOCN-1000): Pin: I7.2 selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   1 bodies   19 properties   0 notes   2 wires   0 dots   0 images
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   1 bodies   19 properties   0 notes   2 wires   0 dots   0 images
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-1001): Component: I7 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1446): New schematic SIMPLEPULSER.SCH.1.3 started as drawing #1.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1854): The drawing SIMPLEPULSER.SCH.1.3
+INFO(SPCOCN-578): will be retained as drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #2.
+INFO(SPCOCN-1001): Component: ??? selected.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.3 has been previously edited as drawing #1.
+INFO(SPCOCN-1854): The drawing SIMPLEPULSER.SCH.1.3
+INFO(SPCOCN-578): will be retained as drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
+INFO(SPCOCN-999): Signal: TSTPLS selected.
+INFO(SPCOCN-1195): Group contains:   1 bodies   0 properties   0 notes   0 wires   0 dots   0 images
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.3 has been previously edited as drawing #1.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1024): Drawing not written.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
