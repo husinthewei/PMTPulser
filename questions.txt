@@ -1,6 +1,26 @@
+PENDING
+
+What to do for External Trigger and VoltageReference_Input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANSWERED
+
+
 
 Questions for creating parts (look at parts)
-
 
 Not able to see anything in Layout
 PCB Desinger

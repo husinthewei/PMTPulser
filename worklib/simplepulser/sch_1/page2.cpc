@@ -44,6 +44,9 @@
   parts_lib conn2 *
   page2_i23
 #CELL
+  parts_lib conn2 *
+  page2_i24
+#CELL
   parts_lib csmd0402 *
   page2_i3
 #CELL

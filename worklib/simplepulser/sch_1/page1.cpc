@@ -23,6 +23,9 @@
   parts_lib csmd0402 *
   page1_i105
 #CELL
+  parts_lib conn2 *
+  page1_i106
+#CELL
   parts_lib bfu730f *
   page1_i14
 #CELL
