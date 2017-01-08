@@ -4,7 +4,7 @@
 
 		(Baselined	0)
 
-		(Revision	0.0.11)
+		(Revision	0.0.13)
 
 		(ModificationStatus	NULL)
 
@@ -42,7 +42,7 @@
 
 				(Baselined	0)
 
-				(Revision	0.0.6)
+				(Revision	0.0.8)
 
 				(ModificationStatus	NULL)
 
@@ -106,7 +106,7 @@
 
 		(View	Chips
 
-			(Checksum	00000000d8fe1d08)
+			(Checksum	00000000de3b236c)
 
 			(Primitives	1
 
@@ -116,7 +116,7 @@
 
 						(Baselined	0)
 
-						(Revision	0.0.5)
+						(Revision	0.0.7)
 
 						(ModificationStatus	NULL)
 
@@ -166,6 +166,16 @@
 
 						)
 
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	soic16)
+
+							)
+
+						)
+
 					)
 
 				)
@@ -174,7 +184,7 @@
 
 		)
 
-		(Checksum	000000001c4f03b2)
+		(Checksum	000000001df803aa)
 
 	)
 
@@ -184,11 +194,11 @@
 
 		(Version	16.6-p001 (v16-6-112A))
 
-		(License	PCB_librarian_expert)
+		(License	Allegro_performance)
 
 	)
 
-	(Checksum	000000001c9203a6)
+	(Checksum	000000001d0c03d9)
 
 )
 

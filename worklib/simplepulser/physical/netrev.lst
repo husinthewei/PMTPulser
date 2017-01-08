@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Jan 05 16:44:09 2017                      )
+(    Date/Time        : Fri Jan 06 10:24:54 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -26,182 +26,33 @@ CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTPulser\pmtpulser.cpm -y 1
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.53)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.47)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat 
    Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat (00:00:00.01)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat (00:00:00.01)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOIC8' for device 'ADN4661' not found in PSMPATH or must be "dbdoctor"ed.
-
-#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT23_DAVID' for device 'BAS70' not found in PSMPATH or must be "dbdoctor"ed.
-
-#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT23' for device 'BFR182' not found in PSMPATH or must be "dbdoctor"ed.
-
-#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOT343' for device 'BFU730F' not found in PSMPATH or must be "dbdoctor"ed.
-
-#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CONN2' for device 'CONN2' not found in PSMPATH or must be "dbdoctor"ed.
-
-#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-0.1UF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-1.0NF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-10NF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-10PF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-2.2NF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-2PF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'C0402' for device 'CSMD0402-40PF,10%,0402,25V' not found in PSMPATH or must be "dbdoctor"ed.
-
-#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'DIP16' for device 'HFA3128B96' not found in PSMPATH or must be "dbdoctor"ed.
-
-    Alternatively, the JEDEC_TYPE is not defined for the device in the pstchip.dat.
-
-#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R1206' for device 'LSMD1206-20UH,10%,1206' not found in PSMPATH or must be "dbdoctor"ed.
-
-#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'TSOT23-5' for device 'LTC2050' not found in PSMPATH or must be "dbdoctor"ed.
-
-#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RK09L' for device 'RK09L-BASE' not found in PSMPATH or must be "dbdoctor"ed.
-
-#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402-100,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-1,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-1.5K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-100,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-10K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-111,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-150,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-1K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-20,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-200,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-20K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-250,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#29  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-3,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#30  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-3.9K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#31  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-33,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#32  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-4K,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#33  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-50,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#34  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-750,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#35  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'R0402' for device 'RSMD0402_R0402-80,5%,0402' not found in PSMPATH or must be "dbdoctor"ed.
-
-#36  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'RESADJ' for device 'TRIMPOT' not found in PSMPATH or must be "dbdoctor"ed.
-
-#37  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SOIC8' for device 'LMC555' not found in PSMPATH or must be "dbdoctor"ed.
 
 
 
 ===========================================================
 Start Constraint Diff3 Import
 	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstcmdb.dat
-	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad05160.tmp
-	Start time: Thu Jan 05 16:44:09 2017
+	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad04588.tmp
+	Start time: Fri Jan 06 10:24:55 2017
 ===========================================================
+NOTE: Constraint information is up-to-date. No processing was required.
 ===========================================================
-Finished Constraint Update	Time: Thu Jan 05 16:44:10 2017
+Finished Constraint Update	Time: Fri Jan 06 10:24:55 2017
 ===========================================================
 
 ------ Library Paths ------
 MODULEPATH =  . 
            C:/Cadence/SPB_16.6/share/local/pcb/modules 
 
-PSMPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/parts_lib/ 
+PSMPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/ 
 
 PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/ 
 
@@ -209,9 +60,9 @@ PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/
 ------ Summary Statistics ------
 
 
-netrev run on Jan 5 16:44:09 2017
+netrev run on Jan 6 10:24:54 2017
    DESIGN NAME : 'SIMPLEPULSER'
-   PACKAGING ON 05-Jan-2017 AT 16:44:05
+   PACKAGING ON 06-Jan-2017 AT 10:24:51
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -236,8 +87,8 @@ netrev run on Jan 5 16:44:09 2017
 
  No error detected
  No oversight detected
- 37 warnings detected
+ No warning detected
 
-cpu time      0:04:09
+cpu time      0:03:31
 elapsed time  0:00:01
 

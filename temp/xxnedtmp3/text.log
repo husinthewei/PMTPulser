@@ -1,0 +1,75 @@
+Allegro Design Entry HDL 16.6-p007 (v16-6-112F) 10/10/2012
+Copyright 2011 Cadence Design Systems, Inc
+
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-2040): Specify the command "page forcereset all" to reset logical page numbers of all pages of this block.
+WARNING(SPCOCN-1523): Invalid set option: <search_history_count>
+INFO(SPCOCN-1177): Unexpected text: <5>
+WARNING(SPCOCN-1523): Invalid set option: <search_history>
+WARNING(SPCOCN-1523): Invalid set option: <search_toolbar_lookin>
+INFO(SPCOCN-1177): Unexpected text: <PAGE>
+WARNING(SPCOCN-1523): Invalid set option: <modify_quick_reset_filters>
+INFO(SPCOCN-1177): Unexpected text: <OFF>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_ports_count>
+INFO(SPCOCN-1177): Unexpected text: <25>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_port_pattern>
+WARNING(SPCOCN-1523): Invalid set option: <hss_distribute_property_name>
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1737): Reading C:\Users\HEP\Documents\GitHub\PMTPulser\cds.lib file.
+ERROR(SPCOCN-1334): Library mayers_lib not found in cds.lib list.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #1.
+WARNING(SPCOCN-1200): Using group A
+INFO(SPCOCN-1195): Group "A" contains:   19 bodies   303 properties   0 notes   60 wires   8 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   19 bodies   303 properties   0 notes   60 wires   8 dots   0 images
+WARNING(SPCOCN-1198): No object selected
+WARNING(SPCOCN-1198): No object selected
+INFO(SPCOCN-1195): Group "A" contains:   19 bodies   303 properties   0 notes   60 wires   8 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   19 bodies   303 properties   0 notes   60 wires   8 dots   0 images
+INFO(SPCOCN-1195): Group "A" contains:   19 bodies   303 properties   0 notes   60 wires   8 dots   0 images
+INFO(SPCOCN-1195): Group contains:   19 bodies   125 properties   0 notes   60 wires   8 dots   0 images
+INFO(SPCOCN-1001): Component: I20 selected.
+INFO(SPCOCN-1001): Component: I19 selected.
+INFO(SPCOCN-1001): Component: I18 selected.
+INFO(SPCOCN-1001): Component: I16 selected.
+INFO(SPCOCN-1001): Component: I10 selected.
+INFO(SPCOCN-1001): Component: I12 selected.
+INFO(SPCOCN-1001): Component: I16 selected.
+INFO(SPCOCN-1001): Component: I7 selected.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+Page Move Command Terminated!
+INFO(SPCOCN-1195): Group contains:   16 bodies   70 properties   0 notes   24 wires   4 dots   0 images
+INFO(SPCOCN-1001): Component: I82 selected.
+INFO(SPCOCN-1001): Component: I95 selected.
+INFO(SPCOCN-1001): Component: I95 selected.
+INFO(SPCOCN-1445): Reading RSMD0402.SYM.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1001): Component: I95 selected.
+INFO(SPCOCN-999): Signal: TSTPLS selected.
+INFO(SPCOCN-1001): Component: I90 selected.
+INFO(SPCOCN-1001): Component: I90 selected.
+INFO(SPCOCN-1001): Component: I90 selected.
+INFO(SPCOCN-1001): Component: I98 selected.
+INFO(SPCOCN-1001): Component: I98 selected.
+INFO(SPCOCN-1001): Component: I97 selected.
+INFO(SPCOCN-1001): Component: I90 selected.
+INFO(SPCOCN-1001): Component: I110 selected.
+INFO(SPCOCN-1001): Component: I108 selected.
+INFO(SPCOCN-1001): Component: I75 selected.
+INFO(SPCOCN-1507): Adding version 1 of part VCC_ARROW from library standard

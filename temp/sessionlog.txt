@@ -1,14 +1,15 @@
-01/05/17  16:41:06		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/05/17  16:41:06		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/05/17  16:41:06		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/05/17  16:41:06		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/05/17  16:41:15		Loading cell bas70_04 from library parts_lib
-01/05/17  16:41:15		Loading view sym_1 of cell bas70_04
-01/05/17  16:41:15		Loading view chips of cell bas70_04
-01/05/17  16:41:15		Loading view entity of cell bas70_04
-01/05/17  16:41:15		Loading cell bas70_04 from library parts_lib
-01/05/17  16:41:15		Analyzing view relationships of cell bas70_04 in library parts_lib
-01/05/17  16:41:15		Completed loading cell bas70_04 from library parts_lib
-01/05/17  16:41:15		Starting validations on cell bas70_04 of library parts_lib
-01/05/17  16:41:15		Completed validations on cell bas70_04 of library parts_lib
-01/05/17  16:42:13		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.
+01/06/17  10:21:22		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/06/17  10:21:22		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/06/17  10:21:22		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/06/17  10:21:22		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/06/17  10:21:30		Loading cell hfa3128b96 from library parts_lib
+01/06/17  10:21:30		Loading view sym_1 of cell hfa3128b96
+01/06/17  10:21:30		Loading view chips of cell hfa3128b96
+01/06/17  10:21:30		Loading cell hfa3128b96 from library parts_lib
+01/06/17  10:21:30		Analyzing view relationships of cell hfa3128b96 in library parts_lib
+01/06/17  10:21:30		Completed loading cell hfa3128b96 from library parts_lib
+01/06/17  10:21:30		Starting validations on cell hfa3128b96 of library parts_lib
+01/06/17  10:21:30		Completed validations on cell hfa3128b96 of library parts_lib
+01/06/17  10:23:19		Starting validations on cell hfa3128b96 of library parts_lib
+01/06/17  10:23:19		Completed validations on cell hfa3128b96 of library parts_lib
+01/06/17  10:23:19		Completed saving cell hfa3128b96 in library parts_lib 

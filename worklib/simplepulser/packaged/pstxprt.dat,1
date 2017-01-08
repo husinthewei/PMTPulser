@@ -1,9 +1,9 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 22-Dec-2016 AT 13:30:20 }
+{ Packager-XL run on 22-Dec-2016 AT 14:26:35 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SIMPLEPULSER';
- POST_TIME='22-Dec-2016 AT 13:30:20';
+ POST_TIME='22-Dec-2016 AT 14:26:35';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
@@ -17,7 +17,58 @@ SECTION_NUMBER 1
  PATH='I1',
  DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
  PHYS_PAGE='1',
- XY='(100,2550)',
+ XY='(100,2650)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='LMC555',
+ PRIM_FILE='./libraries/parts_lib/lmc555/chips/chips.prt';
+
+PART_NAME
+ U2 'LMC555':;
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I4@PARTS_LIB.LMC555(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i4@parts_lib.lmc555(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i4@parts_lib.lmc555(chips)',
+ PATH='I4',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-550,2850)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='LMC555',
+ PRIM_FILE='./libraries/parts_lib/lmc555/chips/chips.prt';
+
+PART_NAME
+ U3 '100EL05':;
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I2@PARTS_LIB.100EL05(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i2@parts_lib.\100el05\(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i2@parts_lib.\100el05\(chips)',
+ PATH='I2',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-500,3500)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='100EL05',
+ PRIM_FILE='./libraries/parts_lib/100el05/chips/chips.prt';
+
+PART_NAME
+ U4 'LMC555':;
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I3@PARTS_LIB.LMC555(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i3@parts_lib.lmc555(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i3@parts_lib.lmc555(chips)',
+ PATH='I3',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(750,2750)',
  ROT='0',
  VER='1',
  CDS_LIB='parts_lib',

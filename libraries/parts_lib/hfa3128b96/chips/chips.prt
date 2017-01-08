@@ -133,7 +133,8 @@ primitive 'HFA3128B96';
   body
     PART_NAME='HFA3128B96';
     BODY_NAME='HFA3128B96';
-    PHYS_DES_PREFIX='U';
+    JEDEC_TYPE='soic16';
+    PHYS_DES_PREFIX='X';
     CLASS='IC';
   end_body;
 end_primitive;
