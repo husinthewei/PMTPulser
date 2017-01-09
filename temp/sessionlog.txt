@@ -22,3 +22,4 @@
 01/09/17  11:17:30		Completed loading cell rk09l from library parts_lib
 01/09/17  11:17:30		Starting validations on cell rk09l of library parts_lib
 01/09/17  11:17:30		Completed validations on cell rk09l of library parts_lib
+01/09/17  15:34:00		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.
