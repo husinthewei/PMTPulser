@@ -1,24 +1,9 @@
 PENDING
 
-What to do for External Trigger and VoltageReference_Input
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ANSWERED
-
-
 
 Questions for creating parts (look at parts)
 
@@ -49,3 +34,9 @@ Just use u
 How give values to resistors?
 New resistor value
 part developer->part table-> part row -> edit 
+
+
+Silkscreen messy (Finish and then move when done)
+Via to a plane (Make diagonal connection and via automatically connects)
+Board is a plane (Make outline. Draw rect, Board Outline, Unfilled)
+Make Gnd or Vcc plane (Edit -> Z-copy -> offset 25)

@@ -1,7 +1,7 @@
 All parts are in parts lib
 
 Mostly Made
-BFR182(transistor) (GOOD)
+BFR182(transistor) 
 LMC555 (Timer) _____S-PDSO-G8 (made)
 ADN4661 (LVDS)
 Rk09L1140A2U (Pot) (How do this type of package)? (manually)
