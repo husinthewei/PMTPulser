@@ -1,15 +1,24 @@
-01/06/17  10:21:22		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/06/17  10:21:22		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/06/17  10:21:22		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/06/17  10:21:22		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/06/17  10:21:30		Loading cell hfa3128b96 from library parts_lib
-01/06/17  10:21:30		Loading view sym_1 of cell hfa3128b96
-01/06/17  10:21:30		Loading view chips of cell hfa3128b96
-01/06/17  10:21:30		Loading cell hfa3128b96 from library parts_lib
-01/06/17  10:21:30		Analyzing view relationships of cell hfa3128b96 in library parts_lib
-01/06/17  10:21:30		Completed loading cell hfa3128b96 from library parts_lib
-01/06/17  10:21:30		Starting validations on cell hfa3128b96 of library parts_lib
-01/06/17  10:21:30		Completed validations on cell hfa3128b96 of library parts_lib
-01/06/17  10:23:19		Starting validations on cell hfa3128b96 of library parts_lib
-01/06/17  10:23:19		Completed validations on cell hfa3128b96 of library parts_lib
-01/06/17  10:23:19		Completed saving cell hfa3128b96 in library parts_lib 
+01/09/17  10:53:03		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/09/17  10:53:03		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/09/17  10:53:03		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/09/17  10:53:03		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/09/17  10:53:24		Loading cell bfr182 from library parts_lib
+01/09/17  10:53:24		Loading view sym_1 of cell bfr182
+01/09/17  10:53:24		Loading view chips of cell bfr182
+01/09/17  10:53:24		Loading view entity of cell bfr182
+01/09/17  10:53:24		Loading cell bfr182 from library parts_lib
+01/09/17  10:53:24		Analyzing view relationships of cell bfr182 in library parts_lib
+01/09/17  10:53:24		Completed loading cell bfr182 from library parts_lib
+01/09/17  10:53:24		Starting validations on cell bfr182 of library parts_lib
+01/09/17  10:53:24		Completed validations on cell bfr182 of library parts_lib
+01/09/17  11:17:30		Loading cell rk09l from library parts_lib
+01/09/17  11:17:30		Loading view sym_1 of cell rk09l
+01/09/17  11:17:30		Loading view chips of cell rk09l
+01/09/17  11:17:30		Loading view part_table of cell rk09l
+01/09/17  11:17:30		Loading file part.ptf of PTF view part_table of cell rk09l
+01/09/17  11:17:30		Loading view entity of cell rk09l
+01/09/17  11:17:30		Loading cell rk09l from library parts_lib
+01/09/17  11:17:30		Analyzing view relationships of cell rk09l in library parts_lib
+01/09/17  11:17:30		Completed loading cell rk09l from library parts_lib
+01/09/17  11:17:30		Starting validations on cell rk09l of library parts_lib
+01/09/17  11:17:30		Completed validations on cell rk09l of library parts_lib

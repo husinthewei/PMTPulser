@@ -1,132 +1,57 @@
-\t (00:00:19) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:19)     Journal start - Wed Jan 04 14:48:53 2017
-\t (00:00:19)         Host=HEP-PC User=HEP Pid=1208 CPUs=2
-\t (00:00:19) 
-\d (00:00:19) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/sot23_5.dra
-\i (00:00:20) generaledit 
-\i (00:00:21) roam start
-\i (00:00:21) roam y 32
-\i (00:00:21) roam end
-\i (00:00:24) show measure 
-\i (00:00:25) pick grid -47 40
-\t (00:00:25) last pick:  -47  40
-\i (00:00:27) pick grid -47 0
-\t (00:00:27) last pick:  -47  0
-\i (00:00:31) pick grid 47 35
-\t (00:00:31) last pick:  47  35
-\i (00:00:32) pick grid -39 34
-\t (00:00:32) last pick:  -39  34
-\e (00:00:51) Command not found: mil to mil to cm
-\i (00:04:04) setwindow text
-\i (00:04:04) close 
-\i (00:04:06) setwindow pcb
-\i (00:04:06) pick grid -48 -1
-\t (00:04:06) last pick:  -48  -1
-\i (00:04:17) setwindow text
-\i (00:04:17) close 
-\i (00:04:19) setwindow pcb
-\i (00:04:19) pick grid -56 35
-\t (00:04:19) last pick:  -56  35
-\i (00:04:20) setwindow text
-\i (00:04:20) close 
-\i (00:04:21) setwindow pcb
-\i (00:04:21) pick grid -56 32
-\t (00:04:21) last pick:  -56  32
-\i (00:04:24) pick grid -57 47
-\t (00:04:24) last pick:  -57  47
-\i (00:04:24) pick grid dbl -57 47
-\t (00:04:24) last pick:  -57  47
-\i (00:04:26) show measure 
-\i (00:04:27) pick grid 45 32
-\t (00:04:27) last pick:  45  32
-\i (00:04:30) setwindow text
-\i (00:04:30) close 
-\i (00:04:31) setwindow pcb
-\i (00:04:31) pick grid 35 38
-\t (00:04:31) last pick:  35  38
-\i (00:04:33) pick grid 44 38
-\t (00:04:33) last pick:  44  38
-\i (00:04:33) pick grid dbl 44 38
-\t (00:04:33) last pick:  44  38
-\i (00:04:35) open 
-\i (00:04:41) fillin "tsot23-5.dra"
-\t (00:04:41) Opening existing design...
-\i (00:04:41) trapsize 1
-\d (00:04:41) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/tsot23-5.dra
-\i (00:04:41) generaledit 
-\i (00:04:43) zoom out 1 
-\i (00:04:43) setwindow pcb
-\i (00:04:43) zoom out 85 4
-\i (00:04:43) trapsize 2
-\i (00:04:43) zoom out 1 
-\i (00:04:43) setwindow pcb
-\i (00:04:43) zoom out 98 3
-\i (00:04:43) trapsize 3
-\i (00:04:43) zoom in 1 
-\i (00:04:43) setwindow pcb
-\i (00:04:43) zoom in 249 13
-\i (00:04:43) trapsize 1
-\i (00:04:44) roam start
-\i (00:04:44) roam x 80
-\i (00:04:44) roam y 16
-\i (00:04:44) roam y 16
-\i (00:04:45) roam end
-\i (00:04:46) zoom in 1 
-\i (00:04:46) setwindow pcb
-\i (00:04:46) zoom in 85 -61
-\i (00:04:46) trapsize 1
-\i (00:04:46) roam start
-\i (00:04:46) roam x 48
-\i (00:04:46) roam x -48
-\i (00:04:46) roam x -160
-\i (00:04:46) roam y -16
-\i (00:04:46) roam x -144
-\i (00:04:46) roam y -16
-\i (00:04:46) roam x -48
-\i (00:04:46) roam x -48
-\i (00:04:46) roam y -16
-\i (00:04:47) roam x -48
-\i (00:04:47) roam x -80
-\i (00:04:47) roam y -16
-\i (00:04:47) roam x -80
-\i (00:04:47) roam y -16
-\i (00:04:47) roam x -16
-\i (00:04:47) roam x -16
-\i (00:04:47) roam x -16
-\i (00:04:47) roam x -32
-\i (00:04:47) roam x -64
-\i (00:04:47) roam y -16
-\i (00:04:47) roam x -32
-\i (00:04:47) roam x -48
-\i (00:04:47) roam x -48
-\i (00:04:47) roam y -16
-\i (00:04:47) roam end
-\i (00:04:48) zoom out 1 
-\i (00:04:48) setwindow pcb
-\i (00:04:48) zoom out -6 -23
-\i (00:04:48) trapsize 1
-\i (00:04:48) zoom out 1 
-\i (00:04:48) setwindow pcb
-\i (00:04:48) zoom out -6 -24
-\i (00:04:48) trapsize 3
-\i (00:04:48) zoom in 1 
-\i (00:04:48) setwindow pcb
-\i (00:04:48) zoom in -3 -22
-\i (00:04:48) trapsize 1
-\i (00:04:50) show measure 
-\i (00:04:51) pick grid -57 29
-\t (00:04:51) last pick:  -50  25
-\i (00:04:52) pick grid -56 -4
-\t (00:04:52) last pick:  -50  0
-\i (00:04:54) setwindow text
-\i (00:04:54) close 
-\i (00:04:55) setwindow pcb
-\i (00:04:55) pick grid 48 32
-\t (00:04:55) last pick:  50  25
-\i (00:04:56) pick grid -45 29
-\t (00:04:56) last pick:  -50  25
-\i (00:05:01) setwindow text
-\i (00:05:01) close 
-\i (00:05:02) setwindow pcb
-\i (00:05:02) exit 
-\t (00:05:22)     Journal end - Wed Jan 04 14:53:56 2017
+\t (00:00:31) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:31)     Journal start - Wed Jan 04 17:28:03 2017
+\t (00:00:31)         Host=HEP-PC User=HEP Pid=3328 CPUs=2
+\t (00:00:31) 
+\d (00:00:31) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/resadj.dra
+\i (00:00:31) generaledit 
+\i (00:00:32) roam start
+\i (00:00:32) roam x 128
+\i (00:00:32) roam y -48
+\i (00:00:32) roam x 176
+\i (00:00:32) roam y -48
+\i (00:00:32) roam end
+\i (00:00:32) roam start
+\i (00:00:33) roam x -128
+\i (00:00:33) roam y 48
+\i (00:00:33) roam x -80
+\i (00:00:33) roam y 48
+\i (00:00:33) roam x -16
+\i (00:00:33) roam x -80
+\i (00:00:33) roam y 32
+\i (00:00:33) roam x -48
+\i (00:00:33) roam y 32
+\i (00:00:33) roam x -48
+\i (00:00:33) roam y 16
+\i (00:00:33) roam x -32
+\i (00:00:33) roam y -16
+\i (00:00:33) roam x -32
+\i (00:00:33) roam y 32
+\i (00:00:33) roam x -32
+\i (00:00:33) roam y 16
+\i (00:00:33) roam x -32
+\i (00:00:33) roam y 16
+\i (00:00:33) roam x -32
+\i (00:00:33) roam x -16
+\i (00:00:34) roam end
+\i (00:00:44) show measure 
+\i (00:00:46) show measure 
+\i (00:00:51) pick grid -94 -102
+\t (00:00:51) last pick:  -100  -100
+\i (00:00:53) pick grid 4 -4
+\t (00:00:53) last pick:  0  0
+\i (00:01:34) setwindow text
+\i (00:01:34) close 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) pick grid 0 -201
+\t (00:01:35) last pick:  0  -200
+\i (00:02:03) pick grid 2 -12
+\t (00:02:03) last pick:  0  0
+\i (00:02:03) pick grid -94 -99
+\t (00:02:03) last pick:  -100  -100
+\i (00:02:20) setwindow text
+\i (00:02:20) close 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) exit 
+\e (00:02:22) Do you want to save the changes you made to resadj.dra?
+\i (00:02:25) fillin no 
+\t (00:02:25)     Journal end - Wed Jan 04 17:29:57 2017

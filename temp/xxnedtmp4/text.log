@@ -32,5 +32,3 @@ WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
 INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #1.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.3 into drawing #1.
