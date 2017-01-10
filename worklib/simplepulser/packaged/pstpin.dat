@@ -1,6 +1,6 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 06-Jan-2017 AT 10:24:51 }
-TIME=' COMPILATION ON 06-Jan-2017 AT 10:24:51';
+{ Packager-XL run on 09-Jan-2017 AT 16:38:17 }
+TIME=' COMPILATION ON 09-Jan-2017 AT 16:38:17';
 primitive 'ADN4661';     body 'ADN4661';
     'VCC':'(1)';
     'DIN':'(2)';

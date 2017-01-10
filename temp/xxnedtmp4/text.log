@@ -32,32 +32,3 @@ WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
 INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.3 into drawing #1.
-WARNING(SPCOCN-1178): Unexpected point.
-INFO(SPCOCN-1507): Adding version 1 of part PVCC from library standard
-INFO(SPCOCN-1854): The drawing SIMPLEPULSER.SCH.1.3
-INFO(SPCOCN-578): will be retained as drawing #1.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #2.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1445): Reading CONN2.SYM.1.1 into drawing #2.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1445): Reading CONN2.SYM.1.1 into drawing #2.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
-INFO(SPCOCN-1001): Component: I66 selected.
-INFO(SPCOCN-1001): Component: I69 selected.
-INFO(SPCOCN-1001): Component: I69 selected.
-INFO(SPCOCN-1001): Component: I64 selected.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #2.
-INFO(SPCOCN-1195): Group contains:   0 bodies   1 properties   0 notes   0 wires   0 dots   0 images
-INFO(SPCOCN-999): Signal: GND selected.
-INFO(SPCOCN-1001): Component: I9 selected.
-INFO(SPCOCN-1001): Component: I23 selected.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #2.
-INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.

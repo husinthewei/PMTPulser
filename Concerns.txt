@@ -1,0 +1,7 @@
+Need to explicity add Vcc?
+
+Names for jumpers?
+
+Parts
+
+Silkscreen style for penn?

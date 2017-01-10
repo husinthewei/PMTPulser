@@ -6,7 +6,7 @@
     Packager-XL 16.6-p001 (v16-6-112A) WIN32 9/10/2012 12:00:00 IST
     (C) Copyright 1994, Cadence Design Systems, Inc.
 
-    Run on Fri Jan 06 10:24:51 2017
+    Run on Mon Jan 09 16:38:18 2017
 
 
  **********************************************
@@ -163,9 +163,9 @@ Loading ./worklib/simplepulser/packaged/pxl.state.
 Generating state file for subdesign SIMPLEPULSER
 INFO(SPCOPK-1442): No errors detected
 INFO(SPCOPK-1444): No warnings detected
-    Start time   10:24:51
-    End time     10:24:52
-    Elapsed time  0:00:01
+    Start time   16:38:17
+    End time     16:38:22
+    Elapsed time  0:00:05
 
  ***************************************************************************
  *  Packager-XL execution done.

@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 06-Jan-2017 AT 10:24:51 }
+{ Packager-XL run on 09-Jan-2017 AT 16:38:17 }
 primitive 'ADN4661';
   pin
     'VCC':

@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 121 )
+			( logicalViewRevNum 122 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -669,36 +669,6 @@
 				( pin "\1\"
 				)
 				( pin "\2\"
-				)
-			)
-			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i70"
-				( attribute "CDS_LIB" "parts_lib"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
-					( Origin gPackager )
-				)
-				( attribute "PHYS_PAGE" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "ROT" "0"
-					( Origin gFrontEnd )
-				)
-				( attribute "VER" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "XY" "(-4100,6650)"
-					( Origin gFrontEnd )
-				)
-				( attribute "CHIPS_PART_NAME" "BAS70"
-					( Origin gPackager )
-				)
-				( objectStatus "PAGE1_I70" )
-				( pin "\1\"
-				)
-				( pin "\2\"
-				)
-				( pin "\3\"
 				)
 			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i72"
@@ -6869,6 +6839,39 @@
 				( pin "a(0)"
 				)
 				( pin "b(0)"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i110"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-125,125,125,-125"
+					( Origin gPackager )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-4100,6650)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "BAS70"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "BAS70"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I110" )
+				( pin "\1\"
+				)
+				( pin "\2\"
+				)
+				( pin "\3\"
 				)
 			)
 			( pin "@pmtpulser_lib.simplepulser(sch_1):page1_i1:v"
