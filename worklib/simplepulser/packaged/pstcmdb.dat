@@ -1,4 +1,4 @@
-; Packager-XL run on 09-Jan-2017 AT 16:38:17 CONSTRAINTS_VIEW_GENERATED
+; Packager-XL run on 10-Jan-2017 AT 12:36:26 CONSTRAINTS_VIEW_GENERATED
 ( ConstraintFile "simplepulser"
 	( constraintHeader
 		( objectKey
@@ -8,7 +8,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 124 )
+			( logicalViewRevNum 127 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -505,6 +505,9 @@
 			( signal "UNNAMED_1_LSMD1206_I107_B"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b" )
 			)
+			( signal "UNNAMED_1_7805L_I112_INPUT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_7805l_i112_input" )
+			)
 			( gate "J1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66" )
 			)
@@ -846,6 +849,12 @@
 			)
 			( gate "U3"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110" )
+			)
+			( gate "J31"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111" )
+			)
+			( gate "U11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112" )
 			)
 			( pin "J1.1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66:\1\" )
@@ -1689,6 +1698,21 @@
 			)
 			( pin "U3.3"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\3\" )
+			)
+			( pin "J31.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111:\1\" )
+			)
+			( pin "J31.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111:\2\" )
+			)
+			( pin "U11.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:gnd" )
+			)
+			( pin "U11.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:input" )
+			)
+			( pin "U11.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:\out\" )
 			)
 		)
 	)

@@ -32,3 +32,139 @@ WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
 INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_16.6\share\cdssetup\xmodules.dat'.
 INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1854): The drawing SIMPLEPULSER.SCH.1.2
+INFO(SPCOCN-578): will be retained as drawing #1.
+INFO(SPCOCN-1445): Reading SIMPLEPULSER.SCH.1.1 into drawing #2.
+INFO(SPCOCN-1001): Component: I34 selected.
+INFO(SPCOCN-1507): Adding version 1 of part CSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I113 selected.
+INFO(SPCOCN-1001): Component: I113 selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+WARNING(SPCOCN-2066): You cannot attach a property to a property. To attach a property, choose a wire, component, or pin object.
+INFO(SPCOCN-1507): Adding version 1 of part CONN3 from library parts_lib
+INFO(SPCOCN-1001): Component: I114 selected.
+INFO(SPCOCN-1000): Pin: I111.1 selected.
+zoom left; 
+INFO(SPCOCN-1001): Component: I114 selected.
+INFO(SPCOCN-1001): Component: I114 selected.
+INFO(SPCOCN-1001): Component: I111 selected.
+INFO(SPCOCN-1001): Component: I114 selected.
+INFO(SPCOCN-999): Signal: GND selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-999): Signal: GND selected.
+INFO(SPCOCN-999): Signal: GND selected.
+INFO(SPCOCN-999): Signal: GND selected.
+INFO(SPCOCN-999): Signal: VCC selected.
+property 
+WARNING(SPCOCN-2066): You cannot attach a property to a property. To attach a property, choose a wire, component, or pin object.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+WARNING(SPCOCN-2066): You cannot attach a property to a property. To attach a property, choose a wire, component, or pin object.
+INFO(SPCOCN-1507): Adding version 1 of part CONN3 from library parts_lib
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1507): Adding version 1 of part CSMD0402 from library parts_lib
+INFO(SPCOCN-1001): Component: I116 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+property 
+WARNING(SPCOCN-2066): You cannot attach a property to a property. To attach a property, choose a wire, component, or pin object.
+WARNING(SPCOCN-2066): You cannot attach a property to a property. To attach a property, choose a wire, component, or pin object.
+WARNING(SPCOCN-503): The specified stroke shape '18725' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1001): Component: I115 selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.2 has been previously edited as drawing #1.
+INFO(SPCOCN-1507): Adding version 1 of part CSMD0402 from library parts_lib
+INFO(SPCOCN-999): Signal: UN$2$BFR182$I1$EMIT selected.
+INFO(SPCOCN-1001): Component: I24 selected.
+WARNING(SPCOCN-1915): Path properties cannot be copied.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.1 has been previously edited as drawing #2.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+WARNING(SPCOCN-982): The operation could not be performed because no object on the drawing was selected.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <pmtpulser_lib>SIMPLEPULSER.SCH.1.2:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page2.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 16.6-p007 (v16-6-112F)
+
+Netlisting block simplepulser
+
+Processing page 2
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written

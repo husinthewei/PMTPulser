@@ -202,4 +202,16 @@
 		<property name="TOL"  value="10%"/>
 		<property name="VALUE"  value="20UH"/>
 	</component>
+	<component cell="csmd0402" library="parts_lib" partname="CSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="TOL"  value="10%"/>
+		<property name="VALUE"  value="100PF"/>
+		<property name="VOLTAGE"  value="25V"/>
+	</component>
+	<component cell="csmd0402" library="parts_lib" partname="CSMD0402" partno="" quantity="1" >
+		<property name="PACKTYPE"  value="0402"/>
+		<property name="TOL"  value="10%"/>
+		<property name="VALUE"  value="0.33UF"/>
+		<property name="VOLTAGE"  value="25V"/>
+	</component>
 </sc:shoppingCart>

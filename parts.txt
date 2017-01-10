@@ -1,5 +1,9 @@
 All parts are in parts lib
 
+Make
+
+BAV99T
+
 Mostly Made
 BFR182(transistor) 
 LMC555 (Timer) _____S-PDSO-G8 (made)

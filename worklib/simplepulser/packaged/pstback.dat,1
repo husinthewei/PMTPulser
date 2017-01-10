@@ -1,4 +1,4 @@
-{ Packager-XL run on 05-Jan-2017 AT 16:44:05 }
+{ Packager-XL run on 09-Jan-2017 AT 16:37:33 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page1";
 BODY = "CONN2","I64": LOCATION = "J3" #&CDS_LOCATION = "J3" &SEC = "1" #&CDS_SEC = "1";

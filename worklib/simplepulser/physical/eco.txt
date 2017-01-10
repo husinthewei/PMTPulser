@@ -3,19 +3,89 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Mon Jan 09 16:38:23 2017  |
+|                                                    Tue Jan 10 12:36:32 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  UNNAMED_2_CONN2_I22_1 pins MOVED FROM this net (to net name listed on right)
-                                 R26.3           13100.0 10350.0
-                                                       UNNAMED_2_RSMD0402_I11_1
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J31.2                          
+                                 U11.2                          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  UNNAMED_2_RSMD0402_I11_1 pins MOVED FROM this net (to net name listed on right)
-                                 R26.2           13000.0 10450.0
-                                                          UNNAMED_2_CONN2_I22_1
+  UNNAMED_1_7805L_I112_INPUT pins ADDED TO this new net
+                                 J31.1                          
+                                 U11.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.3                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  2                                              |
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Tue Jan 10 12:36:32 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 7805_L
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Tue Jan 10 12:36:32 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J31                 CONN2                 
+ U11                 7805_L                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Tue Jan 10 12:36:32 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J31                            REUSE_ID       116
+ U11                            REUSE_ID       115
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Tue Jan 10 12:36:32 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J31.2                          PRIM_FILE      ./libraries/parts_lib/conn2/chips/chips.prt
+ U11.3                          PRIM_FILE      ./libraries/parts_lib/7805_l/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Tue Jan 10 12:36:32 2017  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J31.1                          CDS_PINID      \1\
+ J31.2                          CDS_PINID      \2\
+ U11.1                          CDS_PINID      INPUT
+ U11.2                          CDS_PINID      GND
+ U11.3                          CDS_PINID      \out\
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  17                                             |
 |------------------------------------------------------------------------------|

@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : RK09L.dra                                     )
-(    Software Version : 16.6-2015S083                                 )
-(    Date/Time        : Fri Dec 30 15:35:50 2016                      )
+(    Drawing          : sym_template.dra                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jan 10 13:41:55 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  2
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

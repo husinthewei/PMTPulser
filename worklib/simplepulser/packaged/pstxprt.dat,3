@@ -1,9 +1,9 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 09-Jan-2017 AT 16:37:33 }
+{ Packager-XL run on 10-Jan-2017 AT 12:36:01 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SIMPLEPULSER';
- POST_TIME='09-Jan-2017 AT 16:37:33';
+ POST_TIME='10-Jan-2017 AT 12:36:01';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
@@ -1049,6 +1049,25 @@ SECTION_NUMBER 1
  CDS_PART_NAME='CONN2',
  PRIM_FILE='./libraries/parts_lib/conn2/chips/chips.prt',
  REUSE_ID='23';
+
+PART_NAME
+ J31 'CONN2':
+ REUSE_ID='116';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I111@PARTS_LIB.CONN2(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i111@parts_lib.conn2(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i111@parts_lib.conn2(chips)',
+ PATH='I111',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-7000,8000)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CONN2',
+ PRIM_FILE='./libraries/parts_lib/conn2/chips/chips.prt',
+ REUSE_ID='116';
 
 PART_NAME
  L1 'LSMD1206-20UH,10%,1206':
@@ -3005,5 +3024,26 @@ SECTION_NUMBER 1
  CDS_PART_NAME='HFA3128B96',
  PRIM_FILE='./libraries/parts_lib/hfa3128b96/chips/chips.prt',
  REUSE_ID='9';
+
+PART_NAME
+ U11 '7805_L':
+ REUSE_ID='115';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I112@PARTS_LIB.7805_L(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i112@parts_lib.\7805_l\(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i112@parts_lib.\7805_l\(chips)~
+',
+ PATH='I112',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-7000,7600)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='7805_L',
+ PRIM_FILE='./libraries/parts_lib/7805_l/chips/chips.prt',
+ REUSE_ID='115';
 
 END.

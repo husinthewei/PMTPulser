@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Jan 09 16:38:23 2017                      )
+(    Date/Time        : Tue Jan 10 12:36:32 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -26,25 +26,29 @@ CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTPulser\pmtpulser.cpm -y 1
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.26)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.27)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat (00:00:00.01)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat 
    Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
 
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TO220ABH' for device '7805_L' has extra pin '4'.
+
 
 
 ===========================================================
 Start Constraint Diff3 Import
 	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstcmdb.dat
-	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad05592.tmp
-	Start time: Mon Jan 09 16:38:23 2017
+	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad07592.tmp
+	Start time: Tue Jan 10 12:36:33 2017
 ===========================================================
 ===========================================================
-Finished Constraint Update	Time: Mon Jan 09 16:38:24 2017
+Finished Constraint Update	Time: Tue Jan 10 12:36:33 2017
 ===========================================================
 
 ------ Library Paths ------
@@ -59,9 +63,9 @@ PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/
 ------ Summary Statistics ------
 
 
-netrev run on Jan 9 16:38:23 2017
+netrev run on Jan 10 12:36:32 2017
    DESIGN NAME : 'SIMPLEPULSER'
-   PACKAGING ON 09-Jan-2017 AT 16:38:17
+   PACKAGING ON 10-Jan-2017 AT 12:36:26
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -86,8 +90,8 @@ netrev run on Jan 9 16:38:23 2017
 
  No error detected
  No oversight detected
- No warning detected
+  1 warnings detected
 
-cpu time      0:02:52
+cpu time      0:02:35
 elapsed time  0:00:01
 

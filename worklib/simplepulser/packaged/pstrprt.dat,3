@@ -3,11 +3,12 @@
 
                     - PART SUMMARY -
 
+7805_L		1
 ADN4661		1
 BAS70		1
 BFR182		1
 BFU730F		2
-CONN2		30
+CONN2		31
 CSMD0402-0.1UF,10%,0402,25V		13
 CSMD0402-1.0NF,10%,0402,25V		1
 CSMD0402-10NF,10%,0402,25V		1
@@ -41,4 +42,4 @@ RSMD0402-750,5%,0402		1
 RSMD0402-80,5%,0402		1
 TRIMPOT		1
 
-Total                                     114
+Total                                     116

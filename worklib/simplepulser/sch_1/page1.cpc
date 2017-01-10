@@ -32,17 +32,32 @@
   parts_lib rsmd0402 *
   page1_i109
 #CELL
-  parts_lib bas70 *
-  page1_i110
+  parts_lib 7805_l *
+  page1_i112
+#CELL
+  parts_lib csmd0402 *
+  page1_i113
+#CELL
+  parts_lib conn3 *
+  page1_i114
+#CELL
+  parts_lib csmd0402 *
+  page1_i115
+#CELL
+  parts_lib csmd0402 *
+  page1_i116
+#CELL
+  parts_lib csmd0402 *
+  page1_i117
+#CELL
+  parts_lib bav99t *
+  page1_i118
 #CELL
   parts_lib bfu730f *
   page1_i14
 #CELL
   parts_lib adn4661 *
   page1_i3
-#CELL
-  parts_lib csmd0402 *
-  page1_i34
 #CELL
   parts_lib bfu730f *
   page1_i5

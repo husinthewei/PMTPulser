@@ -1,4 +1,4 @@
-{ Packager-XL run on 09-Jan-2017 AT 16:38:17 }
+{ Packager-XL run on 10-Jan-2017 AT 12:36:26 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page1";
 BODY = "CONN2","I64": LOCATION = "J3" #&CDS_LOCATION = "J3" &SEC = "1" #&CDS_SEC = "1";
@@ -147,6 +147,13 @@ BODY = "BAS70","I110": LOCATION = "U3" #&CDS_LOCATION = "U3" &SEC = "1" #&CDS_SE
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
 "3":   PN = "3"  !CDS_PN = "3";
+BODY = "CONN2","I111": LOCATION = "J31" #&CDS_LOCATION = "J31" &SEC = "1" #&CDS_SEC = "1";
+"1":   PN = "1"  !CDS_PN = "1";
+"2":   PN = "2"  !CDS_PN = "2";
+BODY = "7805_L","I112": LOCATION = "U11" #&CDS_LOCATION = "U11" &SEC = "1" #&CDS_SEC = "1";
+"GND":   PN = "2"  !CDS_PN = "2";
+"INPUT":   PN = "1"  !CDS_PN = "1";
+"OUT":   PN = "3"  !CDS_PN = "3";
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page2";
 BODY = "BFR182","I1": LOCATION = "U8" #&CDS_LOCATION = "U8" &SEC = "1" #&CDS_SEC = "1";
 "BASE":   PN = "1"  !CDS_PN = "1";

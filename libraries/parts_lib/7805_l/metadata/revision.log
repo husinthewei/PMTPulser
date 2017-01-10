@@ -1,0 +1,14 @@
+	(Comment
+		(Time 01/10/17,12:26:22)
+		(User HEP)
+		(MsgId ECO_021)
+		(Text "Package 7805_L added to cell")
+		(Param1 "7805_L")
+	)
+	(Comment
+		(Time 01/10/17,12:28:51)
+		(User HEP)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 "sym_1")
+	)

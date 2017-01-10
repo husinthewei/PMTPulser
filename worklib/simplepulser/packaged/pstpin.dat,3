@@ -1,6 +1,11 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 09-Jan-2017 AT 16:37:33 }
-TIME=' COMPILATION ON 09-Jan-2017 AT 16:37:33';
+{ Packager-XL run on 10-Jan-2017 AT 12:36:01 }
+TIME=' COMPILATION ON 10-Jan-2017 AT 12:36:01';
+primitive '7805_L';      body '7805_L';
+    'OUT':'(3)';
+    'INPUT':'(1)';
+    'GND':'(2)';
+end_primitive;
 primitive 'ADN4661';     body 'ADN4661';
     'VCC':'(1)';
     'DIN':'(2)';
