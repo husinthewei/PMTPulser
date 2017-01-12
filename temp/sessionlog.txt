@@ -1,5 +1,14 @@
-01/10/17  14:03:32		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/10/17  14:03:32		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/10/17  14:03:32		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/10/17  14:03:32		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/10/17  14:04:10		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.
+01/12/17  16:20:10		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/12/17  16:20:10		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/12/17  16:20:10		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/12/17  16:20:10		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/12/17  16:20:17		Loading cell bav99t from library parts_lib
+01/12/17  16:20:17		Loading view sym_1 of cell bav99t
+01/12/17  16:20:17		Loading view chips of cell bav99t
+01/12/17  16:20:17		Loading view entity of cell bav99t
+01/12/17  16:20:17		Loading cell bav99t from library parts_lib
+01/12/17  16:20:17		Analyzing view relationships of cell bav99t in library parts_lib
+01/12/17  16:20:17		Completed loading cell bav99t from library parts_lib
+01/12/17  16:20:17		Starting validations on cell bav99t of library parts_lib
+01/12/17  16:20:17		Completed validations on cell bav99t of library parts_lib
+01/12/17  16:20:43		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.

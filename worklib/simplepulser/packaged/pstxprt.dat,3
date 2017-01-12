@@ -1,35 +1,36 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 10-Jan-2017 AT 12:36:01 }
+{ Packager-XL run on 12-Jan-2017 AT 15:49:34 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SIMPLEPULSER';
- POST_TIME='10-Jan-2017 AT 12:36:01';
+ POST_TIME='12-Jan-2017 AT 15:49:34';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
 PART_NAME
- C1 'CSMD0402-10PF,10%,0402,25V':
- REUSE_ID='112';
+ C1 'CSMD0402-0.33UF,10%,0402,25V':
+ REUSE_ID='123';
 
 SECTION_NUMBER 1
- '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I34@PARTS_LIB.CSMD0402(CHIPS)':
- C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i34@parts_lib.csmd0402(chips)',
- P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i34@parts_lib.csmd0402(chips)',
- PATH='I34',
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I116@PARTS_LIB.CSMD0402(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i116@parts_lib.csmd0402(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i116@parts_lib.csmd0402(chips)~
+',
+ PATH='I116',
  DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
  PACKTYPE='0402',
- VAL='C',
  PHYS_PAGE='1',
- XY='(-6850,6200)',
- ROT='1',
+ XY='(-7200,7500)',
+ ROT='3',
  VER='1',
- VALUE='10PF',
+ VALUE='0.33UF',
  TOL='10%',
  CDS_LIB='parts_lib',
- CDS_PART_NAME='CSMD0402-10PF,10%,0402,25V',
+ CDS_PART_NAME='CSMD0402-0.33UF,10%,0402,25V',
  VOLTAGE='25V',
  PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
- REUSE_ID='112';
+ REUSE_ID='123';
 
 PART_NAME
  C2 'CSMD0402-2.2NF,10%,0402,25V':
@@ -479,6 +480,104 @@ SECTION_NUMBER 1
  VOLTAGE='25V',
  PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
  REUSE_ID='43';
+
+PART_NAME
+ C21 'CSMD0402-100PF,10%,0402,25V':
+ REUSE_ID='121';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I113@PARTS_LIB.CSMD0402(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i113@parts_lib.csmd0402(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i113@parts_lib.csmd0402(chips)~
+',
+ PATH='I113',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PACKTYPE='0402',
+ PHYS_PAGE='1',
+ XY='(-6850,6200)',
+ ROT='1',
+ VER='1',
+ VALUE='100PF',
+ TOL='10%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD0402-100PF,10%,0402,25V',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
+ REUSE_ID='121';
+
+PART_NAME
+ C22 'CSMD0402-0.1UF,10%,0402,25V':
+ REUSE_ID='120';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I115@PARTS_LIB.CSMD0402(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i115@parts_lib.csmd0402(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i115@parts_lib.csmd0402(chips)~
+',
+ PATH='I115',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PACKTYPE='0402',
+ PHYS_PAGE='1',
+ XY='(-6750,7500)',
+ ROT='5',
+ VER='1',
+ VALUE='0.1UF',
+ TOL='10%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD0402-0.1UF,10%,0402,25V',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
+ REUSE_ID='120';
+
+PART_NAME
+ C23 'CSMD0402-0.1UF,10%,0402,25V':
+ REUSE_ID='119';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I117@PARTS_LIB.CSMD0402(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i117@parts_lib.csmd0402(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i117@parts_lib.csmd0402(chips)~
+',
+ PATH='I117',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PACKTYPE='0402',
+ PHYS_PAGE='1',
+ XY='(-5300,6750)',
+ ROT='5',
+ VER='1',
+ VALUE='0.1UF',
+ TOL='10%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD0402-0.1UF,10%,0402,25V',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
+ REUSE_ID='119';
+
+PART_NAME
+ C24 'CSMD0402-0.1UF,10%,0402,25V':
+ REUSE_ID='117';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE2_I24@PARTS_LIB.CSMD0402(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page2_i24@parts_lib.csmd0402(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page2_i24@parts_lib.csmd0402(chips)',
+ PATH='I24',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE2',
+ PACKTYPE='0402',
+ PHYS_PAGE='2',
+ XY='(2100,650)',
+ ROT='5',
+ VER='1',
+ VALUE='0.1UF',
+ TOL='10%',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='CSMD0402-0.1UF,10%,0402,25V',
+ VOLTAGE='25V',
+ PRIM_FILE='./libraries/parts_lib/csmd0402/chips/chips.prt',
+ REUSE_ID='117';
 
 PART_NAME
  J1 'CONN2':
@@ -1051,25 +1150,6 @@ SECTION_NUMBER 1
  REUSE_ID='23';
 
 PART_NAME
- J31 'CONN2':
- REUSE_ID='116';
-
-SECTION_NUMBER 1
- '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I111@PARTS_LIB.CONN2(CHIPS)':
- C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i111@parts_lib.conn2(chips)',
- P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i111@parts_lib.conn2(chips)',
- PATH='I111',
- DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
- PHYS_PAGE='1',
- XY='(-7000,8000)',
- ROT='0',
- VER='1',
- CDS_LIB='parts_lib',
- CDS_PART_NAME='CONN2',
- PRIM_FILE='./libraries/parts_lib/conn2/chips/chips.prt',
- REUSE_ID='116';
-
-PART_NAME
  L1 'LSMD1206-20UH,10%,1206':
  REUSE_ID='87';
 
@@ -1099,6 +1179,31 @@ SECTION_NUMBER 1
  CDS_PART_NAME='LSMD1206-20UH,10%,1206',
  PRIM_FILE='./libraries/parts_lib/lsmd1206/chips/chips.prt',
  REUSE_ID='87';
+
+PART_NAME
+ Q1 '7806_L':
+ REUSE_ID='125';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I119@PARTS_LIB.7806_L(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i119@parts_lib.\7806_l\(chips)~
+',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i119@parts_lib.\7806_l\(chips)~
+',
+ PATH='I119',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ RCA='DEF',
+ NAME='7805',
+ ABBREV='MC7805K',
+ TOL_ON_OFF='ON',
+ PHYS_PAGE='1',
+ XY='(-6950,7600)',
+ ROT='0',
+ VER='1',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='7806_L',
+ PRIM_FILE='./libraries/parts_lib/7806_l/chips/chips.prt',
+ REUSE_ID='125';
 
 PART_NAME
  R1 'RSMD0402-50,5%,0402':
@@ -2870,23 +2975,23 @@ SECTION_NUMBER 1
  REUSE_ID='98';
 
 PART_NAME
- U3 'BAS70':
- REUSE_ID='97';
+ U3 'CONN3':
+ REUSE_ID='122';
 
 SECTION_NUMBER 1
- '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I110@PARTS_LIB.BAS70(CHIPS)':
- C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i110@parts_lib.bas70(chips)',
- P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i110@parts_lib.bas70(chips)',
- PATH='I110',
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I114@PARTS_LIB.CONN3(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i114@parts_lib.conn3(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i114@parts_lib.conn3(chips)',
+ PATH='I114',
  DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
  PHYS_PAGE='1',
- XY='(-4100,6650)',
- ROT='0',
+ XY='(-7000,8100)',
+ ROT='1',
  VER='1',
  CDS_LIB='parts_lib',
- CDS_PART_NAME='BAS70',
- PRIM_FILE='./libraries/parts_lib/bas70/chips/chips.prt',
- REUSE_ID='97';
+ CDS_PART_NAME='CONN3',
+ PRIM_FILE='./libraries/parts_lib/conn3/chips/chips.prt',
+ REUSE_ID='122';
 
 PART_NAME
  U4 'BFU730F':
@@ -3026,24 +3131,22 @@ SECTION_NUMBER 1
  REUSE_ID='9';
 
 PART_NAME
- U11 '7805_L':
- REUSE_ID='115';
+ U12 'BAV99T':
+ REUSE_ID='118';
 
 SECTION_NUMBER 1
- '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I112@PARTS_LIB.7805_L(CHIPS)':
- C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i112@parts_lib.\7805_l\(chips)~
-',
- P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i112@parts_lib.\7805_l\(chips)~
-',
- PATH='I112',
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I118@PARTS_LIB.BAV99T(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i118@parts_lib.bav99t(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i118@parts_lib.bav99t(chips)',
+ PATH='I118',
  DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
  PHYS_PAGE='1',
- XY='(-7000,7600)',
+ XY='(-4050,6650)',
  ROT='0',
  VER='1',
  CDS_LIB='parts_lib',
- CDS_PART_NAME='7805_L',
- PRIM_FILE='./libraries/parts_lib/7805_l/chips/chips.prt',
- REUSE_ID='115';
+ CDS_PART_NAME='BAV99T',
+ PRIM_FILE='./libraries/parts_lib/bav99t/chips/chips.prt',
+ REUSE_ID='118';
 
 END.

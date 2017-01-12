@@ -10,7 +10,7 @@ primitive 'BAV99T';
       NO_DIR_CHECK='TRUE';
       ALLOW_CONNECT='TRUE';
     'ANODE2':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(3)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
       NO_IO_CHECK='Both';
@@ -18,7 +18,7 @@ primitive 'BAV99T';
       NO_DIR_CHECK='TRUE';
       ALLOW_CONNECT='TRUE';
     'CATHODE':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(2)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
       NO_IO_CHECK='Both';

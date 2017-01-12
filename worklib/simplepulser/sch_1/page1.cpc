@@ -32,9 +32,6 @@
   parts_lib rsmd0402 *
   page1_i109
 #CELL
-  parts_lib 7805_l *
-  page1_i112
-#CELL
   parts_lib csmd0402 *
   page1_i113
 #CELL
@@ -52,6 +49,9 @@
 #CELL
   parts_lib bav99t *
   page1_i118
+#CELL
+  parts_lib 7806_l *
+  page1_i119
 #CELL
   parts_lib bfu730f *
   page1_i14

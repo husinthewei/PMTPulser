@@ -3,89 +3,66 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
+|                                                    Thu Jan 12 16:21:25 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 J31.2                          
-                                 U11.2                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  UNNAMED_1_7805L_I112_INPUT pins ADDED TO this new net
-                                 J31.1                          
-                                 U11.1                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC          pins ADDED TO this existing net (pins not previously on any net)
-                                 U11.3                          
+  UNNAMED_1_ADN4661_I3_VCC pins DELETED FROM this net (pin now not on any net)
+                                 U12.3           13929.6 9851.00
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U12.2           13884.3 9831.31
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
+|                                                    Thu Jan 12 16:21:25 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 7805_L
+ BAV99T
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
+|                                                    Thu Jan 12 16:21:25 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to board drawing                                            |
+| COMPONENTS CHANGED from one device type to another in board drawing          |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J31                 CONN2                 
- U11                 7805_L                
+ U12                 BAV99T                13907.0 9851.00 BAV99T
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENT PROPERTIES added to board drawing                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   ref  des   |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J31                            REUSE_ID       116
- U11                            REUSE_ID       115
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
+|                                                    Thu Jan 12 16:21:25 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J31.2                          PRIM_FILE      ./libraries/parts_lib/conn2/chips/chips.prt
- U11.3                          PRIM_FILE      ./libraries/parts_lib/7805_l/chips/chips.prt
+ U12.2          13907.0 9851.00 PRIM_FILE      ./libraries/parts_lib/bav99t/chips/chips.prt
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
+|                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Tue Jan 10 12:36:32 2017  |
+|                                                    Thu Jan 12 16:21:25 2017  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J31.1                          CDS_PINID      \1\
- J31.2                          CDS_PINID      \2\
- U11.1                          CDS_PINID      INPUT
- U11.2                          CDS_PINID      GND
- U11.3                          CDS_PINID      \out\
+ U12.2          13884.3 9831.31 CDS_PINID      CATHODE
+ U12.3          13929.6 9851.00 CDS_PINID      ANODE2
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  17                                             |
+|   total ECO changes reported  7                                              |
 |------------------------------------------------------------------------------|

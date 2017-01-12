@@ -1,8 +1,8 @@
-Log File: C:\Users\HEP\AppData\Local\Temp\s3e0.
-Markers File: C:\Users\HEP\AppData\Local\Temp\s3e0.1
-Debug File: C:\Users\HEP\AppData\Local\Temp\s3e0.3
+Log File: C:\Users\HEP\AppData\Local\Temp\s7vs.
+Markers File: C:\Users\HEP\AppData\Local\Temp\s7vs.1
+Debug File: C:\Users\HEP\AppData\Local\Temp\s7vs.3
      Debug[0] := TRUE
-Elapsed time since start = (00:00:02)
+Elapsed time since start = (00:00:00)
 
  **************************************************************
  *  End processing project file and command line  (00:00:00)  *
@@ -49,12 +49,13 @@ INFO(SPCODD-216): Created merged part 'CSMD0402-2.2NF,10,0402,25V' for PPT 'CSMD
 INFO(SPCODD-216): Created merged part 'CSMD0402-10NF,10,0402,25V' for PPT 'CSMD0402'.
 INFO(SPCODD-216): Created merged part 'CSMD0402-2.2UF,10,0402,25V' for PPT 'CSMD0402'.
 INFO(SPCODD-216): Created merged part 'CSMD0402-40PF,10,0402,25V' for PPT 'CSMD0402'.
+INFO(SPCODD-216): Created merged part 'CSMD0402-0.33UF,10,0402,25V' for PPT 'CSMD0402'.
 
  *************************
  *  Loading State Files  *
  *************************
 
-Elapsed time since start = (00:00:05)
+Elapsed time since start = (00:00:01)
 
  *****************************************
  *  End loading State Files  (00:00:00)  *
@@ -65,7 +66,7 @@ Elapsed time since start = (00:00:05)
  *  Starting to assign physical parts.  *
  ****************************************
 
-Elapsed time since start = (00:00:05)
+Elapsed time since start = (00:00:01)
 
  ***********************************************
  *  End assigning physical parts.  (00:00:00)  *
@@ -76,7 +77,7 @@ Elapsed time since start = (00:00:05)
  *  Packaging  *
  ***************
 
-Elapsed time since start = (00:00:05)
+Elapsed time since start = (00:00:01)
 
  *******************************
  *  End packaging  (00:00:00)  *

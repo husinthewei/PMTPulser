@@ -1,4 +1,4 @@
-; Packager-XL run on 10-Jan-2017 AT 12:36:26 CONSTRAINTS_VIEW_GENERATED
+; Packager-XL run on 12-Jan-2017 AT 16:21:22 CONSTRAINTS_VIEW_GENERATED
 ( ConstraintFile "simplepulser"
 	( constraintHeader
 		( objectKey
@@ -8,7 +8,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 127 )
+			( logicalViewRevNum 141 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -281,6 +281,38 @@
 			( Analysis
 			)
 		)
+		( Attribute
+			( Name "NAME" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "RCA" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
 	)
 	( designConstraints
 		( ruleChanges
@@ -336,9 +368,6 @@
 			)
 			( signal "UNNAMED_1_CONN2_I69_1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_conn2_i69_1" )
-			)
-			( signal "UNNAMED_1_CSMD0402_I34_B"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i34_b" )
 			)
 			( signal "UNNAMED_1_LMC555_I1_DISCH"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_disch" )
@@ -505,8 +534,11 @@
 			( signal "UNNAMED_1_LSMD1206_I107_B"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b" )
 			)
-			( signal "UNNAMED_1_7805L_I112_INPUT"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_7805l_i112_input" )
+			( signal "UNNAMED_1_CSMD0402_I113_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i113_b" )
+			)
+			( signal "UNNAMED_1_7806L_I119_INPUT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_7806l_i119_input" )
 			)
 			( gate "J1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66" )
@@ -593,7 +625,7 @@
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14" )
 			)
 			( gate "C1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i116" )
 			)
 			( gate "R19"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98" )
@@ -847,14 +879,26 @@
 			( gate "L1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107" )
 			)
+			( gate "C22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i115" )
+			)
+			( gate "C21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i113" )
+			)
 			( gate "U3"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i114" )
 			)
-			( gate "J31"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111" )
+			( gate "C23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i117" )
 			)
-			( gate "U11"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112" )
+			( gate "C24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i24" )
+			)
+			( gate "U12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i118" )
+			)
+			( gate "Q1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119" )
 			)
 			( pin "J1.1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66:\1\" )
@@ -1073,10 +1117,10 @@
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14:\4\" )
 			)
 			( pin "C1.1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34:a(0)" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i116:a(0)" )
 			)
 			( pin "C1.2"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34:b(0)" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i116:b(0)" )
 			)
 			( pin "R19.1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98:\1\" )
@@ -1690,29 +1734,56 @@
 			( pin "L1.2"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107:b(0)" )
 			)
+			( pin "C22.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i115:a(0)" )
+			)
+			( pin "C22.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i115:b(0)" )
+			)
+			( pin "C21.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i113:a(0)" )
+			)
+			( pin "C21.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i113:b(0)" )
+			)
 			( pin "U3.1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\1\" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i114:\1\" )
 			)
 			( pin "U3.2"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\2\" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i114:\2\" )
 			)
 			( pin "U3.3"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110:\3\" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i114:\3\" )
 			)
-			( pin "J31.1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111:\1\" )
+			( pin "C23.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i117:a(0)" )
 			)
-			( pin "J31.2"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111:\2\" )
+			( pin "C23.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i117:b(0)" )
 			)
-			( pin "U11.2"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:gnd" )
+			( pin "C24.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i24:a(0)" )
 			)
-			( pin "U11.1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:input" )
+			( pin "C24.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i24:b(0)" )
 			)
-			( pin "U11.3"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112:\out\" )
+			( pin "U12.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i118:anode1" )
+			)
+			( pin "U12.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i118:anode2" )
+			)
+			( pin "U12.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i118:cathode" )
+			)
+			( pin "Q1.2"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119:ground" )
+			)
+			( pin "Q1.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119:input" )
+			)
+			( pin "Q1.3"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119:output" )
 			)
 		)
 	)

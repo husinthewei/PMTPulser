@@ -1,5 +1,32 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 09-Jan-2017 AT 16:38:17 }
+{ Packager-XL run on 12-Jan-2017 AT 15:25:10 }
+primitive '7806_L';
+  pin
+    'INPUT':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GROUND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUTPUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+      LAST_MODIFIED='Fri May 22 15:20:13 PDT 1992';
+      ABBREV='7806_L';
+      NEEDS_NO_SIZE='TRUE';
+      PHYS_DES_PREFIX='Q';
+      CLASS='IC';
+      JEDEC_TYPE='TO220ABH';
+      NC_PINS='(4)';
+      LEADOUT_STYLE='TO220ABH';
+      PINCOUNT='4';
+      PATH='10P';
+      SIZE='1';
+      PART_NAME='7806_L';
+  end_body;
+end_primitive;
 primitive 'ADN4661';
   pin
     'VCC':
@@ -83,9 +110,9 @@ primitive 'ADN4661';
       CLASS='IC';
   end_body;
 end_primitive;
-primitive 'BAS70';
+primitive 'BAV99T';
   pin
-    '1':
+    'ANODE1':
       PIN_NUMBER='(1)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
@@ -94,7 +121,7 @@ primitive 'BAS70';
       NO_DIR_CHECK='TRUE';
       ALLOW_CONNECT='TRUE';
       PINUSE='UNSPEC';
-    '2':
+    'ANODE2':
       PIN_NUMBER='(2)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
@@ -103,7 +130,7 @@ primitive 'BAS70';
       NO_DIR_CHECK='TRUE';
       ALLOW_CONNECT='TRUE';
       PINUSE='UNSPEC';
-    '3':
+    'CATHODE':
       PIN_NUMBER='(3)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
@@ -114,9 +141,9 @@ primitive 'BAS70';
       PINUSE='UNSPEC';
   end_pin;
   body
-      PART_NAME='BAS70';
-      BODY_NAME='BAS70';
-      JEDEC_TYPE='SOT23_DAVID';
+      PART_NAME='BAV99T';
+      BODY_NAME='BAV99T';
+      JEDEC_TYPE='SOT523';
       PHYS_DES_PREFIX='U';
       CLASS='IC';
   end_body;
@@ -232,6 +259,44 @@ primitive 'CONN2';
       CLASS='IC';
   end_body;
 end_primitive;
+primitive 'CONN3';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+      PART_NAME='CONN3';
+      BODY_NAME='CONN3';
+      JEDEC_TYPE='HSR3';
+      PHYS_DES_PREFIX='U';
+      CLASS='IC';
+  end_body;
+end_primitive;
 primitive 'CSMD0402-0.1UF,10%,0402,25V';
   pin
     'A'<0>:
@@ -263,6 +328,39 @@ primitive 'CSMD0402-0.1UF,10%,0402,25V';
       PARENT_PART_TYPE='CSMD0402';
       PARENT_PPT='CSMD0402';
       PARENT_PPT_PART='CSMD0402-0.1UF,10%,0402,25V';
+  end_body;
+end_primitive;
+primitive 'CSMD0402-0.33UF,10%,0402,25V';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+  end_pin;
+  body
+      PART_NAME='CSMD0402';
+      PATH='1P';
+      DRAWING='ELEMENTCHIPS.LOGIC.1.1';
+      PRIM_TYPE='CHIPS_PRT';
+      PRIM_FILE='/modeler/build/awbged/element/capacitor/chips_prt';
+      VER='1';
+      XY='(1400,2400)';
+      DIR='ELEMENT.LIB';
+      ROT='0';
+      PINCOUNT='2';
+      SIZE='1';
+      BODY_NAME='CSMD0402';
+      JEDEC_TYPE='C0402';
+      PHYS_DES_PREFIX='C';
+      CLASS='DISCRETE';
+      VALUE='0.33UF';
+      PARENT_PART_TYPE='CSMD0402';
+      PARENT_PPT='CSMD0402';
+      PARENT_PPT_PART='CSMD0402-0.33UF,10%,0402,25V';
   end_body;
 end_primitive;
 primitive 'CSMD0402-1.0NF,10%,0402,25V';
@@ -298,6 +396,39 @@ primitive 'CSMD0402-1.0NF,10%,0402,25V';
       PARENT_PPT_PART='CSMD0402-1.0NF,10%,0402,25V';
   end_body;
 end_primitive;
+primitive 'CSMD0402-100PF,10%,0402,25V';
+  pin
+    'A'<0>:
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+    'B'<0>:
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      PIN_GROUP='1';
+  end_pin;
+  body
+      PART_NAME='CSMD0402';
+      PATH='1P';
+      DRAWING='ELEMENTCHIPS.LOGIC.1.1';
+      PRIM_TYPE='CHIPS_PRT';
+      PRIM_FILE='/modeler/build/awbged/element/capacitor/chips_prt';
+      VER='1';
+      XY='(1400,2400)';
+      DIR='ELEMENT.LIB';
+      ROT='0';
+      PINCOUNT='2';
+      SIZE='1';
+      BODY_NAME='CSMD0402';
+      JEDEC_TYPE='C0402';
+      PHYS_DES_PREFIX='C';
+      CLASS='DISCRETE';
+      VALUE='100PF';
+      PARENT_PART_TYPE='CSMD0402';
+      PARENT_PPT='CSMD0402';
+      PARENT_PPT_PART='CSMD0402-100PF,10%,0402,25V';
+  end_body;
+end_primitive;
 primitive 'CSMD0402-10NF,10%,0402,25V';
   pin
     'A'<0>:
@@ -329,39 +460,6 @@ primitive 'CSMD0402-10NF,10%,0402,25V';
       PARENT_PART_TYPE='CSMD0402';
       PARENT_PPT='CSMD0402';
       PARENT_PPT_PART='CSMD0402-10NF,10%,0402,25V';
-  end_body;
-end_primitive;
-primitive 'CSMD0402-10PF,10%,0402,25V';
-  pin
-    'A'<0>:
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-      PIN_GROUP='1';
-    'B'<0>:
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-      PIN_GROUP='1';
-  end_pin;
-  body
-      PART_NAME='CSMD0402';
-      PATH='1P';
-      DRAWING='ELEMENTCHIPS.LOGIC.1.1';
-      PRIM_TYPE='CHIPS_PRT';
-      PRIM_FILE='/modeler/build/awbged/element/capacitor/chips_prt';
-      VER='1';
-      XY='(1400,2400)';
-      DIR='ELEMENT.LIB';
-      ROT='0';
-      PINCOUNT='2';
-      SIZE='1';
-      BODY_NAME='CSMD0402';
-      JEDEC_TYPE='C0402';
-      PHYS_DES_PREFIX='C';
-      CLASS='DISCRETE';
-      VALUE='10PF';
-      PARENT_PART_TYPE='CSMD0402';
-      PARENT_PPT='CSMD0402';
-      PARENT_PPT_PART='CSMD0402-10PF,10%,0402,25V';
   end_body;
 end_primitive;
 primitive 'CSMD0402-2.2NF,10%,0402,25V';

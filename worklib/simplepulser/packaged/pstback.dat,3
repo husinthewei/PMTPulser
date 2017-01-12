@@ -1,4 +1,4 @@
-{ Packager-XL run on 10-Jan-2017 AT 12:36:01 }
+{ Packager-XL run on 12-Jan-2017 AT 15:49:34 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page1";
 BODY = "CONN2","I64": LOCATION = "J3" #&CDS_LOCATION = "J3" &SEC = "1" #&CDS_SEC = "1";
@@ -62,9 +62,6 @@ BODY = "BFU730F","I14": LOCATION = "U5" #&CDS_LOCATION = "U5" &SEC = "1" #&CDS_S
 "2":   PN = "2"  !CDS_PN = "2";
 "3":   PN = "3"  !CDS_PN = "3";
 "4":   PN = "4"  !CDS_PN = "4";
-BODY = "CSMD0402","I34": LOCATION = "C1" #&CDS_LOCATION = "C1" &SEC = "1" #&CDS_SEC = "1";
-"A<0>":   PN = "1"  !CDS_PN = "1";
-"B<0>":   PN = "2"  !CDS_PN = "2";
 BODY = "CONN2","I66": LOCATION = "J1" #&CDS_LOCATION = "J1" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
@@ -143,17 +140,30 @@ BODY = "RSMD0402","I108": LOCATION = "R16" #&CDS_LOCATION = "R16" &SEC = "1" #&C
 BODY = "RSMD0402","I109": LOCATION = "R1" #&CDS_LOCATION = "R1" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
-BODY = "BAS70","I110": LOCATION = "U3" #&CDS_LOCATION = "U3" &SEC = "1" #&CDS_SEC = "1";
+BODY = "CSMD0402","I113": LOCATION = "C21" #&CDS_LOCATION = "C21" &SEC = "1" #&CDS_SEC = "1";
+"A<0>":   PN = "1"  !CDS_PN = "1";
+"B<0>":   PN = "2"  !CDS_PN = "2";
+BODY = "CONN3","I114": LOCATION = "U3" #&CDS_LOCATION = "U3" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
 "3":   PN = "3"  !CDS_PN = "3";
-BODY = "CONN2","I111": LOCATION = "J31" #&CDS_LOCATION = "J31" &SEC = "1" #&CDS_SEC = "1";
-"1":   PN = "1"  !CDS_PN = "1";
-"2":   PN = "2"  !CDS_PN = "2";
-BODY = "7805_L","I112": LOCATION = "U11" #&CDS_LOCATION = "U11" &SEC = "1" #&CDS_SEC = "1";
-"GND":   PN = "2"  !CDS_PN = "2";
+BODY = "CSMD0402","I115": LOCATION = "C22" #&CDS_LOCATION = "C22" &SEC = "1" #&CDS_SEC = "1";
+"A<0>":   PN = "1"  !CDS_PN = "1";
+"B<0>":   PN = "2"  !CDS_PN = "2";
+BODY = "CSMD0402","I116": LOCATION = "C1" #&CDS_LOCATION = "C1" &SEC = "1" #&CDS_SEC = "1";
+"A<0>":   PN = "1"  !CDS_PN = "1";
+"B<0>":   PN = "2"  !CDS_PN = "2";
+BODY = "CSMD0402","I117": LOCATION = "C23" #&CDS_LOCATION = "C23" &SEC = "1" #&CDS_SEC = "1";
+"A<0>":   PN = "1"  !CDS_PN = "1";
+"B<0>":   PN = "2"  !CDS_PN = "2";
+BODY = "BAV99T","I118": LOCATION = "U12" #&CDS_LOCATION = "U12" &SEC = "1" #&CDS_SEC = "1";
+"ANODE1":   PN = "1"  !CDS_PN = "1";
+"ANODE2":   PN = "2"  !CDS_PN = "2";
+"CATHODE":   PN = "3"  !CDS_PN = "3";
+BODY = "7806_L","I119": LOCATION = "Q1" #&CDS_LOCATION = "Q1" &SEC = "1" #&CDS_SEC = "1";
+"GROUND":   PN = "2"  !CDS_PN = "2";
 "INPUT":   PN = "1"  !CDS_PN = "1";
-"OUT":   PN = "3"  !CDS_PN = "3";
+"OUTPUT":   PN = "3"  !CDS_PN = "3";
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page2";
 BODY = "BFR182","I1": LOCATION = "U8" #&CDS_LOCATION = "U8" &SEC = "1" #&CDS_SEC = "1";
 "BASE":   PN = "1"  !CDS_PN = "1";
@@ -220,6 +230,9 @@ BODY = "CONN2","I22": LOCATION = "J6" #&CDS_LOCATION = "J6" &SEC = "1" #&CDS_SEC
 BODY = "CONN2","I23": LOCATION = "J7" #&CDS_LOCATION = "J7" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
+BODY = "CSMD0402","I24": LOCATION = "C24" #&CDS_LOCATION = "C24" &SEC = "1" #&CDS_SEC = "1";
+"A<0>":   PN = "1"  !CDS_PN = "1";
+"B<0>":   PN = "2"  !CDS_PN = "2";
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page3";
 BODY = "RSMD0402","I1": LOCATION = "R36" #&CDS_LOCATION = "R36" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";

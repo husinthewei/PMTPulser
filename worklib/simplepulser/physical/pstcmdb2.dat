@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 127 )
+			( logicalViewRevNum 141 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -77,9 +77,6 @@
 			)
 			( signal "UNNAMED_1_CONN2_I69_1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_conn2_i69_1" )
-			)
-			( signal "UNNAMED_1_CSMD0402_I34_B"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i34_b" )
 			)
 			( signal "UNNAMED_1_LMC555_I1_DISCH"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lmc555_i1_disch" )
@@ -246,8 +243,11 @@
 			( signal "UNNAMED_1_LSMD1206_I107_B"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_lsmd1206_i107_b" )
 			)
-			( signal "UNNAMED_1_7805L_I112_INPUT"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_7805l_i112_input" )
+			( signal "UNNAMED_1_CSMD0402_I113_B"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i113_b" )
+			)
+			( signal "UNNAMED_1_7806L_I119_INPUT"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_7806l_i119_input" )
 			)
 			( gate "J1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66" )
@@ -334,7 +334,7 @@
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i14" )
 			)
 			( gate "C1"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i34" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i116" )
 			)
 			( gate "R19"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i98" )
@@ -588,14 +588,26 @@
 			( gate "L1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i107" )
 			)
+			( gate "C22"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i115" )
+			)
+			( gate "C21"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i113" )
+			)
 			( gate "U3"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i110" )
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i114" )
 			)
-			( gate "J31"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i111" )
+			( gate "C23"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i117" )
 			)
-			( gate "U11"
-				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i112" )
+			( gate "C24"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page2_i24" )
+			)
+			( gate "U12"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i118" )
+			)
+			( gate "Q1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119" )
 			)
 		)
 	)
