@@ -1,8 +1,8 @@
-Log File: C:\Users\HEP\AppData\Local\Temp\s7vs.
-Markers File: C:\Users\HEP\AppData\Local\Temp\s7vs.1
-Debug File: C:\Users\HEP\AppData\Local\Temp\s7vs.3
+Log File: C:\Users\HEP\AppData\Local\Temp\s430.
+Markers File: C:\Users\HEP\AppData\Local\Temp\s430.1
+Debug File: C:\Users\HEP\AppData\Local\Temp\s430.3
      Debug[0] := TRUE
-Elapsed time since start = (00:00:00)
+Elapsed time since start = (00:00:02)
 
  **************************************************************
  *  End processing project file and command line  (00:00:00)  *
@@ -55,7 +55,7 @@ INFO(SPCODD-216): Created merged part 'CSMD0402-0.33UF,10,0402,25V' for PPT 'CSM
  *  Loading State Files  *
  *************************
 
-Elapsed time since start = (00:00:01)
+Elapsed time since start = (00:00:04)
 
  *****************************************
  *  End loading State Files  (00:00:00)  *
@@ -66,7 +66,7 @@ Elapsed time since start = (00:00:01)
  *  Starting to assign physical parts.  *
  ****************************************
 
-Elapsed time since start = (00:00:01)
+Elapsed time since start = (00:00:04)
 
  ***********************************************
  *  End assigning physical parts.  (00:00:00)  *
@@ -77,7 +77,7 @@ Elapsed time since start = (00:00:01)
  *  Packaging  *
  ***************
 
-Elapsed time since start = (00:00:01)
+Elapsed time since start = (00:00:04)
 
  *******************************
  *  End packaging  (00:00:00)  *

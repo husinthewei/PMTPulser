@@ -5,7 +5,7 @@
     <schemaVersion>16.6</schemaVersion>
     <creatorTool>concepthdl</creatorTool>
     <modifierTool>concepthdl</modifierTool>
-    <modificationTime>2017-01-12T15:24:59</modificationTime>
+    <modificationTime>2017-01-13T16:12:16</modificationTime>
     <savedLibrary>pmtpulser_lib</savedLibrary>
   </header>
   <designs>
@@ -817,10 +817,6 @@
           <id>N244</id>
           <name>unnamed_1_7806l_i119_input</name>
         </net>
-        <net>
-          <id>N245</id>
-          <name>unnamed_1_7806l_i119_output</name>
-        </net>
       </nets>
       <aliases>
       </aliases>
@@ -1398,6 +1394,7 @@
               <id>M847</id>
               <termid>T28</termid>
               <connections>
+                <connection net="N149" />
               </connections>
             </pin>
             <pin>
@@ -1446,6 +1443,7 @@
               <id>M851</id>
               <termid>T28</termid>
               <connections>
+                <connection net="N146" />
               </connections>
             </pin>
             <pin>
@@ -5292,7 +5290,7 @@
               <msb>0</msb>
               <lsb>0</lsb>
               <connections>
-                <connection pinmsb="0" pinlsb="0" net="N245" />
+                <connection pinmsb="0" pinlsb="0" net="N164" />
               </connections>
             </pin>
             <pin>
@@ -5501,7 +5499,7 @@
               <id>M1229</id>
               <termid>T94</termid>
               <connections>
-                <connection net="N245" />
+                <connection net="N164" />
               </connections>
             </pin>
           </pins>
@@ -5536,7 +5534,6 @@
               <net ref="self trig"></net>
               <net ref="tstpls"></net>
               <net ref="unnamed_1_7806l_i119_input"></net>
-              <net ref="unnamed_1_7806l_i119_output"></net>
               <net ref="unnamed_1_adn4661_i3_din"></net>
               <net ref="unnamed_1_adn4661_i3_dout"></net>
               <net ref="unnamed_1_adn4661_i3_dout_1"></net>

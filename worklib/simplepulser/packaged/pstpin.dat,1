@@ -1,6 +1,6 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 12-Jan-2017 AT 15:24:31 }
-TIME=' COMPILATION ON 12-Jan-2017 AT 15:24:31';
+{ Packager-XL run on 12-Jan-2017 AT 15:49:34 }
+TIME=' COMPILATION ON 12-Jan-2017 AT 15:49:34';
 primitive '7806_L';      body '7806_L';
     'INPUT':'(1)';
     'GROUND':'(2)';

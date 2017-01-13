@@ -1,138 +1,30 @@
 \t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:01)     Journal start - Thu Jan 12 16:36:42 2017
-\t (00:00:01)         Host=HEP-PC User=HEP Pid=10232 CPUs=2
+\t (00:00:01)     Journal start - Fri Jan 13 16:13:01 2017
+\t (00:00:01)         Host=HEP-PC User=HEP Pid=5640 CPUs=2
 \t (00:00:01) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd
-\i (00:00:05) trapsize 1826
-\i (00:00:05) trapsize 1792
-\i (00:00:05) trapsize 1831
-\i (00:00:05) trapsize 1831
+\t (00:00:03) Opening existing design...
+\w (00:00:03) WARNING(SPMHDB-214): Allegro PCB Designer (was Performance L) opening an Allegro Editor design.
+\w (00:00:03) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:03) WARNING(SPMHOD-33): Design was last saved by a different product (Allegro Editor). Constraints and other design data may not be available with this product. Functionality between two products may also be equivalent, you should consult the product functionality matrix to determine differences.
+\i (00:00:05) fillin confirm
+\d (00:00:05) Database opened: C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd
+\i (00:00:05) trapsize 342
+\i (00:00:05) trapsize 336
+\i (00:00:05) trapsize 343
+\i (00:00:06) trapsize 334
+\i (00:00:06) trapsize 334
 \i (00:00:06) generaledit 
-\i (00:00:11) pdf out 
-\t (00:00:11) No license found, please contact your Cadence sales support.
-\i (00:00:15) fillin confirm
-\i (00:00:15) generaledit 
-\i (00:00:15) roam start
-\i (00:00:15) roam x -16
-\i (00:00:15) roam x -112
-\i (00:00:15) roam y -16
-\i (00:00:15) roam x -192
-\i (00:00:15) roam y -32
-\i (00:00:15) roam x -112
-\i (00:00:15) roam y -32
-\i (00:00:15) roam x -48
-\i (00:00:16) roam x 32
-\i (00:00:16) roam y -16
-\i (00:00:16) roam x 96
-\i (00:00:16) roam x 96
-\i (00:00:16) roam y 16
-\i (00:00:16) roam x 80
-\i (00:00:16) roam y 16
-\i (00:00:16) roam x 64
-\i (00:00:16) roam y 32
-\i (00:00:16) roam x 64
-\i (00:00:16) roam y 16
-\i (00:00:16) roam x 64
-\i (00:00:16) roam y 16
-\i (00:00:16) roam x 80
-\i (00:00:16) roam y 48
-\i (00:00:16) roam x 128
-\i (00:00:16) roam y 32
-\i (00:00:16) roam x 112
-\i (00:00:16) roam y 32
-\i (00:00:16) roam x 80
-\i (00:00:16) roam y 32
-\i (00:00:16) roam x 64
-\i (00:00:16) roam x -16
-\i (00:00:16) roam x -48
-\i (00:00:17) roam x -32
-\i (00:00:17) roam x -32
-\i (00:00:17) roam x -64
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:17) roam x 32
-\i (00:00:18) roam x 64
-\i (00:00:18) roam end
-\i (00:00:18) prepopup 14431.83 11018.00
-\i (00:00:19) pick grid 13816.46 11102.25
-\t (00:00:19) last pick:  13816.00  11102.00
-\i (00:00:20) zoom in 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom in 13746.86 11116.90
-\i (00:00:20) trapsize 916
-\i (00:09:09) plot preview 
-\i (00:09:09) trapsize 767
-\i (00:09:28) trapsize 916
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.08 10990.54
-\i (00:09:29) trapsize 458
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.08 10990.54
-\i (00:09:29) trapsize 229
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.09 10991.00
-\i (00:09:29) trapsize 114
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.09 10991.00
-\i (00:09:29) trapsize 57
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.09 10991.00
-\i (00:09:29) trapsize 29
-\i (00:09:29) zoom in 1 
-\i (00:09:29) setwindow pcb
-\i (00:09:29) zoom in 13538.09 10991.06
-\i (00:09:29) trapsize 14
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13538.08 10991.06
-\i (00:09:30) trapsize 29
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13538.09 10991.01
-\i (00:09:30) trapsize 57
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13538.09 10990.90
-\i (00:09:30) trapsize 114
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13538.08 10990.67
-\i (00:09:30) trapsize 229
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13538.09 10990.67
-\i (00:09:30) trapsize 458
-\i (00:09:30) zoom out 1 
-\i (00:09:30) setwindow pcb
-\i (00:09:30) zoom out 13537.17 10990.68
-\i (00:09:30) trapsize 916
-\i (00:09:33) zoom out 
-\i (00:09:33) setwindow pcb
-\i (00:09:33) zoom out 13830.27 10686.59
-\i (00:09:33) trapsize 1832
-\i (00:10:27) pick grid 14339.52 11199.51
-\t (00:10:27) last pick:  14340.00  11200.00
-\i (00:10:37) pick grid 13207.44 11342.39
-\t (00:10:37) last pick:  13207.00  11342.00
-\i (00:10:38) roam start
-\i (00:10:38) roam x -16
-\i (00:10:38) roam y -48
-\i (00:10:38) roam y -16
-\i (00:10:38) roam y -16
-\i (00:10:38) roam y 32
-\i (00:10:38) roam x -16
-\i (00:10:38) roam y 96
-\i (00:10:38) roam y 32
-\i (00:1
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 13111.76 9906.62
+\i (00:00:07) trapsize 668
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 13111.75 9905.29
+\i (00:00:07) trapsize 1337
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 13111.75 9902.61
+\i (00:00:08) trapsize 668
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Fri Jan 13 16:13:08 2017

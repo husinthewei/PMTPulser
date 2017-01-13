@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 12-Jan-2017 AT 15:25:10 }
+{ Packager-XL run on 12-Jan-2017 AT 16:21:22 }
 primitive '7806_L';
   pin
     'INPUT':
@@ -122,7 +122,7 @@ primitive 'BAV99T';
       ALLOW_CONNECT='TRUE';
       PINUSE='UNSPEC';
     'ANODE2':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(3)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
       NO_IO_CHECK='Both';
@@ -131,7 +131,7 @@ primitive 'BAV99T';
       ALLOW_CONNECT='TRUE';
       PINUSE='UNSPEC';
     'CATHODE':
-      PIN_NUMBER='(3)';
+      PIN_NUMBER='(2)';
       PIN_TYPE='ANALOG';
       NO_LOAD_CHECK='Both';
       NO_IO_CHECK='Both';

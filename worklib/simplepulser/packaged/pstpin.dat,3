@@ -1,6 +1,6 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 12-Jan-2017 AT 15:49:34 }
-TIME=' COMPILATION ON 12-Jan-2017 AT 15:49:34';
+{ Packager-XL run on 13-Jan-2017 AT 16:12:25 }
+TIME=' COMPILATION ON 13-Jan-2017 AT 16:12:25';
 primitive '7806_L';      body '7806_L';
     'INPUT':'(1)';
     'GROUND':'(2)';
@@ -18,8 +18,8 @@ primitive 'ADN4661';     body 'ADN4661';
 end_primitive;
 primitive 'BAV99T';      body 'BAV99T';
     'ANODE1':'(1)';
-    'ANODE2':'(2)';
-    'CATHODE':'(3)';
+    'ANODE2':'(3)';
+    'CATHODE':'(2)';
 end_primitive;
 primitive 'BFR182';      body 'BFR182';
     'BASE':'(1)';
