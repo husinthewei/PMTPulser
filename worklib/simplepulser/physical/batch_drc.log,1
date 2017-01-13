@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : sym_template.dra                              )
-(    Software Version : 16.6-2015S083                                 )
-(    Date/Time        : Fri Dec 30 13:34:32 2016                      )
+(    Drawing          : pmtpulser.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Jan 13 14:48:46 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  3
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
