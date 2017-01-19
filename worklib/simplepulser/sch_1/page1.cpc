@@ -123,9 +123,6 @@
   page1_i89
 #CELL
   parts_lib rsmd0402 *
-  page1_i90
-#CELL
-  parts_lib rsmd0402 *
   page1_i92
 #CELL
   parts_lib rsmd0402 *

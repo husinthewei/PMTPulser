@@ -5,7 +5,7 @@
     <schemaVersion>16.6</schemaVersion>
     <creatorTool>concepthdl</creatorTool>
     <modifierTool>concepthdl</modifierTool>
-    <modificationTime>2017-01-13T16:13:19</modificationTime>
+    <modificationTime>2017-01-19T18:20:16</modificationTime>
     <savedLibrary>pmtpulser_lib</savedLibrary>
   </header>
   <designs>
@@ -792,10 +792,6 @@
         <net>
           <id>N228</id>
           <name>unnamed_1_csmd0402_i101_a</name>
-        </net>
-        <net>
-          <id>N229</id>
-          <name>unnamed_1_csmd0402_i104_b</name>
         </net>
         <net>
           <id>N230</id>
@@ -1800,7 +1796,7 @@
               <id>M897</id>
               <termid>T31</termid>
               <connections>
-                <connection net="N229" />
+                <connection net="N141" />
               </connections>
             </pin>
           </pins>
@@ -2100,7 +2096,7 @@
               <msb>0</msb>
               <lsb>0</lsb>
               <connections>
-                <connection pinmsb="0" pinlsb="0" net="N229" />
+                <connection pinmsb="0" pinlsb="0" net="N141" />
               </connections>
             </pin>
           </pins>
@@ -4971,41 +4967,6 @@
           </portinterfaces>
         </instance>
         <instance>
-          <id>I523</id>
-          <cellid>S7</cellid>
-          <name>page1_i90</name>
-          <parameters>
-          </parameters>
-          <masks>
-          </masks>
-          <powers>
-          </powers>
-          <pins>
-            <pin>
-              <id>M1164</id>
-              <termid>T30</termid>
-              <connections>
-                <connection net="N229" />
-              </connections>
-            </pin>
-            <pin>
-              <id>M1165</id>
-              <termid>T31</termid>
-              <connections>
-                <connection net="N141" />
-              </connections>
-            </pin>
-          </pins>
-          <differentialpins>
-          </differentialpins>
-          <differentialbuspins>
-          </differentialbuspins>
-          <portgroups>
-          </portgroups>
-          <portinterfaces>
-          </portinterfaces>
-        </instance>
-        <instance>
           <id>I524</id>
           <cellid>S8</cellid>
           <name>page1_i101</name>
@@ -5548,7 +5509,6 @@
               <net ref="unnamed_1_csmd0402_i102_b"></net>
               <net ref="unnamed_1_csmd0402_i103_b"></net>
               <net ref="unnamed_1_csmd0402_i104_a"></net>
-              <net ref="unnamed_1_csmd0402_i104_b"></net>
               <net ref="unnamed_1_csmd0402_i105_a"></net>
               <net ref="unnamed_1_csmd0402_i113_b"></net>
               <net ref="unnamed_1_lmc555_i1_disch"></net>
@@ -5584,7 +5544,6 @@
               <instance ref="i87"></instance>
               <instance ref="i88"></instance>
               <instance ref="i89"></instance>
-              <instance ref="i90"></instance>
               <instance ref="i92"></instance>
               <instance ref="i94"></instance>
               <instance ref="i95"></instance>

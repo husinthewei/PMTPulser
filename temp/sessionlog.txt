@@ -1,14 +1,13 @@
-01/12/17  16:20:10		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
-01/12/17  16:20:10		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
-01/12/17  16:20:10		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
-01/12/17  16:20:10		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
-01/12/17  16:20:17		Loading cell bav99t from library parts_lib
-01/12/17  16:20:17		Loading view sym_1 of cell bav99t
-01/12/17  16:20:17		Loading view chips of cell bav99t
-01/12/17  16:20:17		Loading view entity of cell bav99t
-01/12/17  16:20:17		Loading cell bav99t from library parts_lib
-01/12/17  16:20:17		Analyzing view relationships of cell bav99t in library parts_lib
-01/12/17  16:20:17		Completed loading cell bav99t from library parts_lib
-01/12/17  16:20:17		Starting validations on cell bav99t of library parts_lib
-01/12/17  16:20:17		Completed validations on cell bav99t of library parts_lib
-01/12/17  16:20:43		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.
+01/19/17  18:09:18		Opening project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm
+01/19/17  18:09:18		cdslib C:/Users/HEP/Documents/GitHub/PMTPulser/cds.lib opened
+01/19/17  18:09:18		Library mayers_lib cannot be accessed because it is not defined in the cds.lib file. From Project Manager, choose Tools - Setup, click Edit on the Global page, and define the library.
+01/19/17  18:09:18		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm opened
+01/19/17  18:09:27		Loading cell bfr182 from library parts_lib
+01/19/17  18:09:27		Loading view sym_1 of cell bfr182
+01/19/17  18:09:27		Loading view chips of cell bfr182
+01/19/17  18:09:27		Loading cell bfr182 from library parts_lib
+01/19/17  18:09:27		Analyzing view relationships of cell bfr182 in library parts_lib
+01/19/17  18:09:27		Completed loading cell bfr182 from library parts_lib
+01/19/17  18:09:27		Starting validations on cell bfr182 of library parts_lib
+01/19/17  18:09:27		Completed validations on cell bfr182 of library parts_lib
+01/19/17  18:09:41		Unable to perform the operation because the Footprint-Viewer feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.

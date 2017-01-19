@@ -1,4 +1,4 @@
-{ Packager-XL run on 13-Jan-2017 AT 16:13:12 }
+{ Packager-XL run on 19-Jan-2017 AT 18:20:21 }
 FILE_TYPE = BACK_ANNOTATION;
 DRAWING = "@pmtpulser_lib.simplepulser(sch_1):page1";
 BODY = "CONN2","I64": LOCATION = "J3" #&CDS_LOCATION = "J3" &SEC = "1" #&CDS_SEC = "1";
@@ -120,9 +120,6 @@ BODY = "RSMD0402","I84": LOCATION = "R9" #&CDS_LOCATION = "R9" &SEC = "1" #&CDS_
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
 BODY = "RSMD0402","I85": LOCATION = "R8" #&CDS_LOCATION = "R8" &SEC = "1" #&CDS_SEC = "1";
-"1":   PN = "1"  !CDS_PN = "1";
-"2":   PN = "2"  !CDS_PN = "2";
-BODY = "RSMD0402","I90": LOCATION = "R24" #&CDS_LOCATION = "R24" &SEC = "1" #&CDS_SEC = "1";
 "1":   PN = "1"  !CDS_PN = "1";
 "2":   PN = "2"  !CDS_PN = "2";
 BODY = "CSMD0402","I101": LOCATION = "C3" #&CDS_LOCATION = "C3" &SEC = "1" #&CDS_SEC = "1";

@@ -4,15 +4,10 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Jan 13 15:21:50 2017                      )
+(    Date/Time        : Fri Jan 13 17:38:05 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Regenerating DRC
-  Original DRC errors:   3
-  Updated DRC errors:    3
-  DRC elapsed time:      00:00:01
-
-0 warnings, 0 errors detected, 0 errors  fixed.
+0 warnings, 0 errors detected, 0 errors could be fixed.
