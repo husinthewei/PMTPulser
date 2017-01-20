@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Jan 13 17:35:19 2017                      )
+(    Date/Time        : Fri Jan 20 15:46:00 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,9 +27,9 @@ Report methodology:
 << Antenna Vias >>
   Net                  Padstack               Location            Layers
   ---------------------------------------------------------------------------
-  VCC                  VIA                  (13827.69 9870.69) TOP/BOTTOM 
+  VCC                  VIA                  (13735.31 10183.31) TOP/BOTTOM 
+  VCC                  VIA                  (12862.72 10575.72) TOP/BOTTOM 
   VCC                  VIA                  (12859.72 10429.28) TOP/BOTTOM 
-  VCC                  VIA                  (12819.72 10584.72) TOP/BOTTOM 
   VCC                  VIA                  (14875.00 9800.00) TOP/BOTTOM 
   VCC                  VIA                  (14875.00 10000.00) TOP/BOTTOM 
   VCC                  VIA                  (14875.00 9900.00) TOP/BOTTOM 
@@ -46,17 +46,17 @@ Report methodology:
   VCC                  VIA                  (13650.00 10275.00) TOP/BOTTOM 
   VCC                  VIA                  (13582.28 9867.72) TOP/BOTTOM 
   VCC                  VIA                  (13707.28 9907.28) TOP/BOTTOM 
+  GND                  VIA                  (12489.00 9820.00) TOP/BOTTOM 
+  GND                  VIA                  (12905.00 10503.00) TOP/BOTTOM 
   GND                  VIA                  (13218.00 9982.00) TOP/BOTTOM 
   GND                  VIA                  (14213.00 9900.00) TOP/BOTTOM 
   GND                  VIA                  (13244.00 10190.00) TOP/BOTTOM 
-  GND                  VIA                  (12774.00 10460.00) TOP/BOTTOM 
   GND                  VIA                  (13852.50 10603.50) TOP/BOTTOM 
   GND                  VIA                  (14088.00 10700.00) TOP/BOTTOM 
   GND                  VIA                  (12629.00 9649.00) TOP/BOTTOM 
   GND                  VIA                  (12825.00 9931.00) TOP/BOTTOM 
   GND                  VIA                  (13597.50 10632.50) TOP/BOTTOM 
   GND                  VIA                  (13540.00 10350.00) TOP/BOTTOM 
-  GND                  VIA                  (13720.00 10405.00) TOP/BOTTOM 
   GND                  VIA                  (13200.00 10650.00) TOP/BOTTOM 
   GND                  VIA                  (13700.00 10325.00) TOP/BOTTOM 
   GND                  VIA                  (13480.00 10320.00) TOP/BOTTOM 
@@ -64,7 +64,6 @@ Report methodology:
   GND                  VIA                  (14070.00 10280.00) TOP/BOTTOM 
   GND                  VIA                  (12475.00 9875.00) TOP/BOTTOM 
   GND                  VIA                  (12625.00 9825.00) TOP/BOTTOM 
-  GND                  VIA                  (12588.00 9762.00) TOP/BOTTOM 
   GND                  VIA                  (14225.00 10650.00) TOP/BOTTOM 
   GND                  VIA                  (14225.00 10600.00) TOP/BOTTOM 
   GND                  VIA                  (14575.00 10450.00) TOP/BOTTOM 
@@ -75,8 +74,10 @@ Report methodology:
   GND                  VIA                  (14575.00 9950.00) TOP/BOTTOM 
   GND                  VIA                  (14575.00 9900.00) TOP/BOTTOM 
   GND                  VIA                  (13902.50 10603.50) TOP/BOTTOM 
+  GND                  VIA                  (13597.50 10684.50) TOP/BOTTOM 
+  GND                  VIA                  (13720.00 10368.00) TOP/BOTTOM 
 
 << Summary >>
   Total dangling lines:       0
   Total dangling vias:        0
-  Total antenna vias:        48
+  Total antenna vias:        49
