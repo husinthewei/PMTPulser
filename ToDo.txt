@@ -1,0 +1,2 @@
+Add 4-40 screws to the corner of the board
+Add a ground plane below the regulator
