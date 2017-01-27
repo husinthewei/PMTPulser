@@ -1,9 +1,9 @@
 FILE_TYPE=EXPANDEDPARTLIST;
-{ Packager-XL run on 13-Jan-2017 AT 16:13:12 }
+{ Packager-XL run on 27-Jan-2017 AT 14:50:47 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SIMPLEPULSER';
- POST_TIME='13-Jan-2017 AT 16:13:12';
+ POST_TIME='27-Jan-2017 AT 14:50:47';
  SOURCE_TOOL='PACKAGER_XL';
 END_DIRECTIVES;
 
@@ -1969,39 +1969,6 @@ SECTION_NUMBER 1
  REUSE_ID='74';
 
 PART_NAME
- R24 'RSMD0402-100,5%,0402':
- REUSE_ID='72';
-
-SECTION_NUMBER 1
- '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I90@PARTS_LIB.RSMD0402(CHIPS)':
- C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i90@parts_lib.rsmd0402(chips)',
- P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i90@parts_lib.rsmd0402(chips)',
- PATH='I90',
- DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
- PACKTYPE='0402',
- TOL_ON_OFF='ON',
- TC2='RTMPO',
- TC1='RTMPL',
- SLOPE='RSMAX',
- POWER='0.1',
- NEGTOL='5%',
- MAX_TEMP='RTMAX',
- IC='UNDEF',
- DIST='FLAT',
- PHYS_PAGE='1',
- XY='(-1300,7550)',
- ROT='0',
- VER='1',
- VALUE='100',
- PACK_TYPE='R0402',
- TOL='5%',
- CDS_LIB='parts_lib',
- CDS_PART_NAME='RSMD0402_R0402-100,5%,0402',
- VOLTAGE='25V',
- PRIM_FILE='./libraries/parts_lib/rsmd0402/chips/chips.prt',
- REUSE_ID='72';
-
-PART_NAME
  R25 'RSMD0402-1K,5%,0402':
  REUSE_ID='71';
 
@@ -3131,6 +3098,32 @@ SECTION_NUMBER 1
  REUSE_ID='9';
 
 PART_NAME
+ U11 'MOUNTHOLE_4P5MM':
+ REUSE_ID='129';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I123@PARTS_LIB.MOUNTHOLE_4P5MM(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i123@parts_lib.mounthole_4p5mm~
+(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i123@parts_lib.mounthole_4p5mm~
+(chips)',
+ PATH='I123',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PSPICETEMPLATE='X',
+ IMPLEMENTATION_TYPE='PSpice Model',
+ IMPLEMENTATION_PATH='C:\CADENCEWORK\LIBRARIES\TRIAL.LIB',
+ IMPLEMENTATION='conn',
+ PHYS_PAGE='1',
+ XY='(-7450,7900)',
+ ROT='0',
+ VER='1',
+ VALUE='mounthole_4p5mm',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='MOUNTHOLE_4P5MM',
+ PRIM_FILE='./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt',
+ REUSE_ID='129';
+
+PART_NAME
  U12 'BAV99T':
  REUSE_ID='118';
 
@@ -3148,5 +3141,83 @@ SECTION_NUMBER 1
  CDS_PART_NAME='BAV99T',
  PRIM_FILE='./libraries/parts_lib/bav99t/chips/chips.prt',
  REUSE_ID='118';
+
+PART_NAME
+ U13 'MOUNTHOLE_4P5MM':
+ REUSE_ID='128';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I124@PARTS_LIB.MOUNTHOLE_4P5MM(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i124@parts_lib.mounthole_4p5mm~
+(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i124@parts_lib.mounthole_4p5mm~
+(chips)',
+ PATH='I124',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PSPICETEMPLATE='X',
+ IMPLEMENTATION_TYPE='PSpice Model',
+ IMPLEMENTATION_PATH='C:\CADENCEWORK\LIBRARIES\TRIAL.LIB',
+ IMPLEMENTATION='conn',
+ PHYS_PAGE='1',
+ XY='(-7400,3800)',
+ ROT='0',
+ VER='1',
+ VALUE='mounthole_4p5mm',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='MOUNTHOLE_4P5MM',
+ PRIM_FILE='./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt',
+ REUSE_ID='128';
+
+PART_NAME
+ U14 'MOUNTHOLE_4P5MM':
+ REUSE_ID='127';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I126@PARTS_LIB.MOUNTHOLE_4P5MM(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i126@parts_lib.mounthole_4p5mm~
+(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i126@parts_lib.mounthole_4p5mm~
+(chips)',
+ PATH='I126',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PSPICETEMPLATE='X',
+ IMPLEMENTATION_TYPE='PSpice Model',
+ IMPLEMENTATION_PATH='C:\CADENCEWORK\LIBRARIES\TRIAL.LIB',
+ IMPLEMENTATION='conn',
+ PHYS_PAGE='1',
+ XY='(-50,8000)',
+ ROT='0',
+ VER='1',
+ VALUE='mounthole_4p5mm',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='MOUNTHOLE_4P5MM',
+ PRIM_FILE='./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt',
+ REUSE_ID='127';
+
+PART_NAME
+ U15 'MOUNTHOLE_4P5MM':
+ REUSE_ID='126';
+
+SECTION_NUMBER 1
+ '@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1_I125@PARTS_LIB.MOUNTHOLE_4P5MM(CHIPS)':
+ C_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i125@parts_lib.mounthole_4p5mm~
+(chips)',
+ P_PATH='@pmtpulser_lib.simplepulser(sch_1):page1_i125@parts_lib.mounthole_4p5mm~
+(chips)',
+ PATH='I125',
+ DRAWING='@PMTPULSER_LIB.SIMPLEPULSER(SCH_1):PAGE1',
+ PSPICETEMPLATE='X',
+ IMPLEMENTATION_TYPE='PSpice Model',
+ IMPLEMENTATION_PATH='C:\CADENCEWORK\LIBRARIES\TRIAL.LIB',
+ IMPLEMENTATION='conn',
+ PHYS_PAGE='1',
+ XY='(150,4300)',
+ ROT='0',
+ VER='1',
+ VALUE='mounthole_4p5mm',
+ CDS_LIB='parts_lib',
+ CDS_PART_NAME='MOUNTHOLE_4P5MM',
+ PRIM_FILE='./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt',
+ REUSE_ID='126';
 
 END.

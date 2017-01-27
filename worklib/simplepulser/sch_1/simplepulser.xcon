@@ -5,15 +5,15 @@
     <schemaVersion>16.6</schemaVersion>
     <creatorTool>concepthdl</creatorTool>
     <modifierTool>concepthdl</modifierTool>
-    <modificationTime>2017-01-20T14:03:56</modificationTime>
+    <modificationTime>2017-01-27T14:50:36</modificationTime>
     <savedLibrary>pmtpulser_lib</savedLibrary>
   </header>
   <designs>
     <design schemaType="nameBased" name="simplepulser" view="sch_1">
       <lastids>
-        <instanceid>552</instanceid>
+        <instanceid>556</instanceid>
         <netid>245</netid>
-        <insttermid>1229</insttermid>
+        <insttermid>1233</insttermid>
       </lastids>
       <cells>
         <cell>
@@ -520,6 +520,21 @@
               <id>T94</id>
               <name>output</name>
               <direction>output</direction>
+            </term>
+          </terms>
+        </cell>
+        <cell>
+          <id>S26</id>
+          <library>parts_lib</library>
+          <name>mounthole_4p5mm</name>
+          <view>sym_1</view>
+          <parameters>
+          </parameters>
+          <terms>
+            <term>
+              <id>T95</id>
+              <name>probe</name>
+              <direction>inout</direction>
             </term>
           </terms>
         </cell>
@@ -5473,6 +5488,118 @@
           <portinterfaces>
           </portinterfaces>
         </instance>
+        <instance>
+          <id>I553</id>
+          <cellid>S26</cellid>
+          <name>page1_i123</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1230</id>
+              <termid>T95</termid>
+              <connections>
+                <connection net="N137" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
+        <instance>
+          <id>I554</id>
+          <cellid>S26</cellid>
+          <name>page1_i124</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1231</id>
+              <termid>T95</termid>
+              <connections>
+                <connection net="N137" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
+        <instance>
+          <id>I555</id>
+          <cellid>S26</cellid>
+          <name>page1_i125</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1232</id>
+              <termid>T95</termid>
+              <connections>
+                <connection net="N137" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
+        <instance>
+          <id>I556</id>
+          <cellid>S26</cellid>
+          <name>page1_i126</name>
+          <parameters>
+          </parameters>
+          <masks>
+          </masks>
+          <powers>
+          </powers>
+          <pins>
+            <pin>
+              <id>M1233</id>
+              <termid>T95</termid>
+              <connections>
+                <connection net="N137" />
+              </connections>
+            </pin>
+          </pins>
+          <differentialpins>
+          </differentialpins>
+          <differentialbuspins>
+          </differentialbuspins>
+          <portgroups>
+          </portgroups>
+          <portinterfaces>
+          </portinterfaces>
+        </instance>
       </instances>
       <templateresolutions>
       </templateresolutions>
@@ -5567,6 +5694,10 @@
               <instance ref="i117"></instance>
               <instance ref="i118"></instance>
               <instance ref="i119"></instance>
+              <instance ref="i123"></instance>
+              <instance ref="i124"></instance>
+              <instance ref="i125"></instance>
+              <instance ref="i126"></instance>
             </instances>
           </page>
           <page number="2">

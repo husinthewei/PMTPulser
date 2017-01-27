@@ -1,4 +1,4 @@
-; Packager-XL run on 19-Jan-2017 AT 18:20:21 CONSTRAINTS_VIEW_GENERATED
+; Packager-XL run on 27-Jan-2017 AT 14:51:24 CONSTRAINTS_VIEW_GENERATED
 ( ConstraintFile "simplepulser"
 	( constraintHeader
 		( objectKey
@@ -8,7 +8,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 143 )
+			( logicalViewRevNum 145 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -299,6 +299,70 @@
 		)
 		( Attribute
 			( Name "RCA" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION_PATH" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PSPICETEMPLATE" )
 			( Description " " )
 			( Value
 				( DataType ( dString ) )
@@ -893,6 +957,18 @@
 			)
 			( gate "Q1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119" )
+			)
+			( gate "U11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i123" )
+			)
+			( gate "U13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i124" )
+			)
+			( gate "U15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i125" )
+			)
+			( gate "U14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i126" )
 			)
 			( pin "J1.1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i66:\1\" )
@@ -1772,6 +1848,18 @@
 			)
 			( pin "Q1.3"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119:output" )
+			)
+			( pin "U11.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i123:probe" )
+			)
+			( pin "U13.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i124:probe" )
+			)
+			( pin "U15.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i125:probe" )
+			)
+			( pin "U14.1"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i126:probe" )
 			)
 		)
 	)

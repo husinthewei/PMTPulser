@@ -7,9 +7,9 @@
   (library "pmtpulser_lib")
   (design "simplepulser"
     (lastIds
-      (lastInstanceId 552)
+      (lastInstanceId 556)
       (lastNetId 245)
-      (lastInstTermId 1229)
+      (lastInstTermId 1233)
     )
     (cells
       ("S2" "lmc555" "parts_lib" "sym_1"
@@ -142,6 +142,11 @@
           ("T92" "ground" -1 -1 3)
           ("T93" "input" -1 -1 1)
           ("T94" "output" -1 -1 2)
+        )
+      )
+      ("S26" "mounthole_4p5mm" "parts_lib" "sym_1"
+        (terms
+          ("T95" "probe" -1 -1 3)
         )
       )
     )
@@ -2135,6 +2140,42 @@
           ("M1229" "T94" -1 -1
             (conn
               ("0" -1 -1 "N164" -1 -1)
+            )
+          )
+        )
+      )
+      ("I553" "page1_i123" "S26"
+        (pins
+          ("M1230" "T95" -1 -1
+            (conn
+              ("0" -1 -1 "N137" -1 -1)
+            )
+          )
+        )
+      )
+      ("I554" "page1_i124" "S26"
+        (pins
+          ("M1231" "T95" -1 -1
+            (conn
+              ("0" -1 -1 "N137" -1 -1)
+            )
+          )
+        )
+      )
+      ("I555" "page1_i125" "S26"
+        (pins
+          ("M1232" "T95" -1 -1
+            (conn
+              ("0" -1 -1 "N137" -1 -1)
+            )
+          )
+        )
+      )
+      ("I556" "page1_i126" "S26"
+        (pins
+          ("M1233" "T95" -1 -1
+            (conn
+              ("0" -1 -1 "N137" -1 -1)
             )
           )
         )

@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 140 )
+			( logicalViewRevNum 142 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -288,7 +288,7 @@
 				( Status  sProperty  sPackage )
 			)
 			( Objects
-				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
 				( NoInherit
 					( oGate oPin )
 				)
@@ -304,7 +304,7 @@
 				( Status  sProperty  sPackage )
 			)
 			( Objects
-				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( ValidObjects  oGate  oGateDefn  oBlock  oPart  oDesign  oSystem  oPartDefn )
 				( NoInherit
 					( oGate oPin )
 				)
@@ -807,10 +807,10 @@
 				( attribute "CDS_LOCATION" "J1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -858,10 +858,10 @@
 				( attribute "CDS_LOCATION" "J5"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J5"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J5"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -909,10 +909,10 @@
 				( attribute "CDS_LOCATION" "J2"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J2"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J2"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -960,10 +960,10 @@
 				( attribute "CDS_LOCATION" "J3"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J3"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J3"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1011,10 +1011,10 @@
 				( attribute "CDS_LOCATION" "J4"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J4"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J4"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1108,10 +1108,10 @@
 				( attribute "CDS_LOCATION" "R4"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R4"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R4"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1205,10 +1205,10 @@
 				( attribute "CDS_LOCATION" "R3"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R3"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R3"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1302,10 +1302,10 @@
 				( attribute "CDS_LOCATION" "R2"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R2"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R2"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1399,10 +1399,10 @@
 				( attribute "CDS_LOCATION" "R5"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R5"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R5"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1496,10 +1496,10 @@
 				( attribute "CDS_LOCATION" "R6"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R6"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R6"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1593,10 +1593,10 @@
 				( attribute "CDS_LOCATION" "R7"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R7"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R7"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1690,10 +1690,10 @@
 				( attribute "CDS_LOCATION" "R10"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R10"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R10"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1787,10 +1787,10 @@
 				( attribute "CDS_LOCATION" "R14"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R14"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R14"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1884,10 +1884,10 @@
 				( attribute "CDS_LOCATION" "R18"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R18"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R18"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -1981,10 +1981,10 @@
 				( attribute "CDS_LOCATION" "R24"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R24"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R24"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2078,10 +2078,10 @@
 				( attribute "CDS_LOCATION" "R11"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R11"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R11"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2175,10 +2175,10 @@
 				( attribute "CDS_LOCATION" "R22"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R22"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R22"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2272,10 +2272,10 @@
 				( attribute "CDS_LOCATION" "R21"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R21"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R21"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2369,10 +2369,10 @@
 				( attribute "CDS_LOCATION" "R23"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R23"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R23"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2466,10 +2466,10 @@
 				( attribute "CDS_LOCATION" "R8"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R8"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R8"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2563,10 +2563,10 @@
 				( attribute "CDS_LOCATION" "R15"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R15"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R15"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2660,10 +2660,10 @@
 				( attribute "CDS_LOCATION" "R12"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R12"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R12"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2757,10 +2757,10 @@
 				( attribute "CDS_LOCATION" "R17"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R17"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R17"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2854,10 +2854,10 @@
 				( attribute "CDS_LOCATION" "R13"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R13"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R13"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2905,10 +2905,10 @@
 				( attribute "CDS_LOCATION" "U1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -2992,10 +2992,10 @@
 				( attribute "CDS_LOCATION" "U2"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U2"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U2"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3079,10 +3079,10 @@
 				( attribute "CDS_LOCATION" "U4"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U4"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U4"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3142,10 +3142,10 @@
 				( attribute "CDS_LOCATION" "U5"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U5"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U5"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3221,10 +3221,10 @@
 				( attribute "CDS_LOCATION" "C1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3318,10 +3318,10 @@
 				( attribute "CDS_LOCATION" "R19"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R19"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R19"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3415,10 +3415,10 @@
 				( attribute "CDS_LOCATION" "R20"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R20"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R20"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3482,10 +3482,10 @@
 				( attribute "CDS_LOCATION" "C4"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C4"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C4"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3549,10 +3549,10 @@
 				( attribute "CDS_LOCATION" "C2"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C2"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C2"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3616,10 +3616,10 @@
 				( attribute "CDS_LOCATION" "C6"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C6"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C6"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3683,10 +3683,10 @@
 				( attribute "CDS_LOCATION" "C8"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C8"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C8"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3750,10 +3750,10 @@
 				( attribute "CDS_LOCATION" "C7"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C7"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C7"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3847,10 +3847,10 @@
 				( attribute "CDS_LOCATION" "R9"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R9"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R9"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3898,10 +3898,10 @@
 				( attribute "CDS_LOCATION" "U8"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U8"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U8"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -3955,10 +3955,10 @@
 				( attribute "CDS_LOCATION" "U7"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U7"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U7"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4040,10 +4040,10 @@
 				( attribute "CDS_LOCATION" "C10"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C10"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C10"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4094,10 +4094,10 @@
 				( attribute "CDS_LOCATION" "R26"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R26"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R26"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4197,10 +4197,10 @@
 				( attribute "CDS_LOCATION" "R33"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R33"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R33"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4294,10 +4294,10 @@
 				( attribute "CDS_LOCATION" "R31"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R31"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R31"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4391,10 +4391,10 @@
 				( attribute "CDS_LOCATION" "R32"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R32"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R32"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4442,10 +4442,10 @@
 				( attribute "CDS_LOCATION" "J10"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J10"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J10"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4539,10 +4539,10 @@
 				( attribute "CDS_LOCATION" "R28"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R28"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R28"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4636,10 +4636,10 @@
 				( attribute "CDS_LOCATION" "R25"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R25"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R25"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4733,10 +4733,10 @@
 				( attribute "CDS_LOCATION" "R29"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R29"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R29"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4800,10 +4800,10 @@
 				( attribute "CDS_LOCATION" "C9"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C9"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C9"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4897,10 +4897,10 @@
 				( attribute "CDS_LOCATION" "R30"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R30"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R30"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4948,10 +4948,10 @@
 				( attribute "CDS_LOCATION" "J9"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J9"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J9"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -4999,10 +4999,10 @@
 				( attribute "CDS_LOCATION" "J8"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J8"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J8"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5050,10 +5050,10 @@
 				( attribute "CDS_LOCATION" "U6"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U6"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U6"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5165,10 +5165,10 @@
 				( attribute "CDS_LOCATION" "R27"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R27"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R27"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5216,10 +5216,10 @@
 				( attribute "CDS_LOCATION" "J6"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J6"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J6"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5267,10 +5267,10 @@
 				( attribute "CDS_LOCATION" "J7"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J7"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J7"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5361,10 +5361,10 @@
 				( attribute "CDS_LOCATION" "R36"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R36"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R36"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5455,10 +5455,10 @@
 				( attribute "CDS_LOCATION" "R51"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R51"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R51"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5549,10 +5549,10 @@
 				( attribute "CDS_LOCATION" "R50"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R50"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R50"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5643,10 +5643,10 @@
 				( attribute "CDS_LOCATION" "R35"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R35"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R35"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5694,10 +5694,10 @@
 				( attribute "CDS_LOCATION" "J22"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J22"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J22"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5788,10 +5788,10 @@
 				( attribute "CDS_LOCATION" "R34"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R34"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R34"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5839,10 +5839,10 @@
 				( attribute "CDS_LOCATION" "J21"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J21"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J21"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5906,10 +5906,10 @@
 				( attribute "CDS_LOCATION" "C11"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C11"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C11"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -5957,10 +5957,10 @@
 				( attribute "CDS_LOCATION" "U9"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U9"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U9"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6138,10 +6138,10 @@
 				( attribute "CDS_LOCATION" "R44"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R44"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R44"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6235,10 +6235,10 @@
 				( attribute "CDS_LOCATION" "R46"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R46"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R46"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6332,10 +6332,10 @@
 				( attribute "CDS_LOCATION" "R47"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R47"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R47"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6429,10 +6429,10 @@
 				( attribute "CDS_LOCATION" "R41"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R41"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R41"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6526,10 +6526,10 @@
 				( attribute "CDS_LOCATION" "R40"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R40"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R40"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6620,10 +6620,10 @@
 				( attribute "CDS_LOCATION" "R52"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R52"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R52"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6717,10 +6717,10 @@
 				( attribute "CDS_LOCATION" "R48"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R48"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R48"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6811,10 +6811,10 @@
 				( attribute "CDS_LOCATION" "R53"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R53"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R53"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -6908,10 +6908,10 @@
 				( attribute "CDS_LOCATION" "R49"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R49"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R49"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7005,10 +7005,10 @@
 				( attribute "CDS_LOCATION" "R45"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R45"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R45"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7099,10 +7099,10 @@
 				( attribute "CDS_LOCATION" "R37"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R37"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R37"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7196,10 +7196,10 @@
 				( attribute "CDS_LOCATION" "R42"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R42"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R42"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7290,10 +7290,10 @@
 				( attribute "CDS_LOCATION" "R38"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R38"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R38"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7341,10 +7341,10 @@
 				( attribute "CDS_LOCATION" "U10"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U10"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U10"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7522,10 +7522,10 @@
 				( attribute "CDS_LOCATION" "R43"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R43"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R43"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7616,10 +7616,10 @@
 				( attribute "CDS_LOCATION" "R39"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R39"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R39"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7683,10 +7683,10 @@
 				( attribute "CDS_LOCATION" "C12"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C12"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C12"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7734,10 +7734,10 @@
 				( attribute "CDS_LOCATION" "J23"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J23"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J23"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7801,10 +7801,10 @@
 				( attribute "CDS_LOCATION" "C13"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C13"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C13"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7852,10 +7852,10 @@
 				( attribute "CDS_LOCATION" "J24"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J24"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J24"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7919,10 +7919,10 @@
 				( attribute "CDS_LOCATION" "C14"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C14"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C14"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -7970,10 +7970,10 @@
 				( attribute "CDS_LOCATION" "J25"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J25"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J25"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8037,10 +8037,10 @@
 				( attribute "CDS_LOCATION" "C15"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C15"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C15"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8088,10 +8088,10 @@
 				( attribute "CDS_LOCATION" "J26"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J26"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J26"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8155,10 +8155,10 @@
 				( attribute "CDS_LOCATION" "C16"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C16"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C16"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8206,10 +8206,10 @@
 				( attribute "CDS_LOCATION" "J27"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J27"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J27"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8273,10 +8273,10 @@
 				( attribute "CDS_LOCATION" "C17"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C17"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C17"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8324,10 +8324,10 @@
 				( attribute "CDS_LOCATION" "J28"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J28"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J28"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8391,10 +8391,10 @@
 				( attribute "CDS_LOCATION" "C18"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C18"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C18"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8442,10 +8442,10 @@
 				( attribute "CDS_LOCATION" "J29"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J29"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J29"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8509,10 +8509,10 @@
 				( attribute "CDS_LOCATION" "C19"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C19"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C19"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8560,10 +8560,10 @@
 				( attribute "CDS_LOCATION" "J30"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J30"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J30"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8611,10 +8611,10 @@
 				( attribute "CDS_LOCATION" "J13"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J13"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J13"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8678,10 +8678,10 @@
 				( attribute "CDS_LOCATION" "C20"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C20"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C20"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8729,10 +8729,10 @@
 				( attribute "CDS_LOCATION" "J11"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J11"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J11"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8780,10 +8780,10 @@
 				( attribute "CDS_LOCATION" "J12"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J12"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J12"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8831,10 +8831,10 @@
 				( attribute "CDS_LOCATION" "J14"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J14"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J14"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8882,10 +8882,10 @@
 				( attribute "CDS_LOCATION" "J15"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J15"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J15"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8933,10 +8933,10 @@
 				( attribute "CDS_LOCATION" "J16"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J16"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J16"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -8984,10 +8984,10 @@
 				( attribute "CDS_LOCATION" "J17"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J17"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J17"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9035,10 +9035,10 @@
 				( attribute "CDS_LOCATION" "J18"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J18"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J18"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9086,10 +9086,10 @@
 				( attribute "CDS_LOCATION" "J19"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J19"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J19"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9137,10 +9137,10 @@
 				( attribute "CDS_LOCATION" "J20"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "J20"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "J20"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9234,10 +9234,10 @@
 				( attribute "CDS_LOCATION" "R16"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R16"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R16"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9301,10 +9301,10 @@
 				( attribute "CDS_LOCATION" "C3"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C3"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C3"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9368,10 +9368,10 @@
 				( attribute "CDS_LOCATION" "C5"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C5"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C5"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9465,10 +9465,10 @@
 				( attribute "CDS_LOCATION" "R1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "R1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "R1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9546,10 +9546,10 @@
 				( attribute "CDS_LOCATION" "L1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "L1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "L1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9613,10 +9613,10 @@
 				( attribute "CDS_LOCATION" "C22"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C22"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C22"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9680,10 +9680,10 @@
 				( attribute "CDS_LOCATION" "C21"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C21"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C21"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9731,10 +9731,10 @@
 				( attribute "CDS_LOCATION" "U3"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U3"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U3"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9804,10 +9804,10 @@
 				( attribute "CDS_LOCATION" "C23"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C23"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C23"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9871,10 +9871,10 @@
 				( attribute "CDS_LOCATION" "C24"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "C24"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "C24"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9922,10 +9922,10 @@
 				( attribute "CDS_LOCATION" "U12"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "U12"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "U12"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"
@@ -9939,16 +9939,16 @@
 					( objectStatus "U12.1" )
 				)
 				( pin "anode2"
-					( attribute "PN" "2"
-						( Origin gPackager )
-					)
-					( objectStatus "U12.2" )
-				)
-				( pin "cathode"
 					( attribute "PN" "3"
 						( Origin gPackager )
 					)
 					( objectStatus "U12.3" )
+				)
+				( pin "cathode"
+					( attribute "PN" "2"
+						( Origin gPackager )
+					)
+					( objectStatus "U12.2" )
 				)
 			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i119"
@@ -9988,10 +9988,10 @@
 				( attribute "CDS_LOCATION" "Q1"
 					( Origin gPackager )
 				)
-				( attribute "LOCATION" "Q1"
+				( attribute "CDS_SEC" "1"
 					( Origin gPackager )
 				)
-				( attribute "CDS_SEC" "1"
+				( attribute "LOCATION" "Q1"
 					( Origin gPackager )
 				)
 				( attribute "SEC" "1"

@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 142 )
+			( logicalViewRevNum 144 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -312,6 +312,70 @@
 			( Analysis
 			)
 		)
+		( Attribute
+			( Name "IMPLEMENTATION" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION_PATH" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "IMPLEMENTATION_TYPE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
+		( Attribute
+			( Name "PSPICETEMPLATE" )
+			( Description " " )
+			( Value
+				( DataType ( dString ) )
+				( Status  sProperty  sPackage )
+			)
+			( Objects
+				( ValidObjects  oGate  oBlock  oPart  oDesign  oSystem  oGateDefn  oPartDefn )
+				( NoInherit
+					( oGate oPin )
+				)
+			)
+			( Analysis
+			)
+		)
 	)
 	( designConstraints
 		( ruleChanges
@@ -484,12 +548,6 @@
 					( Origin gPackager )
 				)
 				( objectStatus "UNNAMED_1_CSMD0402_I104_A" )
-			)
-			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_1_csmd0402_i104_b"
-				( attribute "CDS_PHYS_NET_NAME" "UNNAMED_1_CSMD0402_I104_B"
-					( Origin gPackager )
-				)
-				( objectStatus "UNNAMED_1_CSMD0402_I104_B" )
 			)
 			( signal "@pmtpulser_lib.simplepulser(sch_1):unnamed_2_bfr182_i1_base"
 				( attribute "CDS_PHYS_NET_NAME" "UNNAMED_2_BFR182_I1_BASE"
@@ -1905,103 +1963,6 @@
 						( Origin gPackager )
 					)
 					( objectStatus "R18.2" )
-				)
-			)
-			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i90"
-				( attribute "CDS_LIB" "parts_lib"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LMAN_SYM_OUTLINE" "0,25,100,-25"
-					( Origin gPackager )
-				)
-				( attribute "DIST" "FLAT"
-					( Origin gFrontEnd )
-				)
-				( attribute "IC" "UNDEF"
-					( Origin gFrontEnd )
-				)
-				( attribute "MAX_TEMP" "RTMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEEDS_NO_SIZE" "TRUE"
-					( Origin gFrontEnd )
-				)
-				( attribute "NEGTOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "PACKTYPE" "0402"
-					( Origin gFrontEnd )
-				)
-				( attribute "PACK_TYPE" "R0402"
-					( Origin gFrontEnd )
-				)
-				( attribute "PHYS_PAGE" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "POWER" "0.1"
-					( Origin gFrontEnd )
-				)
-				( attribute "ROT" "0"
-					( Origin gFrontEnd )
-				)
-				( attribute "SLOPE" "RSMAX"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC1" "RTMPL"
-					( Origin gFrontEnd )
-				)
-				( attribute "TC2" "RTMPO"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL" "5%"
-					( Origin gFrontEnd )
-				)
-				( attribute "TOL_ON_OFF" "ON"
-					( Origin gFrontEnd )
-				)
-				( attribute "VALUE" "100"
-					( Origin gFrontEnd )
-				)
-				( attribute "VER" "1"
-					( Origin gFrontEnd )
-				)
-				( attribute "VOLTAGE" "25V"
-					( Units "uVoltage" "V" 1.000000)
-					( Origin gFrontEnd )
-				)
-				( attribute "XY" "(-1300,7550)"
-					( Origin gFrontEnd )
-				)
-				( attribute "CHIPS_PART_NAME" "RSMD0402"
-					( Origin gPackager )
-				)
-				( attribute "CDS_PART_NAME" "RSMD0402_R0402-100,5%,0402"
-					( Origin gPackager )
-				)
-				( attribute "CDS_LOCATION" "R24"
-					( Origin gPackager )
-				)
-				( attribute "CDS_SEC" "1"
-					( Origin gPackager )
-				)
-				( attribute "LOCATION" "R24"
-					( Origin gPackager )
-				)
-				( attribute "SEC" "1"
-					( Origin gPackager )
-				)
-				( objectStatus "R24" )
-				( pin "\1\"
-					( attribute "PN" "1"
-						( Origin gPackager )
-					)
-					( objectStatus "R24.1" )
-				)
-				( pin "\2\"
-					( attribute "PN" "2"
-						( Origin gPackager )
-					)
-					( objectStatus "R24.2" )
 				)
 			)
 			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i86"
@@ -10015,6 +9976,182 @@
 						( Origin gPackager )
 					)
 					( objectStatus "Q1.3" )
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i123"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50"
+					( Origin gPackager )
+				)
+				( attribute "IMPLEMENTATION" "conn"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_PATH" "C:\CADENCEWORK\LIBRARIES\TRIAL.LIB"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_TYPE" "PSpice Model"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PSPICETEMPLATE" "X"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "mounthole_4p5mm"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-7450,7900)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I123" )
+				( pin "probe"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i124"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50"
+					( Origin gPackager )
+				)
+				( attribute "IMPLEMENTATION" "conn"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_PATH" "C:\CADENCEWORK\LIBRARIES\TRIAL.LIB"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_TYPE" "PSpice Model"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PSPICETEMPLATE" "X"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "mounthole_4p5mm"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-7400,3800)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I124" )
+				( pin "probe"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i125"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50"
+					( Origin gPackager )
+				)
+				( attribute "IMPLEMENTATION" "conn"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_PATH" "C:\CADENCEWORK\LIBRARIES\TRIAL.LIB"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_TYPE" "PSpice Model"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PSPICETEMPLATE" "X"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "mounthole_4p5mm"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(150,4300)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I125" )
+				( pin "probe"
+				)
+			)
+			( gate "@pmtpulser_lib.simplepulser(sch_1):page1_i126"
+				( attribute "CDS_LIB" "parts_lib"
+					( Origin gPackager )
+				)
+				( attribute "CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50"
+					( Origin gPackager )
+				)
+				( attribute "IMPLEMENTATION" "conn"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_PATH" "C:\CADENCEWORK\LIBRARIES\TRIAL.LIB"
+					( Origin gFrontEnd )
+				)
+				( attribute "IMPLEMENTATION_TYPE" "PSpice Model"
+					( Origin gFrontEnd )
+				)
+				( attribute "PHYS_PAGE" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "PSPICETEMPLATE" "X"
+					( Origin gFrontEnd )
+				)
+				( attribute "ROT" "0"
+					( Origin gFrontEnd )
+				)
+				( attribute "VALUE" "mounthole_4p5mm"
+					( Origin gFrontEnd )
+				)
+				( attribute "VER" "1"
+					( Origin gFrontEnd )
+				)
+				( attribute "XY" "(-50,8000)"
+					( Origin gFrontEnd )
+				)
+				( attribute "CHIPS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( attribute "CDS_PART_NAME" "MOUNTHOLE_4P5MM"
+					( Origin gPackager )
+				)
+				( objectStatus "PAGE1_I126" )
+				( pin "probe"
 				)
 			)
 			( pin "@pmtpulser_lib.simplepulser(sch_1):page1_i1:v"

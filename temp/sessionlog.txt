@@ -11,3 +11,4 @@
 01/19/17  18:09:27		Starting validations on cell bfr182 of library parts_lib
 01/19/17  18:09:27		Completed validations on cell bfr182 of library parts_lib
 01/19/17  18:09:41		Unable to perform the operation because the Footprint-Viewer feature is not supported in the license you are using currently. Choose File - Change Product to select the Allegro PCB Librarian XL license.
+01/27/17  14:43:41		Project C:/Users/HEP/Documents/GitHub/PMTPulser/pmtpulser.cpm is closed.

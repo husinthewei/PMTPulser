@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Jan 19 18:20:24 2017                      )
+(    Date/Time        : Fri Jan 27 14:51:27 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -26,9 +26,9 @@ CmdLine: netrev -proj C:\Users\HEP\Documents\GitHub\PMTPulser\pmtpulser.cpm -y 1
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.41)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstchip.dat (00:00:00.27)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat 
-   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat (00:00:00.00)
+   Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxprt.dat (00:00:00.01)
 Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat 
    Finished reading C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstxnet.dat (00:00:00.00)
 
@@ -40,11 +40,11 @@ Starting to read C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/pa
 ===========================================================
 Start Constraint Diff3 Import
 	Constraint File:    C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/packaged/pstcmdb.dat
-	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad07908.tmp
-	Start time: Thu Jan 19 18:20:24 2017
+	Allegro Baseline:   C:/Users/HEP/AppData/Local/Temp/#Taaaaad07088.tmp
+	Start time: Fri Jan 27 14:51:27 2017
 ===========================================================
 ===========================================================
-Finished Constraint Update	Time: Thu Jan 19 18:20:24 2017
+Finished Constraint Update	Time: Fri Jan 27 14:51:28 2017
 ===========================================================
 
 ------ Library Paths ------
@@ -59,9 +59,9 @@ PADPATH =  C:/Users/HEP/Documents/GitHub/PMTPulser/libraries/symbols/
 ------ Summary Statistics ------
 
 
-netrev run on Jan 19 18:20:23 2017
+netrev run on Jan 27 14:51:27 2017
    DESIGN NAME : 'SIMPLEPULSER'
-   PACKAGING ON 19-Jan-2017 AT 18:20:21
+   PACKAGING ON 27-Jan-2017 AT 14:51:24
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -88,6 +88,6 @@ netrev run on Jan 19 18:20:23 2017
  No oversight detected
  No warning detected
 
-cpu time      0:02:59
-elapsed time  0:00:02
+cpu time      0:02:31
+elapsed time  0:00:01
 

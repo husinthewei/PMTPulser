@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 12-Jan-2017 AT 16:21:22 }
+{ Packager-XL run on 13-Jan-2017 AT 16:13:12 }
 primitive '7806_L';
   pin
     'INPUT':

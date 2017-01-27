@@ -7,7 +7,7 @@
 			( 16.6 )
 		)
 		( revisionNumber
-			( logicalViewRevNum 143 )
+			( logicalViewRevNum 145 )
 			( physicalViewRevNum 0 )
 			( otherViewRevNum 0 )
 		)
@@ -602,6 +602,18 @@
 			)
 			( gate "Q1"
 				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i119" )
+			)
+			( gate "U11"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i123" )
+			)
+			( gate "U13"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i124" )
+			)
+			( gate "U15"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i125" )
+			)
+			( gate "U14"
+				( objectStatus "@pmtpulser_lib.simplepulser(sch_1):page1_i126" )
 			)
 		)
 	)

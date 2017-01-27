@@ -1,5 +1,5 @@
 FILE_TYPE = LIBRARY_PARTS;
-{ Packager-XL run on 13-Jan-2017 AT 16:13:12 }
+{ Packager-XL run on 27-Jan-2017 AT 14:50:47 }
 primitive '7806_L';
   pin
     'INPUT':
@@ -884,6 +884,23 @@ primitive 'LTC2050';
       JEDEC_TYPE='TSOT23-5';
       PHYS_DES_PREFIX='U';
       CLASS='IC';
+  end_body;
+end_primitive;
+primitive 'MOUNTHOLE_4P5MM';
+  pin
+    'PROBE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='MOUNTHOLE_4P5MM';
+      BODY_NAME='MOUNTHOLE_4P5MM';
+      JEDEC_TYPE='MOUNTHOLE_4P5MM';
+      PHYS_DES_PREFIX='U';
+      CLASS='IO';
   end_body;
 end_primitive;
 primitive 'RK09L-BASE';

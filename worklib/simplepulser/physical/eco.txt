@@ -3,29 +3,89 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Thu Jan 19 18:20:24 2017  |
+|                                                    Fri Jan 27 14:51:27 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  UNNAMED_1_CSMD0402_I104_B pins MOVED FROM this net (to net name listed on right)
-                                 C7.2            13620.0 10125.0
-                                                                         TSTPLS
-                                 R23.2           13617.7 10200.0
-                                                                         TSTPLS
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 U11.1                          
+                                 U13.1                          
+                                 U14.1                          
+                                 U15.1                          
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
-|                                                    Thu Jan 19 18:20:24 2017  |
+|                                                    Fri Jan 27 14:51:27 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from board drawing                                        |
+| COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R24                 RSMD0402-100,5%,0402  13725.0 10100.0
+ MOUNTHOLE_4P5MM
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  3                                              |
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Fri Jan 27 14:51:27 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U11                 MOUNTHOLE_4P5MM       
+ U13                 MOUNTHOLE_4P5MM       
+ U14                 MOUNTHOLE_4P5MM       
+ U15                 MOUNTHOLE_4P5MM       
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Fri Jan 27 14:51:27 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U11                            REUSE_ID       129
+ U13                            REUSE_ID       128
+ U14                            REUSE_ID       127
+ U15                            REUSE_ID       126
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Fri Jan 27 14:51:27 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U11.1                          PRIM_FILE      ./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt
+ U13.1                          PRIM_FILE      ./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt
+ U14.1                          PRIM_FILE      ./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt
+ U15.1                          PRIM_FILE      ./libraries/parts_lib/mounthole_4p5mm/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/PMTPulser/worklib/simplepulser/physical/pmtpulser.brd          |
+|                                                    Fri Jan 27 14:51:27 2017  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U11.1                          CDS_PINID      PROBE
+ U13.1                          CDS_PINID      PROBE
+ U14.1                          CDS_PINID      PROBE
+ U15.1                          CDS_PINID      PROBE
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  21                                             |
 |------------------------------------------------------------------------------|

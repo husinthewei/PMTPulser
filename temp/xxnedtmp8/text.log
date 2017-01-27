@@ -346,3 +346,15 @@ No netlisting errors found.
 
 INFO(SPCOCN-1640): writing occurrence data...
 INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.2 has been previously edited as drawing #2.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.1 has been previously edited as drawing #1.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.2 has been previously edited as drawing #2.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.3 has been previously edited as drawing #3.
+INFO(SPCOCN-1001): Component: I21 selected.
+zoom right; 
+INFO(SPCOCN-999): Signal: OUT_6 selected.
+INFO(SPCOCN-1001): Component: I23 selected.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.2 has been previously edited as drawing #2.
+INFO(SPCOCN-1443): SIMPLEPULSER.SCH.1.1 has been previously edited as drawing #1.
+INFO(SPCOCN-1001): Component: I104 selected.
+INFO(SPCOCN-1507): Adding version 1 of part CONN37_SCREWHOLES from library parts_lib

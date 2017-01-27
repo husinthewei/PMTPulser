@@ -1,6 +1,6 @@
 FILE_TYPE=PINLIST;
-{ Packager-XL run on 13-Jan-2017 AT 16:13:12 }
-TIME=' COMPILATION ON 13-Jan-2017 AT 16:13:12';
+{ Packager-XL run on 27-Jan-2017 AT 14:50:47 }
+TIME=' COMPILATION ON 27-Jan-2017 AT 14:50:47';
 primitive '7806_L';      body '7806_L';
     'INPUT':'(1)';
     'GROUND':'(2)';
@@ -111,6 +111,9 @@ primitive 'LTC2050';     body 'LTC2050';
     'IN+':'(3)';
     'IN-':'(4)';
     'V+':'(5)';
+end_primitive;
+primitive 'MOUNTHOLE_4P5MM';body 'MOUNTHOLE_4P5MM';
+    'PROBE':'(1)';
 end_primitive;
 primitive 'RK09L-BASE';  body 'RK09L';
     'NC1':'(1)';
