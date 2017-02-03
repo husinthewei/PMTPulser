@@ -1,2 +1,2 @@
-Add 4-40 screws to the corner of the board
-Add a ground plane below the regulator
+Add solder mask to a lot of areas on the top (and maybe bottom) layers to have access to gnd
+Add vias everywhere
