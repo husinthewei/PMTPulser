@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Jan 26 17:51:19 2017                      )
+(    Date/Time        : Thu Feb 09 16:34:08 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,6 +22,15 @@ Report methodology:
   - To suppress items in dangle report add the OK_DANGLE property to the via
     or connect line.
 
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  TSTPLS               VIA-1                (13685.00 10115.00) TOP/BOTTOM 
+  TSTPLS               VIA-1                (14130.00 10215.00) TOP/BOTTOM 
+  TSTPLS               VIA-1                (14670.00 10215.00) TOP/BOTTOM 
+  GND                  VIA                  (13720.00 10368.00) TOP/BOTTOM 
 
 
 << Antenna Vias >>
@@ -45,38 +54,16 @@ Report methodology:
   VCC                  VIA                  (13525.00 9875.00) TOP/BOTTOM 
   VCC                  VIA                  (13650.00 10275.00) TOP/BOTTOM 
   VCC                  VIA                  (13707.28 9907.28) TOP/BOTTOM 
-  GND                  VIA                  (12783.00 9956.00) TOP/BOTTOM 
-  GND                  VIA                  (12923.00 10573.00) TOP/BOTTOM 
-  GND                  VIA                  (12489.00 9820.00) TOP/BOTTOM 
-  GND                  VIA                  (13218.00 9982.00) TOP/BOTTOM 
-  GND                  VIA                  (14213.00 9900.00) TOP/BOTTOM 
-  GND                  VIA                  (13244.00 10190.00) TOP/BOTTOM 
-  GND                  VIA                  (13852.50 10603.50) TOP/BOTTOM 
-  GND                  VIA                  (14088.00 10700.00) TOP/BOTTOM 
-  GND                  VIA                  (12629.00 9649.00) TOP/BOTTOM 
-  GND                  VIA                  (13597.50 10632.50) TOP/BOTTOM 
-  GND                  VIA                  (13540.00 10350.00) TOP/BOTTOM 
-  GND                  VIA                  (13200.00 10650.00) TOP/BOTTOM 
-  GND                  VIA                  (13700.00 10325.00) TOP/BOTTOM 
-  GND                  VIA                  (13480.00 10320.00) TOP/BOTTOM 
-  GND                  VIA                  (13805.00 9980.00) TOP/BOTTOM 
-  GND                  VIA                  (14070.00 10280.00) TOP/BOTTOM 
-  GND                  VIA                  (12475.00 9875.00) TOP/BOTTOM 
-  GND                  VIA                  (12625.00 9825.00) TOP/BOTTOM 
-  GND                  VIA                  (14225.00 10650.00) TOP/BOTTOM 
-  GND                  VIA                  (14225.00 10600.00) TOP/BOTTOM 
-  GND                  VIA                  (14575.00 10450.00) TOP/BOTTOM 
-  GND                  VIA                  (14575.00 10400.00) TOP/BOTTOM 
-  GND                  VIA                  (14225.00 10400.00) TOP/BOTTOM 
-  GND                  VIA                  (14225.00 10150.00) TOP/BOTTOM 
-  GND                  VIA                  (14225.00 10100.00) TOP/BOTTOM 
-  GND                  VIA                  (14575.00 9950.00) TOP/BOTTOM 
-  GND                  VIA                  (14575.00 9900.00) TOP/BOTTOM 
-  GND                  VIA                  (13902.50 10603.50) TOP/BOTTOM 
-  GND                  VIA                  (13597.50 10684.50) TOP/BOTTOM 
+  TSTPLS               VIA-1                (13685.00 10115.00) TOP/BOTTOM 
+  TSTPLS               VIA-1                (14130.00 10215.00) TOP/BOTTOM 
+  TSTPLS               VIA-1                (14670.00 10215.00) TOP/BOTTOM 
   GND                  VIA                  (13720.00 10368.00) TOP/BOTTOM 
+  GND                  VIA                  (13140.00 9860.00) TOP/BOTTOM 
+  GND                  VIA                  (13140.00 9700.00) TOP/BOTTOM 
+  GND                  VIA                  (12880.00 9700.00) TOP/BOTTOM 
+  GND                  VIA                  (12880.00 9860.00) TOP/BOTTOM 
 
 << Summary >>
   Total dangling lines:       0
-  Total dangling vias:        0
-  Total antenna vias:        48
+  Total dangling vias:        4
+  Total antenna vias:        26
