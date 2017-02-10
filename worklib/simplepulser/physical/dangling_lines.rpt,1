@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Feb 09 16:34:08 2017                      )
+(    Date/Time        : Fri Feb 10 14:58:16 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -30,7 +30,6 @@ Report methodology:
   TSTPLS               VIA-1                (13685.00 10115.00) TOP/BOTTOM 
   TSTPLS               VIA-1                (14130.00 10215.00) TOP/BOTTOM 
   TSTPLS               VIA-1                (14670.00 10215.00) TOP/BOTTOM 
-  GND                  VIA                  (13720.00 10368.00) TOP/BOTTOM 
 
 
 << Antenna Vias >>
@@ -57,7 +56,6 @@ Report methodology:
   TSTPLS               VIA-1                (13685.00 10115.00) TOP/BOTTOM 
   TSTPLS               VIA-1                (14130.00 10215.00) TOP/BOTTOM 
   TSTPLS               VIA-1                (14670.00 10215.00) TOP/BOTTOM 
-  GND                  VIA                  (13720.00 10368.00) TOP/BOTTOM 
   GND                  VIA                  (13140.00 9860.00) TOP/BOTTOM 
   GND                  VIA                  (13140.00 9700.00) TOP/BOTTOM 
   GND                  VIA                  (12880.00 9700.00) TOP/BOTTOM 
@@ -65,5 +63,5 @@ Report methodology:
 
 << Summary >>
   Total dangling lines:       0
-  Total dangling vias:        4
-  Total antenna vias:        26
+  Total dangling vias:        3
+  Total antenna vias:        25

@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaacw12372.tmp                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Feb 10 15:40:39 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/PMTPulserGerbers' ...
+
+
+
+     'pmtpulser-1-4.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.0000    0.0000/  0.0000      PLATED        240
+            2.  30.0000    0.0000/  0.0000      PLATED          3
+            3.  32.0000    0.0000/  0.0000      PLATED         60
+            4.  35.0000    0.0000/  0.0000      PLATED          6
+            5.  39.3700    0.0000/  0.0000      PLATED          3
+            6.  55.0000    0.0000/  0.0000      PLATED          3
+            7.  86.6100    0.0000/  0.0000      PLATED          2
+            8. 112.0000    0.0000/  0.0000      PLATED          4
+            9. 150.0000    0.0000/  0.0000      PLATED          1
+
+     ---- Total holes:                                        322
+
+     ---- Total head travel:              10.40 feet (3.17 meters)
+
