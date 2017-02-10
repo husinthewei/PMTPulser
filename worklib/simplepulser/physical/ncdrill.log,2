@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : #Taaaaaa13784.tmp                             )
+(    Drawing          : #Taaaacw12372.tmp                             )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Feb 10 18:07:46 2017                      )
+(    Date/Time        : Fri Feb 10 15:40:39 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -39,7 +39,7 @@
  WARNING(SPMHMF-359): Data rounding errors may still be possible.
 
 
- Drill files being output to directory 'C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/PMTPulserGerbersBiggerHoles' ...
+ Drill files being output to directory 'C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/PMTPulserGerbers' ...
 
 
 
@@ -48,7 +48,7 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.  20.0000    0.0000/  0.0000      PLATED        228
+            1.  12.0000    0.0000/  0.0000      PLATED        240
             2.  30.0000    0.0000/  0.0000      PLATED          3
             3.  32.0000    0.0000/  0.0000      PLATED         60
             4.  35.0000    0.0000/  0.0000      PLATED          6
@@ -58,7 +58,7 @@
             8. 112.0000    0.0000/  0.0000      PLATED          4
             9. 150.0000    0.0000/  0.0000      PLATED          1
 
-     ---- Total holes:                                        310
+     ---- Total holes:                                        322
 
-     ---- Total head travel:              19.59 feet (5.97 meters)
+     ---- Total head travel:              10.40 feet (3.17 meters)
 

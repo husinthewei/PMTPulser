@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Feb 10 15:41:55 2017                      )
+(    Date/Time        : Fri Feb 10 18:08:51 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -50,7 +50,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
@@ -94,7 +94,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.05937                                  DARK 
@@ -130,7 +130,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.05937                                  DARK 
@@ -168,7 +168,7 @@ Results from parameter file ...
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
   CIRCLE     0.02200                                  DARK 
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
@@ -332,7 +332,7 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.02000                                  DARK 
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
@@ -378,7 +378,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.03400                                  DARK 
   CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 

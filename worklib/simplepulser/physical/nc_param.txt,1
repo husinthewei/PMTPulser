@@ -13,7 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      NO
-TAPE-FILE              C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/PMTPulserGerbers/pmtpulser.drl
+TAPE-FILE              C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/PMTPulserGerbersBiggerHoles/pmtpulser.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII

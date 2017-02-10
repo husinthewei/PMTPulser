@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : pmtpulser.brd                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Jan 13 17:38:06 2017                      )
+(    Date/Time        : Fri Feb 10 15:41:55 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -51,12 +51,14 @@ Results from parameter file ...
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
   CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06200                                  DARK 
   CIRCLE     0.08000                                  DARK 
   CIRCLE     0.11024                                  DARK 
   CIRCLE     0.16000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
   SQUARE     0.02500                     0.000 NO     DARK 
   RECTANGLE  0.02000     x 0.01700       0.000 NO     DARK 
   RECTANGLE  0.02000     x 0.02500       0.000 NO     DARK 
@@ -93,12 +95,14 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.11024                                  DARK 
   CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
 
      GND created.
 
@@ -127,12 +131,14 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05500                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06500                                  DARK 
   CIRCLE     0.11024                                  DARK 
   CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
 
      VCC created.
 
@@ -161,13 +167,16 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.01000                                  DARK 
   CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02200                                  DARK 
   CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
   CIRCLE     0.05937                                  DARK 
   CIRCLE     0.06000                                  DARK 
   CIRCLE     0.06200                                  DARK 
   CIRCLE     0.08000                                  DARK 
   CIRCLE     0.11024                                  DARK 
   CIRCLE     0.16000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
 
      BOTTOM created.
 
@@ -188,10 +197,10 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text composed 0 width line found at (12229.00 9757.00)
+    WARNING: 0 width line found at (12040.00 9470.00)
            ... using undefined line width of 5.00
 
-    WARNING: 0 width line found at (12250.00 9910.00)
+    WARNING: text composed 0 width line found at (12200.00 9750.00)
            ... using undefined line width of 5.00
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -213,6 +222,219 @@ Results from parameter file ...
      Silkscreen_Top created with warnings
 
 
+================================================================
+     PROCESSING FILM < Soldermask_Top >
+     TO FILE < C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/Soldermask_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: Null REGULAR-PAD specified for padstack PAD186H126 at (12150.00 9580.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60SQ36D at (12299.00 9691.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12300.00 9950.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12300.00 9825.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12300.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR2P8MM2P2D at (12311.02 10559.65).
+    WARNING: Null REGULAR-PAD specified for padstack PAD186H126 at (12150.00 10870.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60CIR36D at (12499.00 9691.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60CIR36D at (12399.00 9691.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12400.00 9950.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12400.00 9825.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12400.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR1P5MM1D at (12498.03 10264.37).
+    WARNING: Null REGULAR-PAD specified for padstack CIR1P5MM1D at (12399.61 10264.37).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12675.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12575.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack CIR1P5MM1D at (12596.46 10264.37).
+    WARNING: Null REGULAR-PAD specified for padstack CIR2P8MM2P2D at (12685.04 10559.65).
+    WARNING: Null REGULAR-PAD specified for padstack HOLE150 at (13007.00 9763.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60CIR36D at (13021.00 10549.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD80CIR55D at (13007.00 10338.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD80CIR55D at (12907.00 10338.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12975.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (12875.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13275.00 10350.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13275.00 10450.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60CIR36D at (13121.00 10449.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD80CIR55D at (13107.00 10338.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13250.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13150.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD60CIR36D at (13121.00 10649.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13526.00 9774.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13474.00 9774.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13526.00 9826.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13526.00 10026.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13526.00 9974.00).
+    WARNING: Null REGULAR-PAD specified for padstack SMD20_17 at (13474.00 9974.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13500.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13400.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13650.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13750.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (13900.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14000.00 10750.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 9775.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 9775.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 9975.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 9975.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 9875.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 9875.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10275.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10275.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10175.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10175.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10475.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10475.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10375.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10375.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10675.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10675.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15050.00 10575.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (14950.00 10575.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 9775.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 9975.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 9875.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10275.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10175.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10475.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10375.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10675.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15250.00 10575.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD186H126 at (15550.00 9580.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 9775.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 9975.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 9875.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10275.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10175.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10075.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10475.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10375.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10675.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD62CIR32D at (15350.00 10575.00).
+    WARNING: Null REGULAR-PAD specified for padstack PAD186H126 at (15550.00 10870.00).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
+  CIRCLE     0.05937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.09500                                  DARK 
+  CIRCLE     0.11024                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
+  SQUARE     0.02500                     0.000 NO     DARK 
+  SQUARE     0.03000                     0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.04500     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.03000       0.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.06800       0.000 NO     DARK 
+
+
+
+================================================================
+     PROCESSING FILM < Soldermask_Bottom >
+     TO FILE < C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/Soldermask_Bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02600                                  DARK 
+  CIRCLE     0.04200                                  DARK 
+  CIRCLE     0.05937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.09500                                  DARK 
+  CIRCLE     0.11024                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
+
+     Soldermask_Bottom created.
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/Users/HEP/Documents/GitHub/PMTPulser/worklib/simplepulser/physical/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.05937                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06200                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.11024                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  CIRCLE     0.18600                                  DARK 
+  SQUARE     0.02500                     0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.02600     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.03900     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02800       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.02500       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.05500       0.000 NO     DARK 
+
+     FAB created.
+
+
 ------------------------------------------------------
  SUMMARY:
         TOP created.
@@ -220,5 +442,7 @@ Results from parameter file ...
         VCC created.
         BOTTOM created.
         Silkscreen_Top created with warnings
+        Soldermask_Bottom created.
+        FAB created.
 
  ARTWORK finished
