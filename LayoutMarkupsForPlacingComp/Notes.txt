@@ -1,0 +1,3 @@
+R-17 does not have a marker on the silkscreen
+C-32 is actually C-10
+BF182 on silkscreen is actually BFR182
