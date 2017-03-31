@@ -1,0 +1,70 @@
+*
+*******************************************
+*
+*BAV70
+*
+*NXP Semiconductors
+*
+*High-speed switching diode 
+*
+*
+*
+*
+* 
+*
+*
+*
+*
+*
+*
+*VRRM = 100V
+*IFRM = 450mA @ tp = 
+*trr  = 4ns
+*
+*
+*Package pinning does not match Spice model pinning.
+*Package: SOT23
+*
+*Package Pin 1: Anode          D1 
+*Package Pin 2: Anode          D2
+*Package Pin 3: common Cathode 
+*
+*
+*
+*Simulator: SPICE2
+*
+*******************************************
+*#
+* Please note: This device is an array and the
+* symbol has to be placed twice on the schematic
+*
+.SUBCKT BAV70  1 2 
+* 
+* The resistor R1 and the diode D2 do not reflect 
+* physical devices.  Instead they
+* improve modeling in the reverse 
+* mode of operation.
+*
+R1 1 2 5E+009   
+D1 1 2 BAV70
+*
+.MODEL BAV70 D 
+ + IS = 3.2E-009 
+ + N = 1.85      
+ + BV = 125.9    
+ + IBV = 2.906E-007      
+ + RS = 1.1      
+ + CJO = 4.957E-013      
+ + VJ = 0.54     
+ + M = 0.03      
+ + FC = 0.5      
+ + TT = 0
+ + EG = 1.1      
+ + XTI = 3       
+ .MODEL DIODE2 D 
+ + IS = 3E-013   
+ + N = 1.1       
+ + RS = 280      
+ .ENDS
+*
+

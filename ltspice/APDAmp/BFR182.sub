@@ -1,0 +1,60 @@
+* BFR182 SPICE MODEL    
+** Entered from Siemens DataSheet  2/14/2013   FMN
+* : BFR182
+* 1: COLLECTOR; 2: BASE; 3: EMITTER
+.SUBCKT BFR182  1 2 3
+Q1 6 5 7 7 BFR182
+* SOT323 parasitic model
+               Lb  4 5 .5n 
+               Le  7 8 .67n
+               L1  2 4 .85n
+               L2  1 6 .5n
+               L3  3 8 .5n
+              Ccb  4 6 84f
+              Cbe  4 8 73f
+              Cce  6 3 165f
+*
+*                                     
+* Filename:    BFR182                                   
+*
+.MODEL  BFR182   NPN
++              IS = 4.8f
++              BF = 84.1
++              NF = 0.566
++             VAF = 21.7
++             IKF = 0.144
++             ISE = 8.4f
++              NE = 0.91
++              BR = 10
++              NR = 0.548
++             VAR = 2.26
++             IKR = 0.04
++             ISC = 5.94f
++              NC = 0.564
++              RB = 2.8
++             IRB = 0.072m
++             RBM = 3.42
++              RE = 2.19
++              RC = 1.82
++              EG = 1.11
++             XTI = 3
++             CJE = 8.86f
++             VJE = 1.04
++             MJE = 0.408
++              TF = 22p
++             XTF = 0.43
++             VTF = 0.346
++             ITF = 0.006
++             CJC = 490f
++             VJC = 1.01
++             MJC = 0.31
++              TR = 1.75n
++             MJS = 0
++             PTF = 0
++             CJS = 0
++             XTB = 0
++             FC  =0.64
++            XCJC =.193
++             VJS =.75
++            TNOM = 300 
+.ENDS  BFR182
