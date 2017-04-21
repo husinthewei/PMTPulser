@@ -1,0 +1,23 @@
+Circuit: * C:\LT_SpiceLib\APDAmp\FastCE_Amp.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Aug 01 21:30:55 2013
+Total elapsed time: 0.098 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 670
+traniter = 657
+tranpoints = 329
+accept = 252
+rejected = 77
+matrix size = 83
+fillins = 114
+solver = Normal
+Thread vector: 8.5/7.7[3] 17.8/9.2[3] 1.8/2.0[1] 1.0/2.7[1]  2592/500
+Matrix Compiler1: 12.5 KB object code size  8.5/3.4/[2.3]
+Matrix Compiler2: 9.14 KB object code size  2.5/3.0/[1.9]
+
+
