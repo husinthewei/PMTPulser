@@ -1,3 +1,6 @@
 R-17 does not have a marker on the silkscreen
-C-32 is actually C-10
+C-32 on the silkscreen is actually C-10
 BF182 on silkscreen is actually BFR182
+BFU730f pins oriented incorrectly. Rotate it 180 degrees.
+Voltage divider resistor values are wrong. (R8 now 50 and R9 should be 1k)
+R10 and R16 are now 250

@@ -1,0 +1,83 @@
+Circuit: * /Users/weiwei/Documents/Github/PMTPulser/ltspice/SelfContained_Pulser_Divider.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.41348e-07
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 18.9394%
+vernier = 0.0625
+Source Step = 20.0758%
+Source Step = 21.9697%
+Source Step = 23.8636%
+Source Step = 25.7576%
+Source Step = 27.6515%
+vernier = 0.09375
+Source Step = 30.3977%
+Source Step = 33.2386%
+Source Step = 36.0795%
+Source Step = 38.9205%
+Source Step = 41.7614%
+vernier = 0.140625
+Source Step = 45.7386%
+Source Step = 50%
+Source Step = 54.2614%
+Source Step = 58.5227%
+Source Step = 62.7841%
+vernier = 0.210938
+Source Step = 68.5369%
+Source Step = 74.929%
+Source Step = 81.321%
+Source Step = 87.7131%
+Source Step = 94.1051%
+vernier = 0.316406
+Source stepping succeeded in finding the operating point.
+
+.step setcur=1
+.step setcur=1.5
+.step setcur=2
+.step setcur=2.5
+.step setcur=3
+.step setcur=3.5
+.step setcur=4
+
+Date: Wed May 10 13:04:00 2017
+Total elapsed time: 4.582 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4251
+traniter = 2386
+tranpoints = 1179
+accept = 1127
+rejected = 52
+matrix size = 126
+fillins = 152
+solver = Normal
+Matrix Compiler1: 17854 object code size  3.4/2.3/[1.2]
+Matrix Compiler2: off
+
