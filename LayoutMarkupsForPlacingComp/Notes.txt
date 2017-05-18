@@ -1,6 +1,12 @@
+NOTE: All R and C numbers are based on the Cadence 
+
 R-17 does not have a marker on the silkscreen
 C-32 on the silkscreen is actually C-10
 BF182 on silkscreen is actually BFR182
 BFU730f pins oriented incorrectly. Rotate it 180 degrees.
 Voltage divider resistor values are wrong. (R8 now 50 and R9 should be 1k)
 R10 and R16 are now 250
+C7 is now 440 pF and R23 is now 60 ohms (previously 100 pF and 200 ohms)
+Reset of LMC555 must now be connected to VCC
+R15 is now 120
+There is now a second BFR182 on top of the first (with collector and base connected) and a 39 ohm resistor to ground for the emitter
